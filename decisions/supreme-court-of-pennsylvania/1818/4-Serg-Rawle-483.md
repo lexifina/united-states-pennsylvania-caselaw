@@ -1,7 +1,7 @@
 ---
 court: "Supreme Court of Pennsylvania"
 decided: "1818-10-12"
-citations: ["4 Serg. & Rawle 483", "4 Serg. & Rawle 480"]
+citations: ["4 Serg. & Rawle 483"]
 reporter: "serg-rawl"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,6 @@ parties: ["Duncan against M‘Cullough administrator of Findley."]
 source_url: "https://static.case.law/serg-rawl/4/cases/0483-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1801952
-cites_cases: ["2 Bay, 217", "2 Caines' Rep. 127", "3 Johns. 207", "4 Mass. Rep. 341", "4 Mass. Rep. 45", "5 Mass. Rep. 170", "9 Johns. 121"]
 ---
 
 # Duncan v. M'Cullough
