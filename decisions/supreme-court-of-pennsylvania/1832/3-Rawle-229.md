@@ -1,7 +1,7 @@
 ---
 court: "Supreme Court of Pennsylvania"
 decided: "1832-01-09"
-citations: ["3 Rawle 229", "3 Rawle 243"]
+citations: ["3 Rawle 229"]
 reporter: "rawle"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["Case of SAMUEL WALKER'S Estate."]
 source_url: "https://static.case.law/rawle/3/cases/0229-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1822534
-cites_cases: ["14 Serg. & Rawle, 397", "2 Yeates, 54", "6 Mass. R. 156", "6 Mass. Rep. 149", "6 Mass. Rep. 151"]
+cites_cases: ["2 Yeates, 54", "6 Mass. R. 156", "6 Mass. Rep. 149", "6 Mass. Rep. 151"]
 ---
 
 # Case of Walker's Estate
