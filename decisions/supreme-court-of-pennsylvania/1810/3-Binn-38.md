@@ -1,0 +1,25 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1810-06-12"
+citations: ["3 Binn. 38"]
+reporter: "binn"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Ye ates J. of the same opinion.", "Br.ackenr.xdge J. of the same opinion."]
+parties: ["Conner against the Commonwealth."]
+source_url: "https://static.case.law/binn/3/cases/0038-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1791116
+---
+
+# Conner v. Commonwealth
+
+## Majority (Tilghmau C. J.)
+
+Tilghmau C. J.
+The plaintiff in error was indicted in the court of Oyer and Terminer of Northumberland county, for refusing to execute a warrant issued by Thomas Cooper, esq. president of the court of Common Pleas of the said county, for the arrest of a certain yacob Langs, of the said county. The warrant was set forth at large in the indictment, and it appeared on the face of it, that it was issued without any previous oath or affirmation, on the following ground — “ that “ it appeared to the judge from common report, that there “ was strong reason to suspect the said Langs of having “ knowingly uttered as true and genuine, certain false and “ forged notes, purporting to be notes of the Farmers and “ Mechanics’ bank of Philadelphia, and that the said Langs “ was likely to depart from, and quit the county of North- “ umberland, and retreat to parts unknown, before the wit- “ nesses to said uttering could be duly summoned and ap- “ pear before the said judge, to enable him to issue a war- “ rant on their testimony on oath.”
+Judge Cooper acted with great candor and propriety in stating on the face of the warrant, that it was issued without oath, and there is no doubt but he was actuated solely by the desire of preventing the escape of a criminal. The question is whether this warrant does not appear to be illegal, from matter contained in the body of it? Of such matter the constable had a right to judge; and if it was illegal, he was not bound to execute it.
+It is declared by the 8th section of the 9th article of the constitution of Pennsylvania, that no warrant shall be issued to seize any person, without probable cause supported by oath or affirmation. These expressions are very plain and very cpmprehensive. But it has been contended that the public safety requires that they should be subject to some exceptions; that in cases of necessity the oath may be dispensed with; and that the magistrate who issues the warrant, must be the judge of that necessity. It appears to me, that if this be the true construction, the provision in the constitution is a dead letter; because in every instance, the magistrate who issued the warrant, would say that he thought it a case of necessity. It is true, that by insisting on an oath, felons may sometimes escape. This must have been very well known to the framers of our constitution; but they thought it better that the guilty should sometimes escape, than that every individual should be subject to vexation and oppression. It is unnecessary to consider whether there is no possible case, in which a warrant may be issued without oath, a case for instance, in which a crime is committed under the eye of a magistrate; or whether in cases of great and imminent public danger, the solus populi will not fovm an exception to the general rule. When such cases arise it will be time enough to decide them. It is dangerous for a court to lay down general propositions, from which unforeseen consequences may be drawn. I shall therefore confine my opinion to the warrant set forth in the indictment. It was commonly reported that Langs was guilty of uttering counterfeit notes; this common report came to the ears of the judge, and on that he issued his warrant. The constitution says a warrant shall not be issued without oath, which is more than common report. If the constitution did not mean, that a man charged with or suspected of a particular offence, should not be arrested, unless some person swore either that he believed him to be guilty, or to some facts from which it might be reasonably inferred that he was guilty, then I confess I can see no meaning in it. As for the necessity set forth in the warrant, that is to say the probability that the criminal might escape, I cannot think that it is of that nature, which can form an exception to the constitution; even Supposing, (which I do not affirm) that any necessity can form an exception. I am therefore of opinion, that the warrant was illegal, on the face of it, and the defendant not bound to execute it; consequently when he refused to execute it, he was guilty of no offence. But the refusal to execute the warrant is the only matter charged against the defendant in the indictment. Therefore, although the jury have convicted him of the matter charged, it does not appear on the record that he has been convicted of any crime. It follows, that the judgment of the court of Oyer and Terminer was erroneous and must be reversed.
+Ye ates J. of the same opinion.
+Br.ackenr.xdge J. of the same opinion.
+Judgment reversed.
