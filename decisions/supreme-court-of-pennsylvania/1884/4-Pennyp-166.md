@@ -1,0 +1,26 @@
+---
+court: "Supreme Court of Pennsylvania"
+docket: "350"
+decided: "1884-03-20"
+citations: ["4 Pennyp. 166"]
+reporter: "pennyp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Merour, C. J.; Gordon, Paxson, Trunkey, Sterrett, Green, and Clark, JJ."]
+parties: ["Hall v. Coburn."]
+source_url: "https://static.case.law/pennyp/4/cases/0166-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 223036
+cites_cases: ["9 Watts, 311"]
+---
+
+# Hall v. Coburn
+
+## Majority (Trunkey, J.:)
+
+the decision of the Court was delivered by
+Trunkey, J.:
+It is admitted that the parties contracted for the sale and purchase of the land in controversy, but they differ respecting the price and kind of contract. The plaintiff avers the contract was oral; that he was to convey upon payment of all the purchase money, and that Hall was to give his share of his father’s estate and the further sum of one hundred dollars. It appears that, at the date of the making of the contract, the estate was.merely the purchase money of land sold by the administrator at orphans’ court sale, and, by arrangement, Coburn was to take the place of the bidder; some debts and expenses were to be paid out of that money. On May 1, 1871, Coburn gave his note to the administrator, which was not to be negotiable, and not to be collected until confirmation by the court of the final administration account. The defendant alleges there was a written agreement that Coburn would convey the land to him soon as he received his deed from the administrator; that defendant would take care, of the family and make the land a home for them, and give his share of his father’s estate, whatever it might be when settled, to Coburn. Whichever of the alleged contracts is the true one, the case is simple. No trust1 relation is involved. Upon the verity of Coburn’s allegation, he is entitled to one hundred dollars and Hall’s share of the estate, and is not bound to make a deed till payment. If the contract be as alleged by Hall, he was to give nothing but his share in the estate, and Coburn was bound to convey to Hall soon as he got his deed from the administrator. Coburn already had the share in his hands, and was not bound to pay it to the administrator until settlement of his account. The contract to give the share was virtually executed. If the administrator collected the note, Coburn was entitled to receive from him the share he purchased from Hall. There is no complaint that Hall did not give the care and home to the family as he agreed, and they were interested in that part of the contract, not Coburn. It is unlikely that Coburn would have been allowed to take the place of the bidder had he not made the contract to sell this part of the land to Hall. The contract imposed no duty on Hall respecting the settlement of the estate— he has not received any money, directly or indirectly, from the administrator on the share he gave to Coburn. If it has been left in the hands of the sheriff, so far as shown, it is neither merit nor fault in Hall; had lie taken it, he would have been in fault. Then, if the contract was made, as Hall alleges, and he has not in any way hindered Coburn from receiving and realizing the share of the estate, he owes Coburn nothing.
+The amount of money naujed in the verdict to be paid to release the land indicates that the jury found the contract as alleged by defendant, and that he had performed his part. If so, it is unjust that he be made to pay costs. The plaintiff should have delivered him a deed for the land instead of suing him. But if the jury found that he was to pay one hundred dollars, besides the share of the estate, the plaintiff was entitled to a verdict for the land, to be released upon payment of the amount due and costs.
+The jury were instructed that, under all the evidence in the case, the plaintiff was entitled to recover the laud, to be released upon the payment by defendant of the purchase price therefor, or any part thereof, and costs. That was correct, if the defendant owed any purchase money. Upon the facts alleged by the plaintiff, upon the evidence alone adduced by him, there is no error in the instructions set out in the third, fourth, and fifth assignments. Upon the facts alleged by the defendant, the plaintiff had no right to a verdict for the land. How could the jury find that the defendant should pay the amount of the share of the estate, if he had abstained from control over, or interference with, or receipt of that share after the making of the contract ? As the case comes, no evidence appears to warrant inference that he exercised any control over the share of the estate after the contract. If the administrator or other persons caused the note to be collected by the sheriff, that of itself did not obligate the defendant to ascertain and receive the distributive share and pay it over to the plaintiff. The last three assignments must be sustained, for the instructions should have been properly adapted to whichever condition of facts the jury were warranted in finding from the testimony. Under proper instructions they might have found a verdict for the defendant.
+Judgment reversed and venire facias de novo awarded.
