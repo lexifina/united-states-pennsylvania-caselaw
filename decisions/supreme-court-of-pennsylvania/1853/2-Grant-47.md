@@ -1,7 +1,7 @@
 ---
 court: "Supreme Court of Pennsylvania"
 decided: "1853-10-12"
-citations: ["2 Grant 47", "2 Grant 60"]
+citations: ["2 Grant 47"]
 reporter: "grant"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["Wills et al. versus Kane."]
 source_url: "https://static.case.law/grant/2/cases/0047-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 227726
-cites_cases: ["1 J. 405", "11 Mass. 364", "12 Mass. 466", "15 Wend. 184", "2 Aik. 41", "2 H. 105", "2 N. H. 105", "3 Wh. 551", "4 Johns. 193", "6 H. 488", "6 Wh. 216", "6 Wh. 217", "6 Wh. 218"]
+cites_cases: ["1 J. 405", "2 H. 105", "3 Wh. 551", "6 H. 488", "6 Wh. 216", "6 Wh. 217"]
 ---
 
 # Wills v. Kane
