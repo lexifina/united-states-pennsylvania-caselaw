@@ -1,0 +1,23 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1873-05-17"
+citations: ["1 Foster 161"]
+reporter: "foster"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CONNERY v. BROOKE."]
+source_url: "https://static.case.law/foster/1/cases/0161-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6760560
+---
+
+# Connery v. Brooke
+
+## Majority (Williams, J.)
+
+Opinion delivered May 17th, 1873, by
+Williams, J.
+We are of the opinion that the court below erred in holding that by ‘ ‘the free use, right and privilege of a passage-way, ’ ’ we can only understand a way unimpeded by any méans whatever; and that, as a necessary consequence, a gate, hung across such way at its intersection with the turnpike, is a wrongful obstruction, for which'an action will lie. Undoubtedly, as a general rule, the words of a grant are to be understood in their ordinary and natural sense, and if there is any doubt as to their meaning, they are to be taken most strongly against the grantor. But" they are to receive a reasonable'construction, and one that will accord with the intention of the parties; and in order to ascertain their intention, the court must look at the circumstances under which the grant was made; Cox v. Freedly, 9 Casey, 124. At the time of the grant in this case, February 26th, 1858, there was a gate across the passage-way at its intersection with the turnpike, and it continued there with the exception of the short interval it was out of repair, until the institution of this action in September, 1869. What, then, was the intention of the parties, and what did they mean by “the free use, right and. privilege of a passage-way ten feet'in width?” Did they mean that it should be an open passage-way into the-turnpike, without any gate at its intersection ? If so, why was not the gate removed as soon as the grant was made ? Why was it allowed to remain ?' The fact that the gate was there at the date of the grant, and that it was allowed to remain, cannot change the plain meaning of the words of the1 grant, but it may help us to ascertain the intention of the parties, if there1 be any doubt as to their meaning. Contemporánea expositio est optima ei fortissima in lege. Undoubtedly, the plaintiff was entitled to the free usé, right and privilege of a passage-way ten feet in width, with free ingress and egress at all times, for this is the language of the grant. But what is meant by the free use of a passage-way? Does it necessarily mean that there shall be no gate or door hung across it, or if there is, that it shall always be kept open ? Has not the owner of a passage-way its free use, if he hangs a gate across it at its intersection with the street ? If I grant the free use, right and privilege of the hall of my house, with free ingress and egress at all times, must I take off the door leading into it, or keep it wide open in order that the grantee may have the free use of it ? Or can he not have its free use if he can enter it by opening the door whenever he chooses ? Without doubt I cannot unreasonably obstruct his use of it, but if the door amounts practically to little or no inconvenience, it seems to me that it is not necessarily a wrongful obstruction. Free is a relative term when applied to the use of a thing. It does not follow that I have not the free use of a room, because I have to open a door in order to get into it; nor does it follow that I have not the free use of an alley, because I have to open a gate to go in and out of it. A gate may be so placed as to be a practical and unreasonable obstruction to the free use of a passage-way; and it may be so constructed and placed as not to amount to any practical obstruction to its use.
+Whether the gate in this case amounted to a wrongful obstruction, was, therefore, a question of fact for the jury. If it was not a practical hindrance, and, under the circumstances, an unreasonable obstruction to the plaintiff’s use of the passage-wa}*-, then it was not a wrongful or illegal obstruction, for which an action will lie.
+But the court was right in holding that the judgment in the action of trespass, brought by the defendent against the plaintiff, for tearing down and breaking the gate, is no bar to the present action. It was for a different cause of action, and did not necessarily involve the defendant’s right to keep up the gate. The plaintiff may have been guilty of trespass in breaking it down, though it is an obstruction to his free use of the passage-way.
+Judgment reversed, and a venire facias de novo awarded.
