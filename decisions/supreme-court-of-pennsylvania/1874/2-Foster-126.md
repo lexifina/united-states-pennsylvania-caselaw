@@ -1,0 +1,33 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1874-03-23"
+citations: ["2 Foster 126"]
+reporter: "foster"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BURK’S APPEAL."]
+source_url: "https://static.case.law/foster/2/cases/0126-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6760199
+cites_cases: ["1 Grant 254", "2 Grant 103", "7 Watts 107"]
+---
+
+# Burk's Appeal
+
+## Majority (Mercur, J.)
+
+Opinion delivered March 23, 1874, by
+Mercur, J.
+This bill was filed to enforce performance of an agreement in writing made by the appellant, to sell and convey to the appellee certain lands in fee simple, clear of all incumbrances. It appears there was an incumbrance of a small sum on the land in favor of the widow and heirs of a former owner. This ■was unknown to the appellee at the time the contract was executed. The incumbrance still remains
+The general rule is well settled that the purchaser, if he chooses, is entitled to have the contract specifically performed, so far as the vendor-can perform it, and to have an abatement out of the purchase-money, or compensation, for any deficiency in the title, quantity, quality, description, or other matters touching the estate. Story’s Equity, § 779. This-incumbrance comes within the general rule. So far, then, as the court below directed the amount of that incumbrance to be deducted from the-contract price we discover no error.
+The important question in the case arises under other facts-. If appears; that the appellant, at the time of the execution of the contract, had a wife,, which fact was then known to the appellee ; that she is still living and declines to join in the execution of a deed for a conveyance of the land.. The master reported, and the court below decreed, that the appellant execute a deed in fee simple of the land, but that one-third of the purchase-money be withheld until the death of the wife, or until her right of dower should be released.
+Thus the question is presented whether in case of the refusal of a wife-to join in a deed with her husband conveying his land, in pursuance of his contract, the purchaser may have specific performance so far as the husband is concerned, and be indemnified against the contingent claim of dower of his wife, by retaining a portion of the purchase-money.
+When the contract was executed by the appellant it was suggested to-him that his wife should also sign it. He replied, in substance, that it was unnecessary, as she was a woman who never meddled with his business. That she allowed him to do as he pleased in such matters, and would do whatever he should say. Afterwards, upon the same day, the appellant informed his wife what he had done. She thereupon declared she would not sign the deed, and has continued to persist in that refusal-
+The master has found that-no evidence was given to satisfy him that the wife withheld her consent through collusion with her husband.
+The wife, then, has not said or done anything which compels her to iunite in the fulfilment of her husband’s contract. She has not executed .and duly acknowledged any written instrument by which she is bound, as .the wife had done in Dankel v. Hunter and Wife, n P. F. Smith, 382. Nothing less than that would bind her. Glidden v. Stenpler, 2 P. F. Smith 400. The letter and policy of the law forbid a wife to convey her interest in land otherwise than by the exercise of her own free and untrammeled will. A purchaser by contract from her husband must be presumed to know this essential requisite, and therefore that he takes the risk of the wife uniting in the deed, or of his common law right of action for ■damages against the husband. It may be answered that the appellee does not ask for a decree that the wife join in the deed, but only that one-third ■of the purchase-money be retained to indemnify the vendee against her .contingent claim, and that therefore her free will is not constrained.
+The specific performance of a contract in equity is of grace, not of .■right. It rests in the sound discretion of the chancellor. In an action -of ejectment by a vendee against a vendor to compel the specific performance of a contract for the sale of land, the plaintiff cannot recover, if the defendant be a married man, and his wife refuses to sign the deed. Clark v. Seiver, 7 Watts 107; Hanna v. Phillips, 1 Grant 254 Weller v. Weyard, 2 Grant 103.
+It was said by Gibson, C. J., in Clark v. Seiver. supra : “It seems to ¡be at last settled on -principles of policy and humanity, that equity stirs •mot to enforce a contract which involves in it a wife’s volition in regard to irer property; and it seems strange to us now, that courts of chancery .■should ever have hesitated about it. Contrary to the benign spirit of the -common law, the avowed purpose of process of contempt against the husband is to extort a conveyance from her affection or from her fear. ’ ’
+It must now be considered the settled law of this commonwealth, that ^specific performance of an agreement to sell land will not be decreed -against a vendor who is a married man, and whose wife refuses to join in ■the conveyance so as to bar her dower, unless the vendee is willing to pay ■the full purchase-money, and accept the deed of the vendar without his his wife joining therein. Sailer v. Reisz, not yet reported. In giving the ■opinion of the court in that case, it was well said by Mr. Justice Shars-wood, “the same sound policy which forbids a decree for the execution of a •deed by the husband, to be enforced by his imprisonment if he cannot obey, prevents any decree looking to compensation, abatement, or Indemnity.”
+The decree of the court below must, therefore, be reversed.
+Inasmuch, however, as upon the argument the counsel for the appellee •expressed a desire to accept a deed from the appellant alone, rather than have no decree in his favor, we will send the case back in order that such .a decree may be made.
+Decree reversed, and record remitted, that a decree may be entered •conformably to this opinion, and the appellee is directed to pay the rosls «of this appeal.
