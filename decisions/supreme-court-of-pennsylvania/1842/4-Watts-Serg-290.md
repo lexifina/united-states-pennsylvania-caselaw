@@ -1,0 +1,24 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1842-09"
+citations: ["4 Watts & Serg. 290"]
+reporter: "watts-serg"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Nickle against Baldwin."]
+source_url: "https://static.case.law/watts-serg/4/cases/0290-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1856496
+cites_cases: ["1 Serg. & Rawle 477", "10 Watts 249", "12 Serg. & Rawle 275", "2 Dall. 364", "2 Yeates 217", "3 Watts 305", "4 Serg. & Rawle 249", "5 Serg. & Rawle 117"]
+---
+
+# Nickle v. Baldwin
+
+## Majority (Sergeant, J.)
+
+The opinion of the court was delivered by
+Sergeant, J.
+— 1. The defendant, to establish his set-off, offered his book of original entries, charging the plaintiff with certain logs delivered. He admitted that there had been an agreement made between him and the plaintiff, that these logs were to be sawed on the shares at the plaintiff’s mill, and offered his books, not to show the agreement or the value of the logs, but the quantity of logs delivered. The competency of such evidence has been lately decided upon in Lonergan v. Whitehead, (10 Watts 249), where it was held that a party’s book of original entries is not evidence of the delivery of goods under a previous contract for their delivery. By a special agreement of this kind, the transaction is taken out of the usual course of buying and selling, and the performance of the contract by one, and the breach of it by the other, are susceptible of proof by the usual kinds of evidence. No reason of necessity or convenience exists for resorting to this peculiar kind of evidence, whether it be to establish the quantity of the article furnished, or any other ingredient in the party’s case. We, therefore, think the evidence was properly overruled by the court below.
+2 and 3. The second and third bills of exception raise the question, whether the defendant could set-off his demand against the plaintiff' for a violation of the plaintiff’s contract to saw these logs on the shares. The ground on which it is objected to is, that it is a demand for unliquidated damages, sounding in tort. It is possible that as the defendant goes on to aver, that the plaintiff suffered the logs to rot on his hands, and finally floated them off down the creek, and appropriated the rest to his own use, he might, in trover or some other similar form of action, have claimed damages for these acts as tortious, and if the circumstances of the case justified it, might have recovered damages even beyond the value of the logs and interest, and that such a demand would not be the subject of defalcation or set-off. But the defendant also has a remedy in assumpsit for a breach of the contract of the plaintiff to saw these logs on the shares; and in such an action, the damages are, in a certain sense, liquidated; that is to say, there is a measure within which they must be restrained. For the defendant would not be permitted, in an action of assumpsit for the breach of the contract, to recover more than the loss he had sustained by*that breach, which would be the value of his share of the logs sawed and delivered within a reasonable time, according to the contract. In such action he waives the tort, and merely demands to be placed where he would have been had the contract been performed. He claims damages for non-feasance, for nonperformance of an express contract, not for misfeasance in converting the logs to the plaintiff’s own use, or floating them off so as to be destroyed. This distinction is adverted to in Steigleman v. Jeffries, (1 Serg. & Rawle 477), and seems founded in reason and justice. The defendant, then, by claiming this set-off, may be considered as waiving the tort, and demanding merely damages in assumpsit, amounting to the value which the defendant’s share of the logs would have yielded to him if sawed and delivered according to the agreement. It is a case of damages arising ex con: tractu, capable of liquidation by a legal standard, and therefore falling within the defalcation Act, as well as within the express language of the 7th section of the Act of 20th March 1810, by which the defendant is required in a suit before a justice of the peace, on pain of being for ever barred, to set-off his demand, whether founded on bond, note, penal or single bill, writing obligatory,book account, or damage on assumption.
+This section, however, further requires that the damages claimed shall not exceed the sum of $ 100. Whether that was the case here, has been nowhere stated, either in the record or in the arguments of counsel. We think it but fair to presume it may have been within that sum, and to remit the case for another trial.
+Judgment reversed, and a venire facias de novo awarded.
