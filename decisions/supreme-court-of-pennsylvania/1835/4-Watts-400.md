@@ -1,0 +1,25 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1835-09"
+citations: ["4 Watts 400"]
+reporter: "watts"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Gray against Donahoe."]
+source_url: "https://static.case.law/watts/4/cases/0400-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1842804
+cites_cases: ["1 Bibb 461", "1 Dall. 124", "1 Ohio Rep. 194", "10 Serg. & Rawle 94", "19 Johns. Rep. 144", "2 Dall. 123", "2 Dall. 133", "3 Binn. 135", "3 Dall. 505", "9 Johns. 120", "9 Johns. Rep. 120"]
+---
+
+# Gray v. Donahoe
+
+## Majority (Sergeant, J.)
+
+The opinion of the Court was delivered by
+Sergeant, J.
+—One essential quality of a negotiable note is, that it be for the payment of money. If it be for the payment or delivery . of any other kind of property, however valuable, it stands on the footing of an ordinary contract, not possessing the characteristics of a negotiable instrument, and therefore incapable of transfer by blank indorsement, so as to render the maker or indorser liable to the holder. The question therefore is, whether a promissory note payable “ in current bank notes,” is to be considered as a note for the payment of money. On this point there have been contradictory decisions in the courts of different states, but we are of opinion that it is not so to be considered.
+No principle is better established, nor more necessary to be maintained, than that bank notes are not money, in the legal sense of the word. They are not a legal tender as money, either in the ordinary transactions of business, or in the collection of debts by legal process. Coins struck at the mint, or aulhorized by act of congress, are alone lawful money. They possess a fixed and permanent value, or at least as nearly so as human affairs admit of. Bank notes are merely promissory notes for the payment of money: ordinarily, it is true, convertible into coin on demand at the bank where they are issued. But their value is fluctuating and precarious; different at different distances from their place of issue, and even there, at particular periods, depreciated below the par of gold and silver, though they may continue to pass current from hand to hand, and constitute a part of the circulating medium of the country. Of the truth of this we have had abundant experience. A note for payment in current money is then an engagement to pay in a kind of property, consisting of promissory notes or dioses in action which the parties have chosen specifically to contract for, but which may or may not be equivalent to money, and cannot therefore be considered a promise to pay money in its legal or commercial sense. The creditor has no right to exact specie in payment of such notes: he is bound to accept current bank notes, however inferior in value.
+This point has been already decided by this court in the case of M’Cormick v. Trotter, 10 Serg. & Rawle 94, where it was held that the indorsee of a promissory note for 500 dollars, payable to L or order, in bank notes of the chartered banks of Pennsylvania, could not maintain an action on it in his own name against the maker. On the other hand, in Keith v. Jones, 9 Johns. Rep. 120, a note payable to B or bearer in York state bills or specie, was held to be a negotiable note under the statute, and might be declared on as such. So in Judah v. Harris, 19 Johns. Rep. 144, the same decision was made in a suit on a promissory note payable in bank notes current in the city of New York. In Morris v. Edwards, 1 Ohio Rep. 194, a promise to pay in current bank notes of the city of Cincinnati was considered as a contract to pay money. Chancellor Kent, however, in his Commentaries, vol. 3, p. 75, says, “in England negotiable paper must be for the payment of money in specie, and not in bank notes. Bayley on Bills, Eel. Boston, p. 6. In 'this country it has been held that a note payable in bank bills wras a ‘good negotiable note within the statute, if confined to a species of paper universally current as cash. Keith v. Jones, 9 Johns. Rep. 120; Judah v. Harris, 19 Johns. Rep. 144. But the doctrine of these cases has been met and denied (M’Cormick v. Trotter, 10 Serg. & Rawle 94); and I think the weight of argument is against them, and in favour of the English rule.” And in Robinson v. Noble’s Executors, 8 Peters’s Rep. 181, where the engagement was to pay in the bank paper of the Miami Exporting Company, or its equivalent, the supreme court of the United States held, that the defendant was only bound to pay the specie value of the notes at the time they should have been paid, not their nominal amount in specie. On the whole, we are of opinion the charge of the court below on this point was proper,
+In the other point objected to, we also think there was no error. The defendant’s intestate was not liable on his blank indorsement. If so, the defendant could not avail himself of it, whether he held the note himself, or was beneficially interested in it.
+Judgment affirmed.
