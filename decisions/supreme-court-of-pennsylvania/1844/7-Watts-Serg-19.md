@@ -1,0 +1,23 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1844-03"
+citations: ["7 Watts & Serg. 19"]
+reporter: "watts-serg"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Vaux against Parke."]
+source_url: "https://static.case.law/watts-serg/7/cases/0019-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 481735
+cites_cases: ["2 Rawle 185", "2 Rawle 188", "2 Rawle 33", "3 Watts & Serg. 216", "4 Whart. 126", "7 Watts 551"]
+---
+
+# Vaux v. Parke
+
+## Majority (Sergeant, J.)
+
+The opinion of the Court was delivered by
+Sergeant, J.
+This case seems to present the same question which was decided by this court in Fisher v. Taylor, (2 Rawle 33). There the testator directed his executors to purchase a tract of land tó be conveyed to them in trust for his son, who was to have the rents, issues and profits, but the same was not to be liable to any debts contracted or which might be contracted by him; at his death the land was to vest in the' right heirs of the testator; and it was held that the son- had not such an interest in the land as could be taken in execution and sold for his debts. The court say the intention of the testator was manifestly to secure to his son the enjoyment of the rents, issues and profits during his life, in such á manner as to-be secured from the payment of his debts, and the executors were constituted special trustees for that purpose. It was necessary the trustees should take the legal estate to carry that intention into effect. A different construction would defeat the intention. There was nothing in this illegal or contrary to public policy. The benefit the son derived was merely a right to receive the rents and profits of the premises. In the case now before us, the same intention is manifest from comparing the different clauses of the will, and the devise to trustees, and the directions as to the son are quite as strong as in that case. xIt cannot therefore be' determined that the son has an estate in the land bound by the judgment, (which it is essential he should have in order that it may be taken in execution, Morrow v. Brenizer, 2 Rawle 188), without considering the creation of the trust as a mere nullity, or else confounding together a simple trust, which gives the cestui que trust a' right to the possession, control and disposal of the land, and a special trust which gives him no more than the right to enforce in equity the intention of the testator to the extent of his interest. The distinction between these two classes of trusts pervades the whole doctrine of trusts, and without a due regard to it their existence cannot be preserved. Settlements of this kind by parents on their children have been of constant occurrence, and much property has been thus adjusted by will or deed. No case has ever decided that a trust of this description can be annihilated by an execution against the cestui que trust. No such point is to be found in Hamersley v. Smith, (4 Whart. 126), or in Hemphill v. Hurford, (3 Watts & Serg. 216), nor was Fisher v. Taylor referred to in either of them. Hamersley v. Smith was a bequest of money, to be invested by the executors in trust for the sole use and benefit of testator’s granddaughter, but if she should die before the testator, then to her daughter. The granddaughter survived the testator and her husband and married a second time, and it was held that the trust for her separate use ceased on her discoverture and was not revived by her second marriage. The only point decided was, that a right to the separate use of an unmarried woman imposed no restriction on her when she married. In Hemphill v. Hurford there was a bequest of money to executors in trust for R. C. PL, to be by them invested for his use and that of his legal representatives, either in real or personal estate, according to their best discretion—the legacy to be paid at the end of three years after the testator’s decease, or sooner if the executors judged fit; and it was decided that the legatee might sue for it after the three years, the court saying it did not appear from anything contained in the will that it was the intention of the testator to restrain the legatee from disposing of the legacy as he pleased.
+We are, therefore, of opinion that the defendant in the judgment, James P. Parke, had no estate or interest in the land which could be sold or conveyed by the sheriff on the execution against him. We give no opinion how far such a right as he had’could be reached by his assignees or by other proceedings on behalf of creditors.
+Judgment affirmed.
