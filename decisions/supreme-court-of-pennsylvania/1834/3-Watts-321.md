@@ -1,0 +1,23 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1834-09"
+citations: ["3 Watts 321"]
+reporter: "watts"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Callan against Gaylord."]
+source_url: "https://static.case.law/watts/3/cases/0321-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1841326
+cites_cases: ["1 Gall. 175", "10 Mass. 39", "10 Serg. & Rawle 110", "11 Mass. 309", "14 Serg. & Rawle 372", "5 Binn. 349", "6 Serg. & Rawle 571"]
+---
+
+# Callan v. Gaylord
+
+## Majority (Gibson, C. J.)
+
+The opinion of the Court was delivered by
+Gibson, C. J.
+Nothing has been more fluctuating than the rule of competency in respect to evidence of handwriting by comparison. In England it is broadly laid down that such evidence is inadmissible, though the rule does not seem to be without its exceptions even there. In some of the United States it has no prohibitory effect at all; and in some, if not all of the rest, it exists with material qualifications. In Pennsylvania, it may be considered as settled by Vickroy v. Skelly, 14 Serg. & Rawle 372, that naked, unassisted comparison of hands is inadmissible, where the question is not on the writing of a public officer so long dead as to preclude the production of any thing better. But its competency for purposes of corroboration seems to be established in both civil and criminal cases. In the Farmer’s Bank v. Whitehill, 10 Serg. & Rawle 110, it was received to corroborate the belief of two witnesses who had seen the party write, but could not pronounce positively as to the fact; and in M’Corkle v. Binns, 5 Binn. 349, the principle was extended to the types and devices of a newspaper. Such being the rule in civil actions,. it is not easy to understand how a doubt could be entertained of its propriety in criminal prosecutions. Any distinction that may have been taken on that head, seems to be abandoned both here and in Westminster Hall, where this, as well as perhaps every other rule which has regard to the quality and not the quantity of the proof, is the same in all the courts of common law. In M’Kee’s case, Addison 38, comparison of hands was resorted to on the trial of an indictment for forging a writing found in the prisoner’s possession; and the competency of it in criminal cases, subject to (he restriction already indicated, is reluctantly admitted by Mr Justice Duncan delivering the opinion of the court in the Commonwealth v. Smith, 6 Serg. & Rawle 571. My experience furnishes no instance in which notes uttered by a counterfeiter, or found on his person, were not compared with genuine notes of the same bank. Such then being the rule, how does the case stand upon it % The plaintiff had proved that the libellous letter, though in a feigned hand, appeared in the judgment of the witnesses to be written by the defendant; that it was postmarked with the place of his residence, in the letters and figures of the postmaster there; that he had called the plaintiff a damned rascal; accused him of having defrauded one of his creditors in New York, and said that no one would fill an order for him. Surely after having laid so broad a foundation, the plaintiff’s books, written in part by the defendant, were proper to corroborate the inference of his being the writer of an anonymous letter calculated to injure the plaintiff, with another of his creditors in Boston.
+The evidence of publication was amply sufficient to warrant the verdict. The fact that the letter was put into the postoffice, raised a natural presumption, founded in common experience, that it reached its destination by the regular operations of the mail. The objection is, that this presumption is inferior to the oath of the party to whom the letter was addressed. Granting it to be so, yet as he was beyond the limits of the jurisdiction, it was the best evidence in the plaintiff’s power; for though foreign testimony may, for the most part, be procured by a commission, yet as a foreign witness is not bound to testify, his compliance with the mandate is not of right, but of grace; and evidence is not to be deemed secondary where better is not within the compass of the party’s means. But aside from this, the depositing of the letter in the postoffice would be a publication of it though it never came to the hands of him for whom it was intended, if it came to those of any one else, because a wrongdoer is answerable for all the consequences of his acts. It was proved to have been put into the postoffice by some one; and that it was taken out by some one, is shown by the production of it at the trial: it consequently owes its publicity to the writer.
+Judgment affirmed.
