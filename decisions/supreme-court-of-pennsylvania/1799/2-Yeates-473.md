@@ -1,0 +1,28 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1799-10"
+citations: ["2 Yeates 473"]
+reporter: "yeates"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Shock against John M’Chesney."]
+source_url: "https://static.case.law/yeates/2/cases/0473-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 812684
+---
+
+# Shock v. M'Chesney
+
+## Majority (By the court.)
+
+By the court.
+The proof of words spoken at other times should be confined to expressions of the same nature as those complained ofj to evince the malevolence and rancorous frame of mind of the defendant towards the plaintiff'. Distinct slanders, charging the plaintiff with other offences,' should not be received in evidence, because the defendant cannot be prepared to meet them, and they form the subjects of other actions in which the slanderer is punishable. Such we take to be the uniform practice, and the true meaning of all the cases. Vide Peake 166, 22. In Mead v. Daubigny, the plaintiff stated a colloquium with B. whereby he lost his marriage.
+On the trial it appeard in evidence, that one John Sweney was indebted to the plaintiff, a person of good character, in the sum of 1L 9s. 3d., who, on being pressed for the money, offered to give a note vpth geciirxty for the demand, payable in two months, which the plaintiff refused to receive, but at length agreed to take such note payable in one month. The defendant became surety for Sweney in a note, which was made payable in two months from the date, but Sweney obliterated the word “two” in the body thereof, and inserted “ one ” in the room thereof and so delivered it to the plaintiff. This note was put in suit within six weeks after its date, and the defendant asserting that the plaintiff had been guilty of the forgery, in then accelerating the time of payment, charged him with the offence on oath before the justice. He was accordingly bound over to answer the charge at June sessions 1797, but was discharged at the September sessions following, the defendant having dropped the prosecution.
+The defendant’s counsel insisted, that the action had been misconceived, and that the remedy should have been by malicious prosecution, wherein probable cause would have been a sufficient justification. 3 Bl. Com. 126. As a good citizen the plaintiff was bound to prosecute the defendant, under the suspicious circumstances which had appeared, and the law will tenderly guard the interests of witnesses who appear in support of prosecutions for public wrongs ; therefore, no suit will lie against a man for what he swears in a course of justice; (2 Burr. 809, 813) nor, where a petition is lawful, though the matter in it be false and scandalous; (1 Saund. 131. 4 Co. 14. b. Cro. El. 230, 247) nor, for what a man says in his defence1 to an affidavit, in a legal and judicial way. 1 Rol. Ab. 87. M. pi. 4. It is not necessary that the indictment be found, for, if it is returned ignoramus, it will support an action for malicious prosecution, which will lie where any,expense has been incurred. 1 Salk. 13. Bull, Ni. Pri. 13. 2 Espin. 274, 375. Case will lie for falsely and maliciously suing out a commission of bankrupt notwithstanding the specific remedy given by the stat. 5 Geo. 2, c. 30. § 23. 3 Burr. 1418. In Boot v. Cooper, cited by counsel, (1 Term Rep. 535,) it was resolved, that case will lie for obtaining or executing a warrant of two commissioners, for entering a man’s lionse under the excise act of 10 Geo. 1, to search for concealed goods, from had motives, nothing having been found there.
+Messrs. Montgomery and Fisher, pro quer.
+Messrs. .Hopkins, Hall and Elder, pro def.
+Here by altering the settled froms of actions, the defendant is subjected to a proof of the truth of the words spoken, whereas by the policy of the law in the true species of suit, lie is sheltered by a probable canse of prosecution.
+The court expressed their decided opinion, that the boundaries of actions should he scrupulously adhered to ; hut it did not appear to them, that an action of malicious prosecution, would lie against the defendant in the present instance, where no indictment had been prefurred to the grand jury. They recollected no such resolution or precedent in the books, where the ground of complaint was crimen imponere. On the contrary, it is well known to every lawyer, that that an action of malicious prosecution cannot be maintained until the prosecution is fully determined, and that the declaration must state that the plaintiff was “ acquitted ” of the charge made. The extent of the cases in their apprehension, went not beyond that of an indictment returned ignoramus, by the grand jury. This strange absurdity would arise from a different doctrine. Slander will lie for opprobrious words spoken of another, and ample compensation he had in damages, where the expressions cannot be justified; and yet after so gross an injury, if the slanderer procures the injured party to be committed to gaol, or to he hound over to answer the offence alleged against him, and then discovering his error, declines the further prosecution, he shall he allowed to protect himself under the shield of probable cause!
+Verdict pro quer. for 55 dollars damages and six cents costs, the suit having been removed by habeas corpus.
+[A new trial was afterwards awarded.]
+Doug. 208.1 Stra. 114. Vide 2 Term Rep. 231, where Duller, J. says, that declaring in malicious prosecution the plaintiff was “discharged,” is not sufficient; it is not equal to the word “acquitted,” which has a definite meaning, and must he understood in the legal sense, by the jury on the trial. Vid. 3 Leon. 100.
