@@ -1,0 +1,25 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1839-04-08"
+citations: ["4 Whart. 365"]
+reporter: "whart"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WOLLE against BROWN."]
+source_url: "https://static.case.law/whart/4/cases/0365-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1835011
+cites_cases: ["1 Rawle 197", "1 Rawle, 362", "10 Johns. 66", "11 Serg. & Rawle, 329", "16 Serg. & Rawle, 120", "16 Serg. & Rawle, 125", "16 Serg. & Rawle, 18", "17 Serg. & Rawle, 463", "2 Wash. C. C. Rep. 388", "2 Watts, 349", "3 Watts, 101", "4 Mass. Rep. 702", "4 Watts, 359", "4 Yeates, 532", "5 Bin. 109", "7 Watts, 486"]
+---
+
+# Wolle v. Brown
+
+## Majority (Gibson, C. J. —)
+
+The opinion of the Court was delivered by
+Gibson, C. J. —
+There were two things to which the defendant’s evidence was to be directed — the existence of the partnership, and the supposed participation in the business of it, by those who were alleged to have been partners. For the latter of these, the course of tne business and their acts in relation to it, were entirely proper ; and this so far disposes of the case, that only two of its points remain to be noticed..
+The declarations of one of the alleged partners, were received as corroborative evidence of the partnership; and the first thing that strikes us in regard to it, is an idea that it was received as evidence of a fact, which it was necessary to establish, in the first instance, in order to make way for it; for which, according to Griffith v. Reford, (1 Rawle 197,) and Quinn v. Crowell, decided at this term, it was incompetent. If the existence of the partnership, be the authority for its introduction, the fact must first be proved by independent evidence. If it be not so proved, it stands as if no evidence were given of it; for evidence short of proof, leaves the matter where it found it; and if the fact be already established, the evidence of it needs not corroboration. I am unable to conceive how a thing can be evidence to corroborate, which is not evidence of itself. If it conduce, in any degree, to proof of the fact, I see no reason why it should not be permitted to do so single-handed; for the competency of evidence depends not on the intensity of its force; and if it do not so conduce, I know not how it can corroborate any precedent evidence of it. Nor does any analogy from other parts of the law, bear the opposite supposition out. In cases of conspiracy, the confessions of a confederate are received, not to corroborate the evidence of a confederacy — for that must be first established — but to charge the accused with the acts of his fellows. Rex v. Stone, (6 T R. 527.) Where, indeed, it would otherwise be difficult to implicate him, it has been permitted, first, to show the existence of the conspiracy, by the acts and declarations of the confederates, and afterwards his connexion with it; but it has been truly remarked, that this apparent deviation from the rule, is no more than an inversion of the usual order for the sake of convenience, and that such evidence is material in the result no further, than the assent of the accused to the conspiracy can be shown. 2 Starkie’s Evid. 235. There is in truth no such thing in the law, as evidence which is competent to corroborate,, but competent to nothing else; and we should search in vain for a head under which to place it. The rule which charges conspirators by the confessions of each other, is essentially the rule which charges partners by the admissions of each other, and depends for its effect on the same circumstances of previous relation. Its principle is, that the confession of a man is evidence against himself, and those who have made common cause with him; consistently with which, it was held in Taylor v. Henderson, (17 Serg. & Rawle, 463,) that the existence of a partnership, may be proved by the separate admissions of all who are sued; and in Martin v. Kaffroth, (16 Serg. & Rawle, 125,) that it cannot be proved by the admission of a third person. So far was it carried in M‘Coy v. Lightner, (2 Watts, 349,) that the allowance of particular items by a partner sued but not served, was deemed competent, only because the partnership had been separately proved. Here the declarations were by a partner who was not even sued: and without evidence satisfactory by itself, to connect the plaintiff with the partnership, they must be taken for the gratuitous assertions of a third person. The only apparent exception to the rule, is found in Chambers v. Davis; but in that case separate evidence of the partnership had been given, and the note was admissible on the foot of it at least, to charge the firm with the payment for which it was offered.
+The rejection of the list of storekeepers returned to the clerk of the Sessions, and offered as evidence in relation to the partnership, is sustained by Wood v. Turner, (7 Watts, 486,) where such evidence is shown to be inadmissible.
+Judgment reversed, and a venire de novo awarded.
+Ante, page 334,
