@@ -1,0 +1,28 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1795-04"
+citations: ["1 Yeates 478"]
+reporter: "yeates"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["*William Hosack against Henry Weaver."]
+source_url: "https://static.case.law/yeates/1/cases/0477-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6776405
+---
+
+# Hosack v. Weaver
+
+## Majority
+
+Replevin for a grey stallion. Plea, property in defendant.
+The plaintiff shewed his property in evidence by three witnesses, and that in the month of December 1793, the stallion was either lost or stolen out of his wagon in an inn yard in Winchester, in Maryland. Afterwards, in January 1794, the plaintiff discovered him in the defendant’s possession in Philadelphia, claimed him, but the defendant refused to deliver him up.
+The defendant founded his claim on a purchase or exchange, made between him and one Patrick Keating in the horse market in this city, bona fide and for a full consideration, on the 19th December 1793; and proved that he had been publickly shewn there, two or three market days before the sale.
+And his counsel contended, that no evidence having been given to evince an actual larceny of the stallion, the plaintiff was divested of his property, by the transaction in the horse market.
+They argued, that at common law, a sale in market overt by a party who had no property, shall bind the right of the true owner. Kely. 35. And a sale of stolen goods in a place where such articles are usually and publickly sold, will divest the true right. Moor. 360. The true owner of goods does not lose his property unless by a sale in a market overt. 3 Atky. 49, 51. Trover will not lie after a change of property by a transfer in market overt. 3 Espin. 337, 338.
+A distinction has been created by positive British acts of parliament, between the sales of horses and other personal property. Before the statutes of 3 Ph. and Mar. c. 7, and 31 Eliz. c. 12, the sales of stolen horses in market overt were conclusive on the former proprietors. But those laws after-wards pointed out particular directions which were to be pursued, and if not fully complied with, such vendees acquired no property. 2 Bl. Com. 449, 450, 457.
+Under the 7th section of the act of assembly passed 23d September 1780 (made perpetual by an act of 9th December 1783,) “no sale of any stolen horse by virtue of this act shall “be deemed a public sale in market overt, so as to change ‘ ‘ the property thereof. ’ ’ 1 State Daws 409. And from hence they inferred, that previous to the passing of that act, there were markets overt in Pennsylvania, and that the sale of a horse not stolen, in market overt, changed the property.
+For the plaintiff, it was insisted, that the universal opinion re*ceived at the bar, was, that there were no markets r*Anc¡ overt in Pennsylvania. The expressions quoted from L the law of September 1780, may be fairly supposed to have arisen ex abimdanti cautela of the legislature, that no false notions should be entertained of a sale at public auction passing the property of a stolen horse, and repel all ideas of such auctions being deemed markets overt.
+The policy of markets overt, as a commercial regulation, may well be doubted. A variety of judicial decisions have however established the point, that no such markets ever existed amongst us. Among others, in Thomas v. Hess in replevin, determined by Mr. President Shippeu, in the Common Pleas of Philadelphia county, it was clearly resolved, that where a feather bed had been sent from Chester county to a friend in the city, who had betrayed his trust, by selling it at public vendue, and an innocent purchaser had fairly bought it, and paid his money, the original owner should recover. It is not pretended in mercantile life amongst us, that a sale in any store in the city will change the property, unless the vendor had a title, and there is much less reason in, and greater public inconveniences result from the position, that a sale in a horse market shall divest a right to a horse stolen by villainy, or lost by casualty.
+The court gave in charge to the jury, that the credibility of the witnesses, who asserted the plaintiff’s property, lay solely with them. If they had no good reason to disbelieve them, the verdict should be for the plaintiff, with such damages as they believed that he had really sustained. In England, sales in fairs or markets overt, were held to be binding on all those who had property in the articles sold, except in the cases of stolen horses, which were subjected to the regulations of the statutes of 2 Phil, and Mar. and 31 Eliz. 2 Bl. Com. 449. This efficacy of markets overt arose from prescription, and was part of the antient common law. But in this government, we have no such antient law or custom. On the contrary, the uniform determinations of courts of justice have have rejected such an usage, whenever it has been relied on, and great inconveniences would arise from adopting it. We think these resolutions founded in honesty, and the soundest and best policy. In the language of Sir John Kelyng, “they “tend to the advancement of justice, to make men prosecute ‘ ‘ felons, and they will discourage persons from buying stolen “goods, though in a market overt; for under that pretence, “men buy goods there for a small value of persons whom ‘ ‘ they have reason to suspect, which practice these resolutions ! ‘ will aba te. ” Kely. 48.
+*4801 *The jury were of the same opinion, and found a ver- -* diet for the plaintiff with 6ol. damages and 6d. costs.
