@@ -1,0 +1,22 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1836-06"
+citations: ["5 Watts 333"]
+reporter: "watts"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ingham against Tracy."]
+source_url: "https://static.case.law/watts/5/cases/0333-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1844050
+cites_cases: ["10 Serg. & Rawle 325", "10 Serg. & Rawle 335", "13 Serg. & Rawle 193", "13 Serg. & Rawle 243", "13 Serg. & Rawle 343", "2 Watts 104", "3 Watts 103"]
+---
+
+# Ingham v. Tracy
+
+## Majority (Gibson, C. J.)
+
+The opinion of the Court was delivered by
+Gibson, C. J.
+The frequency of injustice from blunders in these recognizances, makes it imperatively necessary to relax the rigour of our construction of them. .It is known that our judicial records are never formally made up, and that the dockets contain but minutes, from which, however, a complete record might, in the earlier periods of our judicial history, have been formed. So far no inconvenience was felt from what was, at the time, but a wholesome departure from the extreme precision of common law precedents. The prothonotaries and clerks, holding their offices nominally at the will of the executive but actually during good behaviour, gained a competent share of skill from experience, and the records not only contained the substance of whatever was necessary to be registered, but were carefully preserved in their places. The principle of official rotation, however, has gradually excluded experience, and introduced a looseness of form sometimes unintelligible, but often requiring us to supply matter of substance from extrinsic sources for the attainment of justice; which has already produced a dangerous degree of uncertainty. From justices of the peace, however, an observance of formalities ought never to have been required. They are necessarily without official training; and their proceedings ought rather to have been expounded, where they might, in conformity to the law they were meant to execute, than in accordance to the words in which they were expressed — at least such ought to have been the rule where the entry did not purport to be a full record of all that was done, and when nothing was expressed to have been done contrary to law. There are cases where the identical words of the recognizance purport to have been set down ; and these cannot be extended by reference without involving the parties in engagements they had not consented to contract. Such was Pier v. M’Kenney, 3 Watts 103, in which the defects were not helped. In the cases to be noticed, the meaning was open to a construction better suited perhaps to the actual condition of things. The recognizance'in Donaldson v. Cunningham, 13 Serg. & Rawle 243, exhibited no attempt to set out the condition specifically; and the whole would have been unquestionably good, had the officer not omitted the insignificant words sub con. They would have indicated the existence of a condition of some sort, without, however, indicating the nature of its terms. In King v. Culbertson, 10 Serg. & Rawle 325, the condition was to appear and prosecute with effect; or, on failure to pay the debt and costs— and there wanted no more than a contingent provision for surrender to make the whole perfect. In Bolton v. Robinson, 13 Serg. & Rawle 193, we have exactly the case before us, the justice having stopped at the stipulation to prosecute, and the memorandum would have indicated a sufficiency of substance, even according to the English practice, had it terminated with an et cxtera to show that more was done than was then intended to be expressed. Is it too much, then, to supply it for the sake of avoiding extreme injustice? Did a departure from the existing decisions shake a title or impair a right, we would certainly avoid it. But the matter involves no more than a question of practice. We have already receded from our earlier decisions on the effec.t of these recognizances in entitling to an appeal; and it is but another step to extend the benefit of the recession to the appellee. In the scire facias a perfect recognizance is set out; and it would be open to the prothonotary, were it necessary, to make up, from the material returned by the justice, a perfect recognizance to support the recital of it. We are therefore of opinion that the plaintiff recover.
+Judgment below reversed, and judgment for the plaintiff.
