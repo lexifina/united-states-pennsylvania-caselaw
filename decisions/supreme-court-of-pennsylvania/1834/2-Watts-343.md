@@ -1,0 +1,23 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1834-05"
+citations: ["2 Watts 343"]
+reporter: "watts"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Schuylkill and Susquehanna Navigation against Decker et al."]
+source_url: "https://static.case.law/watts/2/cases/0343-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1840053
+cites_cases: ["5 Serg. & Rawle 1"]
+---
+
+# Schuylkill & Susquehanna Navigation v. Decker
+
+## Majority (Gibson, C; J.—To)
+
+The opinion of the Court was delivered by
+Gibson, C; J.—To
+the parties proposed to be made defendants, it is a decisive objection that they have not a title to the damages, which, beiDg in compensation of an injury in the nature of a trespass, could not pass by a conveyance of the land. In like manner the conveyance of a party wall does not entitle the grantee to contribution from the adjoining owner, it being held in Hart v. Kucher, 5 Serg. & Rawle 1, that the claim is satisfied by payment to the first builder, though the purchaser had not notice of it; and on the same principle, it was held in the Commonwealth v. Sheppard, 3 Penns. Rep. 509, that the claim to compensation under the act for adjusting titles to land in Bedford and Ulster townships, in Luzerne and Lycoming counties, is personal, and does not pass by a conveyance of the land. Granting the compensation here to be what it certainly is, the price of a perpetual easement, it is impossible to imagine a title to it in a subsequent grantee of the land subject to the easement.
+But taking the proposed defendants to be the persons entitled, and taking the Union Canal Company to have succeeded to the responsibilities as well as the rights of the Schuylkill and Susquehanna Navigation, what title has any one but the company to demand judgment? ' It is said that both parties have an interest—the company in the land to be acquired, and the owner in the price to be paid for it. That construction would make the inquisition a contract which both parties would have an equal right to enforce; and this leads to an inquiry into its nature and extent. By (he act of incorporation, the company was authorised to agree with the owners of land necessary to be occupied for the purposes of the work; bu t in case of disagreement it was authorised to do what? Simply to apply to the justices of the supreme court for writs of ad quod damnum, as a measure of precaution, to' ascertain- beforehand the damages to be incurred by an adverse appropriation ; and the court was required, on being satisfied that the writ was duly executed, to enter judgment at the return of the inquisition, “ that the said company, paying to the several owners, as aforesaid, the several sums of money in (he said inquisition assessed, or bringing the same into court, shall be entitled to have and to hold to them and their successors, all and every the lands, tenements, rights, liberties and privileges in the said inquisition described, as fully as if the same had been granted to them by the respective owners thereof.” The judgment, therefore, it will be perceived, was not to be for the proprietor, but for the company. But, having ascertained the price at which the property might be taken, what if the company resolved to proceed no further ? The inquisition would impose on it no greater obligation to accept at the valuation, than an inquisition in the orphan’s court would impose on the petitioning child. It is not a contract nor the germ of a contract, but a measure to protect the company from being treated as a trespasser, in case it should enter on the land without the license of the owner, after an ineffectual attempt to agree; et quisquís renunciare potest beneficio juris pro sese introducto. The judgment is not that the owner recover the damages, but that the company have the land on paying for it; consequently it may abandon the proceeding whenever it chooses to take nothing by it, and it has abandoned it here by refusing to take judgment on the inquisition. But would a motion for judgment, even by the company, be sustained after a lapse of forty years ? The act requires it to be rendered at the return of the inquisition; but taking that to be but directory, still there must be a reasonable limitation to the period of election, as the property would be materially lessened in value by a continued uncertainty as to the extent in which it might be cut up by the progress of the work. In every respect, then, these proceedings must be considered as abandoned and at an end.
+Rule discharged.
