@@ -1,0 +1,23 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1830-03-27"
+citations: ["2 Rawle 428"]
+reporter: "rawle"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Huston, J. and Tod, J. were absent in consequence.of sickness. Judgment of the Circuit Court reversed, and a new trial awarded."]
+parties: ["MOSER against LIBENGUTH and another, Administrators of LIBENGUTH."]
+source_url: "https://static.case.law/rawle/2/cases/0428-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1820585
+cites_cases: ["1 Rawle, 255", "1 Serg. & Rawle, 465", "10 Serg. & Rawle, 342", "11 Serg. & Rawle, 134", "12 Serg, & Rawle, 160", "12 Serg. & Rawle, 269", "2 Johns. Ch. Rep. 396", "2 Johns. Ch. Rep. 51", "2 Johns. Ch. Rep. 633", "3 Serg. & Rawle, 319", "3 Serg. & Rawle, 344", "5 Serg. & Rawle, 423", "6 Serg. & Rawle, 264", "6 Serg. & Rawle, 411", "7 Serg. & Rawle, 114", "8 Wheat. 174"]
+---
+
+# Moser v. Libenguth
+
+## Majority (Gibson, C. J.)
+
+The opinion of the court was delivered by
+Gibson, C. J.
+— In 1 Rawle, 255, this bond Was determined to be joint, because the positive intent of the parties, as expressly declared in the penal clause, could not be controlled by an adverse implication, which might otherwise have been made from the words of the condition. The attempt now, is to establish the existence of accident and mistake, by evidence dehors; but although an instrument may undoubtedly be reformed on parol proof, yet, where, as here, the relief sought is adverse to the pre-existent equity of a surety, the evidence should be so clear as to leave the fact without the shadow of a doubt. Where, indeed, the deceased obligor was the principal debtor, mistake will, it seems, be presumed from the naked relation of the parties; but, whether of pact, as regards the words inserted, or of law, as regards their effect, is nowhere said; relief being granted to prevent a failure of justice, and substantially,on the foot of an equity arising from actual receipt of a benefit. It has, indeed, been intimated by authority eminently entitled to general respect, that mistake in point of law, is an available ground to reform the instrument, independently of fraud and imposition, or the relation of the parties. Hunt v. Rousmanier, 8 Wheat. 174. That point is not before us, and at present, it is proper to say no more than that the principle seems to be unsupported by authority or analogy; and that it would be pregnant with danger further to expose instruments of writing to speculation as to the legal understanding of the parties, and to the hazard'and uncertainty of parol proof. In the case at' bar, the plaintiff was bound to show a clear mistake in matter of fact; and how stands the evidence of it? The scrivener testified, explicitly, that he received no instructions to make the bond joint and several, being,barely desired to fill it up in the usual way; but that he, himself, intended to bind the obligors jointly and severally; that is, as he explains it, to bind the surety to pay, in case the principal should not: in other words, that he and the parties were ignorant of any difference between the one form and the,other, and if that were a ground of relief it would seldom be wanting. But a mistake of the scrivener, if not common to the parties, would be unimportant, the question being,, was any thing omitted which was directed to be inserted? The scrivener read the bond to the parties, but doubts whether it was understood. A doubt would be insufficient to rebut the equity of a surety, even if it related to matter of fact, particularly where the person doubting explained the matter to the parties in their vernacular tongue, and says, he entertains no doubt that they knew what they-were about. But the doubt, if any, evidently related to the legal effect of the instrument — a circumstance altogether insufficient to sustain a prayer for relief against a surety: but nevertheless, this was obviously the ground on which the jury found for the-plaintiff, as the evidence excludes the possibility of mistake ip matter of fact. The parties gave no particular instructions, without which it is not easy to see how mistake can be suspected. Having heard the bond read in the English language, ip connexion with the scrivener’s explanations in the German, they adopted its words as their- own, and- took upon themselves the consequences of their legal effect. The administra-? tors of the surety, therefore, being discharged at law, cannot be charged in equity. • ’
+Huston, J. and Tod, J. were absent in consequence.of sickness. Judgment of the Circuit Court reversed, and a new trial awarded.
