@@ -1,0 +1,22 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1838-07"
+citations: ["7 Watts 231"]
+reporter: "watts"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["French against Seely."]
+source_url: "https://static.case.law/watts/7/cases/0231-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1846772
+cites_cases: ["4 Rawle 374", "6 Watts 392"]
+---
+
+# French v. Seely
+
+## Majority (Gibson, C. J.)
+
+The opinion of the Court was delivered by
+Gibson, C. J.
+This is a remarkable case. A party to an exchange who had renounced it by setting up an adverse title to the land he had obtained by it, and who sold the land he was to have given in return, was stiil allowed to recur to the contract for purposes of defence! And how? On the principle of an injunction in the nature of a bill for specific performance, invigorated in the particular instance, it was thought, by improvements made in defiance of the title. It is scarce necessary to say that this was a violation, not only of Ong v. Campbell, 6 Watts 392, and the chancery precedents which require that a party insisting on a contract should have been faithful to it, but of every analogy of the law. It is to prevent a'party from recurring to a contract he has repudiated, that a recusant tenant is forbidden to insist on notice; or a widow, who has taken a benefit by her husband’s will, to insist on dower in contravention of it; or a plaintiff, who has disaffirmed an act by an action in one right, to affirm it by an action in another; or, in short, any one to claim in repugnant rights. In addition to this, the party insisting on performance here, not only has refused to perform himself, in contravention of a principle which requires a tender to precede a demand of specific execution, but has actually disabled himself from affording it. And what did he offer in place of it 1 Nothing but a pecuniary substitute which would turn the exchange into a sale; and it was allowed to pass. Was that the plaintiff’s bargain, or a bargain made for him1? He was denied the specific consideration which had moved him to part with his property, and compelled to accept a compensation for it. This result is a curious sort of specific execution. What authority had he given the jury to sell his land 1 It is the vice of the times to disregard contracts ; and there is a too prevalent disposition in the popular branch of the judiciary to remould them in order to bring them nearer to its standards of conscionableness which cannot be too narrowly watched. Even were such a power vested in the jury, there is nothing in the case for an exercise of it. The improvements could not give the defendant an equity, natural or artificial. Believing the land delivered to him pursuant to the bargain, to be as open to appropriation by him under a title from the state as it had been to the plaintiff, and having not only taken out a warrant for it, but sold what he was to have given for it—a double renunciation of the contract; he engaged with the plaintiff in a contest for it before the board of property, whose decision against him he suffered to become conclusive by lapse of time; and having thus been turned into a wrongdoer, he made the improvements in question. The case then presents an attempt, not merely to make an owner debtor for improvements made in contempt of his will, but to divest his property for a compensation graduated by a jury; and this, not to serve a public purpose, but to compensate, in the name of equity, the adverse improvements of a private trespasser. To do that, would transcend the constitutional power even of the legislature, to say nothing of the admitted want of pretension on the part of the judiciary. It is impossible to imagine any thing more palpably illegal than the exercise of such a power here. The defendant’s supposititious equity was put on the absence of fraud, when each of his acts was, in contemplation of law, an unqualified fraud. His attempt to prove an adverse title, colourable we must suppose from his acquiescence in the decision of the board of property, was a fraud; the sale of his own land, in disaffirmance of his contract of exchange, was a fraud; and his subsequent erection of improvements, in contemplatiou of an equity from them, was a fraud and a folly. He had, then, not the shadow of a defence ; and the direction prayed for should have been given.
+Judgment reversed, and a venire de novo awarded.
