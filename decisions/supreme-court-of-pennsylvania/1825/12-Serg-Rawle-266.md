@@ -1,0 +1,23 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1825-01-22"
+citations: ["12 Serg. & Rawle 266"]
+reporter: "serg-rawl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BUCK and another against LANE."]
+source_url: "https://static.case.law/serg-rawl/12/cases/0266-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8878515
+cites_cases: ["2 Rob. 216"]
+---
+
+# Buck v. Lane
+
+## Majority (TiughmAN, C. ,T.)
+
+The opinion of the court was delivered by
+TiughmAN, C. ,T.
+The charge is excepted to, on this ground,r— that the plaintiff forfeited his wages by his assault on the captain. It is not precisely ascertained by the codes of marine law, for what misbehaviour a mariner shall forfeit his wages. The law on that subject was well considered in the case of Thompson v. Bush, in the Circuit Court of the United States, October term, 1823, a manuscript report of which has been shown to us. That, was a libel for wages, by the mate, who had been dismissed by the captain, at Calcutta, for misbehaviour. Judge Washington, after observing the uncertainty of the law in matters of this kind, proceeds as follows: i( I accede, without hesitation, to the rules laid down by the learned judge of this district, in the case of Atkins v. Burrows, The mate may forfeit his right to command, and his wages, by fraudulent, unfaithful, and illegal practices, by gross and repeated negligence, or flagrant, wilful, and unjustifiable disobedience) by incapacity, brought on him by his own fault, or palpable want of skill in h'is profession. But the causes of removal should be evident, strong, and legally important.” The case of a common sailor, or mariner, is somewhat different from a mate; and therefore there must be a difference in the causes which will justify a dismissal of each. An assault by a mariner on the captain, is gross misbeha-viour, and would certainly justify a discharge, unless followed by humble submission, and such behaviour as afforded a strong probability of future good conduct. Whether, even then, the captain would not be justified in refusing to permit the offender to remain longer in his service, it is unnecessary now to decide. In the present instance there was no submission, and if the captain had discharged the plaintiff, I should have thought him justified; and, in that case, there would have been a forfeiture of wages. But he did not discharge him, — he imprisoned him by means of the vice consul, kept him three months in jail, and left him there when the brig sailed. When the plaintiff applied for his discharge, before his imprisonment, the captain refused him. Now, to leave a citizen of the United States in a Spanish jail, without accusation or trial, is certainly a very serious measure, and not to be resorted to but for cogent reasons. If the plaintiff had been discharged, without imprisonment, he might have got into other service; or, perhaps, if discharged after imprisonment, he might have had a better chance of obtaining his liberation. But to keep him In prison during the captain’s pleasure, to refuse him a discharge, and at the same time insist on a forfeiture of wages, was too much. It is material, that the plaintiff was not imprisoned for the purpose of being bi’ought to trial, but only for. safe custody. And in such cases, it is very common to take the offender back before the ship sails. It does not appear, that there would have been any diificulty in securing him on board the brig, if his misbehaviour had been repeated. But the ground on which the plaintiff’s case rests, is, that in fact he was not discharged, but left by the captain in prison, in a foreign country. Under these circumstances, we are of opinion that he was entitled to his wages, (deducting the time of imprisonment,) until his arrival in the United States, and therefore there was no error in the charge of the Court of Common Pleas.
+2. Another error has been assigned, viz. “ The court being requested by the defendant’s counsel, to charge the jury, that, where a mariner was discharged, as really dangerous to the peace and safety of the ship, the captain was justifiable in not receiving him on board, declined to give any charge on this, as they considered it an abstract point, not arising out of the evidence in the case.” The reason given by the court for not answering this question, was sufficient. No court can be called on for an opinion not material to the issue on trial, and no opinion can be material, unleés there is evidence to which it can be applied. It appears to us, on the whole, that there is no error in this record, and therefore the judgment should be affirmed.
+Judgment affirmed.
