@@ -1,0 +1,24 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1838-03-26"
+citations: ["3 Whart. 401"]
+reporter: "whart"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THOMAS against SMITH and Another."]
+source_url: "https://static.case.law/whart/3/cases/0400-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1833467
+cites_cases: ["1 Serg. & Rawle, 317", "2 Rawle, 241", "2 Watts, 165", "3 Penn. Rep. 130", "3 Penn. Rep. 414", "4 Watts, 432", "5 Rawle, 266", "5 Watts, 49", "8 Serg. & Rawle, 205"]
+---
+
+# Thomas v. Smith
+
+## Majority (Gibson,. C. J.)
+
+The opinion of the Court was delivered by
+Gibson,. C. J.
+The question is, whether these bonds were assets for payment of debts. That they were not intended to be so, is evident from the terms of the endorsement, by which the defendants were ordered to redeliver them to the obligors, when they should relinquish all claim to any other part of the estate. Had there been a reservation for payment of the debts, it would have been easy to express it; but, as it was supposed there would be enough beside, none was intended. Then why, it has been aslced, should bonds have been taken at all ? Simply because it is a custom in some parts of the state to take securities for advancements, merely as acknowledgments of them, which do not, however, always contain a clause of self-defeasance, and which may consequently be used to enforce the. father’s plan of distribution. That was certainly not the object to be accomplished by them here; for had he died intestate, 'and leaving a greater estate than was anticipated, the sons might, consistently with the terms, have thrown their bonds and advancements into hotchpot, and entitled themselves to enhanced portions; and to enable them to do- so was probably the motive for giving the transaction its peculiar form. But whatever the motive, the provision is, in this respect, an unconditional one, and it is not the office of to violate it. I the will out of the case. Its arrangements are subordinate to those of the contract by which the rights and responsibilities of the parties had been definitively fixed. If the particular disposition were valid as to creditors at its date, they cannot object to a particular part of it now; and if it were not, their recourse is to the land, and not to the nominal price of it as personal assets. Its validity under the 13 Eliz. would depend on the sufficiency Of the property retained to answer the debts, and on the consideration of the conveyances, which ought to be not merely good, but valuable.* It was testified, in respect of the first, that the deficiency has been caused by subsequent depreciation ; and as to the second, that at least one of the sons insisted on a stipulation against personal.liability, without which the expected bounty might have been a burden to him. Hopeless insolvency has been sometimes brought on children born to expectations of fortune, by the enforcement of securities for owelty of partition; of which Gfelback’s Appeal, (8 Serg. & Rawle, 205,) where the value of the whole estate fell below the auio'unt of the recognisances, is a notable instance. Now the creditors could impeach the present transaction only by treating it as a measure of distribution, however valid as between the parties, yet as a nullity throughout in respect to themselves; for if' the sons despite the stipulation to the contrary, were held liable to the executors for any purpose, it would assume the character of a contract on valuable consideration; and the pretention of the plaintiff to hold them so, is destructive of itself. lie may not recover against the terms of the contract by an action affirmative of it. On the other hand, if the bonds were treated as the nullities they purport to be, the conveyances, thus destitute of support from a valuable consideration, would be avoided by the statute, and the land would be left specifically liable to execution for the debts. Rut as the bonds and endorsements constitute an entire transaction which is fraudulent or fair in the whole, it cannot be affirmed in part and disaffirmed in part, so as to make it what the parties intended it should not be. The plaintiff might, perhaps, entitle himself to judgment de terris against the proper parties; but he cannot recover so as to involve the defendants in personal liability for having delivered up a contract which, by its terms, they were bound to do. The circumstances recapitulated in the charge, were sufficient, at least to go to the jury, as evidence that the lost bonds were executed on the same condition as was the one produced; and the whole case seems to have been properly submitted.
+Judgment affirmed.
+Cited by Counsel, 10 Barr, 428 ; 3 P. F. Smith, 308.
+See, 4 'Wharton, 42.
