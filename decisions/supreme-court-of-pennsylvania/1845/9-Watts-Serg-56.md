@@ -1,0 +1,23 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1845-05"
+citations: ["9 Watts & Serg. 56"]
+reporter: "watts-serg"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Johnston against Bingham."]
+source_url: "https://static.case.law/watts-serg/9/cases/0056-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12168880
+cites_cases: ["5 Binn. 481", "6 Serg. & Rawle 176", "7 Serg. & Rawle 204", "9 Serg. & Rawle 99", "9 Watts 466"]
+---
+
+# Johnston v. Bingham
+
+## Majority (Rogers, J.)
+
+The opinion of the Court was delivered by
+Rogers, J.
+The propriety of entering the judgment depends on the interpretation of the verdict, coupled with the agreement incorporated into and made part of it. The jury find for the plaintiff all the land within the survey of Alexander Miller which is not included in the survey of John Engleton; and by consent (as it is expressed) George Gooshorn and William Brewster are to go on the ground and fix the lines in accordance with the verdict, and return a draft to the court, on which the court are to enter judgment. As a prerequisite, therefore, to the action of the court, it is expressly required that the persons designated for that purpose should, on the ground, ascertain the precise limits of the land for which judgment should be rendered; the object of the parties being to prevent the possibility of dispute as to the quantity or location of the ground to which the plaintiff should be entitled to possession. Was, then, the plaintiff entitled to judgment on the facts stated ? The intention would seem to be clear, that the survey, as well as the return, should be the act of both; for if it were designed that one only should be competent to make it, it was easy to say so by giving the power to the persons named, or either of them, to make the necessary investigation and return. They use the copulative instead of disjunctive conjunction, thereby clearly indicating the intention that both should concur in the survey as well as the return. It was supposed that, inasmuch as this was a matter in one sense ministerial, requiring science, judgment, and professional skill, accuracy would be best attained by requiring the duty to bo performed by two persons instead of one. And if this were the understanding, it is not competent for the court to say it was immaterial. Even according to the report of Mr Reed, there appears to have been great difficulty in fixing the lines of the respective surveys, and it is impossible to say what would have been the result had the survey been made under the superintendence and with the advice and counsel of the other appointee. Although Gooshorn, as. appears by his certificate, ran the line sundry times, and was satisfied with Reed’s survey, it cannot alter the case. It is obvious he never went on the ground after his appointment; and if he did, it was not in the presence of the parties or his colleague. His knowledge of the location acquired before amounts to nothing, although it would have been valuable if he had assisted at the time the survey was last made. It is a rule of law, that when powers are granted to several persons to transact private business, all must join in the execution of the power. And the rule applies in all cases, either ministerial or judicial, unless it be public business of a judicial nature, or public business of a deliberative nature, though not strictly judicial, as to cases where powers are given to corporate bodies. Commissioners v. Lecky, (6 Serg. & Rawle 176); Baltimore Turnpike, (5 Binn. 481).
+But it is asked, what is to be done if the plaintiff fails to obtain the joint services of the persons designated to fix the lines? If this, contrary to all reasonable expectation, should unfortunately occur, the court may set the verdict aside, and grant a new trial; or, perhaps, upon its being made satisfactorily to appear that the persons appointed refuse to do their duty, to appoint an artist to go on the ground and ascertain the boundaries in accordance with the verdict. On a return so made it would be at least within the spirit of the agreement that the court should have power to enter judgment. It would seem to be a harsh construction, to deprive the plaintiff of the benefit of the verdict by the death of one or both the appointees, or the refusal of either to perform their duty. We would wish it to be understood, that although the judgment is reversed, the verdict remains subject to the future action of the court; and that it be their duty to take the necessary steps to carry it into effect.
+Judgment reversed.
