@@ -1,0 +1,25 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1835-04-13"
+citations: ["5 Rawle 209"]
+reporter: "rawle"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HELFFENSTEIN against THOMAS."]
+source_url: "https://static.case.law/rawle/5/cases/0209-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1824606
+cites_cases: ["18 Johns. 347", "4 Johns. 51"]
+---
+
+# Helffenstein v. Thomas
+
+## Majority (Gibson, C. J.)
+
+The opinion of the court was delivered by
+Gibson, C. J.
+The notion that the acts of 1700, and 1729-30, are obsolete in their provisions for publication of banns, is a novel one. These provisions were not introduced to serve a particular time or occasion; and they are consequently the law of our day, though capable, as held in Radebaugh v. Sanks, of being satisfied by less than the certificate of consent appointed as the satutory substitute for publication. It was held in that case, that the penalty is not. incurred by performance of the marriage ceremony without publication or certificate, where the acts and declarations of the plaintiff have been such as may have led the defendant to believe that the marriage was desired by him. But where there was not actual consent, or such indications of it as would make an averment of dissent a fraud, which it is not the policy of the statute to encourage, it never has been doubted that its requirements must have been complied with in order to save the penalty, though not to legalize the marriage.
+The next point however, was erroneously ruled by charging that, in the absence of proof to the contrary, the jury might presume that the banns were not published according to the statute. The general rule undoubtedly is, to dispense with proof of a negative, the burthen being cast on him who asserts the affirmative. But to this there are two undoubted exceptions; the first where the truth of the aliegation is peculiarly within the knowledge of him who denies — and the second, which seems to be the case at the bar, where the denial imputes a criminal omission by the party to be charged, and there the legal presumption of innocence stands for proof till it is rebutted. The authorities are collected in 1 Starkie, Ev. 363; to which Senser v. Bower, 1 Penn. R. 450, may be added. And the presumption operates with peculiar propriety, where the negative is a constituent part of the offence, instead of its opposite being a ground of exemption, as it preserves the maxim, that the accused is to be held innocent till proved guilty, from being inverted. The case of a penal action for sporting without the requisite qualification, though apparently irreconcileable to the spirit of these exceptions, is not so in fact, because the qualification to keep a gun, operating by way of exception out of the general implication of criminality, from an act which, if done without a personal license, would be unlawful, must be shown by the accused as a special justification, though it would be otherwise if the want of it, as here, were a constituent part of the offence.' The distinction implied by these instances is undoubtedly a subtile one, and it is not easy to define its properties with certainty or precision; but they are all resolvable into this: where the prohibition is general with an exception in favour of persons, a party who claims the benefit of the exception must bring himself within it; but where the prohibition is special in reference to the circumstances, the party alleging criminality must show the existence of those circumstances, even of a negative quality, on which alone it can depend. But though the burthen of negative proof rests on the plaintiff, in the case at the bar; want of publication may be shown by slight circumstances, such as suddenness and privacy in the concoction of the marriage.
+The second and third points involve the supposed necessity of service and dependence upon the plaintiff, as the foundation of the action. Were this penalty, like damages for seduction, demandable but on the relation of master and servant, there might be colour for this part of the defence. But even the action on the case has been sustained, where the daughter was in the employment of another, the father having retained the right to control her person. The action here, however, is founded on the relation of parent and child, which may survive a state of service and dependence; for the remission of a father’s right to the earnings of his child, though undoubtedly binding, is not an abandonment of his parental rights or duties in respect to marriage, or settlement of the child in life, and an obstruction of these is the very injury in requital of which the penalty is provided: as was recently determined in Donaghue v. Dougherty, Supra 124.
+In that case, too, it was determined that the law implies injury to the parent, without proof of actual damage; and that where the requisitions of the statute have not been complied with, the officiating party proceeds at his peril.
+Judgment reversed, and a venire de novo awarded.
