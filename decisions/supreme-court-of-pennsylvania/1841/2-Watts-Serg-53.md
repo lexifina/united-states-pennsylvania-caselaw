@@ -1,0 +1,24 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1841-07"
+citations: ["2 Watts & Serg. 53"]
+reporter: "watts-serg"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Preston against Finney."]
+source_url: "https://static.case.law/watts-serg/2/cases/0053-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1853553
+cites_cases: ["10 Johns. 203", "10 Johns. 26", "12 Johns. 165", "13 Johns. 94", "19 Johns. 340", "2 Mass. 147", "2 Penn. Rep. 454", "2 Pick. 267", "3 Penn. Rep. 445", "4 Wend. 604", "7 Pick. 181", "7 Pick. 187"]
+---
+
+# Preston v. Finney
+
+## Majority (Sergeant, J.)
+
+The opinion of the Court was delivered by
+Sergeant, J.
+The error complained of in the charge of the court is, in instructing the jury that the plaintiffs might recover the apportioned value of the number of logs delivered, deductingtherefrom the damage sustained by the defendant, in not delivering strictly according to the contract. The defendant contends that the contract being entire, it was incumbent on the plaintiffs to show a performance of all that was stipulated on their part to be performed, and on failure so to do, they are not entitled to recover any thing. The law would undoubtedly be so as a general rule, but there are exceptions. By this contract the whole number of logs were to be delivered by the 15th of March, and it was the duty of the plaintiffs to deliver them by that time; but if the defendant, as seems to have been the case, went on under the contract afterwards, paying money, and receiving and using logs delivered, it is too late now to object. He must be considered as having waived the performance by the plaintiffs at the exact time stipulated; and the contract is to be treated as still subsisting in other respects. Shaw v. The Turnpike Company, (3 Penn. Rep. 445).
+If this be so, then the defendant says it was the duty of the plaintiffs to fulfil the contract in all other respects, and to have gone on and delivered the whole 1000 logs according to its terms; whereas the plaintiffs cut and delivered only about 940 or 950 logs. But in a question of this kind it is necessary to distinguish. Should a party stipulate for the performance of an entire service or contract, and then having but part performed it, voluntarily abandon the service, or leave the work unfinished or in such a state as to be useless, he could not claim to recover anything. So, if he obstinately and perversely refuses to go on and complete it when it is in his power, and when the other party requests it and offers to pay for it, as was the case in Shaw v. The Turnpike Company, (3 Penn. Rep. 445). But suppose the party acting honestly, and with a bona fide intention of fulfilling the contract, perform it substantially, but fails in some comparatively slight particulars, ought the other party to hold and enjoy the fruits of his labour and money, and time, without paying a fair compensation according to the contract, receiving credit for whatever loss or damage he may have sustained by these deviations ? We think not. In those cases where the law allows the party to recover on a quantum meruit, or quantum valebat, where there is a special contract, this is the principle which applies. The party is allowed to recover, says Parker, C. J., in Hayward v. Leonard, (7 Pick. 187), in those cases only in which there is an honest intention to go by the contract, and a substantive execution of it, but some comparatively slight deviations as to some particulars provided for. Cases of fraud or gross negligence may be exceptions.
+Now that may have been the case here, although by the omission of the plaintiff in error to return the evidence with the record, we cannot positively say so. It is sufficient, however, that the evidence so far as stated, justifies us in presuming it may have been the case, and it is so alleged by the defendants in error to have appeared. The contract was a very precise one; it specified not only the number of logs and time of delivery, but the mode of cutting, and quality of them, the width to be not less than thirteen inches at the top end, and the smallest logs not to be crooked, to be sixteen feet long, and not to be split in getting them down the hill. If the plaintiffs really and bona fide endeavoured to fulfil the contract, and thought they had, but from accident or otherwise, some did not measure to the width provided for, and were rejected as defective too late in the season to supply them, and the deficiency was no more than a small proportion.of the number stipulated, the rule laid down by the court would be a correct one, and it would be doing injustice for us-to say it was not true as an abstract principle in all cases, without referring to the circumstances of each particular case. For these reasons we think the judgment should be affirmed.
+Judgment affirmed.
