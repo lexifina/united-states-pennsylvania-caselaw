@@ -1,0 +1,27 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1824-06-21"
+citations: ["11 Serg. & Rawle 319"]
+reporter: "serg-rawl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SELIN and others against SNYDER and others."]
+source_url: "https://static.case.law/serg-rawl/11/cases/0319-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1812785
+cites_cases: ["1 Peters Rep. 15", "1 Peters Rep. 203", "1 Yeates, 446", "4 Binn. 334", "6 Binn. 478", "6 Binn. 490"]
+---
+
+# Selin v. Snyder
+
+## Majority (Tilghman, C. J.)
+
+The opinion of the court was delivered by
+Tilghman, C. J.
+Two bills of exceptions were taken by the counsel of the defendants, to the opinion of the Court of Common Pleas, on points of evidence; besides which, several exceptions were taken to the charge of the court.
+The first bill of exceptions was abandoned.
+The second, was to the opinion of the court, in rejecting evidence offered by the defendants, of certain declarations of Anthony Selin, viz. that he had said, at, and just before the sale, “that he intended to bid but eight dollars an acre,” and that immediately after the sale, “he offered to several persons, to take them as partners in his purchase, at the same rato at which he bought.” The court decided, that no declarations of Selin, except those at the sale, should be given in evidence. It would have been very proper, to exclude all declarations before the sale; neither do I think, that any thing said by Athony Selin, as to what he intended to bid, was evidence. But his offer, after the sale, to take a partner, at the same rate at which he purchased, certainly was evidence. One of the plaintiffs’ arguments against the sale, was, that the price Was far below the value of the land. Now had this been the ease, it could hardly be supposed, that the purchaser would have given away half his profit, by taking in a partner. Neither can it be denied, that a public offer, made and not accepted, to sell one half the land, at the price at which it was struck off, is some evidence, that if was not much below its value. But this evidence was proper for another reason. The plaintiffs suggested, that Anthony Selin made the purchase, in collusion and in secret partnership with Simon Snyder, one of the administrators of his brother John. If so, the sale ought not to have stood; for although it was ostensibly conducted by John Miller, yet it might well be supposed that Simon Snyder had some influence over him. And at all events, it was against law, that one of the administrators, entrusted with the sale by the Orphans Court, should be concerned in the purchase. It was natural for the defendants therefore, to disprove that fact, and for that purpose the evidence was important; for, if Simon Snyder was a partner, Selin would have had no right to take another person in. I am of opinion, therefore, that there was error in rejecting the evidence of these offers made by Anthony Selin.
+The first exception to the charge of the court was this: The court was requested to instruct the jury, whether the matter set forth in this deposition oí Michael Bower, viz. “that he was afraid of a bad neighbour in Selin,” would make the sale void. To which the court answered, “ that if Selin’s conduct deterred purchasers, the sale was void.” When we consider the whole of Bower’s deposition, this answer is not to be found fault with. Bower swore, that he attended the sale for the purpose of bidding, and would have given the sum of five hundred pounds more than the land went off at, but for the behaviour of Selin, who threatened to knock him down when he made a bid himself, and got into a passion, afterwards, when Mr. Kendig, at his request, made a bid for him. It was prudent, in the court, when charging the jury on the subject of Bowers’ testimony, to take the whole into view, and not confine themselves to the particular part selected by the defendants’ counsel.
+The next objection to the charge, is, that it was contradictory. That the court first told the jury, “ that if they believed there was no necessity for a sale of John Snyder’s land, in order to pay his debts, &c. and that the administrators had not complied with the law, the order of sale made by the Orphans’ Court was void;” and afterwards instructed them,1 “ that it was of no consequence whether there was a necessity or not, or whether the debts might have been paid out of other funds.” With all due allowance for the associate Justices, who delivered this charge in the absence of the President, there does appear to be a contradiction which must have left the jury at a loss what to think of the law. When that is the case, there must be error. It has been so decided on several occasif'- -
+The last exception to the charge is, that some material parts of it, were dictated, and drawn up, by the counsel for the plaintiffs. That is a matter with which this court has nothing to do, nor can we know, by the record, in whose handwriting the original charge was, or who dictated it. The only question for us, is, whether there be error. If the law was properly declared by the court, it is of no importance from whom they derived their information; if improperly, the party injured may have redress by writ of error. The judgment is to be reversed, and a venire de novo awarded.
+Judgment reversed and a venire facias de novo awarded.
