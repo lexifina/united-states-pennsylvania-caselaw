@@ -1,0 +1,28 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1808-09"
+citations: ["4 Yeates 561"]
+reporter: "yeates"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["*Alexander Wright and William Porter, [*562 plaintiffs in error against the lessee of John Small."]
+source_url: "https://static.case.law/yeates/4/cases/0561-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6776802
+cites_cases: ["1 Watts 101", "2 Pa. 349", "3 P. & W. 436"]
+---
+
+# Wright v. Lessee of Small
+
+## Majority (Tilghman, C. J.)
+
+Tilghman, C. J.
+delivered the opinion of the court. This cause is brought before us, on a writ of error to the Court of Common Pleas of Mercer county. The bill of exceptions contains a long detail of evidence, after which is inserted the charge of the president to the jury; which the plaintiffs in error alledge to be erroneous in several particulars.
+The land in dispute, lies N. W. of the river Ohio. The defendant in error, who was the plaintiff below, claimed under a warrant, and also under a settlement right. The plaintiffs in error claimed under a warrant, which contained a vague description, and was laid upon land different from That which the warrant called for. At the time of entering this warrant in the book of the deputy surveyor, a special entry was made, describing the place intended to be surveyed.
+It was contended by the defendants below, that the special entry was notice to all the world, and amounted in law to an appropriation of the land intended to be surveyed. The president declared in his charge, that the nature of the warrant could not be altered by a special entry, and that there was no appropriation of the land before survey. This is the first alledged error.
+. The warrant issued under the act of 3d April 1792, entitled “ an act for the sale of the vacant lands within this common- “ wealth.” The third section directs, that the warrant should contain a particular description of the land applied for; and by the fourth section, the deputy surveyor,-who should receive any *warrant, was required to make a fair and clear entry of it in a book to be provided for that purpose, in order that *- ^ all persons who apply for lands, may be informed of the warrants which have been issued. It was the duty of every person who applied for a warrant, to give a particular description of the land; and if this was omitted, it could not be supplied by an entry in the book of the deputy surveyor. The law directs no entry of any thing but the warrant, and if an entry not authorized by law is made, nobody is bound to take notice of it. This court are therefore of opinion, that there is no error in the judge’s charge on that point.
+There is only one other assignment of error, of which we think it necessary to take notice. It is this ; that the president told <T.e jury, that John Small’s actual settlement in 1795, “will “ relate to his improvement in 1794.”
+As some difference seems to prevail among the gentlemen of the bar, respecting former decisions of judges of this court, sitting at Nisi Prius and in Circuit Courts, we think proper to express our sentiments explicitly on the subject in question. If an improvement is begun with an intent to make an immediate settlement, and prosecuted with due diligence, till a settlement is completed, the title relates to the commencement of the improvement. It is essential that there should be an intention-of immediate settlement. An improvement made with a view of appropriating land for the purpose of sale, or of future settlement, is of no avail. The intent must be collected from the conduct of the person. If a small improvement is commenced, and a considerable delay takes place before there is any residence, it lies on the improver to account for it in a reasonable manner. Much will depend on the situation of the country, with respect to danger from an enemy, the difficulty or facility of procuring provisions, the health of the improver and his family, and a variety of circumstances, which must be judged of, as they are brought forward. It appears to us, that the president of the Court of Common Pleas, ought to have stated the law in this manner to the j ury, and that he went too far in deciding, that the title of the plaintiff below commenced in 1794. Whether it commenced then, depended on his intent at tbe time he made his little improvement in that year, and on the reasonableness of the causes alledged for the delay of residence. Of these things the jury should have been directed to judge; arid they should have been told, that according to their opinion on these points, the settlement would commence in 1794 or not. It is true, that the president in the conclusion of his charge told the jury, that if they thought differently from him, they might find differently. But having told them what the law was, it became their duty to take *it so, and not to differ from him; because the court are to decide the law, and the jury the fact.
+Cited in 3 P. & W. 436 to show that an improvement, in order to be available in law, so as to give a pre-emption right to land, must be commenced with intent to make an immediate settlement, and prosecuted with due diligence till the settlement is completed, and if done so, the title so acquired, will relate back to the commencement of the improvement. Cited for the same purpose in 2 Pa. 349.
+Referred to in 1 Watts 101.
+We are therefore of opinion, that the judgment of the Court of Common Pleas be reversed, and a venire facias de novo be awarded. Concerning the merits of the cause, we think it improper to express any opinion.
