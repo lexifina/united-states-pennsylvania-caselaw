@@ -1,0 +1,22 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1835-05"
+citations: ["4 Watts 141"]
+reporter: "watts"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lishy against O’Brien."]
+source_url: "https://static.case.law/watts/4/cases/0141-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1842691
+cites_cases: ["10 Serg. & Rawle 307", "15 Serg. & Rawle 162"]
+---
+
+# Lishy v. O'Brien
+
+## Majority (Sergeant, J.)
+
+The opinion of the Court was delivered by
+Sergeant, J.
+—The plaintiff.in error endeavours to support bis defence by asserting, in the first place, that his engagement was in nature of a guarantee as ultimate security; and, in the next place, that the property of the principals must in such case be exhausted before suit can be maintained against the surety. Without expressing any opinion on the last of these propositions, it may be observed, that the engagement in this instance is not a guarantee ; but, by the express agreement of the parties, was given and received as a collateral security for the payment of the note of Wilden and Lishy. That is, as I understand it, a concurrent security, consisting of a promissory note, by which the promissors engaged to pay, without any condition or contingency, at the time mentioned, the amount of the note to the holder. There appears to be no reason why the debtor should not comply with this promise, or why the holder is not authorized to demand and receive the money when due. The object of giving a collateral security is to furnish another fund out of which the principal debt may be paid : sometimes, by depositing goods, or stock with a power of attorney, or notes of third persons. The holder has a right to avail himself of these funds, by collecting the money on choses in action, when due, and applying it to the payment of his debt; and it is usual for the creditor, when goods or stock are deposited as collateral security, if the debt is not paid when due, to avail himself of these deposits by sale, as in case of a pledge. A promissory note delivered to the creditor as collateral security is his ; and, if not paid when due, he may sue upon it: and it is for the interest of the original debtor that he should do so in most instances, otherwise an available fund might be lost. The creditor is bound to account with his debtor for the proceeds of such security, and cannot have double satisfaction ; but he may avail himself of all his remedies by suit. It is true Jacob Lishy may, in his relation to Jacob Wilden and Lewis W. Lishy, be merely a surety, and if compelled to pay this money may have recourse even to them for indemnity. But the plaintiff received the note merely as a collateral security ; and if the defendant had expressly signed the principal note as surety, it would not exempt him from immediate liability. A surety is equally bound with the principal to punctual performance when he enters into an engagement for the absolute payment of money at a future day. In the cases that have occurred in our courts on the subject of collateral security, the questions have been whether the creditor received the properly as payment, or only as collateral security ; and whether parol evidence was admissible in certain cases. Leas v. James, 10 Serg. & Rawle 307; Hart v. Boller, 15 Serg. & Rawle 162. But, I believe, it has never been doubted, that if the debtor delivers to his creditor a promissory note of another for the payment of a sum of money at a certain day, as collateral security for a debt due or growing due by the debtor to the creditor, the latter is entitled to demand the contents of the note when due ; and to sue for it if unpaid : nor has it been considered a defence to the promissor for non-compliance with his contract, that the note had thus been transferred. As to such promissor, it is res inter alios acta, with which he has nothing to do; his duty is to fulfil his contract by paying the legal holder. In this case the principal debt had six and twelve months to run ; the collateral security bore the same date, and was payable at the expiration of twelve months. By this arrangement the defendant would not be liable except on the failure of the principal debtors to discharge their debts according to their undertaking; and, in that event, it was the express object of his engagement that he should be bound to pay the note to which he was a party.
+Judgment affirmed.
