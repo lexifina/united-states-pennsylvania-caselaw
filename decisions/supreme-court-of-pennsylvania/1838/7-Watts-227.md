@@ -1,0 +1,26 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1838-05"
+citations: ["7 Watts 227"]
+reporter: "watts"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Tilghman, C. J., and Duncan J. concurred."]
+parties: ["Withers against Baird."]
+source_url: "https://static.case.law/watts/7/cases/0227-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1846876
+---
+
+# Withers v. Baird
+
+## Majority (Gibson, J.)
+
+The opinion of the Court was delivered by
+Gibson, J.
+1 see no necessity for a special authority from Baxter to tender his deed. Delivery of it to the plaintiff below, with knowledge of the purpose to be effected by it, was sufficient to make it an escrow ; and the plaintiff, who was bound to make the title, was the person to tender it. But the acknowledgement was palpably insufficient to bar the dower of Baxter’s wife. The office of a magistrate in respect to private examination, is a judicial and a delicate one. Entrusted with the business of inspecting the wife’s knowledge and will, he should be superior to all exception on the score of impartiality. When he is bound to procure her concurrence, his inducement to abuse his trust is as strong as if the conveyance were made to himself; and it would not be pretended that his judicial functions could be exercised in his own case. His responsibility for the conveyance, whether through himself or directly to the defendant, made him equally a party in interest; and no consent, short of an agreement by the vendee to take a defective title, which is not pretended, could supply the place of a separate examination. To say the wife might precedently waive her protection from it, would be absurd : she can waive nothing or assent to nothing except in the way pointed out by the law. Nor can I see how the tender of an unexceptionable conveyance at the trial, or before leave to take the money out of court, could be an equivalent for tender before suitbrought, The execution of the conveyance, and payment of the purchase money, were mutual conditions; anda right of action could not accrue on the one side without a tender of performance to the other. This is, in substance and in form, an action at law ; and though equitable circumstances might dispense with performance strictly at the day, the plaintiff must have done every thing incumbent on him before action brought.
+The direction that it was unnecessary to shew title to the four acres out of the commonwealth was well enough. These were taken in exchange for a part of the original tract, and were to be conveyed to the defendant only in case the part of it parted with could not be reacquired. But the conveyance of the original tract was to be expressly subject to the claims of the commonwealth; and in the absence of special provision to the contrary, it would be unreasonable to apply to the equivalent any thing but the covenants applicable to the thing for which it was substituted.
+It is objected that the plaintiff’s own conveyance is without a general warranty or covenant against incumbrances. But a warranty deed, for which alone the vendee stipulated, is, in popular phrase, a deed with special warranty ; and that the parties meant no more is evident frorA their declaration that they intended “ only a warranty deed, subject to all the demands of the commonwealth.” For a covenant against incumbrances the contract did not call, it being sufficient to show that the land was in fact unincumbered.
+The direction that the court’s control over the application of the purchase money was a substitute for the extinguishment of Baxter’s judgment before action brought was decisively wrong. The judgment bound the vendor’s interest in the land, or in other words the legal title, to the value of the unpaid purchase money. A purchaser under it would be entitled not to possession of the land, but to the benefit of the covenants for the price of it; he would, in short, stand in the place of the vendor, entitled to his rights and subject to his responsibilities. It must be obvious, therefore, that payments to the vendor subsequent to an incumbrance of his title, would not prevail against the incumbrancer. The vendee is a purchaser of an inchoate title, and being bound to notice all defects, his payments are at his peril. On the other hand, the vendor may not call for the purchase money while there is an incumbrance outstanding. He cannot compel an appropriation of it in the vendee’s hands at the expense of costs and the vexation of a lawsuit to one who had done every thing incumbent on him to entitle himself to a precise execution of the contract. What is it to him that the vendor may be unable to raise a sum sufficient to clear the tille 1 The vendor’s misfortunes can give him no right against one who is not in default. If by reason of the perils that would attend payment to him, he cannot ask it amicably, it is not easy to discover how he can compel it under the court’s mediatorial discretion to apply the purchase money to the vendee’s protection. The direction was palpably wrong.
+Tilghman, C. J., and Duncan J. concurred.
+Judgment reversed, and a venire de novo awarded.
