@@ -1,0 +1,31 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1841-12"
+citations: ["3 Watts & Serg. 45"]
+reporter: "watts-serg"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Shortz against Unangst."]
+source_url: "https://static.case.law/watts-serg/3/cases/0045-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1854633
+cites_cases: ["4 Rawle, 444", "5 Whart. 506"]
+---
+
+# Shortz v. Unangst
+
+## Majority (Sekgeant, J.)
+
+The opinion of the Court was delivered by
+Sekgeant, J.
+— The merits of this case having been already discussed and decided upon by .this court, on the former writ of error, it would be superfluous to travel over the same ground again. It is necessary chiefly to notice the bills of exception.
+1. The first error assigned is to the admission in evidence of the certified copies from the recorder’s office, of the articles of agreement, or, as they are entitled, Rules of the Lutheran congregation of the Dryland church. The objection is, that they are not such a deed or writing as comes within the recording Acts. The Act of 1775 directs the recording of all deeds and conveyances of and concerning lands, tenements or hereditaments, or whereby the same may be any way affected in law or equity. And by the sixth section, the recorder is to make entry in a book, of every deed or writing brought into his office to be recorded. In Hellman v. Hellman, (4 Rawle, 444), it is stated by Mr Justice Kennedy, in delivering the opinion of the court, that by the use of the term writing, it is shown, that it was not intended to restrict the meaning of the term “ conveyances,” to deeds; so that conveyances not under hand and seal, of and concerning lands, or whereby they may be affected in law or equity, may be recorded, after being duly proved or acknowledged: and that such deeds, conveyances and writings, as pass or create an interest or right of some kind in land, are within the act. Nothing, it is believed, is more common than to record articles of agreement for the sale or settlement of lands, or for creating or declaring an interest therein. The present instrument, whether called a species of conveyance, declaration of trust, or article of agreement, concerns the title to land, and the regulations embraced by it relate to the ownership and mode of enjoying land and buildings thereon. It begins by reciting, that the two congregations had built the church —that they had taken up 7 or 8 acres of land—that it was to remain in them and their successors’ possession for ever. It then describes its boundaries and site. It proceeds to declare, that no more than one church and school-house in common are to be erected, the persons who are to pay for them, the number of trustees, and how they and the minister of the church are to be chosen; the modes of conducting public worship there, the rights in the church, and method of repairing the buildings and erecting tomb-stones. The instrument therefore, we think, comes within the denomination of “ writings by which lands may be affected in law or equity,” inasmuch as it declares the title of the owners, defines and fixes their respective rights in the lands and buildings, and regulates the terms and manner in which they are to be for ever thereafter held and enjoyed.
+As to the deed, it is rather in nature of a deed of confirmation, than one under which the title to the land was claimed and held. It is long subsequent to the articles, which are themselves subsequent to the taking up and improving the land, the title to which would seem to have begun by occupancy or settlement; for they recite that they had taken up the land, which seems to mean as ground considered and deemed vacant. The effect of the deed, considering it was produced by the church as having been accepted and acted on by them, was, to create trustees to hold for the benefit of the congregations having already a title by settlement. These instruments were accompanied by ancient and continued possession under them, for more than 21 years, and would therefore constitute a title, at least prima, facie.
+2. It is objected, that Gress could not convey without the consent of the cestuis que trust. But the power to convey passes by the grant to Brown and Gress, their heirs and assigns; and Gress being the survivor, could, in the absence of any proceeding to control him, assign to another trustee.
+3. The admission of George Frederick as a witness, was objected to. Had it then appeared, as it subsequently did, that he was one of the parties concerned in bringing and carrying on this suit, the objection would have been tenable. But there is nothing in the circumstance of his being one of the church council which has that effect. It does not appear that as such he had any interest in the event of this suit, or would be personally affected by its result.
+4. The fourth objection is to the rejection of evidence that Koehler and Shortz 'were descendants of Koehler and Shortz, whose names were alleged to be signed to the articles of June, 1788. It does not a’ppear how this was pertinent to the case in any way, and if received, would, as far as we can judge, have been immaterial to the case.
+5. Evidence of the custom was rightly rejected. It was by the articles and deed the rights of the parties were to be tested.
+6. We think the copy of the bond of indemnity was, under the circumstances, admissible as secondary evidence, the obligee who had the original in his custody having admitted in court, when called upon to produce it, that he had burned it. Although his name was necessarily used in the suit, yet he had disclaimed it, and was in an adverse position to the plaintiffs.
+The 7th and 8th are the same. This evidence was also properly overruled. It led to nothing. It did not prove w7hether the charter would have been accepted, if General Shimer had not, as was alleged, misrepresented its contents. And if that might be conjectured, it was only by the acts of the meeting, their measures could be legally determined.
+We concur in the positions laid down by the court below, as to the effect of the charter.
+Judgment affirmed.
