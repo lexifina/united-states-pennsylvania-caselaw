@@ -1,10 +1,12 @@
 ---
 court: "Supreme Court of Pennsylvania"
 decided: "1798-12"
+decided_precision: "month"
 citations: ["2 Yeates 350"]
 reporter: "yeates"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
+text_source: "CAP head matter (CAP holds no opinion text)"
 parties: ["Esco Vibus against Arend Wirting."]
 source_url: "https://static.case.law/yeates/2/cases/0350-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
@@ -13,4 +15,19 @@ cap_id: 812693
 
 # Vibus v. Wirting
 
+## CAP head matter
 
+*CAP holds no separate opinion text for this decision: the text below is its head matter as CAP gives it, which may hold the court's opinion or order together with the publisher's syllabus, headnotes and counsel.*
+
+Esco Vibus against Arend Wirting.
+Foreign master of a vessel who changes his voyage, and promises his seamen if they will proceed with liim to pay them their wages at the port, shall be held to bail in a suit for wages, tho’ the seamen have subscribed original articles, that they will not commence any suit in foreign parts, but abide by the maritime laws of a foreign country.
+The defendant was arrested by capias, whereon bail was indorsed in 600 dollars. A motion was now made to show cause of bail.
+Tt appeared on hearing, that the plaintiff was shipped as a mariner on board the brig Speculation, commanded by the defendant, at Amsterdam, about the 2d March 1797, on a voyage from thence to Lisbon, and then to return to- Amsterdam, at 86 guilders per month..
+The following clause was inserted in the brig’s articles: “ No suit shall be commenced in foreign parts against the master of the ship, nor shall he be cited before any foreign judge, but the mariners shall be bound to abide by the marine ordinances of this city of Amsterdam, and the adjudication of the court of Holland.”
+The plaintiff made affidavit of his being shipped as a mariner for the voyage above mentioned, and that the defendant, after his arrival at Lisbon, proceeded to Elsineur (on which Yoyage they passed the bay of the river Texel,) thence to Riga in Russia, Elsineur, England and Lisbon.. At this latter port the plaintiff demanded his wages- and discharge, as he had frequently done at the other ports. The defendant chartered the vessel from Lisbon to St. IJbes, Philadelphia, Norfolk, and back to Lisbon, but then agreed with the plaintiff and the other mariners, that if they would proceed in the brig to St. IJbes, he would there pay them their wages and discharge them, to which they all assented. When they arrived at St. Ubes, the defendant refused to pay the crew their wages, and told them they might go about their business and leave the vessel; but this they declined doing, asa considerable sum was due to them for wages. The brig arrived in the port of Philadelphia on the 31st October last, and the plaintiff continued on board until the 27th November, when the cargo was discharged. He then demanded his wages from the defendant, who refused to pay him, and afterwards procured his commitment to gaol by the mayor of the city. The plaintiff swore, that the defendant was justly indebted to him in the sum of 686 guilders, the balance of 1ns wages.
+The affidavit of the plaintiff was corroborated by the oath of Hans Jungens, the mate of the vessel, who had received his wages from the defendant.
+Mr. Lewis for the defendant,
+produced a copy of the libel of the plaintiff and other mariners, against the brig for wages, in the District Court of Pennsylvania; the defendant’s answer thereto, that the crew were not entitled to wages until discharged at Amsterdam, and were restricted from suing in foreign courts; and the decree of Judge Peters, finally dismissing the libel on the 11th December 1798. lie insisted, that the decree of a court having competent jurisdiction of the subject matter of wages, was powerful evidence to show, that the mariners were not entitled to recover their wages in this country. The case of Gienar v. Meyer (2 H. Bla. 603) was also to be in point, and the resolution founded on articles similar to the present, though the ship and cargo were confiscated in an English port, and the voyage thereby ended.
+Messrs. Dallas and Armstrong for the plaintiff,
+insisted, that admitting the case of Gienar v. Meyer in its fullest latitude, it could not affect the present question. There the vessel sailed from Rotterdam to Barcelona, and in her voyage back was captured. She did not deviate from the voyages specified in the articles, nor was any subsequent agreement entered into. Here it is sworn, that instead of the defendant returning from Lisbon to Amsterdam, he altered his voyage without the concurrence of his seaman, and sailed to Elsineur, thence to Riga, thence back to Elsineur, tbence to England, and back to Lisbon. Upon chartering his vessel to St. Ubes, he promises his mariners, that if they would perform the voyage he would pay them their wages. This he afterwards refuses to do, and then proceeds to Philadelphia. If the crew are not entitled to wages until discharged at Amsterdam, and if the captain can prolong his voyage to any period whatever, without their consent, their situation must be very pitiable. But let the maritime laws of Holland be what they will, and notwithstanding the written articles subscribed by the seamen, the captain may, on an alteration of the destined voyage, enter into a new agreement with his crew, and he shall be bound thereby. This assumption sworn to by the plaintiff, who is herein confirmed by a disinterested witness, is a good ground of action, and recoverable in a court of common law. The decree of the district judge was probably grounded on the written articles alone: but supposing the case to be otherwise, it cannot be conclusive on the minds of this court, possessing a concurrent jurisdiction.
+The court declared their opinion, that the new assumption sworn to, under the circumstances of this case, fully justified the bail demand, and ordered that the defendant should take nothing by his motion.
