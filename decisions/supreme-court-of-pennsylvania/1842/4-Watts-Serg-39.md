@@ -1,0 +1,22 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1842-07"
+citations: ["4 Watts & Serg. 39"]
+reporter: "watts-serg"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Road Case."]
+source_url: "https://static.case.law/watts-serg/4/cases/0039-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1856306
+---
+
+# Road Case
+
+## Majority (Kennedy, J.)
+
+The opinion of the Court was delivered by
+Kennedy, J.
+— There are two exceptions to this road, either of which is fatal. The first is, that the court have not directed of what breadth it shall be opened, although they have approved of it. The 4th section of the Act of the 13th June 1836, relating to roads, &c. enacts; “ If the court shall approve of the report of the viewers allowing a road, they shall direct of what breadth the road so approved shall be opened, and at the next court thereafter, the whole proceedings shall be entered on record, and thenceforth such road shall be taken, deemed and allowed to be a lawful public road or highway, or private road, as the case may be.” It was contended that the proceedings to lay out and open the road were not erroneous merely because the court had omitted to direct of what breadth it should be opened; that at most it was only imperfect, and might be rendered perfect at any time by an order of the court below to be made for that purpose. That this court might remand the record and proceeding to that court, so as to have the omission supplied. But the obvious meaning of the section is, that the court shall, at the time they approve of the report of the viewers, direct of what breadth the road shall be opened; after which it shall lie over to the next court thereafter, when the whole proceedings shall be entered upon record, from which time it shall be taken, deemed and allowed to be a lawful public road or highway. In this case, however, not only the court at which the road was approved, but the next succeeding court had come around and passed by, without any such order having been made by the court. There is also good reason why the court should direct of what breadth the road snail be opened at the time they approve it; because its breadth may be of some moment to those through whose improved lands it passes; as in this very case, it passes through a valuable out-lot adjoining the county town. If it should be directed to be opened of a breadth not exceeding 16 or 20’feet, it might not be objected to; but if ordered to be opened to the extent of 50 feet in breadth, it may thereby be rendered very objectionable to the owner of the land upon which it is located. He ought, therefore, to have the earliest opportunity afforded him of making his objection in this respect. But it cannot be pretended, with the least show of reason, that the owner of the land, in such case, is bound to wait longer for such order to be made than the term next succeeding that at which the road is approved, for then all the proceedings are to be considered as being completed and entered on record. After this it would seem to be improper in the court to alter or add to the proceedings, when the parties concerned therein are no longer to be regarded as being in court.
+The second exception is, that this road is located alongside of a public road 30 feet in breadth, laid out under the authority of law in 1833, which remains still in public use without being vacated. By the 5th section of the Act mentioned above, the breadth of a public road shall not exceed 50 feet; but it is perfectly plain, if two public roads are permitted to be laid out alongside and adjoining to each other, and each of them ordered by the court to be opened in breadth 50 feet, that a public road or highway will, in effect, be thereby established, of 100 feet in breadth. This, however would be a most palpable violation of the true spirit and meaning of the Act; for, in this case, if the court had directed the road to be opened of the breadth of 50 feet, the two would have made a highway of 80 feet in breadth, contrary to the meaning of the Act. To suffer such a thing to be done, would be doing that indirectly, which, according to the letter of the Act, as well as the meaning of it, cannot be done directly. Fifty feet is the utmost breadth that any public road or highway can be made under the authority of the Act of Assembly.
+Proceedings quashed.
