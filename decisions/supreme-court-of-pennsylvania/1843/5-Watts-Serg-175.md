@@ -1,0 +1,26 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1843-03"
+citations: ["5 Watts & Serg. 175"]
+reporter: "watts-serg"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Odenheimer against Stokes."]
+source_url: "https://static.case.law/watts-serg/5/cases/0175-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 477659
+cites_cases: ["11 Wheat. 431", "3 Binn. 277", "3 Binn. 417", "4 W. 2", "4 Yeates, 361"]
+---
+
+# Odenheimer v. Stokes
+
+## Majority (Sergeant, J.)
+
+The opinion of the Court was delivered by
+Sergeant, J.
+The distinction between a rule of court which tends to alter the law of evidence, and one which is established merely for the regulation of practice, is strikingly illustrated in the two cases on this subject decided in the Supreme Court of the United States. In Doe v. Wenn, (5 Pet. S. C. Rep. 233), it was held that the Circuit Court could not by rule of court change the right of a party to introduce secondary proof of a writing alleged to be lost; and therefore a rule requiring the oath of the party, in addition to the usual proof, was invalid. But in Mills v. The Bank of the United States, (11 Wheat. 431), it was determined that the court might make a rule dispensing with proof of a bond, note, &c., unless the defendant filed with his plea an affidavit denying the execution of the instrument; and that is the case now before us. The reasons given for this decision by Mr. Justice Story are satisfactory and conclusive. The object of such rule is to prevent unnecessary expense, and useless delays or objections, often frivolous. It does not interfere with the rules of evidence. It does not take away the right to demand proof of execution, but only requires the party to give notice by affidavit that he means to contest the fact. Not doing so is a waiver of objection.
+It was decided in that case to fall within the power to regulate the practice for the advancement of justice, and especially, to that end, to prevent delays in the proceedings. Under the same general power given to the courts by Act of Assembly, it was held by this court, in Vanatta v. Anderson, (3 Binn. 417), a case warmly contested, that the court might require of the defendant an affidavit of defence, and direct judgment to be entered if it were not filed within sufficient time. It appears to me that the power exercised in the present case by no means goes as far as that exercised in Vanatta v. Anderson.
+It is impossible, however, to look at our legal history, especially that portion of it which concerns the organization and practice of the District Court of the city and county of Philadelphia, without perceiving that a change has been deemed by the Legislature necessary for the despatch of business and prevention of those delays which attended the former system of pleading, and something of a chancery power to exact a defendant’s oath infused into the proceedings. For that purpose the District Court has been invested with authority to enter summary judgments, without pleadings, unless the defendant files an affidavit setting forth the nature of his defence; which power has been gradually extended to other cases and to this court, and has now become one of the most important features of the present practice. In addition to this, the Act of 11th March 1836, § 6, gives authority to make rules by an express provision conferring peculiar powers. The District Court is empowered to make such alterations and regulations in respect to the time and manner of pleading, and the form and effect of pleadings, and the verification and amendment thereof, and the variances occurring between the cause or causes of action alleged, and the evidence offered in support thereof, and such rules for carrying the same into effect by staying proceedings, payment of costs, or otherwise, as shall be conducive to fairness, economy and despatch, in the trial of such actions. This seems to confer the power to require of a party pleading, that he shall give notice by affidavit of his intention to contest the fact of the signature of the instrument declared on, or otherwise he shall be deemed to have waived the objection. That such a rule contributes eminently to fairness, economy and despatch, we think is evident, and it does no injury to the defendant simply to require that he shall not by his silence put the plaintiff to the trouble and expense of proving, a thing which he never meant to contest.
+As to the argument that the instrument not being filed, it was not in the defendant’s power to inspect it, or ascertain whether it was his signature, the court below could and no doubt would give relief by compelling it, if refused. There may possibly be occasional inconvenience from the rule, (and what rule is there that may not have this effect in extreme cases ?) but that in the main it is a useful and necessary rule, and within the power of the court, we have no doubt; and that its controlling power would, generally speaking, be competent to afford a remedy in extraordinary cases.
+We are also of opinion that the second rule of court relating to suits against partners, falls within the same principles.
+Judgment affirmed.
