@@ -1,0 +1,27 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1886-10-04"
+citations: ["3 Sadler 306"]
+reporter: "sadler"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Merrill R. Skinner, Plff. in Err., v. David McAllister."]
+source_url: "https://static.case.law/sadler/3/cases/0306-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 240248
+cites_cases: ["1 Watts, 503", "102 Pa. 338", "15 W. N. C. 260", "17 Serg. & R. 350", "2 Penr. & W. 502", "2 Watts, 124", "2 Watts, 421", "20 Pa. 25", "22 Pa. 219", "24 Pa. 452", "29 Pa. 106", "3 Watts & S. 510", "3 Watts, 260", "3 Watts, 69", "38 Pa. 40", "4 Watts & S. 164", "4 Watts & S. 269", "45 Pa. 121", "5 Watts & S. 465", "55 Pa. 94", "57 Pa. 29", "6 Watts, 269", "66 Pa. 41", "67 Pa. 43", "7 Watts & S. 248", "7 Watts, 390", "73 Pa. 418", "73 Pa. 446", "75 Pa. 13", "8 Pa. 169", "87 Pa. 270", "87 Pa. 302", "87 Pa. 306", "9 Pa, 71", "9 Pittsb. L. J. 356"]
+---
+
+# Skinner v. McAllister
+
+## Majority (Mr. Justice Trunkey:)
+
+Opinion by
+Mr. Justice Trunkey:
+It is somewhat difficult to ascertain from the paper books the mode of assessing unseated lands in Erie county. Not all the evidence has been printed; and defendant alleges that some of the matter relating to the assessment is incorrectly printed. One thing is admitted, namely: The land was sold as unseated for the taxes of 1860; and the record shows no sale for the taxes of 1S59. As the ease comes it is necessary to notice only the instructions to the jury touching the assessment, on which depends the validity of the sale.
+Babbitt had resided on the land, and it had been assessed to him as seated. The court told the jury that, after 1853, the land was assessed to Babbitt among the seated lands up to and including the year 1860, and that in that year the land was returned by the collector as unseated and put upon the list of unseated lands in the commissioner's’ office. And they were instructed that, unless the land had actually become unseated, the sale was a nullity; also that, if the land had been abandoned so long as to become again unseated, and the collector returned it to the commissioners as unseated, and they made the proper entry thereof in the unseated land book, the sale was valid.
+It was clear that the land was assessed, either as seated or unseated, for the year 1860; that the rate had been fixed, the amount of tax ascertained, and the same put into the hands of the collector. From the peculiar method of keeping the books it may be impossible to ascertain how it was assessed; but it was assessed with the other lands in the township. That assessment was made in the fall of 1859, or early in 1860. If it was assessed as seated, then the jury were rightly told that, “if Snow went in there and made it his residence, with property there out of which the tax could have been collected in 1860, then the sale by the treasurer, notwithstanding the fact that it had been put on the unseated book, was void.” But if the land was assessed as unseated, although Snow resided on it in 1860, with personal property, what right had the collector to touch such property? If the officers choose to make it a land tax, without personal liability of the landowner, the personal property of the lessee, or of an intruder, could not be seized and sold in satisfaction of the tax.
+It was incorrect to say to the jury, as set out in the fifth assignment, that, if the land was seated in 1860, and Snow was residing on it, his property was liable for the tax, in case it was assessed as unseated. The instruction, in connection with other parts of the charge, -was that, if Snow went on the land in I860, to reside permanently, his property was liable for the tax, even if it had been assessed as unseated because of Babbitt’s abandonment. And with the answer to the plaintiff’s first point, the jury would understand that the point of time was December, 1860, to determine whether the land was seated at that date, instead of the date of assessment prior to fixing of the amount of tax.
+If the land was seated when the assessment was made, the sale was void; if unseated, the sale was valid. If the assessor found Snow residing on the land in the fall of 1859, he had good reason not to change the assessment. In that case it matters not where Snow resided in the summer of 1860. If he moved away after the making of the assessment and laying of the tax, the collector and commissioners had no authority to change the tax for that year. Instead of so pointedly directing the minds of the jury to the time of the collector’s return in December, 1860, the coxirt should have directed their inquiry to the date of the assessment. Nor would it have been amiss to inform them that, if the land was seated when assessed, after the collector’s return it was the commissioner’s duty to cause it to be sold as seated.
+Nearly all the rulings and instructions of the learned judge at the trial are unexceptionable. But we think the jury were misled on the matter indicated. It may or may not have affected their conclusion. Snow was assessed in that township for the years 1859 and 1860. It is not shown that he resided elsewhere than on this land; and had the jury been advised that the inquiry whether the land was seated must be with reference to the time of assessment, perhaps the verdict would have been the other way.
+Judgment reversed and venire facias de novo awarded.
