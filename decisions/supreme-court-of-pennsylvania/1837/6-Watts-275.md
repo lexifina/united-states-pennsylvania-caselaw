@@ -1,0 +1,30 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1837-07"
+citations: ["6 Watts 275"]
+reporter: "watts"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Maus against Maus."]
+source_url: "https://static.case.law/watts/6/cases/0275-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1846023
+cites_cases: ["5 Watts 315"]
+---
+
+# Maus v. Maus
+
+## Majority (Huston, J.)
+
+The facts of the case are sufficiently stated in the opinion of the Court which was delivered by
+Huston, J.
+About 1806, Philip Maus, deceased, executed a single bill to Lewis Maus. About March 1810, Philip made his will, devising his lands in specified portions to his daughter Susanna, (intermarried with Strawbridge,) and his sons Lewis, Joseph, and George; and charging George’s share with above 600 dollars and other things. In June 1810, he made deeds to each of those children for the same lands,'and it would seem to George, subject to the same charges. To three of the children those deeds were delivered, and also possession; or they were in possession before. The plaintiff alleged that George refused to accept his deed; he lived with his father. The defendant, who is the sister of the plaintiff', and devisee of George, called witnesses to prove, that George always, from its date, had the deed, but complained of the incumbrance on the land or the lines of it. To August term 1811, a suit was brought in the name of Lewis Maus, for Jacob Bachman against Philip Maus,debt on singlebill not exceeding 200 dollars; returned served on the 27th of August 1812; on motion, judgment.
+It was proved that Philip Maus, soon after 1810, was weak in body and imbecile in mind, and did no business of any kind.
+No. 44, of November 181"3, scire facias on the above judgment, returned scire feci. On the 27th of January 1814, defendant’s death suggested, and William Montgomery, his administrator, substituted. The paper book shows nothing more done on this. No. 33, of April 1819, scire facias against Williain Montgomery, administrator of Philip Maus; on the 20th of April 1819, on motion, judgment. No. 12, to August 1819, fieri facias; at November 1819, an affidavit and exceptions filed, judgment opened, and levy and sale stayed, and this continued on the argument list until April 1821. Though on the execution docket of November 1819, there is an entry of. rule dismissed by consent. There was a venditioni exponas, but no notice was taken of this in the argument; probably the levy was of some trifling personal property. George Maus died before 1829, having devised his land to the defendant. There was no question, but that'he lived on the tract as sole owner from the death of his father in IS 13.
+No. 101, of April term 1829, scire facias against Montgomery, administrator, &c., and on motion, judgment. And also to April 1829, fieri facias, levied on Joseph and Elizabeth’s land, judgment, and not condemned. No. 16, of January 1S33, scire facias to continue the lien, with notice to Lewis Mans, Joseph Maus, Elizabeth Maus, and Philip Strawbridge.
+Lewis Maus, who was plaintiff, and also one of the defendants put in no plea. The other three defendants pleaded several pleas. See this case, 5 Watts 315.
+On the trial before the court and jury, issue was joined, and evidence given on the following disputed points. 1. Whether Lewis Maus did not obtain the original note from his father for a special pmpose, and afterwards assign it to his father-in-law, Jacob Bachman; whether Bachman and Lewis did not promise to the old man to return the bond, and it was clearly proved, that Bach-man’s executors did not claim it, but reassigned it to Lewis in 1817. It was also contended, that the will and deeds of old Philip, were intended to close and satisfy all claims by his children against him; and that Lewis so understood it, and accepted the property given to him. Other matters were suggested as estoppels, viz: the judgment against old Philip, but instead of relying on that, the plaintiff joined issue on the truth of the pleas. The state of the old man’s mind, and the service on a man, who, perhaps, did not understand it; and the judgment without appearance or plea, or rule to plead, the strange mode of disposing of the motion to open the judgment, on the scire facias, were matters which might induce a court to leave the cause on the facts on which parties had joined issue; and not to strain the law to give the party the benefit of points which he had waived by his replications to the pleas.
+The facts were for the consideration of the jury. On a writ of error we have nothing to do with the verdict; we cannot grant a new trial, though we should think the verdict against the weight of evidence.
+The court below gave a passing notice to another matter, not relied on, but which, if the cause went back, must, perhaps, be conclusive against the plaintiff. If the docket entries are correct, the first levy was ended in 1819; and no proceeding until 1839, when a scire jadas was served on the administrators of Philip; now, as I understand all the testimony, George, from the death of his father, before January term 1814, claimed as purchaser, and held as a purchaser, and neither- the scire facias of 1819 or 1839, was served on him or his devisee. And as I understand the law and the decisions on it, a sci^e facias to continue the lien has no effect on a purchaser in fee, on whom it is not served. Perhaps, this point not having been made below, the paper book may not have been correct and misled me.
+The points submitted, however, whether Lewis has always been the owner of the single, bill, or is now the holder; whether it ever was a debt, or if it was, whether it has long since ceased to be one: and whether, even if the deed to George was in part voluntary, yet accepted, was good against a voluntary bond, must have, on the pleadings, been submitted to the jury; and we see rio error against the plaintiff in the remarks of the court to the jury.
+Judgment affirmed.
