@@ -1,0 +1,28 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1838-04-09"
+citations: ["3 Whart. 423"]
+reporter: "whart"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["M'CREDY against THE SCHUYLKILL NAVIGATION COMPANY."]
+source_url: "https://static.case.law/whart/3/cases/0423-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1833427
+cites_cases: ["10 Serg. & Rawle, 155", "10 Serg. & Rawle, 195", "16 Johns. Rep. 193", "2 Jones, 210", "3 Yeates, 442", "4 Binn. 83", "4 Wharton, 497", "6 Binn. 319", "6 Binn. 59", "6 Watts, 288", "6 Wharton, 153", "7 Watts, 171"]
+---
+
+# M'Credy v. Schuylkill Navigation Co.
+
+## Majority (Hibson, C. J.,)
+
+Hibson, C. J.,
+delivered the opinion of the Court.
+As was determined in M‘Reynolds v. M'Cord, (6 Watts, 288,) evidence of contents must be preceded by proof of existence, which includes proof of execution. The rule has long been established, with this qualification, however, that proof of suppression or destruction, by the party to be affected, where no better can be had, be taken for proof of execution. That, however, is strictly not a qualification, but a subjunction of the rule, that the best evidence be produced. - How stood the preliminary proofs, when the offer was submitted ? Of delivery, which is an integrant part of execution, there was no colour. On the contrary, the only witness who touched the fact, declared, that the instrument had been put into the hands of Mr. Emlen, its depositary, as an escrow; and the latter did not recollect on what occasion, or, with certainty, to whom it was given up. There is little doubt, however, that having been retained as a security for something left undone by the plaintiff’s predecessor in the contract, it was given up in the presence of the parties to it, when previous stipulations were merged in the present covenants ; and it would seem, that it had not in fact become a deed — at least, there was no spark of proof that it had. There was therefore not only no proof of execution, but actual disproof of it; and in these circumstances, proof of contents was altogether inadmissible. Besides, the recollection of Mr. Pawling, who, had the paper become a deed, might have been its possessor, ought to have been consulted.
+The condition of the dam, previous to the only agreement that has been, produced, was properly excluded from consideration. That this agreement was made to settle and satisfy past differences, *as well as to provide for the future, is expressly declared in it; and that the evidence excluded could have legitimately made the defendant liable on the original covenants, if any had existed, is not pretended. But as he covenanted to maintain the dam at an increased'height, and, casualties excepted, in good condition, it is said he was bound to build on a foundation capable of supporting the superstructure; and this, it is urged, the evidence would have shown he had not done. By the contract, however, he was held no further than to put the additional superstructure on the existing one; and such being the words, each party took on himself the risk of its sufficiency. Had the fitness and stability of the original dam been a matter for subsequent determination, there ought to have been a provision for a survey of it; but that it would be sufficient to resist the ordinary pressure of the current, was taken for granted: and for the consequences of floods, the defendant was bound no further than to repair or rebuild — to rebuild, however, not in the first instance, but only when experiment should prove it to be necessary. Evidence, therefore, that it would have been better to rebuild in the first instance, could have tended only to mislead.
+Neither was the witness to whose testimony exception was taken, disqualified by interest. He was not in the predicament of a servant contingently liable to his employer for the event. He was in the defendant’s service as superintendent of repairs; but the nature of his duties is not shown, or that he disobeyed his instructions and acted tortiously of his own head. He may have been, and probably was, no more than an overseer; and if he failed to keep the labourers duly at work, his neglect in that particular might make him answerable to the defendant, but it could not make the defendant answerable to the plaintiff. The argument is, that there may have been delay in the execution of his task, and a correspondent hindrance of the plaintiff’s business: but, in default of counter proof, the presumption is in favour of diligence; and even the possibility of being secondarily liable to an action for it, is classed with those remote and contingent interests which go to credibility. A declaration for consequential loss from the act of a servant, contains an averment of negligence or misfeasance, which must be proved ; and to maintain it against the master, necessarily requires the plaintiff to make out a case for the master against the servant, which the servant, is consequently incompetent to disprove; but the eventual liability of the witness, here, is by no means a postulate of the action, and a possibility of liability is insufficient to exclude him. The want of a direction to disregard the testimony of certain witnesses, has not been pressed: nor could it be, as no prayer for direction seems to have been submitted.
+Judgment affirmed.
+Cited by Counsel, 4 Wharton, 497; 7 Watts, 171; 10 Id. 14; 1 Barr, 51; 3 Id. 198; 2 Jones, 210; 8 Harris, 285 ; 12 Casey, 358.
+Cited by the Court, 6 Watts & Sergeant, 369.
+See 5 Casey, 377.
+See 6 Wharton, 153.
