@@ -1,0 +1,22 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1841-04-03"
+citations: ["6 Whart. 336"]
+reporter: "whart"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HICE against KUGLER."]
+source_url: "https://static.case.law/whart/6/cases/0336-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1836975
+cites_cases: ["1 Wash. C. C. Rep. 18", "2 Watts, 121"]
+---
+
+# Hice v. Kugler
+
+## Majority (Gibson, C. J.)
+
+The opinion of the court was delivered by
+Gibson, C. J.
+Actual negligence was made the turning point of the cause; and the direction in respect to the supposed consequences of the defendant's want of objection to the furniture and equipage of the boat, was subordinate to it, and immaterial. What matters a mistake about the consequences of a waiver of objection, when no objection would have excused the conduct which is the subject of the action. If the want of proper boat-poles would be no justification of positive neglect to take proper measures, and do the best with the means in hand, no misdirection in regard to a want of objection to the poles in the first instance, could prejudice the defendant, provided the event of the cause was made to depend on the evidence of such neglect. Negligence is misconduct; and it is impossible to imagine a default on the other side, which could justify or excuse it. Would a choice of the more perilous route be justified by the deficiency of a vehicle unfit for either; or would the intractability of the horses, justify the drawing of a stage-coach through a river in preference to conducting it over a bridge l It would be absurd to answer in the affirmative. If, by reason of attempting to pass the boat across the river at a place where, with the means at command, disaster was inevitable, the loss in this instance was occasioned by carelessness, or a blunder so gross as to be a breach of the implied stipulation for reasonable skill, no excuse for it could be found in the want of poles proper for an extraordinary occasion, though the danger might have been successfully met had they been furnished. W-hy meet it at all when it might as easily have been avoided 1 As the passage across the stream might have been made with obvious safety at a point higher up, where the force of the current could not have been felt, or, if felt, would have been easily resisted, such a part ought to have been selected. That there was a wanton exposure to a force disproportionate to the means of resisting it, could not be doubted. The attempt to run the boat across, deeply laden as it was, not only at a place within the immediate and powerful attraction of the overfall, but also stern foremost, was a flagrant violation of common prudence and common sense. What avails it then that in an emergency, thus recklessly produced, the catastrophe might have been averted by the use of iron-pointed poles, when the production of the catastrophe was itself an act of negligence 1 In Hart v. Allen, (2 Watts, 121,) it was said, in analogy to the doctrine of insurance, that the sufficiency of the equipage is not to be measured by the exigencies of a crisis, but by its sufficiency to conduct the vessel safely to the place of its destination in the absence of extraordinary accidents; and the want of preparation for such a crisis can consequently still less justify a wanton or negligent exposure to the perils of it. I grant that an undertaking to navigate a vessel inadequately furnished, would not subject the party to liability for losses occasioned by such inadequacy, independent of his own misfeasance ; but that is not the case disclosed by the evidence; and the propriety of the direction must be determined by the nature of the resulting facts to which it was to be applied. Negligence was made the turning point of the cause; and it was properly given in charge that an unnecessary attempt to pass at an improper place was evidence of it—a position equally tenable whether the equipage of the boat had passed without objection or not. If, then, a deficiency of means will not justify a misapplication of the means in the party’s power, of what account is it that there may have been a misapprehension in regard to a want of objection for such deficiency 1 The question turned on the point of actual misfeasance; and on the evidence of that the jury were directed to decide it.
+Judgment affirmed.
