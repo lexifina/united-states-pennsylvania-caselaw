@@ -1,0 +1,32 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1795-10"
+citations: ["1 Yeates 586"]
+reporter: "yeates"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Peter Legaux against George Feasor."]
+source_url: "https://static.case.law/yeates/1/cases/0584-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6777909
+---
+
+# Legaux v. Feasor
+
+## Majority
+
+The court told the jury, that the boundaries of actions must be kept up, otherwise confusion would ensue. This well known distinction lias been settled between actions of trespass vi et armis, and on the case: where the injury is the immediate consequence of an unlawful act, trespass lies; but where it is consequential or collateral, case is the proper remedy. If it appeared that the defendant by unequivocal direct force took away the servant, a recovery could not be had in the present form of action; and however the occasion might be regretted, the court could not mould this suit into an action of trespass.
+Messrs. Read, C. Smith and Hall, pro quer.
+Messrs. Duncan and Clymer, pro def.
+To account for the length of time, they shewed that the' testator by his will dated 3d March 1770, had devised to his widow certain bonds, which had been assigned to her; and that after his death she possessed herself of this obligation, against the consent of at least one of the executors (Boltz) and held it until the death of the said John Miller, her second husband, in 1776, when she delivered it up, and died in 1778, leaving considerable property.
+On the other hand, the declarations of Kelker, one of the executors (the brother-in-law of the defendant) on the morning of the trial, were given in evidence, that the widow of Matter had received this bond with the others from him, and that some part of the bond had been paid by a note, but not to him, nor did he see any money paid.
+One Melchior Ditzler was offered as a witness by the defendant, to prove the declaration of the testator’s widow, that the bond had been discharged; but it was objected to, and the testimony overruled b3r the court, because she did not appear to have been the agent of the executors, nor was she interested in the bond under the testator’s will. She could only be considered as a mere stranger, acting without au-thoritj'-, and therefore her declarations could not be received.
+The court in their charge to the jury, said, that as to the proof of actual payment, it must be submitted wholly to them. The declarations of Kelker, in derogation of his trust, and in favour of his brother in law, at that late day, were very suspicious. If he was sensible there was no money due on the bond, he was bound to stop the suit, and then his conduct would be fairly examinable in the Orphans’ Court, at the instance of the legatees. If the defendant had paid money to John Miller by mistake, his estate was answerable for such payment; and if to the widow, her separate estate could be recurred to.
+On the ground of presumptive payment, arising from length o'f time, there remained about eighteen and a half years to be accounted for. The bond was payable on the ist August 1765, and from thence to ist January 1776 was ten years and five months. Take off the interval from the ist January 1776 to the 21st June 1784, under the act of assembly (passed 12th March 1783) and then recur to 1784, and count to 1792 the time of commencing the suit, the period will be about eight years and one month, making in the whole eighteen and a half years. The law for limitation of actions, does not in-*5861 c^U(^e * bonds and specialties, but the principle which -* gave rise to that act, extending also to them, it has been determined that where the limitation act does not apply, that period shall not be computed, in judging of the legal presumption of payment. *
+In the case of Oswald’s executors v. Eegh, 1 Term. Rep. 271, (the latest case in the books on this point) nineteen and a half years of itself merely were held insufficient to form the presumption; and Buller Justice in that case, said that “even 1 ‘ with regard to the rule of twenty years, where no demand 1 ‘ had been made during that time, that is only a circumstance “for the jury to found a presumption upon, and is in itself no “legal bar.”
+But here evidence has been given to repel the presumption. 1. The possession of the bond has been in the widow, since the testator’s death. 2. The defendant has acknowledged a balance to be due on it. And 3. The defendant has indorsed on it the payment of interest in 1772, all of which tend to weaken, if not wholly to destroy the legal presumption.
+Verdict for plaintiff for- 40I. debt, 12I. 6s. iod. damages, and six pence costs.
+The question is, whether this violence plainly appears. The defendant tried his efforts to entice the child away, and used the lure of his visiting his father, getting one of his plantations, and being safe out of his master’s reach. No great force could be necessary to be used by these grown persons over a boy io years old. Taking human nature as we find it, it is highly probable that the boy, though desirous of seeing his father, wishes it now to be believed, that he left his master’s service with great reluctance.
+■j-p-oo-i *What the jury on the criminal prosecution did, can I have no weight on the present controversy. The court will not undertake to say that the former jury erred in their verdict; but they are bound to assert, that the present jury must-judge for themselves on all the evidence they have heard; they will use due caution before they determine that absolute and direct force had been used by the defendant, which will make the plaintiff’s case remediless, on account of the law for limitation of actions; yet, if the evidence clearly induces this opinion, they are bound to say so, and in that case to find for the defendant. Should they think, that the defendant has been guilty of unlawfully enticing and procuring Jockey to depart from his master’s service, they will probably feel themselves bound to assess exemplary damages, taking into consideration the circumstances of the case.
+[After the jury left the bar, the court committed the father of the servant for wilful and corrupt perjury, in the testimony he gave at the trial; and issued a bench warrant against the other witness for the like offence, but he escaped from justice for the present. ]
+Verdict for the plaintiff for 300I. damages, and six pence costs.
