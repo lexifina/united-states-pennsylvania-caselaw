@@ -1,0 +1,45 @@
+---
+court: "Supreme Court of Pennsylvania"
+docket: "Appeal, No. 16"
+decided: "1972-09-15"
+citations: ["222 Pa. Super. Ct. 269"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Weight, P. J., Watkins, Jacobs, Hoffman, Spaulding, Cercone, and Packed, JJ.", "Spaulding, J., joins in this dissenting opinion."]
+parties: ["Commonwealth v. Wolfe, Appellant."]
+source_url: "https://static.case.law/pa-super/222/cases/0269-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 801762
+cites_cases: ["124 A. 2d 666", "181 Pa. Superior Ct. 382", "202 A. 2d 303", "245 A. 2d 446", "285 A. 2d 141", "290 A. 2d 62", "332 U.S. 708", "382 U.S. 708", "415 Pa. 65", "431 Pa. 269", "445 Pa. 288", "448 F. 2d 626", "448 Pa. 114"]
+---
+
+# Commonwealth v. Wolfe
+
+## Majority (Per .Curiam,)
+
+Opinion
+Per .Curiam,
+The record shows that the court below did not disregard the defendant’s contention that some of the convictions appearing in the pre-sentence report were incorrect. Cf. United States v. Weston, 448 F. 2d 626 (9th Cir. 1971). Furthermore, the court below acted reasonably, in view of the circumstances, in imposing the sentences with the explanation that it wanted the defendant to be released on parole as soon as the State Parole Board determines that he evidences rehabilitation.
+The appellant requests that if his appeal is unsuccessful there be a remand for disposition of a post-conviction hearing petition pending in the court below. We should not assume, without a record or consideration by the court below, that the plea of guilty was involuntary because it was made without the aid of counsel, where the appellant at arraignment had unequivocally taken the position that he did not want counsel.
+Judgment of sentence affirmed, without prejudice to the pending post-conviction proceeding.
+
+## Dissent (Hofpman, J.:)
+
+Dissenting Opinion by
+Hofpman, J.:
+This is an appeal from appellant’s guilty pleas to two counts of burglary and two counts of larceny. Appellant having waived counsel, these pleas were entered by him without the advice or assistance of an attorney. Appellant contends that his guilty pleas were not knowingly and voluntarily entered, and that his criminal record was misrepresented to the lower court at the time of sentencing.
+On January 13, 1971, appellant was arraigned before the Honorable John W. Keller. At this time appellant was unrepresented by counsel. The record indicates that when appellant appeared for arraignment he was serving a prison sentence in Maryland. Appellant’s waiver of counsel was as follows: “The Court: Do you have an attorney? The Dependant: No, Sir. The Court : Do you desire to make application for the appointment of an attorney? The Dependant : No, Sir. The Court : Do you understand that you have a right to have an attorney appointed to represent you? The Dependant : Yes, Sir. The Court : Do you understand this attorney would represent you without charge to you? The Dependant : Yes, Sir.”
+Appellant also signed a printed form which contained, among other things, a waiver of his right to an attorney. The record, however, does not contain any indication of appellant’s age, education, or information concerning a psychiatric history.
+On March 3, 1971, appellant appeared before Judge Keller for sentencing. On this occasion he was represented by the Public Defender. The lower court was given a pre-sentence report which stated that appellant had committed various criminal offenses in Maryland and Pennsylvania. Some of these offenses apparently were committed while appellant was a juvenile. At this hearing, appellant denied having committed at least five of the offenses, stating that these offenses were committed by his brother. After sentence was imposed, the trial court stated: “The Court has many times expressed the rule that a person’s record is something that lives Avith him. But, even ignoring or deleting the items you say were not charged to you, your involvement has been remarkable, considering your age.
+“This has had much to do with the sentence that has been imposed upon you today. We also say to you that, because you called the Court’s attention to the fact that some of the items are said to be on your record and they are not, the sentence imposed is less than the sentence I had anticipated.”
+Appellant contends that the sentence must be vacated on the ground that parts of the pre-sentence report were disputed. Cf. United States v. Weston, 448 F. 2d 626 (9th Cir. 1971). I do not believe that this issue must be reached, however, as appellant was clearly denied his right to counsel at the time he entered his guilty pleas.
+In Commonwealth ex rel. McCray v. Rundle, 415 Pa. 65, 202 A. 2d 303 (1964), our Supreme Court stated that the definition of “[w]hat constitutes a competent and intelligent waiver to the assistance of counsel and the trial court’s responsibility in determining if such exists was indicated in the case of Von Moltke v. Gillies, 332 U.S. 708, 724, 68 S. Ct. 316 (1948), wherein at 323, the Court stated: £To be valid such waiver must be made with an apprehension of the nature of the charges, the statutory offenses included within them, the range of allowable punishments thereunder, possible defenses to the charges and circumstances in mitigation thereof, and all other facts essential to a broad understanding of the whole matter. A judge can make certain that an accused’s professed waiver of counsel is understandingly and wisely made only from a penetrating and comprehensive examination of all the circumstances under which such plea is tendered.’ ” (Emphasis in Commonwealth ex rel. McCray v. Rundle.) See also Commonwealth v. Ritchey, 431 Pa. 269, 245 A. 2d 446 (1968), and Commonwealth v. Barnette, 445 Pa. 288, 285 A. 2d 141 (1971).
+It is apparent that before a defendant can intelligently and understandingly elect to proceed without counsel, he should have the opportunity to consult with counsel. A.B.A. Standards Relating to Providing Defense Services, Section 7.3. At least, it would be necessary that the trial judge inform the defendant of all “facts essential to a broad understanding of the whole matter,” and conduct “a penetrating and comprehensive examination of all the circumstances under which [the guilty plea] is tendered.” Von Moltke v. Gillies, 382 U.S. 708, 68 S. Ct. 316 (1948). See also A.B.A. Standards Relating to Providing Defense Services, Section 7.2. In the instant case appellant was incarcerated in Maryland when the present indictments were returned by the grand jury, and at no stage of the proceedings prior to the entry of his guilty pleas was appellant ever afforded the opportunity to consult with counsel or given sufficient information to intelligently and understandingly waive his right to counsel.
+I would hold, therefore, that appellant did not waive counsel at the time he entered his guilty pleas, and I would vacate the judgment of sentence and grant appellant a new trial.
+Spaulding, J., joins in this dissenting opinion.
+There is nothing in the record to indicate why counsel was appointed at sentencing.
+Buie 318 of the Pennsylvania Buies of Criminal Procedure provides: “(2) Upon cause shown by an unrepresented defendant, the court shall assign counsel to represent him as soon as practicable after the case has been docketed in the office of the clerk of court but in any event before indictment; and (3) The court, of its own motion, shall assign counsel to represent a defendant whenever the interests of justice require it.” (emphasis added)
+In the instant case, appellant was incarcerated in Maryland at the time the Grand Jury brought back an indictment against him, and while so incarcerated no counsel was ever appointed in his behalf. Without counsel to represent him on the Pennsylvania charges, appellant might well have unintelligently and unknowingly waived certain constitutional rights, the most obvious being his right to a speedy trial. Apparently the Commonwealth has not developed an appropriate procedure to provide counsel to those defendants indicted while in prison outside of this jurisdiction.
+It should be further noted that the comment to Rule 318 of the Pennsylvania Rules of Criminal Procedure provides that “[a]n ideal rule would authorize the appointment of counsel even at the preliminary hearing stage.” Here, appellant was never given the opportunity of having a preliminary hearing because he was outside of Pennsylvania when indicted. Commonwealth v. O’Brien, 181 Pa. Superior Ct. 382, 124 A. 2d 666 (1956).
+Appellant filed a pro se petition under the Post Conviction Hearing Act on May 20, 1971, alleging that “A plea of guilty was unlawfully induced.” It would be a waste of judicial resources to defer consideration of appellant’s claims in this direct appeal until appellant’s collateral proceeding would come before us. See Commonwealth v. Miller, 448 Pa. 114, 290 A. 2d 62 (1972).
