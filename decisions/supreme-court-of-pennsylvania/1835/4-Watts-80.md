@@ -1,0 +1,24 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1835-05"
+citations: ["4 Watts 80"]
+reporter: "watts"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Guthrie against Murphy."]
+source_url: "https://static.case.law/watts/4/cases/0080-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1842739
+cites_cases: ["15 Mass. 359", "3 Rawle 351", "9 Johns. 141"]
+---
+
+# Guthrie v. Murphy
+
+## Majority (Sergeant, J.)
+
+The opinion of the Court was delivered by
+Sergeant, J.
+—Infants constitute a class of society unable, from want of sufficient discretion, to judge what is best in the regulation of their conduct, and the disposition of their property : and the law, on that account, provides for the appointment of guardians where they are destitute of parents. This safeguard would be of little avail, if third persons, passing it by, could deal directly with the infant, and bind him by his contract. He would be left exposed to the consequences of his own thoughtlessness and credulity, and of the craft of others. It is, therefore, incumbent on those who mean to create an obligation binding on an infant, where he has a parent or guardian extending towards him his care and protection, to apply to such guardian or parent, and contract with him. Though an infant may, in some cases, bind himself for necessaries, yet he cannot do even that where he has a guardian or parent who supplies his wants. Bainbridge v. Pickering, 2 W. Black. 1325; Warley v. Toll, 9 Johns. 141. The profession or trade which he should learn ; the person most competent to teach him; the terms on which the contract ought to be made, are all matters of great moment to the welfare of the infant, and may affect the course of his whole life. If there is any thing in which the counsel and assistance of a parent or guardian are material to his interests, it is this. Our acts of assembly recognize an indenture of apprenticeship' as valid, where there is a guardian, only when executed by him: without his approbation, the infant’s execution of it is null and void. In the case before us, the plaintiff procured the defendant, a boy of sixteen, to enter into his service as an apprentice till twenty-one, to learn the trade of a taylor, without the knowledge of his guardian; who, when applied to by the defendant, expressed his disapprobation of the trade, as unsuited to his health. The guardian lived in the same town, and was ready and able to supply the wants of the defendant. The plaintiff, however, took him into his service, and some time after applied to the guardian to bind him. He refused, saying the defendant had gone against his consent; but if he would serve the plaintiff according to the terms they had agreed on, it was well, or words to that, effect; but he would not interfere further in it. The plaintiff, therefore, took and retained him without the contract of the guardian, and at his own risk. In about two years the defendant’s health was impaired ; he was obliged to quit the service in which he had worked faithfully ; and the plaintiff now sues for the moneys expended in boarding and clothing, beyond what the defendant’s services were worth to him.
+It is manifest, on the principles already stated, that the plaintiff has no cause of action whatever. If he has chosen to disregard the rules of law which forbid such a dealing with the infant, he must take the consequences. It is impossible to separate the articles furnished in pursuance of the contract of apprenticeship from the contract of apprenticeship itself. They constitute a part of it; and every part was against the policy of the law, and void. It is in vain to argue that the mere contract of apprenticeship may be bad, and yet that a responsibility may arise from delivering articles, or disbursing moneys under it: or to say that the plaintiff took the defendant away from the care and protection of his guardian ; and, therefore, the latter would be liable for necessaries. The very taking him away from that care and superintendence was an illegal act.
+The plaintiff’s argument is exceplio ejusdem rei cujus petitur dissolutio. What would be thought of a person who should- take an infant from his parent, and induce him to bind himself apprentice without the knowledge or consent of the parent; and afterwards charge the parent for clothing and boarding furnished the infant while in his service Í The infant’s express promise to pay for the articles, in the present case, would have been invalid. The law would not raise an implied promise from their delivery under an unauthorized contract; and, therefore, neither 'assumpsit nor any other form of action lies to recover the price of them in damages, or otherwise.
+Judgment reversed, and a venire facias de novo awarded.
