@@ -1,0 +1,28 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1814-10-03"
+citations: ["1 Serg. & Rawle 166"]
+reporter: "serg-rawl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: [". Brackenridge J. concurred with the Chief Justice."]
+parties: ["Boar against M'Cormick and others, administrators of Moore."]
+source_url: "https://static.case.law/serg-rawl/1/cases/0166-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1796810
+cites_cases: ["1 Call. 301", "2 Hen. & M. 164", "2 Johns. 37"]
+---
+
+# Boar v. M'Cormick
+
+## Majority (Tilghman C. J. Ye ates J.)
+
+Tilghman C. J.
+after stating the facts, delivered his opinion as follows: — This deed affords no ground for saying that the contract of the parties was to sell by the acre. The whole land was conveyed in consideration of an entire sum of 500/. Nor is there a single expression in the deed which looks like a covenant that the tract contained 200 acres, as the defendants’ counsel have contended. In most cases surveys contain more land than the estimated quantity. Yet when the whole tract is granted, the whole passes without regard to quantity. In the present instance, the description being by boundaries, every thing within those boundaries passed. If there had been 250 acres, Boar would have taken it all, nor-could he have been compelled to pay one farthing more than 500/. With what face then can he demand a deduction, because he does not get the estimated quantity ? If Moore had been guilty of fraud or deception, the case would have been different. But nothing of this kind is pretended» It does not appear that he knew of the error. But the counsel for the defendant wished it to be left to the jury, whether Boar did not make the purchase, supposing the land to contain 200 acres, from a view of the title papers, and also to be left to them to make a deduction from the purchase money, in case it appeared to them that he did purchase under that impression. But, m my opinion, the Court charged the jury
+very properly, that as there was no' evidence of the contract, except the de'ed of conveyance, the defendant was not entitled to any deduction. There may indeed be extreme cases, in which a Court of Chancery would infer, ex natura rei, that there must have been some great misapprehension between the parties, and on that ground equity might demand a relaxation of the strict rules of law. But the present is not one of those cases. There is nothing to induce us to believe that the parties intended any thing else than the sale of an entire tract for an entire sum. Nor is the deficiency such as to afford ground for relief on the principle of the consideration of the contract having failed. If there were occasion to resort to authority, it might be shewn that this point has been several times brought before this court, and always received a determination agreeably to the charge of the president of the Court of Common Pleas, I am therefore of opinion that the judgment should be affirmed.
+Ye ates J.
+It has been contended by the plaintiff in error, that the court withdrew erroneously the decision of the cause from the jury. It does not strike me in that light. No facts Were disputed in the case, nor was any contradictory evidence given. Fraud was not suggested, nor was there a single circumstance disclosed from which it could rationally be inferred that the tract of land was sold by the acre.
+The intestate purchased the land at sheriff’s sale, and obtained a patent, which, describing the survey by courses and distances, calls the quantity contained within the lines 200 acres. He conveyed the lands by the same courses and distances referring to the patent, to Nicholas Boar (for whom tha plaintiff in error became surety in the two obligations declared on) in consideration of 500/. without any covenant whatever as to the quantity. It turned out that the lines of the patent contained only 167 acres and 53 perches, although the lines in course and distance found on the ground corresponded with the courses and distances described in the patent. The defendant below claimed on the trial an allowance for 3? acres and 107 perches, the deficiency. Whether he .was entitled to this allowance seems to me to have been a mere question of law, immediately depending on the terms of the deed. No other evidence was offered of the agreement of the parties. No fact was contested. No circumstance of fraud appeared in the conduct of the vendor. The title to the lands comprehended within the boundaries described in the deed, was not impeached, but from an error in the calculation of the area, equally unknown to the vendor and vendee, the lands were afterwards discovered to fall, short of 200 acres. Reciprocity in such cases is the true measure of justice. If the true quantity of lands had fallen out-to be 232 acres and 107 perches, it will not be pretended that the vendor could recur to the vendee for the surplus, because all the lands described in the deed passed in consideration of the stipulated purchase money. Why shall the vendee on a change of events be exempted from the payment of any part of it ? Why should it be submitted to a jury to determine on the legal operation of such a contract ?
+. The case, of King et ux. v. Dagnet, determined by this Court in Bank at Philadelphia, precisely agrees with-the present in all its parts; and I have no hesitation in declaring . that the judgment of the Court of Common Pleas should be affirmed. " "
+. Brackenridge J. concurred with the Chief Justice.
+Judgment affirmed'.
