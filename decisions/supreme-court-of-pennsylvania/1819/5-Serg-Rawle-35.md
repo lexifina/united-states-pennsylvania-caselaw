@@ -1,0 +1,25 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1819-01-04"
+citations: ["5 Serg. & Rawle 35"]
+reporter: "serg-rawl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Dillman and another against Schultz."]
+source_url: "https://static.case.law/serg-rawl/5/cases/0035-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1804305
+cites_cases: ["12 Johns. Rep. 430", "2 Binn. 76"]
+---
+
+# Dillman v. Schultz
+
+## Majority (Duncan J.)
+
+The opinion of the Court was delivered by
+Duncan J.
+A capias ad respondendum in debt issued against Dillman and Jamison, on which the sheriff returns non est inventus a.s to Dillman. The declaration is against Jamison alone, stating the capias against both, the non est inventus as to Dillman, and stating the bond on which the action is founded to have been executed by Jamison, who pjeacis nQn est jactUm, on which issue is joined, and a verdict for the plaintiff, and the error alleged is in this variance. The bill of exceptions on the rejection of a certain deposition is candidly given up by the counsel of the plaintiffs in error. So that the opinion of the Court is confined to the question of variance only.
+I do not know whether in any stage of an action, advantage could be taken of a variance between the writ and declaration, where the cause of action appeared to be the same. The cases are collected by Serjt. Williams, in his edition of Saunders, in the note to Redman v. Edolph, 1 Saund. 318, a, who says, it seems to follow from all the decisions, that no advantage can be taken of a defective original, or of a variance between the writ and the declaration. However this may be, it canribt be taken advantage of where the defendant pleads in bar to the declaration. Where an action is brought against one of several joint obligors, he can only take advantage of it by plea in abatement. 5 Rep. 119. Whelpdale’s case. And though it appears by the record, that there were others ,who ought to be joined, yet that will not be error.
+In Pennsylvania there being no process of outlawry in civil actions, the return of non est inventus for all purposes of pleading has the same effect. The plaintiff has done all he can to bring into Court all the defendants, and he may, therefore, proceed against the one who has been arrested, stating in his declaration the writ and the return. But in such cases, the course is, to lay the promise to be made by both, and the bond to be executed by all. But if the defendant who is arrested, will not take advantage of this omission, to lay the promise or the bond by demurrer, but pleads non assumpsit, or non est factum, and goes on to trial, and verdict passes ¿gainst him, judgment will not, for that reason, be arrested. Stead v. Moon, Cro. Fac. 152. And in Whelpdale’s case, this very case is put, Where two men are jointly bound in a bond, although neither of them is bound by himself, yet neither of them can say, that the bond is not his ¡deed ; for he has sealed and delivered it; and each of them is bound in the whole. And therefore if they both are sued, and one appears, and the other makes default, and by process of law is outlawed, he who appears shall be charged with the whole, as appears in 40 Ed. 3. 36. 41 Ed. 3. 3. But where one is sued alone, he might have pleaded in abatement of the writ, but cannot plead non est factum.”
+It has been decided by this Court, in Douglass v. Beam, 2 Binn. 76, that a variance between the declaration and bond on which oyer is given, is matter of demurrer, but not of error. This was debt on bond; the plea payment. The Court say, th,e variance was waved by the plea; it was foreign to the issue. And in the Supreme Court of New York, (Garland v. Chattle & Clough, 12 Johns. Rep. 430.) it was held, that after plea pleaded, it is too late to take advantage of a variance between the declaration and the writ. In that case a writ issued against Chattle alone, but the declaration was against both. Chattle pleaded there non assumpsit, and the statute of limitations. The plaintiff proved on the trial, that the money was paid for the use of both, and had a verdict j and the Court held, that the variance between the declaration and the writ should have been taken advantage of at the proper time, but that after plea pleaded, the objection came too late. Where the party has his cause tried on a plea which goes to the merits, and on which he relies, and has put the plaintiff to the delay, trouble, and expense of a trial, it is not reasonable, after taking his chance for a verdict, that he shall turn the plaintiff round and avail himself of a formal exception, when he slipped the time when he ought to have made the objection, and when, if there was any thing in it, he could have availed himself of the informality. The law has wisely-decided that such objections shall be made in limine, in the earliest stage of the cause an opportunity is given to the defendant. If he lies by, he shall not, at the last stage of it, be heard on such objections.
+Judgment affirmed.
