@@ -1,0 +1,23 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1840-02-15"
+citations: ["5 Whart. 267"]
+reporter: "whart"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["OSBORNE’S ESTATE."]
+source_url: "https://static.case.law/whart/5/cases/0267-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8877745
+cites_cases: ["1 Yeates, 347", "4 Watts, 410", "7 Watts, 480"]
+---
+
+# Osborne's Estate
+
+## Majority (Gibson, C. J.)
+
+The opinion of the Court was delivered by
+Gibson, C. J.
+A promise to secure a landlord, in consideration that he would waive his right to distrain, and suffer the goods to be removed, is forbidden by no rule of law or policy. As legal owner of the goods, the assignee is capable of contracting in respect to them: and the landlord has a lien on them, for unpaid rent, which might seriously interfere with the execution of the trust. What, then, would be gained by driving him to a rigid application of his remedy 1 A part of the property, if not the whole, would be seized and sacrificed by a forced sale. Surely the power of a trustee to pay rent out of a fund liable to distress, or to contract for the payment of it, is as undoubted, as would be his power to apply a part of it for the redemption of the rest, if it were in pawn, which, as the object of the trust would otherwise be frustrated, is a power inherent in the office. In Morris v. Parker, there was no right to distrain when the goods were removed, and consequently no agreement to give the landlord recourse to the avails, as an equivalent for it; but in Stevenson v. Wood, the principle of the present case was settled, in circumstances nearly similar. In that case, the rent had been actually paid in avoidance of a distress, and here it was only agreed to be paid; but the landlord ought not to be placed in a worse predicament for having thrown fewer impediments in the way. The trust was benefitted by his forbearance; and if the trustee would have been entitled to an allowance for actual payment, a fortiori, he should be allowed to perform his promise to pay, made, as it was, on a lawful and valuable consideration.
+The difficulty in regard to the remaining point is raised by our own decision in the case of Stevenso?i’s Assignees, which has been pressed upon us as ruling the present. In that case, however, the omission to produce the voucher named in the assignment, was a circumstance of suspicion which ought to have put the assignees on their guard; and one which has no existence here. The assignees were charged on the ground of negligence, and not on the principle that there must be other evidence of the debt than an admission of it in the instrument. A trustee is answerable only for supine negligence; and he is not bound to suspect the existence of collusion, merely because he is directed to pay a debt for which there may have originally been no voucher. In the commercial world, where calls for accommodation are sudden and for short periods, and even betwixt friends not in trade, nothing is more usual than to lend without a memorandum of the transaction; and the want of it is entirely consistent with fair dealing, the convenience of the parties frequently inducing them to repose an extraordinary degree of confidence in each other. Of collusion, in a case like the present, there is no presumption without proof; consequently there is no pretext for charging a trustee who pays on the foot of the debtor’s concession, where there is no intimation of the existence of a voucher whose absence can be accounted for only on a presumption of its suppression, or any extrinsic circumstance to lead to a suspicion that the debt did not exist. In Stevenson's case, the existence of the bills was affirmed by the assignment; in this, it is not said that there ever was a voucher for the debt in question; and the want of one is consistent with the deed. In that case, the contest was with the assignees; in this, it is between creditors; but the principle I have indicated, must lead to the same result as if the assignee were the party; for I am far from thinking that the evidence would not warrant a recovery against him. The admission of a debtor in regard to the liability of a fund, of which he had at the time the ownership and control, is necessarily an admission to his disadvantage; unless, in derogation of the common law maxim, we assume without proof the very fact in contest — the existence of collusion to cover the property by the device of a debt. We therefore think the claim was properly allowed.
+Decree affirmed,
