@@ -1,0 +1,22 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1840-04-02"
+citations: ["5 Whart. 430"]
+reporter: "whart"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HEIDLEBERG against LYNN."]
+source_url: "https://static.case.law/whart/5/cases/0430-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8878425
+cites_cases: ["2 Watts, 43", "9 W. 3"]
+---
+
+# Heidleberg v. Lynn
+
+## Majority (Gibson, C. J.)
+
+The opinion of the Court' was -delivered by
+Gibson, C. J.
+As our system of poor laws had its origin in that of England, and as many,of her statutory provisions were re-enacted here, we must turn to some of them to have a view of the whole ground in contest. By the 3 & 4 W. & M. c. 11, “ If any unmarried person, not having a child or children, shall be lawfully hired into any parish or town for one year, such service shall be judged a good settlement therein.” The insufficiency of this was that it went no further than the 5 Eliz. c. 4, which also prohibited a retainer for less than a year; and the insolence of servants, it is-said in Dunsfold v. Ridgwick, (2 Salk. 535,) gaining a settlement, as they did by the 12 Car. 2, led the way to the 8 & 9 W. 3, c. 30, by which it was enacted, “ that no person so hired as aforesaid, shall be adjudged or deemed to have a good settlement in any parish or township, unless such person shall continue or abide in the same service during the space of a whole year.” Hence, it became indispensable to a settlement, that there should have been both a hiring and service for a -year.. Ourlaw seems to consider service alone as the meritorious cause, and to require that there should' have been a contract for it, only as a proof th.at it was valuable, and distinguish- ■ able, in that respect, from those feeble and trifling acts which are sometimes performed in requital of a gratuitous maintenance: in other words, to show that, instead of having been a benefit to the township as a pi’óducer, the pauper had been a burthen to it as a consumer, from the beginning. In the ninth section of the statute of 1836, it is enacted, that a settlement may be gained “, by any unmar- ' ried person, not having a child, who shall be lawfully bound or hired as a servant within such district, and shall continue in such service during a year.” It is scarce necessary to rémark on this, that time is predicated of the service, and not of the contract; and consequently that what is required, seems to be no more than a continuance in hired service during the period. It is .'therefore enough for the purpose that the pauper has been in uninterrupted employment, whether under one contract or any number of contracts. Now the reason why service under a hiring to do job or piece work, gains no settlement by the British statutes, is not that the service, but that the contract, does not come up,to, the exigence; and the King v. The Inhabitants of St. Peters in Dorchester, (2 Bott’s Poor Laws, 197,) was decided expressly on that 'ground. But though the contract need not be continuous, yet where there is an apparent gap in the service by temporary cessation from active duty, the terms of the hiring may be consulted to ascertain whether the pauper was not in the constructive service of an employer; and on such an enquiry decisions on the 8 and 9 W. 3, may afford very valuable assistance. The leading principle of these is, that temporary absence from, actual service, if it discharge not the contract, breaks not the relation of master and servant, it being sufficient that the pauper did all that was required of him. In the case before us, as payment in proportion to the product was stipulated to fix the rate of wages, it might easily be maintained that the hiring was not by the piece, but for an indefinite time. Was there, then, an existing contract at those intervals when he was absent'on leave 1 The hiring was general, and on terms which forbade .either party to put an end to it without three months notice which, according to Rex v. Wincaunton, (2 Bott’s Poor Laws, 195,) is, by implication, a hiring for a year. Notice of dissolution had not been given; and the relation of master and servant consequently existed at the periods of absence. It seems therefore that the pauper had gained a settlement in the township of Lynn.
+Order of the sessions affirmed.
