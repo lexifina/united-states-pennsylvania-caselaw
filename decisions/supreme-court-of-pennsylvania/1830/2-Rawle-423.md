@@ -1,0 +1,26 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1830-03-27"
+citations: ["2 Rawle 423"]
+reporter: "rawle"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SNYDER against VAUX."]
+source_url: "https://static.case.law/rawle/2/cases/0423-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1820558
+cites_cases: ["10 Johns. Rep. 287", "10 Serg. & Rawle, 114", "3 Serg. & Rawle, 509", "5 Johns. Rep. 340", "5 Johns. Rep. 348", "5 Serg. & Rawle, 130", "6 Johns. Rep. 168", "6 Serg. & Rawle, 476"]
+---
+
+# Snyder v. Vaux
+
+## Majority (Smith, J.)
+
+The opinion of the court was delivered by
+Smith, J.
+— The defendant in error brought an action of replevin against the plaintiff in error, for taking and detaining ten thousand phesnut rails, and three thousand ehesnut posts, together of the value of five hundred' dollars. A part only of the rails and posts was ■replevied and delivered to the plaintiff, for which the jury found for him, with five dollars damages for the unjust taking and detention, and fuff costs of suit, whereupon the court rendered judgment. Tile defendant below, on the trial, requested the court to charge the jury, that if they believed that he cut the trees in question, under a claim of property in the soil whereon the trees grew, thd plaintiff was not entitled to recover, and if such claim were realty "made, it mattered not whether it were well or ill founded. Secondli/i that if the trees were split into rails and posts, and their character and identity were thus altered, the plaintiff could not maintain replevin. The court, after submitting the facts to the jury, instructed them, that if they believed that the defendant was in possession of the land frórii which the trees were cut, under a claim of title, theri this action ofreplevin.could not be maintained; but if they believed; that he was not in possession, nor had either title, or claim of title, then this action was well brought, and the plaintiff was entitled td recover. And thirdly, the court answered, that making trefes into rails and posts, was not such an alteration of the property as to prd* vent the plaintiff from recovering them in replevin.
+The errors assigned, and insisted on, relate to these instructions of the court. It is alleged, that the court did not answer the first point propounded, and so far as the same was answered, the answer was erroneous, and that the answer of the co'uft to the.second point was also erroneous. I think the first point was answered fully and correctly. The court took the long and well settled ground, that title to land could not be tried in an action of replevin, ex directo, although it may sometimes incidentally come in question; and, therefore, if the trees had been cut, under an actual claim of title; it would have been necessary for the injured party to pursue a different remedy; but if the defendant had neither possession, title, nor claim, he was a mere trespasser, ánd the plaintiff had an Undoubted right to recover. 'íhus the court sufficiently answered the legal proposition involved in the point, referring the matter ttf fact to the jury. t
+2. But it is contended, that the trees cut had been changed into rails ánd posts, and their identity so altered; that replevin could not be maintained. The cases cited by the plaintiff in error, do not support the doctrine contended for. A‘ wilful trespasser cannot*] acquire title to property, merely by changing it from One article into another, as by. working trees cut down into shingles, or into cord wood, logs or rails. And that thfe law has been so from immemorial, is evident from the year boqks, whefre it is said, that whatever alteration of form any property may undergo', the owner thereof may take it in its new shape, provided he can prove the identity of the original materials; as if leather be made into shoes, cloth into a garment, trees squared into timber, or iron made into bars. And the same doctrine is recognized in modern caseá. See 5 Johns. Rep. 340. 6 Johns. Rep. 168. 10 Johns. Rep. 287; and 7 Cowan, 95. It is true, that if the plaintiff fail to prove the identity of the property in question, or in other words, to show that the original materials were the same which belonged to him, he cannot recover,; but whether the same or not, is an inquiry into' a fact, which falls within the province of the jury. The peraieious consequences of a different rule, are sufficiently obvious. Should ' a wilful trespasser be able to protect himself by any change which he might communicate to the shape or form of the materials, an unbounded license would be given to plunder, and the security of personal property would be exceedingly diminished.
+In Pennsylvania, the action of replevin has been liberally extended, and it embraces almost every case of personal property which is in the possession of one person, and claimed by another. It will lie for the rails and posts, sued for in the present suit.
+Other errors were assigned, but were abandoned on the argument, and, therefore, need not be considered. The plaintiff, then, in our opinion, has failed to support the errors assigned, and the judgment is, therefore, to be affirmed.
+Judgment affirmed.
