@@ -1,0 +1,32 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1827-06-06"
+citations: ["16 Serg. & Rawle 92"]
+reporter: "serg-rawl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HENDEL and others, Executors of MYERS, against The President, Managers, and Company of the BERKS and DAUPHIN TURNPIKE ROAD."]
+source_url: "https://static.case.law/serg-rawl/16/cases/0092-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1816641
+cites_cases: ["1 Mass. R. 5", "11 Serg. & Rawle, 123", "13 Serg. & Rawle, 362", "4 Serg. & Rawle, 494", "6 Serg. & Rawle, 121", "7 Serg. & Rawle, 273"]
+---
+
+# Hendel v. President of the Berks
+
+## Majority (Rogers, J.)
+
+The opinion of the court was delivered by
+Rogers, J.
+It is my intention to notice but two points particularly, and to content myself with dismissing the other exceptions, with the single observation that they have not been sustained.
+Under the plea of non est factum, when the deed offered in evidence corresponds with the instrument declared on, the only-proof that is required is, by the subscribing witness, that the defendant signed, sealed, and delivered it as his act and deed. When it does not correspond, something more is necessary. You are required to show the identity of the instrument with that declared on. Thus, the suit is brought in the name of John Styles, and the bond is in the name of William Styles. Here there would be a variance between the declaration and the evidence, and some proof would be required, to show that the bond was in fact given to John Styles, although it purported to be given to William.
+It appears that the corporate name of the plaintiffs was, The President, Company, and Managers of the Berks and Dauphin Turnpike Road, and by that name the suit has been correctly brought, with the proper averments necessary to meet the peculiar situation of the cause. The agreement offered in evidence purported to be, John Myers with The Berks and Dauphin Turnpike Company. Without doubt, under the plea of non est factum, the evidence should not have been received, for this reason, that it appears to have been made with a different company, and, for aught that there appeared, there might have been two agreements of John Myers with entirely different incorporations. It then became necessary to give some testimony to the court, to show that there had been a mistake in the name, or misnomer, and that in truth the agreement offered in evidence was made with the company who brought the suit.
+Without particularly stating the evidence, or saying what might be its effects before the jury, who are the ultimate judges of the fact of the execution, and the identity of the instrument declared on, I have no doubt sufficient was offered to justify the court in permitting the agreement to be made to the jury.
+In the progress of the cause, a record of a suit to the November Term, 1816, No. 14, was given in evidence to the court and jury. I say to the court and jury, for this is expressly stated in the record, which is our only guide. The contradictory assertions of counsel can have no weight here. If the record speaks differently from the truth of the fact, it is not the fault of this court. The record imports verity. After the court had charged the jury, and they were about to retire to deliberate on their verdict, and before the constable was sworn, the counsel for the defendant offered to send out with the jury this record. This was objected to, and the court sustained the objection, to which the counsel of the defendants excepted, and have assigned it for error in this court.
+The rule in Pennsylvania, as I have always understood it, is, that all papers given in evidence in the trial of a cause, except depositions, are to be sent out with the jury. The inspection of the papers is indispensable; for without it, it would in many cases be next to impossible for the jury to come to any correct conclusion. The only reason why depositions are not also sent out is, because the witnesses examined at the bar are not permitted to accompany the jury.
+The decision of the court has been attempted to be sustained by the allegation, that the evidence was given to the court under the plea of a former suit pending, and that the issues in fact and in law, were tried at the same time. The first allegation is contradicted by the record, and the second does not appear; for I cannot suppose that so irregular a practice, as the trial of both issues at the same time, has taken place in this cause.
+It is objected, that the evidence was improperly received, and that there was, therefore, no error in preventing the record from going out with the jury. It may be remarked, that the evidence was given without objection; but was it in time to take this exception, which is not that it was improperly received, but that the record given in evidence without objection should not have been sent out with the jury? The furthest the courts have gone, (when they found themselves in error,) is to instruct the jury to disregard the testimony. In this, there would be no injustice, as the party would have bis bill of exceptions, and would also, on a proper application to the court, have leave to supply the defect occasioned by the rejection of the evidence.
+But was this record improper testimony? Without pretending to determine the effect of the evidence, I think it was not. One ground of defence was, that the company, after entering into the new agreement, still persisted in prosecuting the suit, which the agréement was intended to settle. If the jury should be of the opinion that the parties had .abandoned the new agreement, the defence would be most valid and proper.
+The decision of the court has also been defended, on the ground that it was contrary to a rule of court, which prohibits the parties from sending out the dockets with the jury.
+If this clearly appeared, I should have no hesitation in saying the court were correct; for there is great inconvenience and danger in suffering the records of the court to be taken out by the jury. The party should be furnished with exemplifications of the record. As this, however, does not appear, I am constrained reluctantly, I admit, to say, that in not permitting the record to be taken out by the jury, there was error.
+Judgment reversed, and a venire facias de novo awarded.
