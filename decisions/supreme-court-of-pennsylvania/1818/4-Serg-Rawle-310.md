@@ -1,0 +1,22 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1818-06"
+citations: ["4 Serg. & Rawle 310"]
+reporter: "serg-rawl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Pipher and others against Lodge."]
+source_url: "https://static.case.law/serg-rawl/4/cases/0310-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1801940
+cites_cases: ["1 Wash. Rep. 41", "3 Aik. 225", "3 Aik. 313"]
+---
+
+# Pipher v. Lodge
+
+## Majority (Tilghman C. J.)
+
+The opinion of the Court was delivered by
+Tilghman C. J.
+(After stating the leading facts.). After a sale, and before conveyance of the legal title, the general rule is, that the vendor is a trustee for the vendee; and while his possession can be reasonably supposed to be in accordance with the trust, it should be construed for the benefit of the cestui qui trust, and consequently the act of limitations would have no operation. But where he who was the trus,tee, openly disavows the trust, the case is different; and especially, where, as in the present instance, the vendor, after having delivered possession to the vendee, makes a lease to a third person, io opposition to the title of the vendee, and tfie lessee enters and holds the possession. This is notice to the vendee, that his title is denied, and if he suffers 21 years to elapse without prosecuting his claim, I see no reason why the jury should not presume a disseisin; in consequence of which the act of limitations would take effect. The law of tenants in common, as decided in Fisher, &c. v. Prosser, Cowp. 21/, be..rs some analogy to the present question. A s long as one tenant in common, who is in possession of the whole, acts in such a manner as not to den}' the title ox his partner, he snail be presumed to hold as tenant in common, and the act of limitations will not attach ; he may receive all the profits, and yet not deny that he is accountable. But where his actions are not reconcileable with the right of his co-tenant, where he declares that he claims for himself exclusively, refuses permission to the other to enter, and denies that he is accountable for the profits, the presumption of holding as tenant in common fails, and a contrary presumption arises, viz. that he has ousted his companion, in consequence of which the act of limitations takes effect. It is not for this Court to say, whether the conduct of Reuben Haines was such as to raise a presumption of an ouster; the only question is, whether, circumstanced as he was, it was possible for him to oust Jonathan Lodge, so as to let in the act of limitations. And I have no doubt but it was. When the possession was delivered, and the purchase money all paid, there was no pretence for the re-entry of the vendor, or for his making a lease to a third person; nor is it possible to reconcile either of those actions, with the duty of a trustee. It would be a misconstruction of the act for the limitation of actions, to say, that because the vendor had once stood in the situation of a trustee, therefore he should stand so for ever, and lose all benefit of the act. I am, therefore, of opinion, that there is error in the charge of the Court of Common Pleas. The defendant insisted also at the trial, that Mrs. Lloyd,, the devisee of her former husband, Josiah Haines, was to be considered as a purchaser for a valuable consideration, without notice of the equitable title of Lodge, and therefore not to be affected by it. The Court of Common Pleas were of opinion, that she was not to be so considered. I am really at a loss what to say on this point; as no facts were found by the jury, and it does not appear to me, that the evidence inserted in the record, brings before us a case stated with sufficient accuracy to decide, whether Mrs. Lloyd was or was not a purchaser for a valuable consideration. In general, a devisee is not a purchaser for a valuable consideration. But Mrs. Lloyd claimed, not only as devisee, but by virtue of a deed from the executors of Josiah Haines; and Josiah Haines himself claimed, not only as devisee of his father Reuben, but under a deed from the other devisees of his father. I must decline giving any opinion on this point, as the evidence does not enable me to see my way with sufficient clearness. But having no doubt on the first point, I am of opinion, that the judgment should be reversed, and a venire facias de novo awarded.
+Judgment reversed, and a venire facias de novo awarded.
