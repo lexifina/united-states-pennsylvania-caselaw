@@ -1,0 +1,22 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1842-05"
+citations: ["3 Watts & Serg. 351"]
+reporter: "watts-serg"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Gasche against Peterman."]
+source_url: "https://static.case.law/watts-serg/3/cases/0351-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1854588
+cites_cases: ["1 Penn. Rep. 71", "1 Watts 26", "10 Watts 318", "2 Rawle 229", "3 Rawle 9", "3 Watts 381", "4 Watts 201", "5 Watts 464", "6 Watts 445", "7 Watts 86", "8 Watts 181"]
+---
+
+# Gasche v. Peterman
+
+## Majority (Kennedy, J.)
+
+The opinion of the Court was delivered by
+Kennedy, J.
+The question raised here, the decision of which will dispose of the whole case, relates to the form and nature of the writ of scire facias sued out to April term 1839, upon a judgment entered of January term 1834. The judgment was entered upon a bond of $800, conditioned for the payment of $400, by annual instalments of $50 each, the first to be paid on the 1st of April 1835. The instalments which had become payable anterior to issuing the writ of scire facias were all paid, so that no part of the money mentioned in the condition of the bond, which had become payable according to its terms, remained unpaid at the time the writ was sued out. The writ is in the common form of the scire facias quare executionem fieri debet, &c., which has ever been used in practice under the Statute of Westm. 2, simply requiring the sheriff, “ by honest and lawful men of his bailiwick, to give notice to the said Charles Gasche, with notice to Mathias Futterer, terre-tenant, that he be and appear before our judges, &c., to show, if anything for himself he hath or knows to say, why the said Henry Peterman ought not to have his execution against him for the debt and damages aforesaid, if to him it shall seem expedient, according to the form, force and effect of the said recovery.” The question then is, can the plaintiff below have a judgment rendered in his favour for the revival and continuance of the lien created by his original judgment upon the real estate then belonging to Gasche, the debtor and defendant below ? It is very certain that he cannot have a judgment for the recovery of his debt, or any portion of it, nor yet an execution awarded for it, because all that the plaintiff below, according to the terms of the condition of the bond, had any right to claim, at the time of suing out the writ of scire facias, had been previously paid to him by the defendant. If any part of what had become previously payable had remained at that time unpaid, the plaintiff would doubtless have been entitled to a revival of his judgment generally, which would, in effect, according to the decisions of this court, have revived and continued the lien of his judgment upon all the real estate originally bound by it, unless, indeed, his neglect to sue out an alias scire facias against Gasche, the debtor, as the first was returned nihil by the sheriff, for nearly a year, suffering three terms of the court to intervene, should be considered a discontinuance of the first writ of scire facias, and the lien of the original judgment lost by the lapse of five years, in consequence of its not having been revived, as required by the Act of Assembly. On this point, however, it is unnecessary to give any opinion, as we are of opinion that the plaintiff below is not entitled, under the circumstances of the case, to a judgment of any kind in his favour, upon the writ of scire facias which has been issued. If the scire facias had directed the sheriff to notify the defendant below to appear in court, and show cause, if any he had, why the lien of the judgment should not be revived and continued, or the judgment revived for the purpose of continuing the lien thereof, it might have been sufficient to have entitled the plaintiff below to have had such a judgment as the court then entered in his favour. But as nothing was due upon the judgment at the time he sued out his writ of scire facias for which execution could be awarded in his favour; and as the writ, from its terms, was not issued with a view merely to have the judgment revived, for the purpose of continuing its lien upon the real estate which became bound by its original entry, we think the judgment of the court below cannot be sustained.
+Judgment reversed.
