@@ -1,0 +1,23 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1837-02-11"
+citations: ["2 Whart. 266"]
+reporter: "whart"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The COMMONWEALTH against REES and Others."]
+source_url: "https://static.case.law/whart/2/cases/0266-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1830487
+cites_cases: ["1 Johns. Rep. 215", "11 Serg. & Rawle, 299", "13 Serg. & Rawle, 267", "16 Serg. & Rawle, 252", "4 Conn. Rep. 80", "4 Dall. 165", "7 Conn. Rep. 558", "7 Serg. & Rawle, 369", "8 Johns. Rep. 186"]
+---
+
+# Commonwealth v. Rees
+
+## Majority (Sergeant, J.)
+
+The opinion of the court was delivered by
+Sergeant, J.
+This case appears to be as follows: It was a scire facias on the sheriff’s recognisance,.alleging that the sheriff, Rees,' had not executed a fieri facias, placed in his hands by the plaintiff. In support of his claim, the plaintiff produced on the'trial the return made by the sheriff to a jfieri facias previously placed in his hands by another judgment-creditor, to which return the sheriff referred in his return to the plaintiff Is writ. That return was, that he had levied on a store of dry goods, and sold part of the goods for $106, and had made the money—and that as to the residue of the goods, he had sold them to Ann MiClarnon, (who was the plaintiff in the prior writ,) for #2961 53; but the terms of sale were not complied with by her, wherefore they remained unsold; and he had left the goods in her hands, and at her risk. Of the actual value of the goods levied upon, no evidence was given by the plaintiff; and it does not appear that the defendants gave any evidence at all in the cause. On this state of things the plaintiff contends that the sheriff had not executed his writ, and was liable for the value of the goods seized. That it was incumbent on the sheriff to show that value, and, until he did so, the jury ought to presume it was sufficient to pay off, not only the debts due to the plaintiffs in the executions previously delivered to the sheriff, but also the amount of the plaintiff’s execution, or at least a portion of it. The court charged, in substance, that the jury might consider the return of the sheriff of the price bid by Ann M'Clarnon, as evidence of the value of the residue of the goods; and in that event, the plaintiff had sustained no damage,because it was not sufficient to satisfy executions previously placed in the sheriff’s hands.
+The question now before us turns on the correctness of the charge of the court, and not on the nature or effect of the sheriff’s return, which I am inclined to think, though not very clear in its terms, is, in substance, a return of unsold for want of buyers; and that the plaintiff, if he had thought fit, might have compelled a sale of the residue of the goods, by a venditioni exponas. Taking it for granted, however, that the sheriff was liable for not executing the plaintiff’s writ, to the value of the goods seized, I do not perceive how the court below could have instructed the jury that there was no evidence of that value. The amount at which the goods were struck off at a public sale by the sheriff to the highest bidder, (and such we must take to be the case, in the absence of any evidence to the contrary,) is certainly some evidence of the value of the goods thus bid for. And when it is alleged that the sheriff’s return is no evidence of these facts in his own favour, the answer is, that the plaintiff himself gave the whole of this return in evidence, as well that which operated against him, as that which was in his favour. In such case, all goes to the jury, though, to be sure, with very different weight. As- against the sheriff, his return is generally conclusive; but wfiere it is to operate in his own favour, it may be contradicted, though produced by the other party. And perhaps slight proof, tending to show the value of the goods to have been greater than the amount of the bid, or to establish any collusion or negligence on the part of the sheriff would have rebutted the contents of the return, and thrown on him the onus of accounting fully as to the value of the goods. But nothing of this kind was attempted by the plaintiff. The value was suffered to rest on the return alone; and that return being produced by the plaintiff and containing some facts from which the value might be collected, it was evidence; iiot of the highest or most satisfactory kind, but it was all that the case afforded, and' the only guide for the jury to follow. Under these circumstances, we are of opinion there was no error in the charge of the court.
+Judgment affirmed.
