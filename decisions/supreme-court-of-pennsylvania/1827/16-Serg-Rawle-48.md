@@ -1,0 +1,22 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1827-05-29"
+citations: ["16 Serg. & Rawle 48"]
+reporter: "serg-rawl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The FARMERS’ BANK of Reading against BOYER and others."]
+source_url: "https://static.case.law/serg-rawl/16/cases/0048-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1816681
+cites_cases: ["12 Serg. & Rawle, 105", "13 Serg. & Rawle, 190", "19 Johns. 233", "3 Cranch, 299", "7 Serg. & Rawle, 278"]
+---
+
+# Farmers' Bank v. Boyer
+
+## Majority (Gibson, C. J.)
+
+The opinion of the court was delivered by
+Gibson, C. J.
+It is admitted that a bond whose terms are not in acordance with the provisions of a statute by which it is required, is void, but this is to be restrained to cases where the condition is to do something which the statute does not require, or where it contains a provision which the statute does not authorize. This bond was avowedly framed to meet the exigencies of the second section in the supplement of the 29th of January, 1820, which had been repealed and supplied by the further supplement of the 28th of March in the same year. The condition is, that Boyer should appear before the judges of the Common Pleas, “and then and there remain and abide the final order of the said court, to be made during the said term, and 'then and there surrender himself to prison, in case on his appearance before the said court, he should fail to comply with all things required by law to procure his discharge from confinement.” By the first section of the further supplement, which happened to be the only act on the subject in force when the bond was executed, the condition prescribed is that the debtor appear at the next court, “ then and there to take the benefit of the insolvent laws, and to surrender himself to the jail of the county if he fail to comply with all things required by law to entitle him to be discharged, and generally to abide all orders of the said court.” From this it is perceived tbat the condition of the bond given by the defendants is not as large as the terms of the act, inasmuch as it does not contain a stipulation, that the debtor shall generally abide all orders of the court. I hold it to be immaterial that the parties recite, in the introduction to the condition, that the instrument is intended to produce a compliance with the provisions of the act of the 29th of January: it is sufficient, if it be a substantial compliance with the act of the 28th of March. In what does it differ from the bond prescribed in the latter? In nothing but the requisition to abide all orders of the court. But that, had it been inserted, would have increased the responsibility of the obligors; and what right have they to complain of its having been omitted? The legislature directed it to be inserted, not for the benefit of the obligors, but of the creditors; and any one can dispense with a provision introduced for his own benefit. The creditors, who alone had a right to complain, are content; and it would be carrying the doctrine of conformity to legislative provisions to a most unreasonable extent, were we to permit the party who has benefited by the variance, to set it up as a bar to liability. Could the variance have been urged as an objection to the debtor’s discharge, it would have been fatal to the action here; but it was held in Lincoln v. Williams, (12 Serg. & Rawle, 105,) that the bond being designed to secure the debtor’s attendance at court, cannot enter into his title to be discharged. Nor does the surety stand on more advantageous ground than the principal. A variance of this sort, where it is available at all, may be pleaded at law, and it therefore affords no room for the extraordinary interference of a chancellor. But it was held in Wolverton v. The Commonwealth, (7 Serg. & Rawle, 278,) that a surety can avail himself of no defence at law, which would not equally avail the principal; and, in Simms and Wise v. Slacum, (3 Cranch, 299,) the case was ruled without reference to any supposed distinction between the defendants in the court below. We therefore fully concur with the direction given by the judge who tried the cause, that the omission of the particular clause in the condition was not sufficient to avoid the bond.
+Judgment of the Circuit Court -affirmed.
