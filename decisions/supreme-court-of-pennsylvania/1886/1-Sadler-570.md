@@ -1,0 +1,26 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1886-03-01"
+citations: ["1 Sadler 570"]
+reporter: "sadler"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Union Insurance Company of Philadelphia, Plff. in Err., v. David Murphy."]
+source_url: "https://static.case.law/sadler/1/cases/0570-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 236088
+cites_cases: ["100 Pa. 41", "102 Pa. 568", "11 Pa. 533", "14 Am. Rep. 400", "16 Pa. 161", "2 Am. Rep. 567", "22 Pa. 454", "23 Pa. 51", "4 Pa. 138", "40 Ga. 135", "41 Pa. 482", "42 Iowa, 709", "5 Watts, 69", "51 Pa. 402", "52 Mo. 181", "55 Am. Dec. 487", "56 Pa. 256", "66 Pa. 22", "7 Pa. 401", "7 Watts & S. 175", "7 Watts & S. 180", "73 Pa. 342", "76 Pa. 83", "82 Am. Dec. 487", "9 Pa. 139", "9 Pa. 408", "94 Am. Dec. 65", "98 Pa. 41", "98 Pa. 627"]
+---
+
+# Union Insurance v. Murphy
+
+## Majority (Mb. Justice Gordon :)
+
+Opinion by
+Mb. Justice Gordon :
+It is wholly unnecessary for us to dwell at any length on the first assignment, which is designed to convict the court of errors in allowing the case to be tried without a replication to the defendant’s so-called special plea. An objection of this kind must be made before verdict, and even then there is, under our acts of assembly, no fault in pleading that may not be cured by amendment. But the special plea in this case is quite informal, and contains nothing that could not have been introduced under the general issue. This being so, there was no replication necessary, or, if any, only the general one, which is of a character so purely technical, and so much a matter of course, that it may be supplied- by the prothonotary, and at any time, whether before or after verdict. The important question of this case, and the one running through all the subsequent assignments, is, whether the evidence was sufficient to establish the fact that, previously to the renewal of the policy now in suit, the defendant had sufficient notice of the insurance of the plaintiff’s property in the Providence Washington company. The policy is suit contains a covenant by which the plaintiff bound himself to notify the defendant of any other insurance which had been, or might be, taken on the premises. But* as there is no form of notice or manner of service prescribed therein, it is, we think, clear, as the court below held, that any definite and certain information communicated to the company, whether by Murphy, or someone else for him, would be a sufficient fulfilment of the covenant. Was there, then, evidence enough of such information or notice to warrant a submission of it to a jury ? We think there was. Johnson was the defendant’s agent, clothed with full power to act for it; through his agency this property has been underwritten, and he also held Murphy’s policy, so that, if proper notice was conveyed to him, it would be binding on his principal.
+Beebe acted in the double capacity of agent for the Providence company, and for the plaintiff in procuring the insurance in that company. It was when acting in this capacity that he informed Johnson of his having put a policy of $2,000 on the property of Murphy in the company last above mentioned, and we cannot see why, if his evidence to that effect was believed, a notice such as this was not sufficient. There is nothing at all ambiguous about Beebe’s testimony: “I asked him,” Johnson, “if he had any insurance on the buildings, and he said he had. I told him that I also had a $2,000 policy on the buildings in the Providence Washington company.” Prom this it would seem to follow that there was but little for even a jury to pass upon except the veracity of the witness. Now, we cannot think it a matter of any consequence that Beebe did not put his conversation in the form of a notice from Murphy, for Johnson thereby acquired all the information he could have gained from a formal notice, and he could not avoid cognizance of the patent fact that the Providence Washington insurance had been taken by Beebe for Murphy.
+It is true, the charge of the court may, in some particulars, be regarded as too broad, for it will not do to say that the defendant was obliged to take notice of the previous policy though its information had been acquired from a mere volunteer or stranger; but, as there was no such contest in the case, no pretense that notice came through anyone but Beebe, the jury could not have been misled by the generality of the learned judge’s statements. We are also satisfied that the intention of the court, notwithstanding the apparent unrestricted character of its declarations, was to limit the jury to the notice as expressed in the testimony of the witness last mentioned, for, as we have said, there was no evidence of information otherwise conveyed to the company, and npon this point the learned judge charged as follows:
+“If, I say, you are satisfied that the witness, Beebe, stated substantially the truth touching the notice received by Mr. Johnson, there is sufficient evidence to warrant you in finding that Mr. Johnson had substantial notice.”
+Under an instruction so explicit as this we do not think the jury could have been misled into the consideration of something foreign to the issue trying.
+The judgment is affirmed.
