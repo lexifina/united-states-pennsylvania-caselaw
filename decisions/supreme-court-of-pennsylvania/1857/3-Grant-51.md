@@ -1,0 +1,33 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1857-01-09"
+citations: ["3 Grant 51"]
+reporter: "grant"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Lowrie, J., dissented."]
+parties: ["Miller versus Reed."]
+source_url: "https://static.case.law/grant/3/cases/0051-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 229159
+cites_cases: ["2 W. 204", "6 Wh. 228"]
+---
+
+# Miller v. Reed
+
+## Majority (by Woodward, J.)
+
+Tbe facts fully appear in tbe opinion of tbe court delivered
+by Woodward, J.
+It is too well settled to be questioned that any material alteration of commercial paper unaccounted for by bim who bolds it is fatal to it. The maker of a note cannot be expected to account for wbat may have happened to it after it left bis bands, but a payee or indorsee who takes it condemned and discredited, on tbe face of it, ought to be prepared to show wbat it was when be received it. Simpson v. Stackhouse, 9 Barr, 188. But was tbe alteration in this case material? It consisted, if indeed it was an alteration, in interlining tbe words “ or either of us.” Tbe note was a printed form with tbe blanks filled up with a pen, and tbe interlineation bears every appearance of having been written by the same band and at tbe same time as tbe other written parts, but still it is an interlineation, which makes tbe paper a joint and several note, which without it would have been a joint note. Tbe payee and indorsee being both dead, tbe plaintiff, the personal representative of, the latter, has no means of accounting for it, and if tbe' words were inserted after the note was delivered, and are material — that is, if there be any longer in Pennsylvania, a legal difference between a joint note, and a note joint arid several — this defence must prevail. The acts of assembly of 6th April, 1830, and 11th April, 1848, Purdon, 466, seem to have been intended to obliterate the common law distinctions on this subject, and being remedial statutes are to be liberally construed. 5 Barr, 401. The classes of cases provided for by them, are
+1st. Where suits are brought against joint, and several obligors, co-partners, promisors, or indorsors of promissory notes, in which process is not served on all the defendants, and judgment is taken against such as are served, the others are still liable in another action, and the judgment obtained is no bar to the subsequent proceeding.
+2d. In all cases of amicable confession of judgment by one or more of such debtors, the judgment shall not bar the action against the others, who do not confess.
+3d. Where judgment is recovered against one or more of several co-partners or joint and several obligors, promisors, or contractors, without the non-joinder of the others pleaded in abatement, it shall not bar a subsequent suit against any who might have been joined.
+4th. The death of one of such debtors after a joint judgment shall not discharge his estate, real or personal, but the personal representatives shall be liable as if the judgment had been several against the deceased alone.
+The terms of this legislation, though limited to undertakings that are “joint and several” are applicable to contracts that are joint and not several. 6 Wh. 228; 5 Barr, 401. If then, neither an action and recovery against one joint debtor, nor a confession of judgment by one, nor the death of one after judgment works a discharge of the other, what difference remains, so far as regards the remedy between joint contracts, and contracts joint and several. The distinction always had regard to remedies. The parties are bound according to the tenor of the instrument to which they put their signatures, and it is evidence against each of them, but the discharge of one by taking action against the other, is the peculiarity which the statutes have taken away. If it be said that one case, that of a joint defendant dying pending the action, is not provided for by these acts of assembly, it must be admitted, but the effect of that event is the same on a joint and several contract as on one simply joint; Walter v. Ginrich, 2 W. 204, in which Judge Sergeant stated the rule thus: The holder of a joint and several bond may elect to bring a separate action against each obligor or a joint action against all. If he proceeds by separate actions, the executor of a deceased defendant, as well as the survivor, continues liable. But if he joins all the parties, and one of them dies pending the suit, the remedy against the assets of the deceased is terminated, and the survivor alone is responsible.
+This is all that could be predicated of the death of one of two defendants pending an action on an obligation strict ly joint, so that whilst in respect to statutory remedies, this is a' casus omissus, it is not a ground of distinction between joint and joint and several contracts. Nor do the rules of pleading, and evidence which make it necessary to bring a joint suit on a joint undertaking cause a difference in the effect in the two classes of contracts. -
+I do not conceive that the qualification in the 5th sec. of the act of 1848, in regard to pleas in abatement, is material, for though that section provides only for cases where there is no plea in abatement, the 1st section of the act of 1830 covers “ all suits now pending or hereafter brought.” Besides the language of the 5th section, the qualification included, relates as well to joint and .several as to joint undertakings.
+These acts of assembly, it seems to me, have taken away distinctions that were always embarrassing, and sometimes insuperable obstacles to the course of justice.
+There was no difference in the duty before, and none in the remedy now. The moral obligation is not affected by the word joint and several, and in Pennsylvania, at least, the legal liability is not. If the words “ or either of us” were therefore surreptitiously inserted in the note, making that a several, which also had been a joint contract, neither the moral nor legal effect of the instrument was changed, and the alteration was consequently immaterial. . Both Eeed and Christy were bound to pay, and, for aught that appears, both participated in the consideration. Nay, Eeed, the objecting defendant, may have been the principal debtor, and, if so, there is great equity in the statute that deprives him of a sharp and technical defence. Forgery avoids an instrument, but forgery is the fraudulent alteration of a writing to the prejudice of another. Eeed was-not prejudiced by this alteration, and therefore the note- should have been admitted in evidence.
+The judgment is reversed and a venire de novo awarded.
+Lowrie, J., dissented.
