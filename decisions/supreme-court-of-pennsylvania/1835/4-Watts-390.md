@@ -1,0 +1,23 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1835-09"
+citations: ["4 Watts 390"]
+reporter: "watts"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Moyer against Lobengeir."]
+source_url: "https://static.case.law/watts/4/cases/0390-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1842728
+cites_cases: ["1 Binn. 25", "1 Pet. Rep. 245", "2 Dall. 277", "4 Dall. 251", "5 Johns. 101"]
+---
+
+# Moyer v. Lobengeir
+
+## Majority (Sergeant, J.)
+
+The opinion of the Court was delivered by
+Sergeant, J.
+—Some doubts are to be found in the ancient English authorities as to the right of a person to levy a foreign attachment on property in his own hands, under the customs of London and other places, but the weight of authority is that it may be done; and precedents of the mode of pleading in such cases may be seen in Coke’s Entries 139, b, and Rastell’s Entries, Detle, 156, b. That such proceeding is maintainable under our act of assembly, was determined in Graighle v. Notnagel, 1 Pet. Rep. 245. So far as it is a legal remedy against an absent debtor for the purpose of compelling an appearance or securing a priority, it ought to be allowed, because the plaintiff would otherwise be excluded from a right enjoyed by every other creditor. But the operation of the judgment is very different where the plaintiff is a third person, and where he proceeds against funds in his own hands. In the former case the proceeding is adverse: the garnishee cannot contest the plaintiff’s debt; the judgment against the defendantin the atachmentis evidenceof the existence of the debt for which it is regularly rendered, though it may be controverted by proof of fraud or collusion. To oblige the garnishee when defending himself against the suit of his creditor to prove the debt of the plaintiff in the attachment,jwhich he could not dispute, and of which he may be wholly ignorant, would be unjust, and would subvert the system. The only question at issue between the garnishee and the plaintiff in the attachment is, whether the garnishee had in his hands property of the defendant. The security of the defendant consists in the bail given by the plaintiff for returning the property attached, if within a year and a day the defendant appears and disproves the debt. In a word, the garnishee is a mere stakeholder bound to see that the effects are not taken out of his hands without regular execution, and the entry of security for their being refunded according to law. But the case is very different where the plaintiffattaches money in his own hands and enters judgment against the defendant for a debt alleged to be due. It would be dangerous to hold that a judgment thus obtained on a proceeding to which the plaintiff himself is the only party, should be even prima facie evidence, for it would enable a party to make evidence of a debt where none existed. Whereas if it really exists, the plaintiff is conusant of it, and able to establish it by proof. If a defendant, therefore, seeks to avail himself of a prior attachment of the plaintiff’s debt in his own hands, he must show the existence of the original debt on which the judgment in the foreign attachment was rendered. See the cases cited, Serg. on For. Jltt. 164, and Graighle a. Notnagel, 1 Pet. Rep. 245. It was, therefore, a sufficient objection to the offer of the record of the foreign attachment by the defendant on the plea of payment, that it was not accompanied with proof of the bond on which the judgment was founded, and there was no error in the rejection of it by the court,
+Judgment affirmed.
+The custom of London in this respect seems to have been made a question by the pleadings in Rastell’s Ent. 156, b. The defendant there pleaded in bar a foreign attachment of money in his own hands, and stated the custom tobe, that if a bill of debt was affirmed, summons issued, &c. The plaintiff replied, stating the custom to be, that if the bill of debt was affirmed and the defendant in the bill was indebted to the plaintiff at the time of affirming, summons issued, &c., and concluded by averring that at the time of affirming, the defendant’s bill, the plaintiff was not indebted to the defendant in the sum claimed, or any part thereof. Issue was taken on the last custom, and the court awarded that the recorder should state the custom, but nothing further appears. In Lord Coke’s Entries 139, b, the plea states the custom in the same manner as in the foregoing plea, but it contains an averment that the plaintiffs were indebted to the defendants in the sum for which the attachment was levied.
