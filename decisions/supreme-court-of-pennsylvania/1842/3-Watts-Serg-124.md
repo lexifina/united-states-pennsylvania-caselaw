@@ -1,0 +1,22 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1842-03"
+citations: ["3 Watts & Serg. 124"]
+reporter: "watts-serg"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Wharton against Shaw."]
+source_url: "https://static.case.law/watts-serg/3/cases/0124-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1854670
+cites_cases: ["1 Whart. 252", "11 Serg. & Rawle 224", "3 Wheat. 384"]
+---
+
+# Wharton v. Shaw
+
+## Majority (Kennedy, J.)
+
+The opinion of the Court was delivered by
+Kennedy, J.
+— The right of the plaintiff to recover, depends upon the determination of the question, whether the one-fifth of the residuum of the testator, Samuel Shaw’s estate, devised to Mary Shaw in trust for Samuel Burgess Shaw for life, &c. after being converted into money by the sale made thereof by the executors, under the authority contained in the will, is to be regarded as real estate still, or as turned into personal by the sale. If it be considered the latter, the plaintiff is clearly entitled to recover; otherwise not. For whenever a bequest is made of personal estate, in terms that would create and pass an estate tail if it were real, the legatee will take an absolute interest in the same; because every species of personal property is incapable of being entailed, or being the subject of a common recovery; so that any subsequent bequest of it over, on the failure of heirs or issue of the first taker, would be of no effect, as it is too remote. 2 Roper on Leg. 353, et seq.; and the cases there cited. In this case, the estate devised or bequeathed, though real at the time of making the will, as also at the death of the testator, was certainly changed afterwards by the sale made of it, into personal estate. And being so changed by an authority given by the testator himself, in his will to his executors, it can no longer be considered real estate, unless from his will it appears clearly to have been his intention that the money which might arise from the sale should be considered real estate, or be again vested in the purchase of other real estate. But such intention cannot be collected, with any degree of certainty, from his will. The only words in it which can be said to have any bearing on this point, are; “ but directing that the money or proceeds thence arising” (i. e. from the sale of the residue of his estate) “ be settled in the same manner as the property sold would, according to the directions of this my will, have been, in case it had not been sold.” The plain import of these words would seem to be, that the testator intended his son Samuel Burgess Shaw should have the use of the one-fifth of the money that might arise from the sale of the residuum of his estate, for and during his natural life; and after his death that it should go to, and be divided in equal proportions among his children, in tail. Indeed it is highly probable, from the face of the will, that the testator did not know much, if anything, about an estate in tail; or if he did, that he thought personal estate might be disposed of in tail, as well as real. If the testator had intended, in the event of the residue of his estate being sold by his executors, as authorized by his will, that that portion of it which he wished his son Samuel to have the use of during his life, should be reinvested in real estate, it would not only have been easy but natural he should have said so; instead of saying, as he has, that the money arising from such sale should be settled in the same manner as he had directed the property to be by his will, in case no sale should be made of it. This was only, at most, directing the money or proceeds of the sale to be disposed of in like manner, as he had, by his will, directed the property itself; that is, to be held in trust for his son Samuel during his life, and afterwards to be divided equally among the children of Samuel, in tail. We therefore think that Sarah L. Shaw, the daughter of Samuel Burgess Shaw, and testatrix of the plaintiff, became entitled, upon the death of her father, to one-half' the money absolutely, as personal property that arose from that portion of the residuum of’her grandfather’s estate, which he, by his will, gave in trust for the use of her father during his life. Judgment is therefore rendered in favour of the plaintiff.
+Judgment for the plaintiff.
