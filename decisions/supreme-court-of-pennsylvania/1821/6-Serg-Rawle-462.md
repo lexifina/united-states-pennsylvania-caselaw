@@ -1,0 +1,22 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1821-04-16"
+citations: ["6 Serg. & Rawle 462"]
+reporter: "serg-rawl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Case of John Richards guardian of the children of Hilary Baker."]
+source_url: "https://static.case.law/serg-rawl/6/cases/0462-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1805922
+---
+
+# Case of Richards
+
+## Majority (Gibson J.,)
+
+Gibson J.,
+delivered the opinion of the Court.
+As there is no pretence that the account itself was not final, the order of confirmation was, as respects the subject matter over which it was made a definitive, and not an interlocutory decree. In the case of a guardian, the Orphans’ Court has no power to enforce the balance found due : that can be done only under the act for the better settling of intestates estates, (3 Smithy 156,) which, for the purpose of defining the powers of that Court, is still in force j but which gives the power only in the case of executors or administrators. But even where the Orphans’ Court has power to enforce payment, the settlement of the account, and the striking of a balance, subject to distribution according to the intestate act, or the will, where there is one, is a definitive sentence or decree j and an application for ah order of distribution, is neither a necessary nor a usual course, but a subsequent arid distinct proceeding, in the nature of an execution of the previous decree. The shares of the distributees are usually recovered by action. Th« re is, therefore, no ground of objection that the decree was interlocutory.
+Then, as to the objection that the children cannot appeal without giving security for the balance found against them. It is clear the Orphans’ Court has no power to decree a balance against a ward. The guardian is to account with the ward, not the ward with the guardian. He is to account for the administration of the funds that come to his hands; and when he has done that, the Court will discharge him; but that is the extent of its power, which can be exercised for the protection only of the rights of the ward; the rights of the guardian are to'be enforced by another tribunal. The guardian cannot cite the ward to a settlement; but if he has advanced beyond what he has received, that may, if the expenditure were proper and fitting to the estate and condition of the ward, create a responsibility that would be enforced elsewhere. But the Orphans’ Court can inquire into the payments of the guardian only to ascertain the disbursements out of the estate ; but to do so fully, the guardian states the whole account, although the balance against the ward, whether it bé great, or whether it be small, will have no operation but to shew that the guardian has discharged himself by an honest application of the fund. An opposite rule would be attended with disastrous consequences to the ward; for although thirty days notice is required previously to the confirmation of the account, still partial settlements are, from time to time, often made while the ward is a minor; and although the final settlement cannot take place before he is of full age, still the previous settlements are not unravelled as a matter of course, (except where the whole is brought up, on appeal, to the Supreme Court,) but only by way of review, when he can point out an error, and to do that where error actually exists, may often be out of his power. Beside, the notice is not actual, but constructive; the law requiring only that it should be given in three of the most public places in the county; to which, by the practice of the Courts, publication in the newspapers is usually added. It is, therefore, going far enough to say, the confirmation of the account shall discharge the guardian without directly involving the ward in personal liability. 'I’he Orphans’ Court is ex ojficio the protector of the ward, and interferes no further than to compel the guardian to account with him, but never to compel him to account with the guardian ; and all Courts entertain a salutary jealousy of the guardian, so far as to look with suspicion even on a settlement directly with the ward himself" immediately on his having come of age. I am, therefore, of opinion the appeal should be allowed to the children without security, except for costs.
+Appeal allowed.
