@@ -1,0 +1,30 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1874-01-06"
+citations: ["2 Foster 17"]
+reporter: "foster"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PURMAN et al. v. PORTER et ux."]
+source_url: "https://static.case.law/foster/2/cases/0017-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6759201
+---
+
+# Purman v. Porter
+
+## Majority (Mercur J.)
+
+Opinion delivered January 6, 1874, by,
+Mercur J.
+Since the act of x ith of April, 1848, it has been settled by numerous decisions of this court, that the proceeds of the wife’s separate property cannot be seized for the husband’s debt. Manderbach v. Mock, 5 Barr 43; Rush v. Voight, 5 P. F. Smith 437; Brown v. Pendleton et al. 10 P. F. Smith 419; Meesser v. Gardner, 16 P. F. Smith 242. If her property be real estate, the fact that her husband’s labor assisted in creating the products derived therefrom, does not make them liable for his debt: Rush v. Voight, supra.
+Property purchased by a wife on the credit of her separate estate, or by her earnings, derived from the management of it, is protected from her husband’s creditors: Brown v. Pendleton et al. supra. The jury has found that the property in question was acquired by Mrs. Porter upon the credit of her separate estate, and that it was afterward paid for out of the proceeds which derived from Cosgrave’s occupancy of the same. The first and fourth assignments are not sustained. Under the evidence the court was correct in refusing to affirm the point covered by the second assignment. There was no testimony that Mrs. Porter acquired the property otherwise than as her share of the profits under her agreement with Cos-grave. It is error to submit a question of fact to the jury of which there is no evidence: Sartwell v. Wilcox, 8 Harris 117; Torver et al. v. Clement, 1 Casey 63.
+The manner in which the point, covered by the third assignment, was presented, is so unusual, we at first supposed the word “disbelieve” .had been inadvertently.used for “believe,” and that the court must have so understood it. An examination of the original written point, however, as well as the fact that in the fifth point presented by the defendant below the language is changed to “believe,” leaving the point otherwise the same, satisfied us it was designed as written. The plaintiff below could not r-ecover without evidence. Evidence is such proof of the fact alleged, as satisfies the mind. If all the testimony given in support of the allegation is disbelieved, it necessarily follows that the mind would be unsatisfied, the evidence would be insufficient, and the plaintiff could not recover. As the credibility of witnesses is a proper question for the jury to pass upon, and the point submitted clearly raised that question it should have been affirmed. The affirmance however, should have been accompanied by proper explanations and instructions, as to weighing the testimony and testing the credibility of witnesses. The third assignment is therefore sustained.
+Judgment reversed, and venire facias, de novo awarded.
+
+## Dissent (Agnew C. J.)
+
+Agnew C. J.
+dissenting. The decision in the court below was a step in advance of any heretofore made, and tends to the dissolution of the marital relation and rights of the husband. The property levied and sold in execution against Porter, the husband, was paid for by Cosgrave, a partner-in the business of Mrs. Porter, out of the proceeds of that business. By the agreement between Cosgrave and Mrs Porter, she found the barroom and a stable, and Cosgrave was to give his services in lieu of the rent of the bar-room, and his own stable as an equivalent for the rent of her’s. Both of them were to furnish equally the capital to purchase liquors, &c. for the bar, and oats, hay, corn, &c. fo.r the stables. It was from the profits of the business of the bar and stables, the furniture in question was purchased and paid for, through Cosgrave. Porter and wife lived together, the marital relation having been neither broken nor impaired by the desertion of Porter, or by his refusal to maintain her, or other cause. She was, therefore, not a feme sole trader, either under the act of 1718 or the act of 1855.. These acts underwent careful scrutiny in Cleaver and Wife v. Scheetz and Wife, decided at Philadelphia in 1872, 29 Legal Intelligencer, 196, June 21, 1872, and the condition of a feme sole trader was therein stated.
+It is clear, by numerous decisions, that a wife, living with and supported by her husband, acquires no property in the fruits of a business carried on by her on credit, or through her own labor, when not founded upon her own capital or separate property.. The property thus .acquired' is her husband’s, and is liable to his creditors.
+The position here that the fruits of the partnership with Cosgrave were her individual property is incorrect. It is true the rent of thé barroom was paid for by Cosgrave’s services, and the rent of the stable was rendered in an equivalent use of Cosgrave’s stable for the partnership purposes. But these were not the fruits which entered into the purchase of the furniture. Now this was not the product of her individual estate,' but of the added capital, which was not shown to be her own. . In' the absence of clear proof, it is presumed the means were furnished by her husband, and no presumption arises from desertion, for they lived together," he giving his assistance. It is unlike the case, Rush v. Voight, where the products of the wife’s farm were held to be hers. To make the most of the evidence in her behalf, arising from the rent of the bar-room and stable, it is' a case of confusion of her rent with the fruits of the partnership business founded on the husband’s capital, and his right to her labor and services. But the well settled rule is that a wife can establish her •right to individual property against the husband’s creditors, only by clear and satisfactory evidence that it was. obtained by or through her own exclusive means.
