@@ -1,0 +1,40 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1838-07"
+citations: ["7 Watts 237"]
+reporter: "watts"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Rundel against Keeler."]
+source_url: "https://static.case.law/watts/7/cases/0237-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1846821
+---
+
+# Rundel v. Keeler
+
+## Majority (Huston, J.)
+
+The opinion of the Court was delivered by
+Huston, J.
+This cause commenced before a justice of the peace, and by his return it was a demand on assumption, and a promissory note was shown, daled the 19th day of July 1834, for 28 dollars 28 cents, payable in ninety days to William Keeler or bearer, with interest., and if sued, without defalcation or stay of execution. There was an appeal from the decision, and in September 1835 defendant, by his guardian, pleaded infancy. Replication, that it Was for necessaries.
+To understand the case, we must recollect that in the several districts in this slate the courts have a power to make rules of practice to a certain extent, and in several districts there is a rule, made it is understood at the request of the members of the bar, that all cases of appeal from a justice of the peace shall be tried on a declaration for money had and received. This makes an awkward case when the cause of action happens to be trespass. In the district from which this cause came all appeals from a justice are tried on the transcript and no declaration is filed. If there is any difference this is not so bad as the first mentioned, but it would seem that in both cases there is an end of all exception, as to the pleadings, to a case brought here on error. It would be worse than idle to agree to dispense totally with a declaration, and of course with a plea and issue, and yet allege error in any of these or in any thing that depends on these, and we can only decide on the supposition that a narr. was filed suitable to the case and a proper plea and issue. If an infant has gone in debt for necessaries, and given his negotiable note for the amount, and it should be supposed the note was void; still, on a count for goods sold, the proof may be received that goods were sold, and the kind of goods and the question whether necessaries or not be brought before the court and jury; and we must consider this case as if so brought before us.
+The proof was that defendant was twenty-two years old in November 1837, so that he was not twenty years old when the note was given, and something younger when the goods were purchased.
+He had a guardian who lived about two miles and a half from him. The minor lived with his mother, and managed and cultivated the farm on which she lived, belonging to the family or to himself, and it did not appear which. His guardian had furnished him a pair of oxen with which to work on the farm. He had been married about the time the note'was dated, whether before or after its date was not certain,, The articles furnished were :
+One hat,.......... $8 50
+One pound of tea...... . . . 1 25
+Two yards of cloth,....... 9 00
+Three yards of satinet, ..... 4 12
+A book, a knife, a whip, a pair of gloves, Cash to a tailor for making his clothes, A plough,.......... 1 25 5 06 6 00
+A credit for some home made cloth, $4 00
+These articles were all bought in the spring and summer of 1833. It was proved that he used the plough in cultivating his farm.
+It was offered to be proved that he bought and sold small articles as if of age ; that where he had done so bis guardian settled and allowed the accounts; that he bought and sold cattle; that many of those who dealt with him thought he was of full age.
+It seems to be settled that a person supposing an infant to be of full age does not alter the case.
+If the law did not permit an infant to contract for necessaries, his situation would be deplorable. Again, the law allows many contracts on condition they are for the infant’s benefit and advantage, and in many cases allows him to rescind a contract which turns out not as he expected ; a bond or negotiable note is said to be void. Many contracts, and some under seal, are only voidable.
+Necessaries are not only such as are absolutely necessary to support life or to keep out the winter’s cold, but such as are suitable to the infant’s degree and estate, and it must be left to a jury to decide whether they were so or not and whether furnished at reasonable prices, and they will proportion their damages accordingly; 3 Wilson’s Bac. Ab. 593, 595, and. cases there cited ; particularly 1 Burr. 566; Co. Lit. 172; and 8 Term Rep. 578.
+It was a dispute whether money advanced to an infant to buy necessaries could be recovered, and it was decided on error from the common pleas that it could not; 1 Lord Raym. 344; Salk. 386,7, 279.
+But it was decided in chancery that if the infant actually expended the money for necessaries, he would be decreed to pay it. 1 P. Wms 599. There have been different decisions as to whether, if an infant is indebted for necessaries and gives a single bill for the amount, he will be bound by it (see the cases cited 3 Bacon’s Jib, 595); but those who held the single bill void, or when he gave a bond held to be void, the bill or bond did not drown the simple contract, and there might be a recovery on it. 3 Bacon’s Jib. 595.
+Now to the case before us: the guardian, instead of leasing the infant’s land, put him in possession of it, to cultivate it, and furnished •him with a yoke of oxen to enable him to do so. -Did not this imply an authority from the guardian to the infant to buy a plough and harrow, and to hire additional labour to make hay and gather in his harvest, which cannot be done by one person?
+In Hand v. Staney, 8 Term Rep. 578, before cited, Lord Kingrove said there was a distinction between what was necessary and proper for the son of a nobleman and the son of a poor man, and between what was necessary and proper for a young gentleman at the university and for a boy at grammar school.
+Now, though the mother stated that she furnished her son with necessary clothing, and the counsel requested the court to charge the jury that the articles must be of absolute necessity, yet we think it was not error to leave it to a jury to decide whether a coat of cloth at 4 dollars 50 cents per yard, and the rest of the suit of such price as that all, including the taylor’s bill, cost less than 20 dollars, was necessary and proper for a young man of twenty years of age, and who was about to be married, and part owner of a farm. We do not mean to give up the restraints which the law puls on those who furnish infants with the means of extravagance—of disorderly pr intemperate life; nor to say that an infant can engage in trade? or give bonds so as to be bound by them, or make or indorse promissory mercantile notes; nor even to concede that in all cases the jury are the sole judges of what is necessary and proper. Thp court ought to have a superintending power, and in gross cases, set aside a verdict and grant a new trial. But many cases are composed of so many circumstances of which the jury are the proper judges, as that it must be submitted to them ; and we think this was such a case. The man who usually employs a son o,r a servant to go to stores to buy articles, which are brought home and used, or to buy a carriage or horses or furniture which he receives and uses, is held bound; and this without inquiring whether the son or servant is aged twenty or twenty-one. A guardian who has constantly permitted a ward to do such acts or to contract for necessaries, and has settled for them generally without objection, would seem to come within the same rule that a court and jury ought to be satisfied the articles were necessary and proper and at a reasonable price and obtained and used by the infant; and if so, under all the circumstances here proved, the court did right in submitting the case to the jury.
+Judgment affirmed.
