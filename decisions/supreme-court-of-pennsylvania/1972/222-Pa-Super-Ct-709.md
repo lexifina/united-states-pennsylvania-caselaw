@@ -1,0 +1,19 @@
+---
+court: "Supreme Court of Pennsylvania"
+docket: "Appeal, No. 3"
+decided: "1972-06-22"
+citations: ["222 Pa. Super. Ct. 709"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Miles, Appellant, v. Yellow Cab Company of Philadelphia."]
+source_url: "https://static.case.law/pa-super/222/cases/0709-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 801700
+---
+
+# Miles v. Yellow Cab Co.
+
+## Majority
+
+Order affirmed.
