@@ -1,0 +1,23 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1845-05"
+citations: ["9 Watts & Serg. 69"]
+reporter: "watts-serg"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Maurer against Mitchell."]
+source_url: "https://static.case.law/watts-serg/9/cases/0069-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12168932
+cites_cases: ["11 Serg. & Rawle 155", "13 Serg. & Rawle 26", "13 Serg. & Rawle 35", "2 Penn. Rep. 531", "2 Rawle 24", "3 Serg. & Rawle 327"]
+---
+
+# Maurer v. Mitchell
+
+## Majority (Gibson, C. J.)
+
+The opinion of the Court was delivered by
+Gibson, C. J.
+It is pretty clear that the consideration of the contract was to be a cessation of voluntary prosecution by the mother, for it is incredible that the father would have been so far actuated by a sense of moral duty as to execute the articles and the single bills, had it been understood that she might continue to pursue him. She agreed to release him from “ all charges, demands, or suits for or on account of the prosecution but what charges, demands or suits could she have on account of it, except the prosecution itself? She could give effect to her agreement only by ceasing to press her accusation ; and the question is, whether that alone would make the contract of the accused illegal. There certainly was a time when fornication and bastardy stood on the foot of every other offence, and when an agreement to stifle the prosecution of it would have been an illegal consideration. Originally the principal object attempted by the punishment of it was the correction of the offender, the penalty annexed to it being stripes at the whipping-post, or a fixed fine at the election of the convicted; and on this footing it stood, as it was placed by the Act of 1705, till the infamous alternative was commuted by the Act of 1790. Still the pecuniary penalty remained fixed till the Act of 1806 empowered the courts to moderate specific fines; after which the support of the child, where there was one (and no one took the pains to prosecute where there was not), came to be viewed as the substantial, though not the formal, end of the prosecution; and the fine was, in practice, only nominal. Prompted by the general sentiment, the Legislature authorized the Attorney General, by an Act passed in 1819, to enter a nolle prosequi in prosecutions for fornication and bastardy “ on agreement between the parties” after indictment found. Thus the offence, like assault and battery, with which it was associated in that statute, became little more than a private wrong; and when the Legislature authorized the parties to treat it as such between themselves, the contract certainly became legal, so far as they were individually concerned. I therefore am bound to dissent from the dictum of my late learned and able brother, Mr Justice Duncan, in Shenk v. Mengle, (13 Serg. & Rawle 26.) that a contract founded on the abandonment of a prosecution for fornication and bastardy is illegal and void. The parties have certainly a right to let the matter drop, where the Attorney General consents to let them do so; and when the public interest does not forbid it, he may relieve them from the burthen of prosecuting even on compulsion. Surely, then, a contract which looks to that contingency is lawful, at least in the first instance. It may be that a private agreement to hold back, being inconsistent with public policy whenever the prosecution is to go on, would depend for its ultimate effect on the event of his determination; about which I intimate no opinion. In this case, it is true, there has been no bill found on which the Attorney General could exercise his power; but none has been presented, and the prosecution is virtually at an end. The Act of 1819 was not brought into the view of the court in Shenk v. Mengle, probably because the professional mind had not become familiar with it, else the legality of the contract would not have been questioned.
+Touching the other point of defence, it is sufficient to say that the contract was entire and indivisible. A gross sum was agreed to be given for the relinquishment of the mother’s claim, whatever it might be; and though it was to be paid piecemeal, it was not to be graduated to the quantum of the maintenance actually furnished. The mother took upon herself the burthen of the whole; and the chances, on the one side and on the other, must be supposed to have been estimated in the concoction of the contract. The father is therefore not entitled to any deduction by reason of the death of the child.
+Judgment affirmed.
