@@ -1,0 +1,27 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1815-10-02"
+citations: ["2 Serg. & Rawle 70"]
+reporter: "serg-rawl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Yeates J. and BrackenRidge J. both concurred."]
+parties: ["Hamilton against Menor."]
+source_url: "https://static.case.law/serg-rawl/2/cases/0070-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1798250
+cites_cases: ["2 Binn. 72", "4 Binn. 192", "4 Binn. 51"]
+---
+
+# Hamilton v. Menor
+
+## Majority (Tilghman C. J.)
+
+Tilghman C. J.
+(After stating the case.)
+1. The first exception was to the evidence of Christian Study. The plaintiff’s counsel did not deny, that in general the declarations of a deceased person as to boundary are evidence : but. they contend, that the evidence offered in this case was not admissible, because it went to prove the malting of a survey for Smith and Finley. This objection is too refined. The substance of the evidence was, that Lewis Davis shewed the boundary, but this could not well be expressed without saying of what land it was the boundary. Undoubtedly a boundary being shewn some implication would arise, that a survey had been made : but this is unavoidable. It is no objection, however, to the evidence of Davis’s declarations. Those declarations are only in proof of a boundary, and if the jury thought the boundary established, the inference of a survey would be drawn directly from the fact of the boundary. The proving of a boundary is one thing, and the consequence of a boundary being proved is another. I am of opinion, that the evidence was proper.
+2. The second exception is to the rejection of William Lyon's deposition, taken under a rule of Court. It is alleged by the plaintiff’s counsel, that all the adjournments were made for the sake of the defendant, in order to give him an opportunity of being present: and that the defendant, having neglected to appear at the time first appointed, was bound to take notice of the adjournments : or at least, that he was in no worse con-' dition by the taking of the deposition on the 4th October, than he would have been if it had been taken on the 15th July. This may be true, and yet the proceeding may be irregular. The deposition might have been taken at the time first appointed, because the defendant had notice. But the person, before whom a deposition is to be taken, has no power to adjourn from time to time without consent, and without notice. It may be, that the defendant did not attend the first day, because he knew that the deposition would not be taken. He might know, that the witness was sick, or could not attend, and that, therefore, he might be -absent. I am, therefore, of opinion, that the deposition was not evidence.
+3. The last exception is to the charge of the Court. The three first .questions are matters of fact, concerning which the Court were not bound to give an opinion, neither could any exception have been taken, if it had been given: because' an exception lies only in matter of law. The fourth point re» lates to an implied abandonment of the right arising from a warrant. Abandonment is generally a matter of fact; although there may be cases where the- circumstances are so plain and strong, as to authorise the Court to decide it as a matter of law. In the present instance, the question was put to the Court in such a manner as to assume several facts, which they were not bound to take for granted, and therefore they might well decline to give an opinion. The facts assumed are, that there was no attempt by the defendant, after the year 1763, to make a survey or take possession, until after the warrant and survey and return of the plaintiff, nor until after the year 1787. Considering the antiquity of the transaction, these were matters which the Court might very properly refer to the jury.
+But in the fifth and sixth points proposed, there was no assumption of facts. The questions were simply of law: and the plaintiff was entitled to an opinion. The Court barely said, that “ a warrant did not create a complete title without “ a survey.” But they were asked, whether, if no survey was made for the defendant from 1763 till after the plaintiff’s warrant, survey, and return, nor any settlement made till after that time, the warrant of defendant with survey would protect him against the plaintiff. They were also asked, whether notice of the defendant’s claim given to the plaintiff, after the taking out of his warrant, would in any way affect him. The defendant contends, that the first of these questions was sufficiently answered, and in a manner favourable to the plaintiff; because the Court gave in charge, that a survey was essential to the defendant’s title. The charge seems rather argumentative than direct. I will not say absolutely, however, what would be my opinion, if the case turned simply on this point: but to the last question no kind of answer was given, although it was pertinent and material. Now its settled, that the refusal or omission to give an opinion requested on a point material to the issue, is error; and I am satisfied, that there will be no certainty in the law unless this principle is strictly adhered to. I am, therefore, of opinion, that the judgment should be reversed, and a venire facias de novo awarded.
+Yeates J. and BrackenRidge J. both concurred.
+Judgment reversed, and a venire facias de novo awarded.
