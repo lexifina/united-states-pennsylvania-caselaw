@@ -1,0 +1,44 @@
+---
+court: "Supreme Court of Pennsylvania"
+docket: "Appeal, No. 161"
+decided: "1972-09-15"
+citations: ["222 Pa. Super. Ct. 278"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Wright, P. J., Watkins, Jacobs, Hoppman, Spaulding, Cercone, and Packel, JJ.", "Hoffman and Cercone, JJ., join in this concurring opinion."]
+parties: ["Commonwealth, Appellant, v. Cromartie."]
+source_url: "https://static.case.law/pa-super/222/cases/0278-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 801804
+cites_cases: ["137 A. 2d 814", "137 A.2d 814", "185 Pa. Superior Ct. 91", "249 So. 2d 470", "339 F. 2d 91", "384 F. 2d 158", "447 F. 2d 1285"]
+---
+
+# Commonwealth v. Cromartie
+
+## Majority (Jacobs, J.,)
+
+Opinion by
+Jacobs, J.,
+In this appeal the Commonwealth, as appellant, challenges a lower court order sustaining defendant’s demurrer to the Commonwealth’s evidence. For the reasons that follow we reverse.
+The evidence adduced at defendant’s trial for possession of narcotic drugs was a crime-laboratory report and the testimony of the arresting officer. The officer explained the circumstances, which are not now in issue, surrounding his acquisition of an envelope belonging to the defendant. The laboratory report disclosed the presence of marijuana in this envelope. The envelope and the marijuana, however, were not produced at trial, they having been destroyed by the crime laboratory.
+The defendant stipulated to the accuracy and admissibility of the laboratory report. However, he demurred to the Commonwealth’s evidence on the ground that production of the envelope itself and its contents was a necessary element of the Commonwealth’s case. The trial court sustained defendant’s demurrer on the basis that defendant was denied his asserted right to be confronted firsthand with the physical evidence against him.
+In sustaining defendant’s demurrer, the court below was in error. The present case is governed by our previous decision in Commonwealth v. Gazal, 185 Pa. Superior Ct. 91, 137 A.2d 814 (1958), wherein we rejected as without merit a claim similar to the one pressed by the present defendant.
+In Gazal the defendant was tried for operating a lottery and possession of numbers slips. At trial the Commonwealth was unable to produce the slips which had been taken from the defendant at the time of his arrest. Instead, the arresting officers described the slips and identified them as numbers slips. Appealing from his subsequent conviction, the defendant contended that only the numbers slips themselves could be admitted to prove his possession of them. However, in affirming his conviction we held that there exists no such rule as expounded by the defendant which would automatically necessitate his acquittal upon the Commonwealth’s failure to produce physical evidence shown to be unavailable.
+For the same reasons as set forth in Gaml, we are unable to agree with the proposition advanced by the defendant in the present case. The Commonwealth’s inability to produce the envelope and its contents may have weakened its case, but it did not destroy it; the remaining evidence admitted at trial was certainly sufficient to withstand a demurrer.
+The order of the lower court is reversed with a procedendo.
+
+## Concurrence (Spaulding, J.:)
+
+Concurring Opinion by
+Spaulding, J.:
+I concur with the result reached by the majority, but believe that factors not raised in the majority opinion should be discussed.
+First, the majority assumes that the subject of controversy here is both the brown envelope and the marijuana which it allegedly contained. However, the opinion of the court below indicates that its decision to grant the demurrer was based on the Commonwealth’s failure to produce the brown envelope alone. By lumping together the two items — the envelope and the drugs —the majority fails to focus on the precise issue raised in this case, and overlooks the unique problems presented by each type of evidence.
+The majority relies upon Commonwealth v. Gazal, 185 Pa., Superior Ct. 91, 137 A. 2d 814 (1958), in concluding that, there having been no indication of fraud or wilfull withholding, the Commonwealth was not required to produce the envelope or marijuana in order to sustain its case against the appellee. With regard to the envelope, I believe that reliance on the Gazal opinion is justified. However, I think it incumbent upon this Court to answer the trial court’s assertion that it was constitutionally precluded from considering the testimony concerning the connection between the envelope and the alleged crime unless the envelope itself was produced.
+Exclusion of prosecutorial testimony where the tangible evidence which was the basis for the testimony was absent is not without precedent. In the case of Johnson v. State of Florida, 249 So. 2d 470 (1971), cited by the court below, the Florida Court of Appeals found reversible error in the trial court’s denial of a motion to suppress the testimony of a ballistics expert that the markings on a bullet taken from the body of a murder victim corresponded to the markings on a pistol with which the appellant was armed, where the state failed to produce the bullet for examination by appellant or his own expert. With this result I agree: allowing the state to bring in testimony based on physical evidence within its exclusive control while denying a defendant the opportunity to examine physical evidence amounts to a denial of due process when the opportunity to examine is crucial to defendant’s ability to effectively impeach or contradict the state’s witness, and when the physical evidence operates to establish an element of the crime or a direct link between the defendant and the crime alleged.
+However, the present case seems distinguishable from the situation presented in Johnson v. Florida, supra. The envelope was not, per se, the nexus between the appellee and the alleged criminal act: the record indicates no distinguishing features or markings on the envelope which would lead the police or a jury to infer any possessory interest on the part of appellant in the drugs the envelope allegedly contained. It was the officer’s purported observation of the envelope leaving appellee’s right hand, not the envelope itself, which raised the inference of possession. Moreover, the presence of the envelope would not appreciably enhance the ability of defense counsel to cross-examine the police officer concerning his statement that he saw appellee drop a brown envelope which he (the officer) picked up a few seconds later and found to contain what appeared to be green vegetable matter. Even if there would have been some utility in the presence of the envelope for purposes of cross-examination, the usefulness would not have been so significant as to render unfair a proceeding where the envelope was not produced.
+I would therefore conclude that no constitutional requirement would have been compromised by consideration of the police officer’s testimony absent the presence of the envelope.
+Hoffman and Cercone, JJ., join in this concurring opinion.
+Federal courts have adopted a similar posture, as indicated by holdings that federal agents could testify concerning the contents of jugs and containers used in an alleged bootlegging operation, and to the fact that certain jugs and containers bore no liquor tax stamps, absent the production of the containers themselves. Driggers v. U. S., 384 F. 2d 158 (1967) ; Burney v. U. S., 339 F. 2d 91 (1964).
+The trial court invokes the Sixth Amendment right to confront and cross-examine witnesses as the basis for his granting the demurrer. He contends that the amendment assumes that the right to cross-examine must be effective, and that this effectiveness was compromised by the failure of the Commonwealth to produce the evidence allegedly seized from appellee. If the issue here reaches constitutional dimensions at all, I do not think it is on the basis of the Sixth Amendment. No hearsay testimony is involved here, only the in-court testimony of the police officer. Moreover, the evidence here is not of a testimonial nature. Even where there was an unproduced report which was the basis of conclusions made by an expert witness, no violation of the confrontation clause was found, since the expert was available at the time of trial for cross-examination and probing of the authenticity of his sources. U. S. v. Williams, 447 F. 2d 1285 (1971). If the issue here comes within a constitutional rubric, it would be the Due Process Clause of the Fourteenth Amendment, rather than the Sixth Amendment.
+The Florida court based its determination on the requirements of the Florida Rules of Criminal Procedure and the Confrontation Clause. As indicated by footnote 2, supra, I believe the reliance on the Confrontation Clause to be misplaced.
