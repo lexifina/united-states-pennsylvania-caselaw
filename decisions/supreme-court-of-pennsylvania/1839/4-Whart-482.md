@@ -1,0 +1,23 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1839-04-29"
+citations: ["4 Whart. 482"]
+reporter: "whart"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WATKINSON and Another against THE BANK OF PENNSYLVANIA."]
+source_url: "https://static.case.law/whart/4/cases/0482-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1835020
+cites_cases: ["17 Wend. 526", "3 Watts, 25", "6 Cow. 16", "6 Johns. 147", "7 Serg & Rawle 502", "7 Serg. & Rawle, 504"]
+---
+
+# Watkinson v. Bank of Pennsylvania
+
+## Majority (Sergeant, J. —)
+
+The opinion of the Court was delivered by
+Sergeant, J. —
+The question presents itself in this case, what is sufficient notice of the dissolution of a partnership, so as to discharge a partner from debts subsequently contracted in the name, of the firm, without his participation or assent % The rule seems tó. be, that notice of the dissolution of the partnership, given in a newspaper printed in the city or county where the partnership, business is carried on, is of itself notice to all persons who have had no previous dealing with the partnership. But as to persons who have had such previous dealing with the partnership, it is not sufficient. It must be shown that actual notice of the dissolution was communicated to the party in some-way or other. (2 Johns. R. 300., 7 Serg. & Rawle, 504. 3 Day’s Rep. 353. . 6 Johns. 147. 6 Cow. 16. 17 Wend. 526.) A notice in a newspaper is at the. best but an uncertain method of communicating the knowledge of a fact, since the party to be affected may never see the paper, or if he does, may not read all the advertisements; but still it is sometimes the only practicable mode, and is therefore either allowed by the principles of the common law, or directed by act of assembly in particular instances. But where a firm has had previous dealings with others, it can know such persons, and may send them specific notice, which is the best and most certain mode. This, I presume, is the reason of .the distinction.. No particular mode, however, is prescribed by law, for communicating notice, even to persons having previous dealings; it is sufficient if in any way actual knowledge is traced home to the party. Merely taking a newspaper in which such advertisement is contained, is not sufficient. ■ It is very possible, perhaps nothing is more common, than for persons to take newspapers, without reading all the advertisements they contain, even if they peruse their other contents. Our newspapers are not of any -accredited character, universally recognized as the authentic depositary of occurrences, in commercial or other affairs ‘, they are a medley of news, politics, literature, trade, notices, and various other matters, which some peruse for one purpose and some for another; and it would be going a gi-eat way, to say that every one who takes in a'newspaper, should be visited with a knowledge of the contents of all the notices contained in it from day to day. The case of Vernon v. The Manhattan Co. (17 Wend. 526,) was very like the present.' The notice was published in two of the newspapers printed in the city of New York, one of which was regularly delivered at the banking house of the plaintiffs, yet it was held not to be sufficient evidence of the dissolution of the firm to which the defendant had belonged, and with which the plaintiffs had had previous dealing. The Court say that if actual notice reached them in ány form, it would be sufficient, but the mere taking of a newspaper, filled with notices, will not make a case for the jury.
+But though this is the rule of law, and on the evidence, in this cause, if heard as offered, it would have been the duty of the jury to render a verdict for the plaintiffs, yet we are of opinion that the evidence offered by the defendants ought to have been admitted, and that it was not for the Court to decide that there had been previous dealing, and on that ground reject the evidence. This was matter of fact for the jury. The evidence ought to have been received and left to the jury, under the instruction that if the evidence established a previous dealing, then in point of law there should have been actual notice, and merely taking in the paper at the bank was not proof bf such actual notice, without any thing further. Non constatr but the defendant might have controverted the fact of previous dealing, or given evidence in relation to it, or if he did not, yet it was the province of the jury to determine that fact, as well as all others. For this reason the judgment must be reversed.
+Judgment reversed, and a venire facias de novo awarded.
