@@ -1,0 +1,21 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1826-09-19"
+citations: ["14 Serg. & Rawle 357"]
+reporter: "serg-rawl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STEINMAN against SAUNDERSON, Administrator of STEINMAN."]
+source_url: "https://static.case.law/serg-rawl/14/cases/0357-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8878921
+---
+
+# Steinman v. Saunderson
+
+## Majority (Tilghman, C. J.)
+
+The opinion of the court, which contains every thing material to the point decided, was delivered by
+Tilghman, C. J.
+This was an action on the case, brought by Jacob Steinman, the plaintiff in error, against Thomas Saunder-son, administrator of Sarah Steinman, deceased. Several bills of exception to evidence, offered by the plaintiff and rejected by the Court of Common Pleas, were taken, on the trial of the cause, but the whole turns on one principle. Jacob Steinman, the plaintiff,. and Sarah Steinman, the defendant’s intestate, were co-administrators of Christian Steinman, deceased, the husband of the said Sarah. The plaintiff principally transacted the business of the estate, and charged himself with the whole amount of the inventory. He settled two accounts of his administration, which were passed by the Register of Wills and the Orphans’ Court. In the first of these accounts, there was a balance of one hundred and fifty-five dollars and forty-three cents, due from the administrator to the estate; and, in the second, the balance against him was four hundred and eighty-four dollars and forty-eight cents, which still remains unpaid. Sarah Steinman received part of the goods of her intestate, (included in the inventory, and with which the plaintiff had charged himself,) intending to take them on account of her third of her husband’s estate; and she afterwards received some money arising from debts due to her husband’s estate. There is little doubt, that, upon a settlement between her and the plaintiff, she will fall in his debt, having, in all probability, received more than the third of the estate to which she was entitled as the widow of Christian Steinman. But the question is, whether, under existing circumstances, the plaintiff can recover in this suit, and I think he cannot. The declaration contains counts for goods" sold and delivered, and money paid and advanced by the plaintiff for Sarah Steinman, and money received by her for his use. There is no pretence for saying, that there were any goods sold by the plaintiff to Sarah.Steinman, or money paid or advanced on her account. Nor do I perceive, that she can be said to have received money for his use. The administration account is not yet finally settled, — a large balance remains in the hands of the plaintiff, and if he were permitted to recover against the defendant, the estate of Sarah Steinman might be chargeable by a suit on the administration bond, with the balance due from the plaintiff to the creditors, if any there be, or to the next of kin of Christian Steinman. If we had a Court of Chancery, that would be the tribunal for settling the account between the administrators themselves. And, as we have no chancery, I see no reason why the plaintiff, if he had settled the estate, of Christian Steinman, and paid the, balance due from him to the persons entitled to receive it, might not support an action against the estate of his co-admi-nistratrix, for the amount received by her beyond her share of her husband’s estate. In the mean time, her administrator might be compelled to a settlement of her administration account, on the estate of her husband, by a suit on her administration bond; and it would then appear, whether she had applied any part of the assets received by her to the payment of her husband’s debts; and thus the account between her and the plaintiff might be easily adjusted. But, as matters stand, a decisive argument against the plaintiff is, that he has no right to demand from the defendant money which was assets in the hands of Sarah Steinman, while Christian Steinman’s estate remains unsettled, and the plaintiff himself is considerably indebted to it. I am therefore of opinion, that the judgment for the defendant in the Court of Common Pleas should be affirmed.
+Judgment affirmed.
