@@ -1,0 +1,25 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1841-01-04"
+citations: ["6 Whart. 66"]
+reporter: "whart"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["KLECKNER against THE COUNTY OF LEHIGH."]
+source_url: "https://static.case.law/whart/6/cases/0066-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1836989
+cites_cases: ["10 Mass. Rep. 301", "10 Serg. & Rawle, 266", "13 Serg. & Rawle, 66", "15 Mass. Rep. 181", "2 Rawle, 139", "2 Serg. & Rawle, 392", "5 Wharton, 150", "7 Johns. Rep. 554", "9 Johns. Rep. 135", "9 Mass. Rep. 235"]
+---
+
+# Kleckner v. County of Lehigh
+
+## Majority (Rogers, J.)
+
+The opinion of the court was delivered by.
+Rogers, J.
+The legality of the service of the writ, as it appears in the sheriff’s return, is not noticed in the opinion of the court, although it is the point mainly relied on in the argument here. Strike out the words “ said to be ” from the return, and the service is absolute and positive on tw6 Commissioners; and in that case the court cannot discharge the county on motion, but will leave them to their remedy by action against the sheriff; or possibly relief may be had by a plea that they, or one of them, was not the qualified Commissioner of the county at the time the writ was served. In Mentz v. Hamman, (5 Wharton, 150,) words of similar import were striken out as surplusage, and the return held to be conclusive so as to preclude evidence to contradict or explain it. It cannot be endured that a sheriff can shield himself from responsibility by the use of words of an indefinite character, such as •“ said to be,” or “ as he understands,” or “ as he has been informed.” The sheriff cannot complain of this, as in a proper case he can claim an indemnity so as to protect himself from any loss that may arise in the discharge of his official duty. As the return must be considered absolute and conclusive between the parties to the action, the court erred in setting aside the service of the writ by the introduction of extraneous proofs. This view of the case would answer the purpose of the plaintiff in error, but some points have been raised which are important in practice, and which I shall briefly notice.
+It is said the return is defective, because the sheriff omitted to leave a copy with one of the Commissioners. There is nothing in this objection. A writ of summons may be executed by reading it in the hearing of the defendant, as was done here. A copy is required to be left with him only, when, instead of reading it to him, he gives him notice of the contents, or where the defendant cannot be conveniently found. The disjunctive conjunction, or, plainly shows that this is the true reading of the act.
+The act of the 15th of April, 1834, which gives to counties and townships the capacity of bodies politic, directs, that in all suits against them, process shall be served upon, and defence made by the Commissioners and supervisors. " Although the plural Commissioners is used in the act, yet it would not be too liberal a construction to hold, that a service on one is good, reddendo singula singulis, and in analogy to the practice as to executors and trustees, where service on one is good as to all. It is not without precedent that the same words in an act have received different constructions when applied to a different subject-matter. It is difficult to perceive any very good reason why the legislature should require the service of process on more than one, where the only object is to bring the county into court. But be this as it may, yet the service on two is good, and is so held by the Court of Common Pleas, although, be it remarked, as much against the letter of the act as the service on one, because, as they justly say, it is within the scope of legislative intention. We are also of the opinion that the service of process on á Commissioner who has been elected, but not sworn, is sufficient; and that such a service cannot be defeated by a delay to take the oath directed by the constitution. The acceptance of the office is presumed. He is commissioner, whether de facto or de jure is immaterial, from the time of the election; unlike some other cases which might be named, where the incumbent holds over until his successor is duly elected and qualified. So far as the officer himself is personally concerned, the oath is required; but it is not so as to third persons, who may not be cognizant of the fact that he has omitted to do what the law directs. And this is the reason of the distinction taken in all the cases cited. The legal presumption is strengthened by the fact, that, since the action of the court, the commissioner has been duly sworn, and has entered on the duties of his office; and this may be regarded as a practical illustration of the propriety of this construction of the act.
+We intimate no opinion whether a county or township is amenable to the jurisdiction of courts held in other counties.
+Judgment reversed, and the cause remanded for further proceedings.
