@@ -1,0 +1,28 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1825-09-12"
+citations: ["13 Serg. & Rawle 190"]
+reporter: "serg-rawl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BEACOM and another against HOLMES. COCHRAN and another against M‘KNIGHT."]
+source_url: "https://static.case.law/serg-rawl/13/cases/0190-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1814021
+---
+
+# Beacom v. Holmes
+
+## Majority (Duncan, J.)
+
+The opinion of the court was delivered by
+Duncan, J.
+(after stating the facts of the case.) The act provides, “ that thereupon the said judge shall give an order to the sheriff or ccnstable, or other person having such debtor in custody, to discharge him from custody.”
+It would seem, that a practice had prevailed, founded on some direction and form, given by the late President Roberts, to require a bond, to cover all the debts of the petitioner, to be given to the plaintiff, for the use of all the creditors of the debtor, and that the present bond was required and taken in that form, in the penalty of one hundred and twenty dollars, and it appears that Beacom did not proceed further on this petition. It was properly decided by the court, that, if this bond was binding, the obligors were liable to the plaintiff. The principles stated in the preceding case, apply to the present question. The bond certainly was a compulsory one. Beacom, the insolvent debtor, had no alternative offered but this to relieve him from imprisonment. It was a bond required by the judge, and not a voluntary bond. As an obligation at common law, it never'could be considered. No such bond could be required, or taken, at the common law. There is no such provision for the discharge of the common law.
+It is a statutory obligation purely, required by a judicial officer, before he would direct the discharge of the debtor from his confinement; his body was incarcerated, until he gave the security required by law. And the question is, was this bond given in pursuance of the requisitions of the law? If it was not, it was Void.
+That it was not, does not seem to be questioned in the argument; indeecl, it is too clear to admit of debate. All the provisions of the act are preparatory measures. The object was to liberate the debtor from the arrest and confinement, until he had an opportunity, at the next term, to apply for the benefit of the act. The bond is to be given only to the arresting creditor, and to secure his debt, provided the debtor fails to apply for the benefit of the insolvent laws. No other creditor has any concern with it. He is not impeded from arresting the debtor for his debt. The debtor is discharged only from this process.
+It would be oppressive on the debtor, to require security to the amount of all his debts. To the extent of one debt, he might procure some friend to bail him, but for his accumulated debts he might be unable. Here the bond was taken in a sum six times greater than the debt of the plaintiff, to creditors who were not pressing, and from whose process the debtor would not be released, by giving this bond. His other creditors might, on his discharge, again immediately confine him. It never could be presumed, that a debtor gratuitously, and without any benefit, would give such, bond. The bond was required by judicial authority, and it was given to relieve the debtor from imprisonment. As a bond re? quired by law, it is void; as a voluntary bond, good at common law, it cannot be supported. It was given under confinement, and to relieve the debtor from the duress, .illegally required.
+Under the provision of that act, this petition was to liberate his body from the process under which it was held; and the security-required, could only be commensurate with that debt, and to that creditor. It left him exposed to arrests from all his other creditors. If he paid the debt, he was not obliged to take the benefit of the insolvent laws, nolens volens; his other creditors were no parties to the proceeding, and were not bound by it. It was no concern of theirs. If their proceedings had been suspended, or the recovery of their debts been impeded, there might be some reason in requiring security, to cover them; but, as the law did not interpose, except in the particular arrest, so it required only security to be given to that creditor, to him personally, for his benefit, and not for the benefit of any stranger. It was to the other creditors, res inter alios acta; from which they received no injury, and from which they cannot be entitled to any benefit. This is not a bond with several conditions, some good,, others illegal. The obligation is one entire covenant, and the whole is, therefore, void. It cannot be good as to the arresting creditors, and void as to others, because the whole are included in the obligation, and secured by one penalty. The judgment is therefore reversed.
+In the other case, of Cochran (plaintiff in error,) v. M‘Knight? there is but one penalty; if taken for the benefit of all, how is it to be recovered; if insufficient to pay all, how is it to be apportioned; and the judge has no means of ascertaining the whole extent of the debt. *
+This is a similar bond with the last ease, and is disposed of by the opinion given in that; but there is an additional circumstance, that here, M'-Knight, the arresting creditor, and the obligee, had received satisfaction of his debt, as the obligation could not legally be taken for any other debt than his; and, as that has been paid, it necessarily follows, that no other creditor could sustain an action.
+Judgment reversed.
