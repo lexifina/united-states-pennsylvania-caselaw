@@ -1,0 +1,20 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1874-07-02"
+citations: ["2 Foster 239"]
+reporter: "foster"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["COLUMBIA INS. CO. v. MASONHEIMER."]
+source_url: "https://static.case.law/foster/2/cases/0239-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6761297
+---
+
+# Columbia Ins. v. Masonheimer
+
+## Majority (Williams, J.)
+
+Opinion delivered July 2, 1874, by
+Williams, J.
+The secretary was the proper organ of communication between the company and the defendant as the assignee and holder of one of its policies, and it was clearly within the scope of his authority to inform the defendant of its cancelation for the failure of the assignor to comply with the condition upon which it was issued, and for the non-performance of which the company had reserved the right to cancel it. If the policywasin fact cancelled, there can beno recovery of the assessments on the premium note give by the defendant. It was wholly without consideration if the contract of insurance was rescinded, after the assignment of the policy, for the non-payme,nt of a previous assessment by the assignor. No question is made in regard to the right of the company to cancel the policy, but it is contended that it was not in fact cancelled, and that the letter of the secretary, taken in its broadest sense, does not declare that the company had cancelled the policy, but only that they had power to do it if they chose to exercise it. There can be no doubt, as already suggested, that the letter of the secretary was within the scope of his official authority, and that it is binding on the company, whether they expressly authorized it or not. The only question then is, whether it admits of the construction put upon it by the defendant. It is true that he does not assert in express terms that the company have cancelled the policy for the nonpayment of the assessment, but is not this the obvious meaning and import of its language ? If it was not intended that the defendant should understand that the policy was cancelled, why was he informed that “the company cancelled all policies on which the assessment is not paid in thirty days after the same is called for?” And why was he told: “If you have paid the agent you are all right. If not, the company will renew the jjolicy when it is paid?” What is the meaning of this language if it was not intended- to convey the impression that the policy was cancelled ? That the defendant so understood it, is shown by his acts. He returned the policy to the assignor, obtained other insurance, and informed the company of the fact. If the company did not mean to be understood as having cancelled the policy why did they not undeceive him ? They do not deny, but tacitly admit that they-received his letter. Why then should they not be treated as having acquiesced in the construction which he put on the secretary’s communication ? If he misapprehended its meaning it was their duty to inform him of his mistake. But it is evident from the whole tenor of the letter that he understood it just as it was intended he should. If so, the letter was rightly admitted in evidence, andtheca.se was submitted to the jury with as favorable instructions as the company had any right to ask. Judgment affirmed.
