@@ -1,0 +1,22 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1839-09"
+citations: ["9 Watts 111"]
+reporter: "watts"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Kelsey against Murray."]
+source_url: "https://static.case.law/watts/9/cases/0111-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1850040
+cites_cases: ["10 Serg. & Rawle 306", "4 Whart. 291"]
+---
+
+# Kelsey v. Murray
+
+## Majority (Kennedy, J.)
+
+The opinion of the court was delivered by
+Kennedy, J.
+We think that none of the errors assigned in this case has been sustained, and that there is nothing in any of them which seems to require our particular notice, excepting in the fourth. The fourth is an exception to the charge of the court to the jury; wherein'the latter were instructed, that if they believed that Murray claimed the lañds in dispute, and paid the public taxes on them, by himself or his tenants for thirty years, before .Jack, under whom the plaintiffs in error claimed, brought his ejectment, and that Jack in the mean time omitted and refused to be assessed for them, and to pay the taxes, Murray might be considered as having gained a complete title to the lands by the statute of limitations. The evidence on this head showed that the 'lands had been assessed in the name of Murray and that he and his tenants had paid the taxes so assessed upon them, from the year 1791 till 1821, a period of thirty years, as mentioned by his honor, the judge of the district court in his charge, and that Jack, in 180S, when applied to by the collector to pay the tax then assessed thereon, said “he would not; let Leckey Murray pay it; it is assigned to Leckey Murray; let him pay it.” And in the following year, being called on by the assessor, who said to him, “ Had I not better assess this land to you, that you claim, and you and Murray have in partnership?” he said, “ No.” The collector then said, “ Why should it not be assessed to you, as you claim it?” To this, he replied: “ It will be returned unseated, and will be sold. If it is sold, let Murray redeem it.” Thus showing that he, Jack, knew that the land was assessed to Murray, and declaring that he himself would neither pay the taxes, nor suffer the land to be assessed to him for that purpose. From this evidence, the jury might infer very fairly, that Jack not only considered Murray as actually seised of the land, but was also willing to consider himself disseised as to any claim or interest he might have thereon. These declarations of Jack might also be regarded by the jury as extending to the whole of the time that Murray paid the taxes upon the land. Now it can not be doubted that Jack, supposing him to have had a right to the land at the time, might confess himself to be out of possession, and that in such case, the statute of limitations would run against him. This proposition is laid down in Royer v. Benlow, 10 Serg. & Rawle 306, where the late Chief Justice Tilghman also says: “ So without actual confession, a man may show by his conduct that he considers himself out of possession. If one claiming by warrant and survey, omit to pay any part of his taxes for twenty-one years, and suffers one who has entered without title, and settled on the land, to pay the whole taxes during that whole period, the jury may presume that he was ousted, and he will be barred by the act of limitation. So if he suffer his adversary, who has designated his claim to part of the tract, by marks on the ground, to pay the taxes for that part for twenty-one years, he may be presumed to be ousted pro tanto.” It has been said, that Jack claimed to have a joint interest in the land with Murray, and therefore, he might, consistently enough with his interest, use the language testified to by the collector and the assessor. But this is a misapprehension of the fact; and is contradicted by the claim and title set up on the part of the plaintiffs in error. They claim to have the whole of the land exclusively under their title which they derived from Jack. And among other evidence, have adduced that of Jack himself, testifying that he bought the whole of the land in dispute for himself; and paid for it with his own money; and that Murray had no interest in it whatever. We, therefore, think the instruction given by the court to the jury on this point, as well as on every other raised on the trial of the cause was correct.
+Judgment affirmed.
