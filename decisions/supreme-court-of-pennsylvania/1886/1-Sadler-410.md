@@ -1,0 +1,25 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1886-02-05"
+citations: ["1 Sadler 410"]
+reporter: "sadler"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hummel’s Appeal."]
+source_url: "https://static.case.law/sadler/1/cases/0410-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 236150
+cites_cases: ["108 Pa. 339", "119 Pa. 105", "12 Atl. 833", "26 W. N. C. 78", "3 Del. Co. Rep. 242", "5 Del. Co. Rep. 535", "53 Pa. 404", "8 York Legal Record, 26"]
+---
+
+# Hummel's Appeal
+
+## Majority (Mr. Justice Clark :)
+
+Opinion by
+Mr. Justice Clark :
+The first assignment of error in this case is to the allowance of counsel fees for Mr. Snodgrass and Mr. Chamberlain, who, in the partition proceedings, represented, respectively, the interests of Annie L. Boyer and Alvah Ii. Boyer, two of the heirs-at-law of George Boyer, deceased. The appellant may be right in supposing that the act of April 21, 1864, contemplated only an allowance to the counsel of the demandants in the partition, but, as the accountant has actually paid these fees, has claimed and received a credit therefor in his account, and neither the heirs nor any other party in interest have taken any exception thereto, until the entry of this appeal, we cannot now consider the question. The trustee, at all events, is not affected by the fact that this allowance was made, and, under the circumstances of this ease, can have no standing here to dispute the right of the counsel to recover the compensation, which, with the concurrence of the parties interested, has been decreed by the court. The order of the court is all the protection he needs, and it is his duty to pay as he is directed.
+The sale in partition was confirmed December 8, 1888, and on May 16, 1884, application was made for the appointment of an auditor, under the provisions of § 49 of the act of May 16, 1832, to ascertain and report the liens existing against the several heirs, etc. The court refused the application, and this refusal is the second error assigned. It is very clear that the appointment of an auditor, in such a case, is discretionary with the court, the act providing that “the orphans’ court, before making a final decree confirming the partition or sale as aforesaid, may appoint a suitable person as auditor,” etc. The “final decree confirming the sale” had been entered some four months before the application for the appointment of an auditor was made, and no reason had been assigned for the failure to apply at the proper Lime. In all oases coming within the provisions of the act of 1832 the better practice undoubtedly is to follow the provisions of that act, but it cannot be said that a failure so to do is error.
+We are not inclined to interfere with the amount allowed to the accountant for services, commissions, etc. The learned court, upon consideration of this question, regarded 2 per cent as an ample compensation, and nothing has been shown which would induce us to disturb the decree in this respect.
+We cannot, however, fully appreciate the reasons which induced the learned court to reduce the allowance to the trustee for his counsel fees. It certainly cannot be claimed that the costs of the partition, which were taxed by the court on December 8, 1883, included either the compensation of the trustee, or the fees of his counsel, because no allowrance was there made for either; the allowance was, in terms, to the attorney for the petitioner in the proceedings and to the attorneys for the respective heirs. On May 23, 1884, the court made an allowance to the trustee of 2 per cent, • and we must assume he was, in respect of his services actually rendered, entitled to this sum. But he was also entitled to a reasonable allowance for his counsel' fees. Was $825 a reasonable sum? The learned court says: “Wo are not prepared to say that the amount paid, them, as appearing in the account, is too large: but beyond the sum of $50 allowed above, it must be paid out of the commission of 2 per cent allowed to the accountant.” We cannot understand why the trustee should, out of the allowance for his own services, be obliged to pay any part of the counsel fees. ■ It does not anywhere appear that the counsel employed performed any paid of the labor, or assumed any of the responsibilities of the trustee. It is fair, at all events, to presume that the allowance to the trustee was intended to cover his commissions and his own services, and if he had a right to employ counsel in the affairs of the trust, he had a right to a reasonable reimbursement from the trust for his expenses incurred in that behalf. As it is not shown and the learned court was not prepared to say that the amount paid was too large, we think the accountant was entitled to the amount of his actual payments.
+The decree of the orphans’ court is therefore reversed, and the record is remitted with instructions that the account of the trustee be stated in accordance with this opinion; the appellee to pay the costs of this appeal.
