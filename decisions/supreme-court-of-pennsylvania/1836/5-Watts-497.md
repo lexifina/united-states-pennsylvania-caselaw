@@ -1,7 +1,8 @@
 ---
 court: "Supreme Court of Pennsylvania"
 decided: "1836-10"
-citations: ["5 Watts 497", "5 Watts 557"]
+decided_precision: "month"
+citations: ["5 Watts 497"]
 reporter: "watts"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["Barnes against Irvine."]
 source_url: "https://static.case.law/watts/5/cases/0497-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1844003
-cites_cases: ["1 Binn. 166", "1 Serg. & Rawle 74", "1 Serg. & Rawle 75", "1 Watts 110", "1 Watts 121", "1 Watts 70", "1 Watts 85", "14 Serg. & Rawle 341", "14 Serg. & Rawle 841", "2 Watts 112", "2 Watts 462", "3 Cra. 70", "4 Dall. 170", "4 Dall. 237", "4 Dall. 392", "4 Yeates 376", "7 Serg. & Rawle 303"]
+cites_cases: ["1 Serg. & Rawle 75", "14 Serg. & Rawle 841", "3 Cra. 70", "4 Dall. 237", "4 Yeates 376"]
 ---
 
 # Barnes v. Irvine
