@@ -1,0 +1,29 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1827-09-17"
+citations: ["16 Serg. & Rawle 304"]
+reporter: "serg-rawl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Gibson, C. J., dissented."]
+parties: ["COMMONWEALTH against The SHERIFF and GAOLER of Allegheny County."]
+source_url: "https://static.case.law/serg-rawl/16/cases/0304-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1816712
+cites_cases: ["3 Yeates, 263"]
+---
+
+# Commonwealth v. Sheriff & Gaoler
+
+## Majority (Tod, J.)
+
+Tod, J.
+The prisoner’s counsel rely on the third section of the habeas corpus act (Purd. Dig. 342.) “ If any person shall be committed for treason or felony, and shall not be indicted, and tried some time in the next term, session of oyer and terminer, general gaol delivery, or other court where the offence is properly cognizable, after such commitment, it shall and may be lawful for the judges or justices thereof, and they are hereby required upon the last day of the term, sessions, or court, to set at liberty the said prisoner upon bail, unless it shall appear to them upon oath or affirmation, that the witnesses for the commonwealth, mentioning their names, could not then be produced; and if such prisoner shall not be indicted and tried, the second term, sessions, or court, after his or her commitment, unless the delay happen on the application, or with the assent of the defendant) or upon trial shall be acquitted, he or she shall be discharged from imprisonment.”
+It appears to me, that in order to put a right construction upon this section we must take into view the whole act as applicable to the present case. The iutent of the law is evident: it is declared in the preamble. Here is no complaint of wilful delay, nor of any delay at all, except the delay occasioned by the express legislative enactment. The trial might go on, upon the facts and merits, with the consent of the prisoner waiving the conviction of his principal, but not otherwise, and to swear a jury in the case, without such consent and without such conviction, would be a trial but in name only. The principal, having absconded, cannot be at-tainted except by process of outlawry. To. complete that process requires, by the act of 1791, three terms, arid more of the Supreme Court. It seems to me, therefore, that this prisoner is not by law entitled to'be discharged at the second term after his commitment, for want of an outlawry which requires a much larger space of time to effect.
+Substantially, the question here, may in my opinion, be reduced to this: whether by the habeas corpus act of 1785, a person charged as accessary before the fact to the crime of murder shall be dismissed without a trial, in all cases wherever he who is charged as the principal felon, shall escape from justice; or, in other words, whether it is optional with such accessary to be tried on the indictment, or not to be tried, according to his own pleasure. The preamble of the act expressly confines itself to “ all wrongful restraints of personal liberty.” The words of the third section, unless the delay happen with the assent of ¿he defendant, seem clearly to import the sense of ihe legislature to be, that the trial thus delayed should have been practicable, and that they were not speaking of a trial impossible by the rules of law. What then, was the third section of the act, intended to provide against? I think it was intended to provide against the abuse of a protracted trial, to provide not only against the malice of a prosecutor, birt against his negligence, against all his delays whether with cause or without cause, against every possible act, or want of action, of the prosecutor; but not to shield a prisoner in any case from the consequences of any delay made necessary by the law itself. The construction of the act contended for by the prisoner’s counsel, would probably, if adopted, go far to unnerve the whole criminal law. Usually, our Courts of Oyer and Terminer must be held but for a limited period, and that period frequently a short one, and the president, who must usually compose a part of that court, is often required by law to hold another Court of Oyer and Terminer in another county the next week. If then several prisoners are to be tried, or one prisoner upon several charges, and if by one lingering trial the legislature have put it in the power of a defendant to smother a legal inquiry into his guilt,under the name of preventing wrongful imprisonment, who does not see the consequences? Again, if it should happen that the trial of a prisoner should be prevented by his temporary insanity or extreme sickness, as it ought to be, and must be, this delay might not, and in the first case could not, happen with the assent or on the application of the defendant, and would come within the full benefit of the argument here; and, according to that argument, such defendant would have a right by law to be set at liberty without a trial.
+If, on this occasion, or any other, ground should be laid to believe that process of outlawry, or any thing of the kind, had been got up, and abused for the purpose of maliciously keeping a prisoner in jail, he would be entitled to a discharge.
+My opinion does not depend on the offer of the prosecutor to try the cause, and the refusal of the prisoner to waive the conviction of the principal. Most clearly, he might so refuse without in the least abandoning any other legal right.
+We do not oppose the doctrine of the case, read by the prisoner’s counsel, Respublica v. Arnold et al. 3 Yeates, 263. In principle that case supports the present decision.
+As the prisoner offers no bail for his appearance upon the indictment, the opinion of the majority of the court is, that he be remanded.
+Gibson, C. J., dissented.
+Prisoner remanded.
