@@ -1,7 +1,8 @@
 ---
 court: "Supreme Court of Pennsylvania"
 decided: "1836-10"
-citations: ["5 Watts 505", "5 Watts 564"]
+decided_precision: "month"
+citations: ["5 Watts 505"]
 reporter: "watts"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,6 @@ parties: ["Smith against Collins."]
 source_url: "https://static.case.law/watts/5/cases/0505-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1843937
-cites_cases: ["4 Binn. 213"]
 ---
 
 # Smith v. Collins
