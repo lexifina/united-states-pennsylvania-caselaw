@@ -1,0 +1,21 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1852-12-20"
+citations: ["2 Grant 32"]
+reporter: "grant"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Winebiddle versus Pennsylvania Railroad Co."]
+source_url: "https://static.case.law/grant/2/cases/0032-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 227505
+---
+
+# Winebiddle v. Pennsylvania Railroad
+
+## Majority (Woodward, J.)
+
+The opinion of the court was delivered December 20,1852, by
+Woodward, J.
+— We have decided several times, that notwithstanding the example afforded in the case of Heister v. Penna. Railroad, we will not review the evidence on which the viewers assess damages. The impossibility of doing so, is a sufficient reason for the rule. In the first place, we can never be sure that we have the oral testimony that is delivered, for it is made no part of the duty of the viewers to take it down and certify it; but in the next place, if we had the oral, we cannot have the visible evidence. The personal inspection of the viewers themselves, probably contributes, in most cases, more to the formation of their judgment, than any testimony that is laid before them. And how are we to measure the influence of such inspection on a question of damages ? If we had a view of the premises ourselves, we should be less competent to judge on the subject, than viewers selected by the parties, or appointed by the court, on account of their experience and skill in such questions; but without such a view, we are illy furnished for rejudging the estimates of viewers. They are the tribunal provided by law, and adopted by the parties, and except where manifest error appears on the face of their report, we possess no corrective power, nor the means of exercising it judiciously, if it were possessed. Incidentally, questions of title, may be tried by the viewers. In this case, the petitioner set out in his petition, which originated these proceedings, that he was seised in fee of certain lots in East Liberty, through which the railroad runs, and when the viewers came upon the ground, th’ey found him claiming damages on account of a lot, which the company insisted belonged to the heirs of a Mr. Thompson, and not to Winebiddle, the petitioner. The Act of Assembly, under which they were acting, required the viewers to ascertain to whom the damages were to be paid, and who was the owner of the land. Thus an issue, involving the title to this lot, was raised for them to decide. It turned out that Winebiddle’s title was under the Statute- of Limitations, and on hearing the evidence, the viewers were not satisfied that he had had twenty-one years adverse possession of the lot, and therefore, that he had no. title, and was not entitled to damages for that lot. If the case were so, he clearly was not entitled to damages, for Thompson’s heirs would be, and the company is not to be liable twice, in respect to the same land. Put we can neither decide that the viewers were wrong in passing upon title in such circumstances, nor that they erred in judgment as to the title. The evidence of Winebiddle’s possession, is not before us, and we must therefore take it, that the fact was well found by the viewers. These observations dispose of all the exceptions to the report, except the fifth. The reasons given by the viewers for excluding the embankment from their estimate of damages, are satisfactory to us; and it may be added, that this embankment, was not a subject of complaint in the original petition. If it was not included in the petition, because i't was not contemplated in the Act of Assembly as a subject of complaint, - that is a very good reason why the viewers did right in declining to assess damages for it. In regard to the question of costs, the decree of the court was unexceptionable. The Act of Assembly does not require the tender to be brought into court upon a rule, and pleaded. It is enough, if it was made to the party; and of this, the court was satisfied from the affidavit of Mr. Clark. Not accepted, and the petitioner failing to recover more than was tendered, he takes his damages without costs.
+The decree of the Court of Common Pleas is affirmed.
