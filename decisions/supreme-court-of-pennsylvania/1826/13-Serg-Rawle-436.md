@@ -1,0 +1,21 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1826-01-09"
+citations: ["13 Serg. & Rawle 436"]
+reporter: "serg-rawl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MOORE and Wife, against REES and others."]
+source_url: "https://static.case.law/serg-rawl/13/cases/0436-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1813965
+---
+
+# Moore v. Rees
+
+## Majority (Gibson, J.)
+
+The opinion of the court was delivered by
+Gibson, J.
+In an action to recover money payable out of land, •there must be legal parties; and it is certain that unless it lies against all the defendants, the plaintiff cannot recover. It has been decided that it is necessary to join the executor of the devisor, but to join the executor of the devisee would be going much further. The devisee is not personally liable, but only in respect of the land; and there would therefore be an incongruity in substituting the executor, who is not his representative in respect of the land, (the heir representing him exclusively in that respect,) but who is his representative exclusively in respect of the personal property. He has no concern with the land before it is brought into a course of administration, and it is not his official duty to defend in an adverse proceeding, which lies against it specifically. It is said to be a fund ultimately liable to the payment of the debts, and that the executor ought therefore to have an opportunity to-defend for the benefit of the creditors. But the same reason would require him to be made party to an ejeetment brought adversely to his testator’s title; which has never yet been done. The true reason, I apprehend, why even the executor of the devisor is made a party in an action for a legacy charged on land, is to preserve, as nearly as possible, the analogy which it bears to the action for a legacy payable by the executor', which is given by the act of assembly; and 4o avoid, as much as may be, the appearance of assuming a power beyond the law, even where it is justified by the most imperious necessity. The executor in such ease is joined, not because it is supposed to be his duty or his interest to show that he himself has discharged the land — he would be guilty of a devastavit if he had, and it is therefore his interest to show that he has not — but to observe, as nearly as may be, the form of action prescribed in other cases by the act of assembly: for if the devisee has discharged the land, the defence and the evidence necessary to support it, may safely be intrusted to him. Beside, the creditors of’ the devisor claiming by title paramount to that of the devisee, would not be precluded by a sale of the land to raise legacies charged on it, but might reach it in the hands of the purchaser as readily as in the bands of the devisee. Nevertheless it is proper, for the reason I have suggested, that the executor of the devisor should be joined. But the case is entirely different as to thé executor of the devisee. He is in no respect a necessary part of the machinery by which the land is to be reached, either as answering the requisition of the act of assembly in point of form, or as representing the interest of his testator. The interest to be defended is in the heir, and he therefore is the proper party. If then it be not necessary to make the executor of the devisee a party, does it stand indifferent whether be be so or not? The injustice of exposing him to the vexation of a suit with which he has no concern, is obvious: and, beside, I cannot see how the personal estate of his testator could be extricated from payment of the costs, in case the land should prove insufficient. This would be an application of the personal estate to a charge on the land, which the legatees ought not to bear. Add to this, that the complication of parties that would ensue from bringing all the real and personal representatives of the several terre-tenants on the record after a few descents, would be extreme and highly Inconvenient in practice. I am therefore of opinion, that the court below was right in holding that the action, in its present form,, ijould not be maintained.
+• Judgment affirmed.
