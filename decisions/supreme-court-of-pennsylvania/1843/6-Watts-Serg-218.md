@@ -1,0 +1,23 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1843-12"
+citations: ["6 Watts & Serg. 218"]
+reporter: "watts-serg"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Zimmerman against Anders."]
+source_url: "https://static.case.law/watts-serg/6/cases/0218-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 480090
+cites_cases: ["1 Dall. 226", "1 Johns. Ch. 220", "1 P. R. 49", "1 Watts 218", "10 Johns. 19", "15 Johns. 169", "15 Johns. 19", "16 Johns. 537", "17 Serg. & Rawle 92", "2 Binn. 20", "3 Pet. 119", "4 Wash. C. C. 645", "4 Wheat. 27", "5 Binn. 118", "5 Mass. 501", "6 Binn. 94", "9 Cranch 328"]
+---
+
+# Zimmerman v. Anders
+
+## Majority (Sergeant, J.)
+
+The opinion of the Court was delivered by
+Sergeant, J.
+The intent of the testator must govern, in the interpretation of wills, if there be nothing in that intent which conflicts with the regulations of law concerning the nature and enjoyment of estates. If there be a devise of land to one in fee with the power of absolute disposal superadded, and then a limitation over to another of what is left at his decease, it has been decided that such limitation over is void because it is repugnant, to the estate in fee first granted, and to the absolute gift to the first taker, and that was the point in the cases cited from 15 Johns. 169: 16 Johns. 537. But here there are no expressions showing that the wife was to have the whole disposal of the lot; and though the word “ estate” standing by itself carries a fee, yet it is not a. word of art but of interpretation, and its meaning is affected by other clauses and dispositions in the will. If the testator had stopped at the devise to his wife of all the residue and remainder of his real and personal estate, no doubt, she would have had the fee by virtue of the words, “ residue and remainder of his estate not bequeathed ;” but when he proceeds to dispose of it after her decease by giving over to another what is left after paying her funeral expenses, the intention to give her an estate for life only is manifest, and the limitation over is not repugnant to the previous devise but explanatory of it. We think, therefore, that Maria Flinn took under the will an estate for life in this lot, with vested remainder to the plaintiffs, who by reason of the death of the wife before the testator became entitled to an immediate estate in possession on the testator’s decease.
+The next question is, whether the plaintiffs could take the lot in question by virtue of the devise, being then, and for a long time an unincorporated association for religious purposes, and now incorporated, existing in the county of Montgomery in this State. That such a devise is good, and that a religious society may take and hold a bequest or devise for charitable purposes, has been too solemnly and repeatedly adjudicated to be now called in question. No Judge of this State has in any case doubted it, and every decision has sanctioned it. And it must needs be so, whether we consider either the uniform understanding and usage of the province and State from its first settlement, or the repeated recognitions of these rights and privileges by distinct and peculiar clauses in our constitutions, or the well-known and long-settled principle of our courts, that equity forms part of the law of Pennsylvania, and that the doctrines of the English Court of Chancery will be enforced in our decisions so far as they are applicable to our situation and capable of being administered by the forms of our judicial tribunals, either in a common law proceeding, or in such branches of equity jurisdiction as are expressly given. And though the statute 43 Eliz. is not in force in Pennsylvania, it would seem it is so considered rather on account of the inapplicability of its regulations as to the modes of proceeding, than in reference to its conservative provisions; these, I conceive, have been in force here by common usage and constitutional recognition, and not only these, but the more extensive range of charitable uses which chancery supported before that statute and beyond it. Of such recognition of parts of a statute, though the statute itself be not in force, we are not without other examples. -It is unnecessary, however, to enlarge on a point so often considered and fully and ably examined in the various decisions. We think the devise to the plaintiffs clearly good, and that by the settled law of this State they are capable of taking and holding the lots in question for the purpose expressed in the will '
+Judgment affirmed.
