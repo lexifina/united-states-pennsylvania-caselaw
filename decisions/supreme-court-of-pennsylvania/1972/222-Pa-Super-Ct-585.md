@@ -1,0 +1,37 @@
+---
+court: "Supreme Court of Pennsylvania"
+docket: "Appeals, Nos. 1072 and 1073"
+decided: "1972-11-16"
+citations: ["222 Pa. Super. Ct. 585"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Wright, P. J., Watkins, Jacobs, Hoffman, Spaulding, Cercone, and Packel, JJ.", "Weight, P. J., would affirm on the opinion of Judge Bloom."]
+parties: ["Commonwealth ex rel. Welsh v. Welsh, Appellant."]
+source_url: "https://static.case.law/pa-super/222/cases/0585-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 801855
+cites_cases: ["105 Pa. Superior Ct 232", "149 A. 2d 488", "155 Pa. Superior Ct. 477", "173 Pa. Superior Ct 613", "188 Pa. Superior Ct. 553", "195 A. 2d 150", "202 Pa. Superior Ct. 255", "208 Pa. Superior Ct. 398", "213 A. 2d 179", "219 Pa. Superior Ct. 163", "220 Pa. Superior Ct. 46", "220 Pa. Superior Ct. 725", "280 A. 2d 456", "281 A. 2d 662", "283 A. 2d 80", "38 A. 2d 531", "98 A. 2d 203"]
+---
+
+# Commonwealth ex rel. Welsh v. Welsh
+
+## Majority (Pee .Cubiam,)
+
+Opinion
+Pee .Cubiam,
+Appellant has appealed from two lower court orders denying his petitions for reduction of a support order. The basis of each petition is that two minor children have attained majority and are capable of being self-sufficient.
+On May 7, 1971, an Order ivas entered by the Court of Common Pleas of Delaware County requiring appellant to pay support for appellee and the parties’ five children in the amount of $12,000 annually — $8,000 being allocated to wife-appellee and $9,000 to the five children. In addition, appellant was ordered to pay the real estate taxes, fire insurance, and all household repairs on a jointly-owned residential property occupied by appellee; and, all medical, dental and drug bills incurred by wife-appellee and the children.
+After an unsuccessful appeal of that Order to this Court [220 Pa. Superior Ct. 725, 283 A. 2d 80 (1971) (Pee Cueiam)], appellant filed a petition to modify the Order. A hearing disclosed that the parties’ nineteen-year old daughter had left home and become emancipated. The Court, thereupon, reduced the Order to provide for $3,000 support for wife-appellee and $7,200 for the remaining four children.
+On April 3,1972, appellant filed another petition to modify the revised Order, based upon the fact that on November 18,1971 another child, Douglas had celebrated his twenty-first birthday. After a hearing on April 7, 1972, at which it was stipulated that Douglas had attained his majority, the Court dismissed appellant’s petition. Although the Court eliminated Douglas from the support order, it retained the §10,200 order for appellee and the remaining three children.
+Thereafter, on June 6, 1972, appellant presented a further petition to modify the Order, based on the fact that another child, David, had attained his eighteenth birthday, was graduating from high school, and was engaged in employment for the Wawa Food Markets. The Court refused appellant’s petition, and denied appellant a hearing on the merits.
+The instant case is before us on two separate appeals, one from the Order of May 9,1972, denying a reduction of the support order despite the attainment of majority of one son, Douglas; and, one from the Order of June 7, 1972, refusing to hear testimony on appellant’s petition for reduction on the basis of a second son’s reaching majority.
+We recognize that the facts of this case are somewhat tortuous and that the entire matter has proven vexatious by the numerous petitions involved herein. We commend the lower court judge for his patience and careful handling of the case.
+Our Court has always held that a “determination of the amount to be awarded as support is not final inasmuch as it may be modified where the financial condition of the parties changes, or where other proper reasons are assigned.” Commonwealth ex rel. Kaplan v. Kaplan, 219 Pa. Superior Ct. 163, 165, 280 A. 2d 456 (1971); Commonwealth ex rel. Meth v. Meth, 188 Pa. Superior Ct. 553, 149 A. 2d 488 (1959). The burden, however, is upon the party seeking a change to demonstrate such change in conditions or circumstances as would justify a modification of the order. Commonwealth ex rel. Brennan v. Brennan, 202 Pa. Superior Ct. 255,195 A. 2d 150 (1963). Our Court has sustained a reduction of an original support order where one or more of the children has become emancipated. Commonwealth v. Elliott, 155 Pa. Superior Ct. 477, 38 A. 2d 531 (1944).
+While a parent is not ordinarily required to support an adult child, the duty on the parent does continue where the child is feeble physically or mentally, or otherwise unemployable. As we have stated, il[t]he presumption undoubtedly is that when the child comes of age, the reciprocal duties between father and child are at an end. . . . The existence of the presumption of emancipation at age twenty-one places the burden of proof to rebutt it on the adult who must show the conditions that make it impossible for self-employment.” Colantoni v. Colantoni, 220 Pa. Superior Ct. 46, 50, 281 A. 2d 662 (1971) (Emphasis added).
+Appellee offered no testimony to rebut the presumption raised by appellant’s petition. We believe that the lower court should have granted a reduction in the support order. We have examined the record, and we have considered the needs of wife-appellee and the minor children; the financial status of appellant; the position of appellant’s son, Douglas; and the contemplation of the parties as expressed by their agreement. The Order dated May 9,1972 should be reduced by $900 to $9,300 annually.
+The matter of appellant’s second petition poses somewhat different considerations for our Court. The lower court refused to entertain a petition for reduction where allegations on the face of the petition stated adequate grounds for a modification of the order, namely, that appellant’s son, David had attained majority and was gainfully employed. We believe the trial court erred in refusing appellant a hearing to determine whether the obligation for his 18-year-old son should be continued.
+Absent testimony in support of appellant’s petition, we are unable to make an independent determination on this appeal as to the continued needs of this child. The record discloses that appellant’s son may be attending college. We have held that under some circumstances a father’s obligation of support extends to providing a college education for his adult child. As we said in Commonwealth ex rel. Rice v. Rice, 208 Pa. Superior Ct. 398, 396, 213 A. 2d 179 (1965), “In the absence of an agreement to educate, a father has no duty to aid in providing a college education for his child no matter how deserving, willing and able that child may be unless he has sufficient estate, earniny capacity, or income to enable him to do so without undue hardship.” (Emphasis added). This case should be remanded to the lower court for a hearing on the merits to determine the continued needs of the child for college expenses in light of the economic position of the appellant to bear this additional obligation.
+We, therefore, vacate the Orders of the lower court, and hereby reduce the Order of May 9, 1972 by $900, and remand case No. F-127 to the court below for a hearing on the merits.
+Weight, P. J., would affirm on the opinion of Judge Bloom.
+Commonwealth v. Wingert, 173 Pa. Superior Ct 613, 98 A. 2d 203 (1953); Commonwealth v. O’Malley, 105 Pa. Superior Ct 232 (1932).
