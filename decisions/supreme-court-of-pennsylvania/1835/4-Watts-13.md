@@ -1,0 +1,26 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1835-05"
+citations: ["4 Watts 13"]
+reporter: "watts"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Quigley against Beatty."]
+source_url: "https://static.case.law/watts/4/cases/0013-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1842730
+cites_cases: ["1 Watts 1"]
+---
+
+# Quigley v. Beatty
+
+## Majority (Huston, J.)
+
+The opinion of the Court was delivered by
+Huston, J.
+—There appear, on the face of the record, many strange things; such as, that several legatees or administrators of deceased legatees, to whom distinct shares of a sum of money were devised, join in the same suit, and that the administrator of John Quigley is sued, and the heir of Robert Quigley is brought in as terre tenant of a particular tract of land, on which it is alleged the legacies were charged, and a general verdict and judgment against both, instead of a special verdict and judgment against that tract, as against a terre tenant. And there are some other things which would put at once an end to this cause, but several agreements by the attorneys were made which would cure most, if not all these. By consent here also, it is stated that only one point is material, viz. whether the legacies were charged on the land devised to Robert Quigley; or if not, and there was proof that Robert assumed and promised to pay them, and they became a debt against him in his lifetime, whether that debt continues a lien on his lands for more than seven years after his death—in this case fifteen years.
+This last point being considered the only important one, has, 1 suppose, prevented the parties from bringing or putting on the record the will of John Quigley. We have only a small part of it, and for that reason, as well as that the cause rests on the other point, we give no opinion whether the legacies to the plaintiffs are specific and taken away by the testator’s having received the debt in his lifetime, or whether it is a general bequest of so much, and that debt referred to as fixing the amount. Not supposing this point material, we have brought before us only a small part of the will. Now it is never safe to decide on part of a wiil: e. g. a devise of land to a man and his heirs, is a gift of the fee simple; but other clauses in the will may reduce the devise to an estate less than a fee.
+Was this bequest charged on the land devised to Robert Quigley by the testator ? This has not been much insisted on; and unless where a testator gives his sons each a distinct tract of land in the same words, and then makes one executor and residuary devisee of personal property, this makes all the legacies a charge on the land of the son who is made executor—it could not be insisted on. I admit that in England, where debts and legacies are often lost unless charged on land, very slight grounds have been sometimes held sufficient to make them a charge; and at other times it required almost express words to make them a charge. The cases are totally irreconcilable, but they all agree that there must be an express charge, or it must appear that the testator intended to make them a charge from the whole of the will.
+Where the testator gives to his children each a tract of land, and makes one of them executor, it has never been held that this alone throws the whole burthen of debts or legacies on the tract given to the executor, and in addition makes them a lien on that tract, so that the devisee cannot sell or devise it for perhaps half a century. We are of opinion that these legacies, admitting them to be general legacies, were not charged on the tract devised to Robert, and such appears to have been the opinion of the judge in the common pleas.
+But there was proof, if believed, that Robert expressly promised to pay these legacies, and this up to near the time of his death in 1810, and thus it became a debt, and his estate bound to pay it. We may admit that a legacy is not barred by length of time less than twenty years, as between a legatee and an executor (though if it were res nova, I would not admit it in this state, where a legatee may bring case, debt, or account for it); yet when the executor has made it his own debt by actual promise, and dies, and it is claimed from his representatives, not strictly on the will of the first devisor, but on the express promise of the executor, it is not easy to see why it is not barred by the same length of time which would bar any other express promise to pay any other debt. But this case does not directly present that question. The question is, does this debt continue a lien on the lands of Robert in the hands of his child or devisee longer than seven years. The point has been decided, and is reported in 1 Watts 1; 2 id. 53 ; and at Pittsburgh in October last, the point was reargued in another case, by eminent counsel, and a similar opinion (not yet in print) delivered by the chief justice, so the point must be considered settled. This debt or claim did not continue to bind the estate of Robert in the hands of his son for fifteen years after-Robert’s death; and it cannot be levied from the lands of Dr John Quigley on a judgment in this suit,
+Judgment reversed,
