@@ -1,7 +1,8 @@
 ---
 court: "Supreme Court of Pennsylvania"
 decided: "1863"
-citations: ["3 Grant 406", "3 Grant 412"]
+decided_precision: "year"
+citations: ["3 Grant 406"]
 reporter: "grant"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
