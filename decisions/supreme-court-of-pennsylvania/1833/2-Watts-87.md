@@ -1,0 +1,24 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1833-09"
+citations: ["2 Watts 87"]
+reporter: "watts"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mitchell’s Estate."]
+source_url: "https://static.case.law/watts/2/cases/0087-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1840061
+---
+
+# Mitchell's Estate
+
+## Majority (Rogers, J.)
+
+The opinion of the Court was delivered by
+Rogers, J.
+Where there are not assets sufficient to pay bonds, and specialties, and other debts, owing by a person at the timeof his decease, the assets shall be averaged, and the creditors paid pro rata, first paying the bonds and specialties. And for this purpose, the executor or administrator shall, and may, apply to the orphan’s court, which is empowered to appoint three or more auditors to settle and adjust the rates and proportions so payable to the respective creditors, whose report, if approved by the court, shall be confirmed, and the executor or administrator shall pay such creditors accordingly; provided, that no creditor who shall neglect to exhibit his account to the executors or administrators, within twelve months after public. notice given in one or more of the 'public newspapers of the state, and continued in such newspapers for four weeks, shall be entitled to demand or receive any dividend of such remaining assets. Act of the 9th of April 1794.
+Auditors were appointed by the court to marshal the assets ; the administrator having given notice to the creditors, as above directed. The auditors averaged the assets among the creditors (naming them) who exhibited their claims, and made report to the court. There was some error in the calculation, and the matter was again referred to one of them to correct the mistake. When the account was before the auditor for this special purpose, Mr Williamson presented the claim of the commonwealth to the court, who, as they say, inadvertently referred it to the auditors, with a direction that it should be included. The claim was presented to Mr Shamett, one of the auditors, who being of the opinion that they had not authority to allow it, it was not pressed further. The report was confirmed by the court, and from this an appeal has been taken.
+It is the duty of a creditor, on motion, to exhibit his account to the administrator within the time prescribed. The commonwealth has failed to comply with the directions of the act, in two particulars. Theynever have exhibited any claim to the administrator; nor, passing by that objection as a matter of form, have they made their demand in time. We would not wish it to be understood, that if a claim is made to an administrator after the expiration of the twelve months, but before an audit, a creditor would be postponed. That (although within the letter) would perhaps be a hard construction of the act ; but when, as in the case at bar, a report has been made, marshalling the assets among creditors who have used due diligence, again referred to auditors for a special purpose, it will be too late for a creditor¡to come in for a pro rata share of the assets. The act is intended to quicken the diligence of the creditors, as well as for the security of the administrator. A vigilant creditor will never be deprived of his share of the estate; and the act says, in express terms, that those who neglect to comply with the terms prescribed, shall not be entitled to demand or receive any dividend of the assets.
+It has been made a question, whether the commonwealth is such a creditor as comes within the meaning of the act. This construction'would partially defeat the intention of the act; for it is manifest that the legislature contemplate a final disposition of the assets among the creditors, for the security of the administrator, which cannot be effected unless we make it the duty of the administrator, which never has been pretended, to call on the officers of the commonwealth to know the amount of their claims, if any, against the estate. It it true, that in a case not yet reported, the maxim of the English law, nullum tempus, &c. has been applied to the commonwealth, in cases arising-under the act of limitations; but I cannot think this case comes within the reason of that decision. This is not strictly an act of limitation, but a direction made for the benefit of administrators, which will be in part, if not totally, defeated, by the construction contended for. The commonwealth, in the act of 1794, is not placed in a better but a worse situation than other creditors. Debts due to the commonwealth are ordered to be last paid. This would seem to manifest an intention to abandon any supposed preference which the commonwealth might otherwise have had, under the rule of the common law. The maxim of the common law does not apply, when, from the whole act, a contrary intention may be collected.
+Decree affirmed.
