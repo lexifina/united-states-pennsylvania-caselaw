@@ -1,0 +1,29 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1874-01-26"
+citations: ["2 Foster 227"]
+reporter: "foster"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BIGONY v. TYSON."]
+source_url: "https://static.case.law/foster/2/cases/0227-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6761086
+---
+
+# Bigony v. Tyson
+
+## Majority (Gordon J.)
+
+Opinion delivered January 26, 1874, by
+Gordon J.
+In Burr v. Todd, 5 Wr. 206, it was held that a bond in the sum of two thousand dollars, with a condition that the obligor execute and deliver deeds for certain lands therein described, was a penalty conditioned for the conveyance of the title, and not a liquidation of damages for a breach of condition. The bond in the case in hand is similar in its character to that above recited, the difference between the two being found only in the condition. In the one case it is for the conveyance of title, in the other, that Dr. Bigony shall not practice medicine within five miles of the village of Skippackville. Obviously, this difference cannot of itself affect the legal construction of the bond, but one rule must govern both, unless circumstances outside of the bond control that rule.
+Justice Woodward, in delivering the opinion in the case above cited, says : “It is impossible to regard it as liquidated damages for breach of condition. There is not a word in it to import an agreement of the parties to that effect.” In like manner, do we say of the bond in suit, there is not one word in it which imports an agreement of the parties that it should operate as a liquidation of damages for a breach of its condition.
+Viewing it, then, from a legal standpoint, as did the judge below, when he instructed the jury “that the sum designated in the bond is to be deemed and treated as liquidated damages, and not a penalty,” we can come to no other than a conclusion contrary to that at which he arrived, and say, this is none other than a penalty designed to cover any damages the plaintiff might suffer by the defendant’s breach of the bond in practicing within the prescribed limits. Any other interpretation would overthrow a well settled rule of law, established by a multitude of decisions.
+It is not to be understood, however, that we intend to infringe upon a rule just as well established as that above stated, that is, that the intention of the parties, gathered after the written instrument, may control the technical rule as found upon the face of that instrument, and thus fix the sum therein mentioned as stipulated damages.
+But in the case in hand the facts and circumstances, which might have thus altered the rule, rested wholly in parol, and therefore should have been submitted to the jury.
+A controlling circumstance would be the actual consideration of the bond, for this might go far to let us into the intentions of the parties to it. There is no consideration, whatever, set out upon the face of the obligation, excepting that imported by the seal, and this being but technical, it can help us to no construction beyond that arising from the face of the instrument.
+And the jury found, what the court takes for granted, that the plaintiff, being a young physician, and hence having in view the serious difficulties he must encounter from the competition of an older one long settled in the place, paid the defendant eleven hundred dollars, or any other valuable consideration for the good will of his practice, and that thereupon the bond in suit was executed, it might well have been inferred that the sum therein mentioned, was intended as stipulated damages upon a breach thereof. And this, the more so, in view of the difficulty of ascertaining with any degree of accuracy the actual damages resulting from the interference and competition of the defendant.
+But these important and controlling facts are disputed by the defendant. Indeed, if he is to be believed, he executed the bond without consideration ; as a mere gratuity.
+It is obvious, then, that this dispute, involving, as it does, the character of the obligation in controversy, can be settled only by a jury, and hence the court erred in charging as a matter of law, that the sum designated in the bond was to be deemed and treated as liquidated damages.
+Judgment reversed, and venire facias de novo' awarded.
