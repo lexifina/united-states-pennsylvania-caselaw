@@ -1,0 +1,24 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1819-01-04"
+citations: ["5 Serg. & Rawle 38"]
+reporter: "serg-rawl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Swift by his guardian Boutcher against Duffield and another executors of Swift."]
+source_url: "https://static.case.law/serg-rawl/5/cases/0038-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1804335
+cites_cases: ["5 Binn. 601"]
+---
+
+# Swift v. Duffield
+
+## Majority (Duncan J.)
+
+The opinion of the Court was delivered by
+Duncan J.
+Where the intention of a testator is ambiguously expressed, the time of making the will; the state of the property; and situation of the family, are often resorted to in aid of its construction. If it were necessary here to have such resort, all the circumstances conspire to shew, who were intended by the testator, under the denomination of “ my grand-children, the children of my son Edward.” Edward, the only son of the testator, died on the 26th September, 1813, leaving seven children then born, and his wife pregnant. The testator made his will on the 27th, and died on the 29th, of the same month. The plaintiff, the child of which the wife of Edward was pregnant, was born in April, 1814. The testator, when the will was made, had a granddaughter, Elizabeth F'anbeuren, for whom he makes certain provisions, and after the bequest to his wife, makes the devise in question. “ I will and devise unto my grand-children, the children of my son Edward, deceased, all the re - mainder and residue of my estate both real and personal, to be enjoyed by them severally and respectively, and their heirs and assigns for ever.” It is impossible to doubt of the real intention of the testator. Had Edwardhccn living when the will was executed, it is evident that he would have been the object of the testator’s bounty, and that to him the residue would have been devised. He died but two days before, and the grand-father substituted the children of Edward Sn the place of their deceased father; not nominatim; not as persons described; not because being known to the grandfather, they had became the objects of his personal regard and affection; but solely because they were the children of his son. A division between the whole stock of Edward, and not particular branches of that stock; the whole number, whatever they might be, and not any described portion of children, was intended by the testator, by the use of the words, “ my grand-children, the children of my son Edward.” The whole class of children, and not particular individuals of that class, is comprehended in these words. One would feel remorse of conscience in being bound, by any inflexible rule of property, to exclude this infant; for it would be against reason and nature, and contrary to the plain intention of the testator.
+However the law might formerly have stood, there is, at present, no such rule. For it is now settled, according to the dictates of common sense and humanity, that a child en ventre sa mere, for all purposes for his own benefit, is considered as absolutely born. He takes by descent — under the statute of distributions — is entitled to the benefit of a charge for raising portions for children — may be executor — have a guardian assigned — in executory devises is a life in being — may be vouched in a common recovery. In a devise to children or grand-children, the prima facie intention will include a child en ventre sa mere, unless it appears, by particular expressions in the will, that the testator intended the contrary, and confines it to children then born. There are no such expressions in this will. In Wallis v. Hodson, 2 Atk. 117, the true and just rule is laid down by Lord Hardwicke, who observes, the principal reason he went on, in the question before him, was, that the plaintiff was en ventre sa mere at her brother’s death, and consequently a person in rerum natura ; that both by the rules of the common and civil law, she was, to all intents and purposes, a child, as much as if born in her father’s life time. A child in the womb of the mother is under the protection of the law, and possesses all the privileges of a living being. He is considered as born from the time the will takes effect. Considering here the plaintiff as so born, (and natural justice requires that he should be so considered,) he is entitled, as a child of Ed ward, to one-eighth part of the estate devised to the children of Edward. No inconvenience as to vesting can arise from this construction. It is postponed for a few months. The debt of nature which the father owed, (and the grandfather stood here in the place of a father to provide for all his children,) extends to posthumous ones.
+Let judgment be entered for the plaintiff on the case stated.
+Judgment for the plaintiff.
