@@ -1,0 +1,23 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1836-05"
+citations: ["5 Watts 51"]
+reporter: "watts"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hubler against Tamney."]
+source_url: "https://static.case.law/watts/5/cases/0051-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1844014
+cites_cases: ["1 Serg. & Rawle 479", "1 Yeates 571", "10 Serg. & Rawle 14", "11 Serg. & Rawle 289", "12 Serg. & Rawle 275", "2 Dall. 237", "3 Binn. 169", "3 Dall. 505", "4 Serg. & Rawle 249", "5 Serg. & Rawle 117"]
+---
+
+# Hubler v. Tamney
+
+## Majority (Sergeant, J.)
+
+The opinion of the Court was delivered by
+Sergeant, J.
+The objection is, that the plaintiff’s refusal to give the defendant the books or accounts, or to permit hiin to collect one half the money or accounts, and withholding the evidence from the defendant, is a tort, sounding in unliquidated damages, and therefore not the subject of set-off, but must be sued for in a separate action on the covenant in the lease. It has been repeatedly held, that under our defalcation act, the defendant, under, the plea of payment with leave or set-off, may give such a demand as this in evidence, where his cause of action arises from the same transaction as that on which the suit is brought. In Steegleman v. Jeffries, 1 Serg. & Rawle 479, the action was for goods sold, and the defendant was allowed to set off a warranty by the plaintiff of the same articles and breach. So in Harper v. Kean, 11 Serg. & Rawle 289, the plaintiff’s selling the defendant’s, goods for less than their value, was allowed as . an equitable defence, under the plea of payment with leave, against a claim on a judgment, when the agreement between the parties was, that the goods should be delivered to the plaintiff, and sold by him, and the proceeds applied to the payment of the judgment. In Shaw v. Badger, 12 Serg. & Rawle 275, the action was for the price of cattle sold. It was held that the defendant might, either as an equitable defence, or by way of set-off, show that he had sustained a loss by the plaintiff’s not delivering certain sheep sold at the same time: and the rule is thus laid down by Mr Justice Duncan, in delivering the opinion of the court: “ where the cause of action which the defendant wishes to set off, arises from the same transaction as that on which the plaintiff founds his action, he may have the latter decided by the same jury;” and that “ either as an equitable defence or set-off.”
+The single bill was given for the price of a carding machine, and other articles provided by the plaintiff, and taken .by the defendant at a valuation, under a clause in a lease from the defendant to the plaintiff, which stipulated for that valuation at the expiration of the term. The same lease, by another clause, provided that the rent of the premises should be, “ the one half part of the fulling and carding book, which said Hubler is to collect himself.” This provision gave to the defendant, Hubler, a right to one half the amount of the charges in the book, for fulling and carding work done by the plaintiff under the obligation that the defendant should collect that half himself. To do so, it was indispensably necessary that he should have access to the books, to take copies of his share of the accounts in them, in order to receive and collect them, with a right to the production of the books by the plaintiff, when requisite to substantiate the claim. Without this, his right to the one half the moneys due as rent would be nugatory. Or at any rate, the plaintiff should have furnished him correct transcripts of his share of the accounts, if he would not permit the defendant to make them himself. The plaintiff’s refusing both, was doing the defendant an injury commensurate with the amount which the defendant lost by the refusal. It is true the damages are unliquidated, but there is some standard to measure them by, and that is the amount which the defendant has lost by the plaintiff’s refusal to comply with his covenant in a reasonable time, on request made by the defendant to do so.. The damages here are not more unliquidated in their character, than they were in the cases above referred to. It is true, torts or trespasses which sound merely in damages, are not the subject of set-off: but damages arising out of a dealing or bargain between the parties, and proceeding ex contractu, when they originate in the same transaction, have been construed to be embraced by our defalcation act of 1705, for the convenience of settling controversies by one jury, and for avoiding multiplicity of suits, delay and costs.
+Judgment reversed, and a venire facias de novo awarded.
