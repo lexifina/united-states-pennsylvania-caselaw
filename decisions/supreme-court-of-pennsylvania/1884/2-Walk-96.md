@@ -1,0 +1,26 @@
+---
+court: "Supreme Court of Pennsylvania"
+docket: "53"
+decided: "1884-04-13"
+citations: ["2 Walk. 96"]
+reporter: "walker"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ADAMS VS. UHLER."]
+source_url: "https://static.case.law/walker/2/cases/0096-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 261513
+cites_cases: ["15 W. N. C. 273", "21 Pa. 422", "23 Pa. 198", "3 W. N. C. 269", "4 Pa. 178", "40 Pa. 110", "6 Bin. 456", "65 Pa. 347", "68 Pa. 272", "7 N. H. 345", "8 W. 304", "85 Pa. 54", "9 W. N. C. 492", "9 W. N. C. 557", "90 Pa. 262", "90 Pa. 89", "94 Pa. 466"]
+---
+
+# Adams v. Uhler
+
+## Majority (Trunkey, J.)
+
+The Supreme Court reversed the judgment of the Common Pleas, on April 13th, 1884, in the following opinion, per
+Trunkey, J.
+The testimony of the parties is conflicting. That of the defendant if believed, defeats the plaintiff’s claim. It shows that Adams and Peter Hhler settled their partnership business between themselves, in March, 1876, Adams taking the goods and horse, and said Peter to give his note for $1,200, and said Peter taking the account against the defendant ; and that within a few weeks thei’eafter in px-esence of said Peter, Adams told the defendant of the settlement and that his father had the account. All this was flatly denied by the plaintiff. And Peter Miller testified 'that just a week before the first of April, 1876, he was presexxt when Adams and Peter Hhler agreed that Adams should take the goods and horse at eei’tain prices, which were then entered in the day book, and that nothing further was settled that day. Just there the witness was stopped by the Court. The plaintiff proposed to prove that immediately after said entry was made in the day book, he asked Peter Uhler to settle the balance of the accounts of the firm of Uhler & Adams, and Peter Uhler’s private account, and said Peter replied that he had not time then, and did not know when he would have time, — not for some months to come. That was clearly admissible. If no such settlement was made as the defendant alleged, proof of the fact would have corroborated the plaintiff’s denial. The defendant adduced no witness who was present at the settlement. Miller was the only witness who heard any settlement, and the proposition was to prove by him what was settled and left unsettled, in the latter part of the month in which the defendant alleges the account became vested in his father. True “the defendant’s evidence was as to declarations of the present plaintiff; whether the plaintiff made those declarations was a question for the jury,” but the offered testimony was pertinent for their consideration in determining the disputed fact whether the plaintiff made the declarations. They would consider the probabilities of his declaring what they might find as untrue. At that stage in the trial, it was not for the Court to assume, that he made the alleged declarations and exclude evidence on the ground that he was estopped thereby. The first assignment of error, must be sustained. Therein is quoted the full substance of the bill of exception, and that complies with the rule of Court.
+The defendant admitted that the books of the late firm of Uhler & Adams were lost or mislaid, and Adams was permitted to testify that the books were not in his possession, and that he had never been able to get them. This was sufficient to account, for their non-production by him. No offer was made to prove they were in the defendant’s possession, and the second assignment is not well taken. Nor is there error in the ruling set out in the fifth assignment. In her cross-examination the witness had already said, she did not know whether the matter occurred in March, April or May, and after numerous questions by counsel as to the month, answered to the Court that she would not swear positively as to the time. The Court had allowed sufficient cross-examination on that point.
+The third and fourth assignments are not in accord with the rule. As the case is to be tried again, it need not be inferred that the fourth would be sustained, even if the bill of exception were fully quoted, the notes of testimony taken before the auditor printed, and the auditor’s report in evidence. But the inquiry may be suggested in regard to the subject of the third; If the plaintiff had a right of action at the time, he began' the •suit, how could he be prejudiced by the subsequent, act of the defendant before the auditor ? After the defendant was sued how could he make evidence for himself by givingcredit for the debt In suit, on his account presented before an auditor to distribute the money of an estate in the Orphans’ Court.
+We are not convinced that the charge as a whole should be treated as misleading. Where the judge did ’ not control the verdict by binding or misleading instructions, if he clearly indi-cated his opinion on the facts it is not ground for reversal. It may be said that a charge misleads when it contains one or more «errors, yet where the charge in the main is fair and adequate, the cause may be reversed for error on specific points, not on the ground that the whole charge is misleading.
+Judgment reversed and venire facias de novo awarded.
