@@ -1,0 +1,22 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1873-07-02"
+citations: ["1 Foster 217"]
+reporter: "foster"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CITY OF ALLENTOWN v. KRAMER."]
+source_url: "https://static.case.law/foster/1/cases/0217-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6760988
+cites_cases: ["4 W. & S. 514", "6 Wharton, 25", "8 W. & S. 85", "8 Watts, 86", "9 Watts, 382", "9 Watts, 385"]
+---
+
+# City of Allentown v. Kramer
+
+## Majority (Agnew, J.)
+
+Opinion, July 2, 1873, by
+Agnew, J.
+The question pesented by this record is more limited than the range of the argument. It is true the evidence raised a question upon the» power of the city of Allentown, to grade, regulate and improve the streets; a power fully conferred by the charter of the city; but the court seems to have committed the case to the jury on the single question of a negligent and unskillful construction of abridge over the gutter of Linden street. It appears that the plaintiff’s lot lies low, and that at his own request the curbing along it was lowered three inches. Had the case been determined on these facts alone there would have been error in the verdict; for the right of a city to raise its streets, and to bridge them, in order to improve their public usefulness, is undoubted. A large number of cases supports this position. Among them are the following : Green v. Borough of Reading, 9 Watts, 382; The Mayor v. Randolph, 4 W. & S. 514; Henry v. Bridge Co., 8 W. & S. 85; Commonwealth v. Wood, 10 Barr 93; Philadelphia and Trenton R. R. Co., 6 Wharton, 25; O’Connor v. Pittsburg, 6 Harris, 187; Carr v. Northern Liberties, 11 Casey, 324. The principle at the bottom of these cases is, that when a municipality is in the lawful and proper exercise of the power of the State, such as in the improvement and regulation of a highway, under an authority conferred by law it is not liable for the injuries which flow collaterally from the execution of the power. Hence, in this case, the plaintiff, whose lot lay below the grade of the street as improved under the ordinance of the councils, could not recover for the consequential injury arising from an increased flow of surface water caused thereby. But the cases referred to, or some of them, state the distinction upon which this case was submitted to the jury; and which has been sustained in many other cases, to wit, that for negligence, either in the construction or repair of public works, (when repair is a duty) the corporation itself must respond in damages for a special injury caused by its negligence : Supra, 9 Watts, 385-6; 8 Watts, 86-7; 10 Barr, 95-6; 11 Casey, 329. And see Erie City v. Schwingle, 10 Harris, 384; Humphreys v. Armstrong Co., 6 P. F. Smith, 204; Pittsburg, Fort Wayne and Chicago R. W. Co. v. Gilleland, Ibid. 445: Pennsylvania and Ohio Canal Co. v. Graham, 13 P. F. S. 290; Norristown v. Moyer, 17 P. F. Smith, 355; Rapho v. Moore, 18 P. F. Smith, 404. The single point submitted to the jury was, whether the culvert (or bridge) over the gutter in Linden street had been so constructed as to be an obstruction to the flow of water in ordinarily severe showers, and thus caused it to flow in and upon the plaintiff’s premises: with the instruction, that if they so found the fact, and that the plaintiff had in no way by his own negligence contributed to his injury, he was entitled to recover. In view of the points of the plaintiff, and in the absence of any request for instruction on the part of the defendant below, it is evident this instruction of the court had reference to the negligence and want°of proper care on the part of the city in the construction of the bridge, whereby it became an obstruction to the ordinary flow of the water. The right of the city to raise the street and to construct the bridge as a necessary part of the improvement, does not appear to have been drawn into question. The faulty and negligent construction of the bridge, making it an obstruction to the flow of water in ordinary rains, was a proper ground of recovery. If any other question was intended to be raised, it was the duty of the defendant to have asked for an instruction which would bring it before us. Finding no error in the record the judgment is affirmed.
+H. C. Hunsberger, Esq., for plaintiff; R. E. Wright, Jr., Esq., for defendant.
