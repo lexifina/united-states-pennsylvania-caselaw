@@ -1,0 +1,29 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1795-04"
+citations: ["1 Yeates 488"]
+reporter: "yeates"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["*Samuel Brealsford, Robert William Powel and John Hopton against George Meade garnishee of Thomas Woolridge and Abraham Lott surviving partners of William Kelly."]
+source_url: "https://static.case.law/yeates/1/cases/0487-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6776632
+cites_cases: ["2 Black. Rep. 696"]
+---
+
+# Brealsford v. Meade
+
+## Majority (per curiam.)
+
+per curiam.
+And The interrogatories and answers are mere matters of evidence to a jury, but can have no weight in the argument of a demurrer, and cannot now be received.
+They then said the object of their special plea was to effect a fair distribution of the property of Woolridge and company among all their creditors, as it might possibly be objected on the general plea of nulla bona, that the partnership of Meade and Eitzsimons could not be given in evidence.
+The only doubt on the plea filed, arises from the dissolution of the partnership, and the advertisement of Mr. Meade previous to the attachment levied. But the evident intention of that agreement, and the publication, was merely that Meade should be the agent of their joint concerns. It never was in their contemplation that former rights should be destroyed, nor could any thing they did have such possible operation. If Meade had become bankrupt, the creditors of the late company could not have obtained a dividend of bis private estate, equally with his other creditors. The clause relied on, in the attachment law, is referable to one in possession of goods, but cannot relate to a company owing debts to a foreign house. All the company effects, on Meade’s death, would be vested in Fitzsimons to pay the partnership debts; and in case of Meade’s bankruptcy, Fitzsimons, the solvent partner, would have a right to take the * partnership effects into his own hands, to enable him to pay the debts. L Meade and Fitzsimons could not by their mere acts prevent their creditors from bringing suits against them both. The concurrence of their creditors would be necessary to effect this. Woolridge and company, the most nearly concerned in interest, have not consented, and without their concurrence the plaintiffs in the attachment could not change the settled law. Where one does nothing of trouble to himself, or benefit to the defendant, but is a mere stranger to the consideration, he shall not recover, i Vent. 6, 7. The object of an attachment is to bring the defendant into court. If the defendants had entered special bail, they might plead in abatement, that Fitzsimons, the other partner, was not named. If Fitz-simons had died, Meade could have been proceeded against only as the surviving partner. And if Woolridge and company had brought suit for their debt, it must have been against both partners.
+It is admitted that some inconveniences may arise to plaintiffs in foreign attachments; yet it is submitted, whether these should weigh against settled rules.
+The plaintiffs in the present suit, have been guilty of great delay. Though they obtained their judgment in the Common Pleas in September term 1784, their scire facias was not returnable until six years afterwards, in September term 1790. There was ample time for them to have proceeded in, before the deaths of Woolridge and Eott. The real defendants are all now dead. Bail cannot now be put in, and therefore it is impracticable to contest the debt. But if the opinion of the court should be against us, some mode must be devised to give a hearing to the administrator of the surviving partner. Manifest injustice must otherwise be the necessary consequence.
+By the court. The law assists the vigilant and careful suitor, and postpones the negligent. The plaintiffs are of the former class, and are entitled to any advantages that may be derived from their provident care. We do not conceive that they were under any legal obligation to know that Mr. Fitzsimons was the partner of Mr. Meade. The debt due from them to Woolridge, Eott and Kelly was, as to the plaintiffs, res inter alias acta.
+In common suits between creditors and debtors, the latter may put in a plea of abatement, that a partner was not named in the writ, because otherwise the defendants might be charged both, in their private and company character. But there are no such precedents in foreign attachment, where the creditor of a creditor proceeds in rem, and calls on the debtor of the latter, between whom there is no privity whatever. Neither will the court *make one in so unfavourable a case. The reason of the plea, in common cases, does not apply to foreign attachments with full force.
+The argument ab inconvenienti operates forcibly for the plaintiffs. If judgment should be rendered against them for this supposed irregularity, they must lose their demand, the original defendants being all removed by death. But if the court should award that the defendant should answer over, he can eventually be obliged to pay no more than his house owed to the defendants in the attachment, and he could compel Mr. Fitzsimons to contribute his proportion were it necessary. At the same time it is obvious to us, on the pleadings, that the demurrer admits the defendant’s having all the partnership effects and property in his separate possession, and is responsible for the debts; and therefore it is impossible that any difficulty or damage can ensue to him from our determination.
+We are inclined to think that a scire facias ad disprobandum debitum, grounded on the custom - of Eondon, may issue; Dali. 378; and the administrator of the surviving partner can put the plaintiffs on the legal proof of their demand and make his full defence.
+Judgment that the defendant answer over.
