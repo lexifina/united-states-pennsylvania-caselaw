@@ -1,7 +1,8 @@
 ---
 court: "Supreme Court of Pennsylvania"
 decided: "1839-05"
-citations: ["8 Watts 304", "8 Watts 12"]
+decided_precision: "month"
+citations: ["8 Watts 304"]
 reporter: "watts"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["Harrisburg Bank against Forster."]
 source_url: "https://static.case.law/watts/8/cases/0304-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1848385
-cites_cases: ["1 Pick. 435", "1 Rawle 196", "1 Watts 120", "1 Watts 271", "1 Yeates 202", "17 Johns. 176", "2 Binn. 165", "2 Dall. 196", "2 Dall. Rep. 194", "2 Rawle 302", "2 Watts 268", "3 Mass. Rep. 207", "3 Mass. Rep. 267", "3 Whart. Rep. 60", "4 Rawle 311", "4 Serg. & Rawle 315", "4 Serg. & Rawle 399", "6 Serg. & Rawle 113", "6 Watts 381", "7 Watts 473", "9 Serg. & Rawle 202", "9 Serg. & Rawle 236"]
+cites_cases: ["1 Rawle 196", "1 Yeates 202", "2 Binn. 165", "2 Dall. 196", "2 Dall. Rep. 194", "2 Watts 268", "4 Rawle 311", "4 Serg. & Rawle 399", "6 Serg. & Rawle 113", "9 Serg. & Rawle 236"]
 ---
 
 # Harrisburg Bank v. Forster
