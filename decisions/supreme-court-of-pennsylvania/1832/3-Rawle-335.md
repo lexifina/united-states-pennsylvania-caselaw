@@ -1,0 +1,22 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1832-02-02"
+citations: ["3 Rawle 335"]
+reporter: "rawle"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Commercial BANK of Pennsylvania against CLAPIER and another, Assignees of Hunt."]
+source_url: "https://static.case.law/rawle/3/cases/0335-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1822523
+cites_cases: ["1 Mass. Rep. 91", "11 John. Rep. 215", "2 Aik. 372", "3 John. Rep. 70", "6 Serg. & Rawle, 401"]
+---
+
+# Commercial Bank v. Clapier
+
+## Majority (Gibson, C. J.)
+
+The opinion of the court was delivered by
+Gibson, C. J.
+It seems clear on one of the grounds assumed in the argument, though not on all, that the evidence was not only competent, but such as to entitle the plaintiff to a verdict. As the object was, among other things, to secure what is in substance the very debt, though erroneously described in the assignment, it has' been insisted that the evidence Was proper to explain, without changing the legal effect of the instrument, a matter that appeared unambiguous oh the face of it. Necessity, however, not accident, is the foundation of parol evidence to explain a latent ambiguity, such evidence being indispensible to distinguish a person or thing called by the right name, from another person or thing bearing the same name, or to ascertain a person or thing purposely miscalled. I had once the pleasure to know an eccentric gentleman, who gave a legacy to a young lady by the appellation of Hyder Ally, a name by which he had been accustomed to distinguish her in, childhood; yet no one supposed, that she was thus designated in his will-by accident. In the case at bar, there certainly was no intention to describe the note otherwise than as it was supposed to exist; and' that it was not truly described, is attributable to misapprehension. The instrument, then, being free from intentional ambiguity, would at law be left to its technical meaning. On the proofs in the cause, however, if would undoubtedly be reformed in equity. Against the competency of the evidence on that ground, it has been argued, that as no fact has been disclosed to reform by, proof of an intention different from what appears on the face of the instrument, is not to be received. That, however, is not to be conceded. The evidence on which an instrument will be rectified for a plain mistake of fact, is either intrinsic, as arising from a recital; or extrinsic, as arising from another instrument, on which it is founded, or- from independent documents, such as letters, instructions to the scrivener, or a counterpart; or from parol proof, with this qualification that it he so clear as to satisfy a chancellor beyond a doubt of the concurrent intention of the parties. Here it satisfactorily appears, that shortly after Mr. Hunt had obtained the note indorsed by him to the plaintiff, but described in the assignment as drawn - by him, Mr. Nichols, the actual drawer, called on him, and obtained a counter note, which, however, in the course of a few days was delivered up to be cancelled; and though Mr. Hunt does not remember his particular impression in regard to its existence at the time of the assignment, he distinctly testifies that he meant to prefer this particular debt, and that he was afterwards astonished to find, he had described it in terms, which excluded it from the trust. Undoubtedly this is enough to entitle the plaintiff to relief. But it is further objected, that as Mr. Hunt described the debt exactly in the terms he intended, the mistake was in a collateral matter, and not in the composition of the instrument. It must be conceded that a mistake about a circumstance, which had no other connexion with the matter in hand than as constituting the inducement of the party to enter into the contract, is no ground for relief. But on the other hand, it is not essential that intending to write down one thing, he should have written • down another. Such blunders are seldom made; applications for the correction of errors would be rare indeed, if nothing else were an available title to equitable interference. It is sufficient that the fact mistaken was an immédiate part of the transaction; and as it was so here, there is nothing to show that the plaintiff ought not to recover.
+Judgment accordingly.
