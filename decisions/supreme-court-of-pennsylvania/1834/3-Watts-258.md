@@ -1,0 +1,25 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1834-09"
+citations: ["3 Watts 258"]
+reporter: "watts"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Srodes against Caven."]
+source_url: "https://static.case.law/watts/3/cases/0258-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1841334
+cites_cases: ["11 Hen. 4", "11 Mass. Rep. 415"]
+---
+
+# Srodes v. Caven
+
+## Majority (Rogers, J.)
+
+The opinion of the Court was delivered by
+Rogers, J.
+George W. Taylor and Linton Rogers entered into an'agreement, or charter party, for the hire of the steamboat Uncas, with'the plaintiffs, Srodes and Beer, from the 22d of November 1830 until the 1st of July of the same year, at the rate of 225 dollars a month. During ■ the existence of the charter party, and when the boat was in the possession of the charterers under the contract, the defendant William Caven, the sheriff, levied on the steamboat, took possession of her, and afterwards sold her for a debt due by Taylor and Rogers, the owners of the boat. The court instructed the jury that the sheriff was justifiable in the seizure of the boat, and that at any rate trespass was not the proper remedy.
+First, as to the form of the suit. The action of trespass is given for an injury done to the possession, and unless the party either has the possession or the right to the possession of personal property, the action cannot be sustained. In conformity to this principle, a lessee of cattle, for a year, for composting his land, shall have trespass against a stranger, or against the lessor himself, if he take the cattle within the year. 6 Com. Dig. tit. Trespass; 2 Roll. 531, l. 22. So a bailee of a chattel for a certain time, coupled with an interest, may support the action against the bailor for taking it away before the time. 1 Chitt. 128, and the authorities there cited. In Cowing v. Snow, 11 Mass. Rep. 415, an action of trespass was supported by a person having a special property against the person who had the general property. The court held that he was a wrong doer against whom the action would lie as well as a stranger. In 6 Bac. 589, tit. Trespass, a different principle, on the authority in Brooke, title Trespass, 92, is laid down. For by that, says the case in Brooke, when one loans to another cattle to depasture his land, and a stranger take them, trespass vi et armis lies; but the contrary when the loaner takes them within the time; for then it does not lie, but an action on the case; for if trespass vi et armis should lie, he would recover the value against the proper owner; which Hill and Culpepper concesserunt. 2 Brooke 279, cited 11 Hen. 4, 23. Now whether this was a hiring or a loan for a special purpose, is not very clear; but this is certain, the reason given for the judgment of the court is founded on a misapprehension of the nature of the action; for the value of the goods would not be the measure of the damages, but the party, in the case supposed, would only recover for the injury done to the possession, and this might be much less than the value of the cattle. The principle is this, that where the possession is coupled with an interest, trespass lies as well against him who has the general property as against a stranger. The wrong is done to the possession, and it matters not whether the injury proceeds from the owner or a stranger.
+Second question. Was the sheriff justifiable in seizing the steamboat for the debt of Taylor and Rogers 1 It is a general principle that goods pawned or gaged for a debt, or leased for years, cannot be taken in execution. But the sheriff may sell the goods pawned or leased, subject to the rights of the lessee or pawnee. But although the sheriff has the right to sell, he cannot seize them, because the pawner or lessor has no present right of possession. It is reasonable that whatever interest the debtor himself may sell, the sheriff may sell, although it may not be capable of actual seizure and delivery. Watts on Sheriff 181; Tidd’s Prac. 1042.
+The principle to which I have adverted, is wisely adopted to obtain substantial justice, without any interference with the vested rights of any person. If the sheriff has authority to seize the boat, it is a right which may in some cases produce the entire destruction of the interests of the charterers, or of the lessees of personal chattels. It is in fact giving the creditors a greater right, which is contrary to every principle of justice, than the owner himself has. We go upon the supposition that this is a fair bona fide transaction; for if there was fraud, the law is confessedly otherwise. If, then, the sheriff seized the steamboat when in the possession of the charterers, it was a trespass for which this action is the proper remedy. As to the damages to which the plaintiff is entitled, that will be for the jury. It will of course be equal to the injury which the plaintiffs may have actually sustained.
+Judgment reversed, and a venire de novo awarded.
