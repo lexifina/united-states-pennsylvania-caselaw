@@ -1,0 +1,28 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1829-01-24"
+citations: ["1 Rawle 155"]
+reporter: "rawle"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STREAPER against FISHER and others."]
+source_url: "https://static.case.law/rawle/1/cases/0155-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1819355
+cites_cases: ["1 Conn. Rep. 470", "1 Yeates, 429", "10 Serg. & Rawle, 144", "12 Serg. & Rawle, 12", "13 Johns. 244", "13 Johns. Rep. 537", "13 Serg. & Rawle, 304", "14 Mass. Rep. 404", "16 Johns. 178", "18 Johns. 257", "18 Johns. 81", "2 Binn. 146", "2 Binn. 80", "2 Yeates, 25", "3 Serg. & Rawle, 283", "3 Yeates, 268", "32 Hen. 8", "4 Yeates. 111", "4 Yeates. 114", "5 Rawle, 223", "7 Johns. 217", "7 Johns. Rep. 556", "9 Serg. & Rawle, 156"]
+---
+
+# Streaper v. Fisher
+
+## Majority (Huston, J.,)
+
+Huston, J.,
+(after stating the facts,) delivered th,e opinion of the court.
+Several objections taken to, the plaintiffs’ recovery were very properly passed over by their concluding counsel.
+The statute 32 Hen. 8- is reported by the judges to extend to this state, and, in fact, has been always in use here. Soon after its passage, a construction was put on it which has got beep .varied. Collateral covenants, such as do not relate to or depend on the land demised, are not within it; but covenants, which touch or relate to the land demised, run with the land, and bind the assignee, and the assignee of an assignee, the assignee of an executor, or heir or devisee, or whoever is terretenant of the land under the demise, whether coming in by assignment or act of law; and the lessor, and all claiming under or through him) are equally bound, and equally entitled with the lessee, and those claiming under or through him. He to whom a lease for years' is sold, is within it. 5 Co. 162, (the whole of that case.) Shep. Touch. Ch. 7, 176, 179. And the only difference in the liabilities of the original parties, and those coming after them,, is, that covenant lies generally against the original party after his interest is parted with; assignees are generally answerable for breaches within their own time; and when the books say, no stranger can take advantage of a covenant, if by covenant is meant a covenant real respecting land, or leases, it is to" be understood that whoever is privy in contract or in tenure, is not a stranger. A stranggr is one wno claims under another title, adverse or paramount.
+Another objection is-made, on account of the difference between the levy and the deed. This difference is as to the interest of C. Hurst in the lot; not as to the description of the lot, in which that interest is. The lot is well described; but the levy is on á rent charge, though the deed conveys the. land itself, ór purports to convey it.
+. What passes by a deed from -the grantor to a grantee has .been, often discussed, and, it would seem, ought to be considered settled'. Courts will- not, if.it can be avoided, suffer a deed to be inoperative, when fairly made,-and on good and legal consideration; and, if the form used will not operate as the parties-intended, it shall have effect in some other way, if possible. Thus a deed intended as a release, may taire effect as a grant of a reversion; an attornment, or a surrender ef converso. Shepherd’s Chap, of Exposition of Deeds, and 2. Saunders, 94. Indeed, it has been very properly conceded, that if Charles Hurs f after selling to Peale, reserving this rent, charge and a right of entry to enforce it,-had afterwards sold a second time, all that Hirst could sell, viz. the rent charge and right of entry, would have passed. But it is contended, that such is not the effect of.a judicial sale, on execution.
+A rent charge, or any other legal or equitable interest in lands,, may in this state be sold on execution. 1 Yeates, 429, Shaupe v. Shaupe, 12 Serg. & Rawle, 12.. Generally, the levy will control all the subsequent proceedings: it is the foundation on which all is built. There may be difficulty, where the 'sale is more extensive than the levy,1 if the' objection is by the purchaser, and in proper time; for he may be affected. So there may be an objection by the .defendant in the execution, if the advertisement does not conform to the levy; but, if the plaintiff and defendant-in the execution, and all judgment creditors acquiesce, if the purchaser does not object, on what principle can a third person be' heard at the end of thirty years, or why does he complain of an irregularity, which does not, and cannot affect him? The rent charge is due.' The heirs of Hurst do not, and could not now claim'it. But on principle, and on authority, tlie sale-was good from the time the deed was made and accepted. Before, or, under -some circumstances, shortly after, the defendant or the purchaser might have objected. After payment of the money, and acquiescence, neither could.. Where the sale purports to convey the whole interest of the defendant in the execution, any and every interest he has will pass; at least, where, it is not greater th.an described ;!and even if greater, and the defendant knew, of the sale and did not take exception, and have his interest properly described. So in other states. 1 Conn. Rep. 470. 14 Mass. Rep. 404.
+The whole interest of Charles Hurst passed by this sale and deed, and the plaintiffs below are in law assignees of Charles Hurst, and can support this suit.
+There is nothing in the objection of another suit pending. It is hot by the same parties; nor, so far as we see, for the same object!
+Judgment affirmed.
