@@ -1,0 +1,25 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1828-10-20"
+citations: ["2 Rawle 128"]
+reporter: "rawle"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FLEMING against BEAVER."]
+source_url: "https://static.case.law/rawle/2/cases/0128-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1820539
+cites_cases: ["10 Serg. & Rawle, 399"]
+---
+
+# Fleming v. Beaver
+
+## Majority (Gibson, C. J.)
+
+'The opinion of the court (Tod, J. dissenting, and Huston, J. and Smith, J. being absent at the argument, and taking no part in the cause,) was delivered by
+Gibson, C. J.
+— The substance of this obscurely stated case is this: Pennell sold a- house and lot to Guiger, and together with Hawbucker and Hartman, (since dead, and represented by McCauley,) executed a bond, with condition, that the encumbrances should not be pressed faster than the purchase money should grow due, to discharge them. Walker, a judgment creditor, being about to proceed, MDauley paid him in cash rather more than half the amount of the bond of indemnity to Guiger, and the residue thus: — Finfrock had a judgment against Walker; in satisfaction of which, Hawbucker, M'Cauley, and Walker, confessed a judgment to Finfrock, which, it was agreed by the parties, should be paid by Hawbucker, but which was ,levied on the goods of M'Cauley, and paid by him. Haiobucker’s house and lot being sold on a judgment at the suit of Drucks, the question is, whether 31‘Cauley shall come on the fund in the hands of- the sheriff, as a judgment creditor under Finfrock;, or,, whether it shall be paid to Beaver, a subsequent-judgment creditor.
+It is clear, that Hawbucker and M‘Cauley stand in the relation of principal and surety; and a surety -who has paid the debt, is entitled to be substituted for the creditor. But a subsequent creditor, whose fund has. been taken away by á prior creditor, is also entitled to be substituted. Hence, an argument, that' in ,the case at bar, there is but equity against equity, arid that the parties are to be left to their legal advantages. The parties are the principal, the surety, and the subsequent encumbrancers. But the judgment creditor had not a.second fund in the hands of the surety and eyen if he had, it is not easy to imagine on what principle of justice the surety would be bound to pay the debt in ease of the principal, and for the'bene,fit of a subsequent encumbrancer. Surety was not demanded for the benefit of any but those who were parties to the contract;, arid, the advantages incident to it, .necessarily belong only to themselves. The right of the surety to be substituted in the first place, is indisputable; and the question stands exactly as if the prior creditor himself were pressing his claim on this fund, without having pursued the surety to insolvency. That would not be required of him. The surety contracted on the credit of this very fund; and being prior in time, he is prior in right to a creditor who has acquired a claim on it subsequently. If such creditor could compel the surety to pay the prior debt, the effect would be precisely the same as if the principal had paid it, and the surety were compelled to pay the subsequent creditor; for as both debts would be satisfied, it could be of no consequence to the surety, whether, his money were applied to the one debt or the other: and thus, it is obvious, his responsibility might be kept alive after the extinction of the debt for which alone it was pledged. That cannot be done.
+Actual payment discharges a judgment at law, but not in equity, if justice require the parties in'interest to be restrained from alleging it, or insisting on their legal rights. Kuhn v. North, 10 Serg. & Rawle, 399, was the case of a voluntary paymént of the debt of another, which, so far from creating an interest in the judgment to affect subsequent creditors, would not have sustained an action of indebitatus assumpsit against the debtor. There is an obvious difference between one who has voluntarily paid the debt.of another, and one who has paid on compulsion, from having become surety at the instance of the debtor, which gives an equity, not only against the latter, but against every one else deriving title from him subsequently to the contract of suretyship.
+As to the supposed ineificacy of the substitution attempted by' the parties, and the alleged inability of this court to compel the creditor to assign the judgment, it is sufficient to remark, that an actual assignment is unnecessary. The right of substitution is every thing, and actual substitution nothing. By a.fiction, to which we are indebted for nearly all our equitable jurisdiction, the law has made the assignment already;-and hence, the right of the party entitled, by no meáns depends on -the willingness of the creditor to transfer the security. Here there is a clear right of substitution; and the surety having paid the debt, succeeds by operation of law to the rights of the creditor.
+Judgment reversed, and judgment for the defendant,
