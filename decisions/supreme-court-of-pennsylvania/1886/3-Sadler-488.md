@@ -1,0 +1,28 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1886-10-25"
+citations: ["3 Sadler 488"]
+reporter: "sadler"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William H. Axtell’s Appeal."]
+source_url: "https://static.case.law/sadler/3/cases/0488-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 240235
+cites_cases: ["107 Pa. 465", "107 Pa. 469", "17 Pa. 416", "17 W. N. C. 17", "20 Pa. 473", "21 Pa. 337", "24 Pa. 286", "25 Pa. 213", "29 Pa. 360", "5 Watts & S. 460", "6 Watts, 331", "73 Pa. 474", "83 Pa. 392", "83 Pa. 395", "89 Pa. 29"]
+---
+
+# Axtell's Appeal
+
+## Majority (Mr. Justice Sterrett :)
+
+Opinion bt
+Mr. Justice Sterrett :
+Appellant had a claim for medical services, $25.50, with interest from May, 1881, against the estate of Robert J. Vaughn, who died intestate in June of that year. In October, 1882, his administrator filed an account showing a balance of $704.12 in his hands. The account was duly confirmed, and an auditor having been appointed to distribute the same, appellant appeared before him and presented his claim. Subsequently the administrator brought suit against appellant before a justice of the peace and obtained judgment. Afterwards appellant’s claim was passed upon and allowed by the auditor, to whom the report of the first auditor was referred “to take further testimony and make specific report of tlie facts, and also distribute the fund.” Exceptions having been filed, inter alia, to the allowance of appellant’s claim, the orphans’ court overruled the auditor and rejected the claim for reasons given in the opinion of the learned judge, disposing of the exceptions. Referring to the claim of Doctor Axtell, the appellant, he says:
+“After presentation of the claim before the first auditor, and before the second auditor had met the parties, the accountant brought suit before a justice of the peace to recover a balance claimed to be due and owing the estate by Dr. Axtell. The administrator recovered judgment against Dr. Axtell, who appealed to the common pleas, and the suit was there pending and undetermined at the time the present auditor (against the protest of accountant) proceeded to hear the evidence and pass upon said claim. In so doing we think the auditor made á mistake. It is true he had, under his appointment, full power to pass upon all claims presented, and incidentally upon off-sets thereto, in order to determine the true amount owing the creditors by the estate; but he had no power to give judgment against the claimant, if, on settlement, the claimant proved a debtor to instead of creditor of the estate. It was necessary, therefore, for the estate to sue Dr. Axtell to recover judgment against him, and having sued before a justice of the peace, Axtell was required by the statute to set off his account or be forever barred.”
+On this conclusion the learned judge was clearly wrong. The orphans’ court, the appropriate tribunal for adjudication of claims against estates of decedents, had rightly assumed jurisdiction of appellant’s elahn long before the administrator brought suit before the j ustice against him. He never withdrew it from that forum, and there is nothing in the act referred to, or in any other act, that required him to do so, or that could, by any possibility, oust the jurisdiction of the tribunal established for the express purpose of adjudicating such claims. To hold otherwise might lead to almost interminable confusion and delay in the settlement of estates. The fact that the first auditor was superseded by the appointment of the second had no more effect on the status of the claim than would a succession to a judgeship in the court. In contemplation of law it was pending in the proper court from the time it was first presented there for adjudication until it was removed here on this appeal. Further comment on the subject is unnecessary. It is too plain for discussion. The first assignment of' error is sustained.
+We are also of opinion that appellant is entitled to the items of costs specified in the second and third assignment, aggregating respectively $6.93, and $6.18. The disposition that has been made of the first assignment virtually disposes of the fourth and fifth. The second to fifth assignments, inclusive are, therefore, sustained.
+The appellee, who was a brother of the decedent, does not appear to have been interested, either as creditor or distributee, in the distribution of the fund, and yet he is the only person who excepted to the auditor’s report.
+In Gallagher’s Appeal, 89 Pa. 29, we said that an administrator whose account had been confirmed “has no interest, as such administrator, in any decree of distribution the court may make of the fund. He is not so far the representative of creditors as to authorize him to interfere in the distribution. Ilis full duty therein will be discharged by paying over the fund in pursuance of the decree of the court.”
+If an administrator, not otherwise interested in the distribution of a fund in hands for that purpose, had a right to interfere in the proceedings, he might be induced to do so for the purpose of delay, the fund in the meantime remaining in his hands. Inasmuch, therefore, as the appellee appears to have volunteered his services in this contention, we think he should be required to pay at least the costs of this appeal, personally, and not as administrator.
+Decree reversed, at the costs of the appellee, David It. Vaughn; and it is ordered that the record be remitted to the court below with instructions to enter a decree in accordance with this opinion.
