@@ -1,0 +1,28 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1819-06-07"
+citations: ["5 Serg. & Rawle 215"]
+reporter: "serg-rawl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Philips and others executors of Simons against Shaffer."]
+source_url: "https://static.case.law/serg-rawl/5/cases/0215-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1804440
+---
+
+# Philips v. Shaffer
+
+## Majority (Tilghman C. J.)
+
+The opinion of the Court was delivered by
+Tilghman C. J.
+[After stating the case.] 1. It appears to me, that the opinion declared by the President, was a substantial and right answer to the question proposed. An application vests in the applicant a right, though not a perfect right. It is the inception of a title, which may be rendered perfect by. future proceedings; or it may be voluntarily abandoned by the applicant, or lost by his negligence. Whether it formed an implied contract, by virtue of which, the proprietaries could have compelled the applicant to carry the purchase into effect, is immaterial, because no such contract was ever attempted to be inforced by the proprietaries.
+2. Whether the facts in this case, shewed such negligence as should deprive the defendant of his advantage of priority of application, was a question which the Court was not bound to decide as matter of law, especially as during the revolutionary war, the settlements were broken up, through fear of the Indians, and very little business was done in the land office. The point might therefore have been very properly submitted to the jury. But the case involved a question of law, which, though not directly proposed to the Court, was adverted to, and a correct opinion delivered. If the defendant’s application did not call for the land on which his survey was laid, with reasonable certainty, his title would commence only from the return of survey; and in that case, the plaintiff having the first return, would have the preference, unless he had notice of the defendant’s survey before his own was executed. This is the settled law. But if, in truth, no survey was ever made for the plaintiff, but, WilHam Gray, or Charles Stewart, taking the draft which had been made for the defendant, dressed up a paper survey, and returned it for the plaintiff, it would have been a fraud which should not avail him. And this is what the President declared. There is no error, therefore, on this point.
+3. To the Court’s answer to the third question, no objection is made ; it is unnecessary, "therefore, to make any remarks on it.
+4, and 5. The fourth and fifth questions have been argued as one subject, and I shall so consider them.
+Both plaintiff and defendant have considered the survey made by Charles Stewart as valid, because they both claimed under it. Now supposing it to be valid, the plaintiff’s counsel were wrong in contending, that the surveyor general had no authority to accept the return of the defendant’s survey on the 8th April, 1783 ; because by the 6th sect, of the acth of the 5th April, 1782, (2 Sm. Laws, 13,) the surveyor general was authorised to accept the returns of such surveys as should appear to him to have been faithfully and regularly made, from the late deputy surveyors, their heirs, or legal representatives, for such further period of time as to him should seem good and reasonable. But the plaintiff’s counsel, in their argument in this Court, (and no doubt in the Court below,) have introduced a matter of mere fact, from which they wish to deduce a legal inference. It seems that on the plaintiff’s return of survey, the surveyor general charged his fees to Charles Stewart, but on the défendant’s return, tq William Gray. Now, say the counsel, it appears from this, that Charles Stewart, adopted the work of his agent Gray, and made return of it, for the plaintiff, but he refused to make any return for the defendant; and therefore Gray did it without authority. The returns being both signed, William Gray for Charles Stewart, and both accepted in the land office, the presumption would be, that both were made by the same authority. But if Stewart had indeed refused to make return for the defendant, and Gray had imposed on the surveyor general by a fraudulent return, that would be a palpable fact, on which the Court had no right to decide. And, as I understand the opinion of the President, that fact was submitted to the jury. There is no error therefore, in the answer to the fourth and fifth questions.
+6. The opinion on this point, is conceded to be right.
+7. I think the answer to this question was very proper. Counsel ought not to propose a question, which has no bearing on the evidence in the cause. If the commissioners had sold this land, under the act of the 9th April, 1781, the question proposed to the Court would have been been very much to the purpose. But there was not a tittle of evidence of any act done by the commissioners. The act of April, 1781, was therefore out of the question. But if the Court below? had proceeded to investigate that subject, (which they were not bound to do,) it would have been found, that the period for making payment for lands' taken up under the late proprietaries, had been prolonged from time to time, by various acts of assembly, and is prolonged at the present moment. So that an answer on that point, must have been against the plaintiff, and they have no reason to complain, that it was not given.
+Upon the whole, I am of opinion, that the plaintiffs in error, have not supported any of their exceptions, and, therefore, the judgment should be affirmed.
+Judgment affirmed.
