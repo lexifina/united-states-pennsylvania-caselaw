@@ -1,0 +1,24 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1841-09"
+citations: ["2 Watts & Serg. 262"]
+reporter: "watts-serg"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Cubbison against M’Creary."]
+source_url: "https://static.case.law/watts-serg/2/cases/0262-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1853619
+cites_cases: ["15 Mass. 184", "18 Johns. 98", "2 Cow. 431", "2 Cow. 432", "2 Cow. 572", "4 Day 51"]
+---
+
+# Cubbison v. M'Creary
+
+## Majority (Sergeant, J.)
+
+The opinion of the Court was delivered by
+Sergeant, J.
+The first error assigned is to the admission of Rigby to disprove the evidence, which had been given by two witnesses, of declarations made by Rigby that he did not believe in a future state of rewards and punishments. The decisions in New York and Connecticut have been, that after the incompetency of the witness, from defect of religious belief, is satisfactorily established by proof of his declarations out of court, he will not be permitted to deny or explain such declarations of his opinions, or to state his recantation of them when called to be sworn. The reason is, that standing as he does, not admitting the obligation of an oath, it would be idle to administer to him an oath, and without oath no one can be examined as a witness in a court of justice. If, as is frequently the case, with the increase of years and advancing knowledge, the mind of the witness has undergone a change in his religious principles and belief, he may be restored to his competency on giving satisfactory proof of such change of opinion before the trial, so as to repel any presumption arising from his previous declarations of infidelity. Jackson v. Gridley, (18 Johns. 98); Curtis v. Strong, (4 Day 51); see 5 Mason 19.
+There are, however, arguments of considerable weight in favour of allowing a witness, in such case, to state his present religious belief at the time of trial. But it is not necessary in the present instance to give any opinion on this point, because we think that the two witnesses who swore to Rigby’s declarations did not make out sufficient to disqualify him from being sworn. An oath is an appeal to the Supreme Being for the truth of what the party declares : and the true test of the witness’s competency on the ground of his religious principles is, whether he believe in the existence of a God who will punish him if he swears falsely. Butts v. Swartwood, (2 Cow. 431). Within this rule are comprehended those who believe future punishments not to be eternal. In The People v. Matteson, (2 Cow. 432, note a), and in an anonymous case, (2 Cow. 572), it was held that all persons who believe in the existence of a God, and in future punishments by him, either in this world or in that to come, are competent witnesses. The same doctrine has been held by the Supreme Court of Massachusetts: Hunscomb v. Hunscomb, (15 Mass. 184). In Connecticut and Tennessee more ancient decisions have occurred that a person who does not believe in the obligation of an oath, and in a future state of rewards and punishments, or any accountability after death, is inadmissible as a witness: Curtis v. Strong, (4 Day 51); Slate v. Doherty, (2 Tenn. R. 80). We think the modern doctrine well supported on reason and on authority, and that it presents the proper test to be applied to cases of this kind. The witness, therefore, in the present case, was not rendered incompetent by the evidence produced; it was for the jury, as affecting his credibility.
+The other errors are not substantiated. The case turned upon matters of fact, and was so left to the jury, except that the court charged that, even if the partition was a conditional one, namely, to be changed when the true corner should be discovered, yet if the understanding was that the plaintiff was to let the lines remain as they were run in making the partition, and he did not do so, but afterwards had them changed and got two or three acres off Pollock’s part, this was a violation of the agreement on his part, and a disaffirmance by him; and he was not entitled to recover. The principle thus laid down is objected to, because it is said M’Creary, the defendant, first violated the agreement on his'part by conveying the S. E. end of the tract to Pollock, by a deed which embraced a portion of the surplus land. I do not perceive how the defendant’s violation of the agreement by conveying a part of the surplus to another could enable the plaintiff also to violate it without being responsible for the consequence. If he meant to hold the defendant liable for his breach of the contract, it was the duty of the plaintiff to abide by it and perform his part. I therefore think the court was right in saying that this was a disaffirmance of the contract, and the plaintiff could not recover upon it.
+Judgment affirmed.
