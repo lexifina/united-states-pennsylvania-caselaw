@@ -1,0 +1,24 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1819-06-14"
+citations: ["5 Serg. & Rawle 241"]
+reporter: "serg-rawl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Rose and another against King and others."]
+source_url: "https://static.case.law/serg-rawl/5/cases/0241-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1804385
+cites_cases: ["1 Serg. & Rawle, 360", "1 Wash. Rep. 219", "2 Bay. 132", "2 Binn. 234"]
+---
+
+# Rose v. King
+
+## Majority (Gibson J.)
+
+The opinion of the Court was delivered by
+Gibson J.
+Every order to produce papers under the act of assembly, must be founded on a previous affidavit; which, as the law is highly penal, should set forth, with precision, every fact necessary to authorise the Court to proceed. The party is to have due notice of the motion; and, as he is to come prepared to contest the truth of the facts, he ought to have the same length of time previous to the hearing, as would be sufficient for preparation for the trial of an issue before a jury. The notice should describe the book or paper required with sufficient certainty; and the question on the motion, being only incidental, should be decided previously to the trial of the issue. The nonsuit, therefore, was wrong in every view. There was no averment in the affidavit, that the deed was material and pertinent to the issue; and if it were not, the Court could not require it to be produced. Before recourse is had to a measure so severe in its consequences, the fact should be positively sworn to: conjecture or suspicion is not sufficient. A par.ty is not tobe subjected to the risque of being sacrificed to the surmises of his antagonist, without the latter being bound to stand to the truth of what he asserts. There is no hardship in holding him to strict proof. If, in consequence of such strictness, he loses the benefit of the proceeding under the act altogether, the loss is not irretrievable; he still has his remedy at common law, by giving secondary evidence of the contents of the paper or document withheld : whereas, a mistake against the person held to answer, is fatal. Now Martin Kraeber swore, that the deed was “ respecting” the land ; which may be true, and the deed nevertheless not material or pertinent.
+The affidavit is also defective, in not alleging, that the deed was in the possession of the plaintiffs. It was seen in the possession of Seely Huling, who- was an agent of the plaintiffs; but whether as an agent or as the owner of it, and, if the former, whether it remained in his possession at the time of the application, does not appear. If it were Seely Muling,s own, or not intrusted to his care by the plaintiffs, it would not be peculiarly in their power; and of course, its production could not be enforced under the act; but the party wishing to use itj would have to resort to the usual means of a subpwna, with a duces tecum. The notice was served, also, at a period altogether too late, being only three days previous to the granting of the rule ; and the rule itself was wrong, being made, not only during the trial, but, personally on Seely Huling, who was at most but an agent: it should have been on the plaintiffs in the cause. A Court has no right to designate a third person, not marked as such on the record, as the real party, and proceed against him: it is the plaintiff of record who is to be nonsuited, and the rule must be against him. It was unnecessary to treat Seely Muling as the party: if he were in fact so, the production of the paper might have been procured by a rule on the plaintiffs of record, which would have given the defendants all the benefit they were entitled to in any shape. If the paper came to his possession as an agent, it was to be considered in the power of the plaintiffs for all purposes beneficial to the defendants in a proceeding on the act: if it were his own, he would, even though substantially interested, be bound to produce it on a subpwna.
+This proceeding being in the nature of a bill of discovery, the party to be affected, ought to have a fair opportunity to answer the matter charged. According to the mode which I have indicated, the application for the order, should be grounded on an affidavit describing, with reasonable certainty, ^ k00j¡.s or papers alleged to be withheld, and containing a positive averment, that they are material to the issue, and exclusively in the power of the party against whom relief is sought: if they are equally in the power of bothj this mode cannot be resorted to. The order is to be made previously to the trial, and on such service of notice, as would be sufficient for preparation to try an issue of fact. In all these particulars, and in some others, the proceeding in this case was defective.
+Judgment reversed, and a venire facias de novo awarded.
