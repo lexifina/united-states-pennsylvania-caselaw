@@ -1,0 +1,23 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1834-09"
+citations: ["3 Watts 246"]
+reporter: "watts"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Clifford against Beems."]
+source_url: "https://static.case.law/watts/3/cases/0246-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1841251
+---
+
+# Clifford v. Beems
+
+## Majority (Huston, J.)
+
+The opinion of the Court was delivered by
+Huston, J.
+The remedy by distress for rent in arrear originated before leases for years were much used, perhaps before they were known. After they became common, a difficulty arose as to the distress for the last year; it could not be distrained for until due; that is, until the lease was ended: but the termination of the lease had also terminated the relation of landlord and tenant; had ended all privity between them, and the landlord could no longer distrain; but this was changed by statute 8 Anne c. 14, which provided “ that any person having rent in arrear upon a lease for lives, years or at will ended or determined, may, after the determination of such lease, distrain for the arrears so as he might have done if the lease had not been ended; provided that such distress be made within six calendar months after the determination of the lease, and during the continuance of the landlord’s title or interest, and the possession of the tenant from whom such arrears are due.” The same statute, and another of 11 George 2, c. 19, have provided that a landlord may follow goods clandestinely or fraudulently removed. See Bradby on Distress 124, 126, 127.
+Our act of assembly of the 21st of March 1772, section fourteen, follows the provisions of the statute of Anne as to the right of distress after the expiration of the lease, provided such distress be made during the lessor’s title or interest; but it omits the provision that the distress be made within six months after the determination of the lease; and it omits the last words, during the possession of the tenant from whom such arrears are due. The absence of the limitation of six months removes the objection, that the goods were distrained a year after the determination of the lease. Perhaps the omission of the words “during the possession of the tenant from whom such arrears become due,” may not be found to affect the meaning of the provision, at. least not in this case. By the common law a landlord could not distrain even his tenant’s goods except on the demised premises. The only exception to this was, that if the landlord or his bailiff came to distrain and got sight of the cattle on the land, and the tenant drove them off before they could be seized, the landlord of bailiff could follow them. Our act recognizes this as still the law; for it provides, that if goods are clandestinely or fraudulently removed, the landlord may follow and retake them within thirty days, unless such goods, before seizure by the landlord, are bona fide sold for a valuable consideration to a person not privy to such fraud. This recognizes distinctly that distress can only be of goods on the land, except in cases where by law it is provided otherwise. If once fairly and openly removed, or if clandestinely removed and thirty days elapse, or if fairly sold to an innocent and honest purchaser, they cannot be distrained: and there is a decision, that if fairly sold to the succeeding tenant, they are not subject to distress for the rent of a former tenant, although continued on the land by the second tenant, who owns them. Ex parte Grove, 1 Atk. 104.
+It will, I think, be found that there is something in the relation between landlord and tenant which precludes the landlord from dis-training on the goods of a tenant for rent in arrear by another tenant. For where the emblements left by a tenant at will, who had paid his own rent, were levied on by fieri facias and sold, and the purchaser left the crop on the ground for purposes of convenience and husbandry, and the landlord distrained them for the rent in arrear of the succeeding tenant, it was determined that the distress was illegal; for whether the emblements belonged to the former tenant or his vendee, they were not liable to be distrained for another tenant’s rent, whether in the custody of the law or not; and their continuance till reaped was of necessity, and for a reasonable time after would still be of necessity. Eaton v. Southey, Willis 131. The distress in this case being then illegal, it was not a defence to the Cliffords more than any other trespass on these goods would have been.
+Judgment affirmed.
