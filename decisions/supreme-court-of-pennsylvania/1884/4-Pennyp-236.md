@@ -1,0 +1,33 @@
+---
+court: "Supreme Court of Pennsylvania"
+docket: "34"
+decided: "1884-10-20"
+citations: ["4 Pennyp. 236"]
+reporter: "pennyp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Merotjr, C. J.; Gordon, Paxson, Trunkey, Sterrett, and Green, JJ.; Clark, J., absent."]
+parties: ["Appeal of John A. Wissel et al. Administrators."]
+source_url: "https://static.case.law/pennyp/4/cases/0236-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 223080
+cites_cases: ["10 Wright, 297", "2 Wright, 65"]
+---
+
+# Appeal of Wissel
+
+## Majority (Sterrett, J.:)
+
+the opinion of the Court was delivered by
+Sterrett, J.:
+An affidavit, in due form, was supplied in time to perfect the appeal, and hence the motion to quash is denied.
+In view of the facts found by the learned auditor, the claim of appellant, Jolin A. Wissel, “for services rendered the estate since the filing of his final aócount,” was rightly rejected. He found, as a fact, that the services were not only for appellant’s own benefit, but adverse to the interests of the estate. The only rational conclusion he could draw therefrom was, that the claim should not be paid out of the fund for distribution. Exceptions wrere taken to this and other legal conclusions of the, auditor, but none were filed, either before him or in the court below, to his findings of fact. If appellant intended to question the correctness of the latter, he should have excepted thereto specifically. This was not done, and they must now be regarded as conclusive. But, if this were not so, the result would be the same, because there appears to be nothing on the record to convict the auditor or the court below of error in finding the fact, or in the conclusion drawn therefrom.
+What has just been said is equally applicable to the claims for professional services referred to in the third specification. .There appears to be no objection to the amount of these claims found respectively; but, the learned auditor having found that the services wrere for the personal benefit of one of the administrators and against the interest of the estate, it is very evident they were not entitled to participate in the distribution.
+There is nothing in the fourth specification that requires special notice. It is not sustained.
+Tlie subject of complaint, in the second specification, is the rejection of Mrs. Wissel’s claim for $179 24, balance due her as widow under the exemption act.
+Shortly after the decease of Conrad Wissel, in 1878, personal property to the amount of $120 76 was appraised and set apart to his widow. Exceptions to the appraisement were filed, and a commissioner was appointed to take testimony, but nothing further was done until after the administrators filed their account.
+In that account they claimed credit for the appraised value of the personal property set apart to the widow, and the same was finally allowed. The allowance of the credit thus claimed was substantially a dismissal of the then pending exceptions to the widow’s appraisement. Until they were disposed of, it was not at all certain that there would be any residue to be claimed out of either real or personal property. After the exceptions were in effect dismissed, the right of the widow to receive the residue of the $300 exemption out of the fund raised by sale of the real estate was denied by appellants. Their contention before the auditor appointed to distribute the fund was that she had waived her right to said residue, and in this they were sustained by the finding of the learned auditor, whose report was approved by the court.
+That a widow may waive her right to the whole or any part of the exemption allowed her by law, is clearly settled ; but such waiver should never be inferred from facts or circumstances that are susceptible of other reasonable explanation, and do not amount to a legal estoppel. It was clearly shown, in this case, that when the personal property was»being appraised, Mrs. Wissel claimed the full benefit of the exemption in her favox’, as widow of the intestate, and we find nothing in the evidence to justify the conclusion that she then, or at axxy other time, relinquished her right to any part thereof. Her co-administrator, J. A. Wissel, testified: “The'widow made a claim on xne for her $300 allowance; she made it from the beginning. She took $120 76 out of the appraisement. That left $179 24 back on her claim. I have paid that amount out of this fxxnd.” One of the appraisers, in his testimony, says: “Mrs. Wissel'claimed that she had $300 to get out of the estate. I think her exact words were ‘ the law gives me $300,’ and Jamison, one of the appx’aisers, then told her that she could take it ixx goods or money. We were taken back a time or two to reduce the amount of goods, as she found she coxxld do with less, and wanted to take balaxxce in money.” It is true the real estate, out of which the widow had a right to claim the residue, was not appx’aised under the px’ovisions of the exemption law until November’, 1879 ; but it was appraised by the same persons who had previously appraised the personal property retained by her, and their final action may well be regarded as a continuance and completion of the appraisement xxnder her claim. It does not appear to have beexx her fault that the x’eal estate.was not appraised sooner. The appraisement of the personal px’operty selected by her was excepted to on the ground that the valuations were too low. If the exceptants had succeeded in showing that the personal property taken by her was worth $300 or mox’e, she would have had no claim on the realty under the .exemption law, ando no appraisement thereof would have been necessary.
+It does xxot appear that the delay in appraising the real estate was, in any manner, prejudicial to the interest of creditors or distributees. The fact that no credit was ta.kexx by the admixxistrators in their final account for- the residue "claimed by the widow out of the real estate, is fully explained by one of the witnesses, who was counsel for the administrators in the preparation of their account.
+There is nothing in the testimony to warrant the conclusion that Mrs. Wissel waived or ever intended to relinquish her claim to the full amount allowed her by law; nor to bring the case within the principles recognized in Davis’ Appeal, 10 Casey, 256; or Baskins’ Appeal, 2 Wright, 65, on the authority of which the case appears to have been ruled in the court below.
+Decree reversed at the costs of the appellees, and the record remitted, with instructions to distribute the fund in accordance with this opinion.
