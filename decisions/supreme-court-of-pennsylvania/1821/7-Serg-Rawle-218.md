@@ -1,0 +1,23 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1821-09-11"
+citations: ["7 Serg. & Rawle 218"]
+reporter: "serg-rawl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ligget against The Bank of Pennsylvania."]
+source_url: "https://static.case.law/serg-rawl/7/cases/0218-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1808209
+---
+
+# Ligget v. Bank of Pennsylvania
+
+## Majority (Tilghman C. J.)
+
+The opinion of the Court was delivered by
+Tilghman C. J.
+This was an action brought by the Bank °f Pennsylvania, against Thomas Ligget, on two promissory notes, of which one David Pride was the drawer, and the defendant, Ligget, the third indorser. The defendant gave *n ev'^ence a mortgage from the drawer of these notes, to the bank, as security for the payment of the notes, and then offered to prove by the oath of Pride, the drawer, that by a su^secluent arrangement between him and the bank, the dewas discharged from his responsibility as indorser. To this evidence the plaintiff objected, and the Court de^ cided that it ought not to be admitted; upon which the plaintiff offered to admit the evidence, but the defendant refuse(l to examine the witness, and excepted to the opinion the Court. Another exception was taken to the Court’s opinion, with respect to the admission of the evidence of Christian Latshaw, one of the indorsers of these notes, who. was offered as a witness by the defendant, and rejected by the Court. In this instance, also, the plaintiff offered to admit the evidence after the Court had decided the point, r ’ but the defendant refused to examine the witness. It is imwhether the Court decided right or wrong, because the defendant was not injured by the decision. The evidence was in the defendant’s power, and therefore it lies not in his mouth to complain of its rejection. But his counsel have contended, that he was injured, because the jury would have been prejudiced against evidence, which in the opinion of the Court was illegal. There is no weight in this objection. When the plaintiff offered to admit the evidence, it became legal, although before it might have been illegal^ As soon as the plaintiff’s consent was given, the Court would have permitted it to go to the jury. And the jury having heard it with the Court’s permission, it is not to be presumed that they would have been prejudiced against it. When evidence is offered, and admitted by the Court, if the party who offered it, means to take an exception, he must do it immediately, and the reason is, that the adverse party is entitled to the option of admitting the evidence, rather than have his cause involved in the trouble and hazard of a writ of error. It is frequently done, and I never before heard it suggested, that after an offer to admit the evidence, an exception could be supported.
+2. The Charge of the Court.has been objected to ; because the jury were told that the indorsers were not discharged by the mortgage of the drawer. 1'his is a point too plain to admit of doubt. Certainly the indorsers were not discharged. The defendant’s counsel have compared the mortgage to a bond, which operates as a merger of a note. But there is no analogy between the cases. A note is merged in a bond, because a bond is an instrument of a higher nature than a note, and both being debts, the inferior is absorbed in the superior. There could be no possible advantage in preserving a note, when a bond was given by the same person, for the same debt. But a mortgage is only a security, and its nature is quite different from the debt secured by it. It is a conveyance of land, and it is of great importance that it should not be confounded with the debt. The title of the mortgage may prove defective, and the debtor may then be resorted to, personally, by suit on the note. The mortgage contains no covenant to pay the money. It is a security altogether collateral to the note. So far from a mortgage being considered as a merger of a debt due by simple contract, it is a very common species of security. It is not intended by the parties as a merger. In this very mortgage the debt due by note is recited, and the mortgage is declared to be a security for the payment of the note, and is to be void if the note is paid. Both note and mortgage bear the same date, and were intended to be simultaneous acts, though it happened that the mortgage was not executed till some days after ¡ts date<
+It is the opinion of the Court, that upon both points, the *aw *s clearty wbh the defendant in error, and therefore the judgment should be affirmed.
+Judgment affirmed.-
