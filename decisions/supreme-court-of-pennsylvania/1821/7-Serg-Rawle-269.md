@@ -1,0 +1,24 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1821-09-24"
+citations: ["7 Serg. & Rawle 269"]
+reporter: "serg-rawl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Allison against Rankin."]
+source_url: "https://static.case.law/serg-rawl/7/cases/0269-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1808205
+cites_cases: ["1 Binn. 188", "1 Binn. 88", "2 Binn. 46", "2 Serg. & Rawle, 455"]
+---
+
+# Allison v. Rankin
+
+## Majority (Gibson J.)
+
+The opinion of the Court was delivered by
+Gibson J.
+T° shew that the title of William Marshal, under whom both parties' claim, had been vested' in the plaintiff below, his counsel offered in evidence, a mortgage to the plaintiff, together with the record of a scire facias, and judgment on it, shewing a sale to the plaintiff, and also a deed from the Sheriff of the county : to all which the counsel of the defendant objected, on the ground that there was no legal service on the mortgagor, and that consequently the judgment, which was entered up by default, was irregular.' But assuming this to-be true, a Court can never inquire into the regularity of the proceedings of another Court, coming, collaterally before it: and so far is this principle carried, that a conviction by a justice of the peace having jurisdiction, is, while unreversed, conclusive of the matter adjudicated, even in ah action against himself. No alleged irregularity of the proceedings, therefore, could affect the competency of the judgment on the scire facias, or of the Sheriff’s deed founded on a sale in pursuance of it. Independently of the proceeding's, the mortgage was evidence-of itself, being a good foundation for an ejectment against the mortgagor, or those claiming under him. • ■ -
+But certain articles of agreement between Marshal, and one Elliott, who assigned his interest to the plaintiff, were offered and objected to. By these it was agreed, that Elliott, in consideration of one hundred dollars paid by him, was to have a moiety of Marshal’s interest, under his warrant and survey. No one can entertain a doubt of the competency of this part of the evidence.' ■ . *. ,.
+On the other hand, however, the defendant offered a pa= tent from the Commonwealth to himself, which recited a sale for taxes by the commissioners of the county, to one Allison, and a deed from Allison to the defendant, which was rejected. The question was not on the competency of those recitals, but whether the patent was evidence at all before the intermediate links were supplied by evidence of the regularity of the commissioners’ sale, and by the production of the deed to Allison, and also of the conveyance from him to the defendant, I cannot see how this case can be distinguished from Downing v. Gallagher, 2 Serg. & Rawle, 455, where1 it was held, .that the patent was evidence of a grant from the Commonwealth, although it contained recitals of conveyances of an outstanding title, which were clearly incompetent evidence of the facts recited. The only plausible argument against this is, that it would be nugatory to receive evidence which the Court would be bomuTto inform the jury was altogether nerveless. But was that the character of the evidence in this instance. In Falkner v. The Lessee of Eddy, 1 Binn. 188, it is laid down, that a deed is inadmissible until at least a shadow of title is shewn in the grantor. But here was more than a shadow of title in the Commonwealth,- for she had the complete legal estate. The patent therefore vested such a title in the defendant, as would enable him to recover at law, against the title which the plaintiff below set up under his warrant and survey, and which, between him and the Commonwealth, or a person standing in her place, was but an equity. The defendant therefore, by shewing that he was invested with her rights, would have put himself in a situation to take advantage of any circumstance that she could have urged against a specific execution of the contract: but this he could not have done without putting himself in her stead ; for as to third persons, a warrant and survey,. under our usages, I appre-1 he'nd, confer a legal title. But taking the matter to be otherwise, still a conveyance of the legal estate is one step towards a complete title, and the. defendant having read his patent, might possibly have shewn the regularity of the commissioners’ sale, and have' produced the. intermediate conveyances.. If he had. failed to do this, he would have been declared a trustee, and the plaintiff would have recovered. But that was a matter for subsequent consideration, and has nothing to do with the question of competency,. It is the opinion of the Court, that the judgment be reversed.
+Judgment reversed, and a venire facias ele novo awarded.
