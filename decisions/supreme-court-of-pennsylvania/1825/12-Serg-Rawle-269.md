@@ -1,0 +1,26 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1825-01-22"
+citations: ["12 Serg. & Rawle 269"]
+reporter: "serg-rawl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["M‘WILLIAMS against MARTIN."]
+source_url: "https://static.case.law/serg-rawl/12/cases/0269-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8878536
+---
+
+# M'Williams v. Martin
+
+## Majority (DüNcaN, J.,)
+
+DüNcaN, J.,
+delivered the opinion of the court.
+The construction of the deed is mattter of law.
+If the record had not informed us to the contrary, I should have supposed it the conveyance of some person, not conversant in conveyancing. But be it drawn by whom it may, clerk or layman, it must receive the same construction. The controversy does not respect words limiting an estate; because they are absolute — to her and her heirs — technical words of limitation and perpetuity.
+Words describing the subject of the grant, are very different from words limiting the estate granted; and, except as to words of limitation, courts are bound to give the same effect to intention in a deed as in a will; for if there was a distinction as to description, between deeds and wills, these distinctions would so multiply, that the knowledge of the common law would become rather a matter of memory, than of judgment or reason.
+Now, it is impossible to doubt, that if Thomas Martin had devised in these words, it would have comprehended his real estate. The construction ought to be favourable to the intent, as near as possibly may be.
+The law is not nice in grants; — neither false Latin nor bad English will make a deed void. When the words are doubtful, the point to be inquired into, is the intent of the parties. If the intent be as doubtful as the words, it will be no assistance at all; but if it be plain, wo ought to put the construction on it which ■will best answer the intention, though the words be doubtful; but we cannot put words into a deed which are not there! nor put a construction on words in the deed, directly contrary to the plain sense of them. But take the intention as plain and manifest, and the words doubtful and obscure, it is the duty of judges to find out such a meaning in. the words as will best answer the intent of the parties. The rules and maxims which Justice Willes has drawn from Littleton, Plowden, Coke, Hobart, and Finch, are full of good sense. Willes, 332.
+The word demands is not restrained by its association with other words (noscitur a sociis) to personals; for it is united with words of realty, as, real, personal, and mixed, comprehending all, and with words precisely technical, the word heirs and the word inheritance, which is as strong as hereditaments, and will pass real estate, and by such release all actions real are gone.. Co. Litt. 291. 8 Rep. 154. Brooke’s Ch. 67, cites, 6 T. Rep. 15. How much stronger are (he words used here! Though the broad construction of the word demands might be confined to releases, which discharge, and not conveyances, which charge; yet still, as it is coupled with the word real, and with words of inheritance, it shows a strong intention to dispose of the realty. The words might, 1 admit, be restrained by the particular occasion of making the instrument, or by other expressions more limited; but there are none such. The words were used in their most comprehensive meaning. It never was a rule of construction in deeds, that the words were to be taken in their technical sense, but according to their proper and most known signification; that which is most vulgar and in use. The necessary use of particular technical expressions, is chiefly regarded in the sense of law terms, which matter of desci’iption is not; and even whore these are used, there is always a presumption in favour of technical meaning and inference, yet it is no more than presumption, and it is to be contradicted by the manifestation of a contrary intention; and the primary inquiry in conveyances, as well as in wills, is, the intention, and when that appears on the face of the instrument, is clearly and satisfactorily ascertained, and is not contrary to any rule of law, the court is bound to construe it conformably to the intention. Acting on this principle, I do not think, that any two men of common capacity, could be found to differ, in the construction of this conveyance, which clearly on its face, intended to convey the real estate of the grantor to his mother, “all property, of whatever nature or kind,” and this might be supposed to end the controversy. But the record shows, that it is open to other inquiries, admitting this to be the legal construction, whether it was fraudulent or not, as to the creditors. The plaintiff, a purchaser at sheriff’s sale, might be ignorant of the execution of such conveyance. It might have taken her by surprise on the trial, and unprepared to exhibit any evidence to show the fraud; and as the court is of opinion there was error in admitting parol evidence of the declaration and intention of the grantor, justice requires that the judgment should be reversed, and a new trial take place.
+Judgment reversed, and a venire facias de novo awarded.
