@@ -1,0 +1,21 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1842-05"
+citations: ["3 Watts & Serg. 379"]
+reporter: "watts-serg"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Beale against Patterson."]
+source_url: "https://static.case.law/watts-serg/3/cases/0379-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1854557
+---
+
+# Beale v. Patterson
+
+## Majority (Rogers, J.)
+
+The opinion of the Court was delivered by
+Rogers, J.
+When dividing the couhties of Mifflin and Cumberland, the Legislature must have been under the impression that the Tuscarora was a continued and uninterrupted range of mountains; and for this reason it-was supposed to be a sufficiently certain designation of boundaries to divide them by a line running along the summit of the mountain, from a given point, to the Franklin county line. In this, it seems, they were mistaken; and hence, to ascertain the division, some rule must be adopted; and we think the court has hit upon the true one. When the mountains pass each other, forming-an intervening valley between the two, upon the one side of which the mountain is gradually sinking and terminaing, and on the other the mountain is commencing and rising, a line from one to the other at or about the place where the respective mountains acquire an equal height, is the legal dividing line. As that is the case here, had the line between the counties of Mifflin and Cumberland been actually run, the commissioners would have been bound to conform to that rule; and that must be considered as done which ought to have been done. But as this was omitted, the same uncertainty exists as to the whole line as well as to this part of it, and the summit of the mountain, as this ideal or legal line, is only certain as it may be reduced to a certainty; id est certum quod certum reddi potest. As, then, in some respects, it may be Viewed as indefinite and uncertain, the dividing line may be controlled by common usage, and by the assent of the authorities of the two counties. But this would require clear and explicit proof- of an uninterrupted usage and consent, and can only be justified on the maxim, communis em'or facit jus. But, unhappily for the argument, there is no such evidence. The Act dividing the counties was passed in 1789, and the warrant, which is the foundation of the defendant’s title, was laid, and the survey made, in 1794, and at that time there was no usage whatever, which can in any way affect or alter the legal construction of the Act. The land then, without doubt, was within the limits of the county of Mifflin. The testimony of Snyder is vague and indefinite. The commissioners, of whom he speaks, were employed to lay out a road, and not to ascertain and fix the boundary line of the counties; and whatever may have been their impression, it can produce no effect whatever. The line remains as before, on the construction of the original Act. It seems that in 1834 the line between the counties of Perry and Juniata was run by commissioners, one of whom was examined as a witness, and acknowledges that the location, as fixed on by them, is not the true boundary. It would be unjust that a person who deduces his title from the original warrantee, whose title certainly was good, should be deprived of his property by a survey which is evidently founded in mistake. And this could only be on the ground that this survey is conclusive, which it is not. The land in dispute was surveyed in 1794, as land lying within the limits of Mifflin county. In 1821 and 1822, it wasi taxed, and sold for taxes, and purchased by the defendant as such, and has since been taxed as lying within that county. Nay more; it appears that the plaintiff was aware of this, and that he obtained his warrant not until 1838, on the erroneous supposition that the commissioners, having undertaken to alter the county lines, the right of the original owner was destroyed. But it is absurd to maintain that the mistake of the commissioners can affect vested rights. It would be only to prevent this injustice that common usage would be allowed to change the line fixed by the Act of 1789. It may be allowed to sustain titles, but it would be intolerable to allow evidence of usage to destroy titles.
+Judgment affirmed.
