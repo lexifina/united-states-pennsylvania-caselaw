@@ -1,0 +1,21 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1825-05-30"
+citations: ["13 Serg. & Rawle 41"]
+reporter: "serg-rawl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["RANCK and another against BECKER."]
+source_url: "https://static.case.law/serg-rawl/13/cases/0041-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1813976
+cites_cases: ["15 Johns. 395", "16 Johns. 4", "2 Dall. 205", "2 Serg. & Rawle, 57"]
+---
+
+# Ranck v. Becker
+
+## Majority (Tilghman, C. J.)
+
+The opinion of the court was delivered by
+Tilghman, C. J.
+This is a motion by the plaintiffs in error, for restitution of the money levied on an execution issued on a judgment which has been reversed. The fact is, that there has been a reversal of two judgments, — the original judgment for Becker against Ranch and Share, and a judgment on the scire facias issued on the original judgment. Restitution is always granted on the reversal of a judgment, unless there be something peculiar in the case. The reasons offered against restitution in this case, are not satisfactory. They seem calculated only to show, that the judgments which have been reversed were just, and that on a second trial, Becker will again obtain judgment against the present plaintiffs in error. But, to suspend restitution on this ground, would involve the court in endless difficulties. It may as well be alleged, in every other case in which a judgment is reversed, with an award of a venire de novo, that in all probability there will be the same verdict, and then we shall be called on to investigate the merits of the cause. To avoid all embarrassment of this kind, the general rule must be, that on the reversal of a judgment, the plaintiff in error is entitled to restitution. But there are cases in which restitution would work such manifest injustice, that it would be the duty of this court to guard it by certain restrictions. An instance of this kind occurred, in the case of Kirk (in error) v. Eaton, for the use of Coleman. There, Eaton had obtained a judgment against Kirk, and also a second judgment in a scire facias on the original judgment, on which an execution had been issued, and levied on the land of the defendant. The judgment on the sci. fa. was reversed, but the original judgment remained in force. Kirk was insolvent, and asked for restitution. Now, in that case, what would have been the situation of Coleman, for whose use the suit was brought, if restitution had been granted. He would have lost the fruits of his original judgment, by which the land of Kirk was bound, because the purchaser under the execution would have held the land, notwithstanding the reversal of the judgment on the scire facias. This would have been flagrant injustice, to prevent which, the court ordered, that instead of making restitution to the insolvent debtor, the money should be brought into coui’t, to await the event of a trial on an issue, on the plea of payment on the scire facias, and then, as much as should be found to be due on the original judgment, was to be paid to Coleman, and the balance restored to Kirk. So, in the present case, it is understood, that Share, on whose land the execution was levied, is now insolvent, and that the land was bound by several judgments, subsequent in date, to the judgment of Becker. Now, the judgment of Becker being removed, by reversal, justice requires that the younger judgments, which were a lien, should be paid out of the money raised by Becker’s execution. But the money will be lost, if it goes into the hands of Share, therefore it becomes the duty of the court to protect the judgment creditors. This can only be done by ordering restitution, on certain conditions, — that is to say, the Court of Common Pleas, who are to carry our order for restitution into effect, must direct the restored money to be brought into court, after which it is to be applied, first, to the discharge of all liens on the land of Share, according to their legal priority, and the balance, if any, paid to Share himself. This will do justice to all parties, and will be such a restitution as the nature of the case demands.
