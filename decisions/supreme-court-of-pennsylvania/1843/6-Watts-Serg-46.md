@@ -1,0 +1,26 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1843-09"
+citations: ["6 Watts & Serg. 46"]
+reporter: "watts-serg"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Barnet against School Directors."]
+source_url: "https://static.case.law/watts-serg/6/cases/0046-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 480171
+cites_cases: ["2 Dall. 138", "6 Serg. & Rawle 289"]
+---
+
+# Barnet v. School Directors
+
+## Majority (Rogers, J.)
+
+The opinion of the Court was delivered by
+Rogers, J.
+A rated inhabitant of a city, county, &c., at common law, is not a competent witness in a suit in which the city or county is a party. But as the intei’est, which is the ground of exclusion, is, in most instances, very trifling, various statutes in England, and in this country, have been passed, admitting them to testify; making the objection to their credit, rather than their competency. Thus, by the Act of 16th April 1840, sect. 6, it is enacted, “that no person shall be excluded from being a witness or juror in any suit, prosecution or proceeding, in which any county, city, incorporated district, borough or township is a party or is interested, by reason of such person being or having been an officer, rated citizen or inhabitant in such county, city, district, borough or township, or owning assessed or taxable property, or being liable to the assessment or payment of any tax therein.” The school directors, it is true, do not come within the words of the Act, but they are substantially included. Every township in the State is, by law, a school district; and, with very few exceptions, the jurisdiction of the school directors is commensurate with the limits of the township. They are not a corporate district, but they are a quasi corporation; and, as such, may sue and be sued. The inhabitants of the township, and those holding property in it, are the parties in interest; and the reason of the admission of rated inhabitants applies as well here as in other cases.
+The court was right in allowing the amendment. The names of the directors were improperly inserted in the writ, for the school directors sue in their public character, and not in their individual right. Courts, of late, in this State, have been liberal in allowing amendments, particularly where it is plain an adherence to form will do injustice, and prevent a trial on the merits; and in this we have been carrying out the intention of the Legislature, manifested by several statutes.
+We see no error in the third bill. It appears that the record of the appointment was lost; it was; therefore, competent in an action on the common counts, to prove that the defendant represented himself as collector, received the school-tax as such, and was, in fact, collector of the township for the year 1840.
+There is nothing in the objection to the deposition. For, although the defendant may not have had notice of taking it, yet he attended and cross-examined the witness; or, what is the same thing, the justice, who acted as commissioner, was constituted his agent, and cross-examined the witness for him, according to his instructions. After this, he shall not be permitted to allege ignorance of the time and place of taking the deposition.
+It is, however, insisted that the action of assumpsit will not lie because the plaintiff has a statutory remedy. By the Act of the 13th June 1836, sect. 6, the president of the board of directors may issue'the warrant to the township or borough collector, or to some other suitable person residing within the district, and shall require from him sufficient security to insure the faithful discharge of his duty. But by the 6th section of the Act of the 12th April 1838, it is provided, that the directors shall have power to appoint collectors of the common-school-tax, without requiring bond. And in the 8th section of the same Act, a mode is pointed out to secure the tax, and a remedy is given against delinquent collectors. The latter Act, however, does not repeal the former. The directors may pursue either, as they may deem expedient; that is, by the appointment of a suitable person, requiring sufficient security by bond, or, when the appointee has real estate, by pursuing the directions of the Act of 1838. If, therefore, this is to be viewed as an appointment to office under the first Act, and there is -nothing to prevent us so considering it, there is no statutory remedy whatever, and, of course, there can be nothing in the objection to the common law action of assumpsit, which is the appropriate remedy to recover monies actually received and in the hands of the delinquent collector. It must be remarked, that this case presents a lamentable instance of the utter disregard of public officers to the plain directions of Acts of Assembly. They have obeyed neither Act. They have failed to take a bond under the Act of 1836; nor have they entered the claim under the Act of 1838. If, therefore, the plaintiff cannot maintain this suit, the township would be without remedy, and the defendant would be permitted, contrary to every principle of justice, to retain money which he received in his character of collector.
+Judgment affirmed.
