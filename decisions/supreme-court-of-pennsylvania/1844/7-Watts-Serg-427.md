@@ -1,7 +1,8 @@
 ---
 court: "Supreme Court of Pennsylvania"
 decided: "1844-07"
-citations: ["7 Watts & Serg. 427", "7 Watts & Serg. 425"]
+decided_precision: "month"
+citations: ["7 Watts & Serg. 427"]
 reporter: "watts-serg"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,6 @@ parties: ["Baldwin against Cash."]
 source_url: "https://static.case.law/watts-serg/7/cases/0427-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 481818
-cites_cases: ["1 Dall. 157", "3 P. R. 519", "5 Watts & Serg. 561"]
 ---
 
 # Baldwin v. Cash
