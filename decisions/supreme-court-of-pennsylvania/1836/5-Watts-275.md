@@ -1,0 +1,22 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1836-06"
+citations: ["5 Watts 275"]
+reporter: "watts"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["M’Clurg & Trevor against Willard."]
+source_url: "https://static.case.law/watts/5/cases/0275-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1843935
+---
+
+# M'Clurg & Trevor v. Willard
+
+## Majority (Gibson, C. J.)
+
+The opinion of the Court was delivered by
+Gibson, C. J.
+Independent of the objections to certain parts of the deposition for hearsay, and the witness’s impression of his own liability, which seems to be founded, the whole of it was inadmissible for want of notice of special matters, notwithstanding the agreement of the counsel employed to conduct the examination before the justice. Knowledge is certainly not notice; for though the suitor may know that his adversary is taking precautionary proofs of particular facts, he has no warrant to anticipate that he will be called on to rebut them; without which he ought not be burthened with preparation for it. It will perhaps be found the safest course in the end to go by the plain directions of the rule, instead of attempting to satisfy its exigencies with equivalents. How far then was the client bound by the agreement of the examining counsel? unquestionably but in respect to matters within the scope of his authority. Had he been retained generally, his power to bind would have extended to every transaction in the cause; but being restricted to a specific service, he was competent to waive objections to nothing that was not incidental to the execution ofthe rules. He might dispense with exceptions to notice, time and place, leading questions, and perhaps some other subordinate matters; but not with exceptions to the competency of the witness, the pertinency of his testimony, or its admissibility under the pleadings or specification of defence. The deposition ought therefore to have been overruled.
+The charge was decisively erroneous for submitting to the jury, without a spark of evidence to sustain it, the existence of an agreement to forbear the debtor on the original security. To a question put in respect to the understanding of the parties, the witness answered: “ I do not think there was any bar against their proceeding otherwise against me, but they promised on receiving the collateral security, they would not annoy us in our business:” yet notwithstanding this explicit negative, the promise thus explained was left to the jury as an agreement which would undoubtedly be a bar, were it any thing at all. It is, however, precisely that indication of indulgence which is always given when the impatience of the creditor is pacified by an increase of security, yet even without a thought of creating a legal obligation to forbear; for nothing is more indisputable than the creditor’s immediate right to press all his securities where there is not a specific agreement to the contrary. But we are told the purport of the alleged agreement was, that the creditor should proceed on the collateral security in the first place, and return it, if unproductive, before recourse had to the original debtor. Is there a word like that in the testimony? The witness expressly says, that the note was a collateral security; but it would have been a substitute for the original, if it were to have been an exclusive source of satisfaction in the first instance. There was, therefore, no such condition as authorised the payee, to cancel his endorsement, and transfer the debt a second time, without which the alleged payment to the second transferee would not be satisfaction of it. Granting even that there was a promise to forbear, yet it would be applicable but to-the original security, and would afford a defence to nothing else. It certainly would be inapplicable to the acceptance of a bill of exchange subsequent to the transaction; as the cause of the attachment and arrest in Baltimore was; and though the bill was drawn, for the same debt, it shows that a new arrangement was made and a new responsibility contracted; for it certainly could not have been meant that the bill should not be negociated or the acceptor liable to immediate pursuit, if it were dishonoured. Even then conceding the existence of a promise to forbear in point of fact, the case was conclusively with the plaintiffs in point of law.
+Judgment reversed, and a venire facias de novo awarded.
