@@ -1,0 +1,24 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1834-09"
+citations: ["3 Watts 271"]
+reporter: "watts"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Irwin against Potter."]
+source_url: "https://static.case.law/watts/3/cases/0271-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1841303
+cites_cases: ["1 Rawle 230", "11 Serg. & Rawle 50", "12 Serg. & Rawle 275", "5 Serg. & Rawle 120", "5 Serg. & Rawle 162", "8 Serg. & Rawle 88"]
+---
+
+# Irwin v. Potter
+
+## Majority (Sergeant, J.)
+
+The opinion of the Court was delivered by
+Sergeant, J.
+1st. When special matter is offered by the defendant by way of set-off, or in diminution of the plaintiff’s demand, it should set forth with reasonable certainty the grounds of the plaintiff’s liability. It has been held that the notice of set-off need not be so certain, and by no means so formal as a declaration,but it must describe the demand with reasonable certainty, so as not to take the plaintiff by surprise. Gogel v. Jacoby, 5 Serg. & Rawle 120; Lewis v. Culbertson, 11 Serg. & Rawle 50. It would be dangerous to allow a deviation from this rule and to permit a defendant, upon the statement of remote and conjectural possibilities, to enter into the pursuit of a defence, rather than the proof of one. In the present case the demand arises on a note given to reimburse to the plaintiff the defendant’s proportion of moneys, which had been advanced by the plaintiff towards payment of liens, taxes, costs and charges incurred in the purchase of lands on joint account under the agreements of May and October 1830: accompanying which is a stipulation by the plaintiff that the defendant might correct any errors in the statement of Mr Marshall, by which the sum of 470 dollars in the account was adjusted, a right which the defendant would have possessed by law, as to this and all other items, without an express reservation. To repel the claim on the note, the defendant offered, at the trial, to give in evidence, “ that in the actual division of the Beaver tract, conducted under the management of Potter, an erroneous basis was substituted for that provided in the instrument creating him a trustee, and in the subsequent instrument for the division of that tract.” But by whom was that erroneous basis adopted ? The division was made by third persons chosen for that purpose by the parties : not by the plaintiff; nor had he any control whatever over it: so that if they erred by making a wrong division, it was their act, and not his. It is said the division was to be final and conclusive, and this is the only remedy. If procured by fraud, the partition would not be final. If even unfair and unequal, relief might perhaps have been had, since it was expressly stipulated, that the persons making it should be governed in the same manner as if appointed by the court of common pleas in pursuance of a writ of partition to divide the estate. But be this as it may, it is difficult to understand in what way the plaintiff is implicated in the alleged mistake of the persons making the partition. No act of his is stated; no fraud, practice, or circumvention of his detailed ; nor indeed of any one ; but the whole of the charge is, simply, that under the plaintiff’s management there was an erroneous division by which the defendant was injured, and therefore the defendant should correct it by compelling the plaintiff to pay him the difference in the value of the land he got, from what he ought to have got.
+Whether if the plaintiff had done any wrongful act at the time of the partition, subjecting him to th.e defendant’s claim for damages on account of such tort, it would be evidence in this suit, which is brought to recover moneys' previously advanced on the defendant’s account in the joint purchase of land, is a question on which it is not necessary to express an opinion, as no act of the defendant for which he is liable is pointed out; and the evidence was, therefore, properly overruled.
+2d. But the second offer of the defendant ought to have been received. Most of the sum for which the note was given being made up of the defendant’s proportion of moneys advanced by the plaintiff on account of lands purchased in partnership, the defendant offered tó show that these moneys were in fact paid out of the partnership funds, and not with the plaintiff’s money. If so, it is clear the plaintiff ought not to call on the defendant to repay him. How the fact is, it is for the jury to decide. No opinion is meant to be expressed concerning it. Indeed the evidence is not before us; but if the defendant could establish his averment, he ought to have been admitted to do so.
+Judgment reversed, and a venire facias de novo awarded.
