@@ -1,0 +1,23 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1836-10"
+citations: ["5 Watts 544"]
+reporter: "watts"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Martin against Draher."]
+source_url: "https://static.case.law/watts/5/cases/0544-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1844012
+---
+
+# Martin v. Draher
+
+## Majority (Huston, J.)
+
+The opinion of the Court was delivered by
+Huston, J.
+This case arises on a state of facts, as follows:— Jacob Draher was a bricklayer, and Patrick Martin a labourer, and each proposed to build a house for himself. Draher applied to Leonard to sell him lumber, who refused to sell to him;-he procured Martin to go to Leonard, and Leonard agreed to sell the lumber for Draher’s house, to Martin. It was taken away, was charged to Martin, and paid for by Martin; and it was stated and clearly proved that Draher was to pay Martin for this lumber, by labour in laying bricks for Martin, in the house which he was building. It was also proved fully, that his bill for work done for Martin exceeded the price of the lumber; that they settled, and in the account Martin charged Draher with this lumber and credited him by work to an amount exceeding the price of the lumber; and that Martin had after this settlement acknowledged that Draher had, by his labour, paid him for this lumber. But there were other matters between them not so fully explained. It would seem that Draher not only laid the brick of Martin’s house, but undertook to furnish them; that he got the brick from Robért Cunninghana, who, not being paid for the whole of them by Draher, filed a lien against Martin’s house for 49 dollars, for bricks furnished; and Martin paid him or supposes himself liable to pay. This lien was filed after the settlement between Martin and Draher. At the settlement Martin supposed Draher had paid for the brick, and on the whole account, on this supposition, fell in debt to Draher 50 dollars, and gave his note to Draher for so much. It seems then, that Martin has a good defence against paying his note to Draher, or if he had paid it before he discovered all the facts, has a valid demand against Draher for the 49 dollars paid to Cunningham, for brick, and which 49 dollars Draher had stated that he himself had paid, and thereby obtained Martin’s note for 50 dollars.
+The application of money or labour between a debtor and creditor who has distinct demands against that debtor, is, I suppose, well settled. The debtor when he pays may insist on a credit on one particular demand, and unless he gets it, may withhold his money; so if a debtor performs labour for a creditor, he may agree that the price of that labour shall go to his credit on a particular demand; and in either case, the creditor cannot change this destination of the money or labour, without the consent of the debtor. If nothing is said or agreed beforehand, as to which débt a payment is to be applied, the creditor may apply it to either, at his option; but even then, after so applying it to one, and this known and agreed to by the debtor, the creditor cannot change it without the consent of the debtor. Now here every witness proves, that Draher had agreed to pay for this timber by labour — that he performed labour, the price of which exceeded the price of the lumber; that Martin and Draher settled, and in that settlement the price of the labour was applied to extinguish the debt for lumber, and that Martin said he was paid for the lumber. Martin cannot after this, on a dispute or misunderstanding about other accounts, change all this and revive the extinguished claim for the price of lumber, and have a mechanic’s lien for it.
+This view of the facts renders it unnecessary to decide some questions, as what may or may not amount to a mechanic’s lien in favour of one who has furnished materials, and in no way been paid for them; which may sometimes occasion difficult questions, requiring minute investigation of contracts, and of facts. We have, however, no doubt, that where the materials have in any way been paid for, and this understood and agreed to by both parties, if afterwards a dispute arises about other contracts, or other debts are contracted, those disputes or those other debts not arising from materials furnished, cannot be made liens under this law; nor can a settlement and an agreement that the price of materials has been extinguished by services actually performed, or by money actually paid and received on that account, be rescinded by one party, in order to apply the labour or money to another debt, and thus revive the extinguished claim for materials.
+Judgment affirmed.
