@@ -1,0 +1,26 @@
+---
+court: "Supreme Court of Pennsylvania"
+docket: "Appeal, No. 44"
+decided: "1907-10-07"
+citations: ["34 Pa. Super. 88"]
+reporter: "pa-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rice, P. J., Porter, Henderson, Orlady, Head and Beaver, JJ."]
+parties: ["Penny, Appellant, v. Penny."]
+source_url: "https://static.case.law/pa-super/34/cases/0088-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 871002
+cites_cases: ["15 W. N. C. 466", "24 Pa. Superior Ct. 303", "30 Pa. 412", "30 Pa. Superior Ct. 229"]
+---
+
+# Penny v. Penny
+
+## Majority (Orlady, J.,)
+
+Opinion by
+Orlady, J.,
+From the record it appears that the libelant and respondent were married September 19, 1891, in New York city, and on November 15 of the same year remarried in Wilkes-Barre, Pa., which city had been the domicile of each for at least two years prior to their marriage, and they continued to reside there for about three years subsequently. In 1897, they removed to New York city, and continuously resided thereuntil June, 1903, when the husband notified the wife “ that he was going to Wilmington, North Carolina, and would not come back.” According to her testimony, on the same day she returned to her father’s home in Wilkes-Barre where she has since remained. This libel was filed by the wife on June 9, 1905, in the court of common pleas of Luzerne county, the cause of her complaint being “that in June, 1903, while the said parties were living together in New York city the respondent willfully and maliciously deserted the libelant, and absented himself from her habitation without reasonable cause, and has continued in such desertion until the present time.” A subpoena and an alias subpoena were issued and returned without a service, and publication was made. A master was appointed to take testimony. The respondent was never served, and did not appear or defend. After the filing of the master's report, a rule was taken on the respondent to show cause why a divorce should not be granted, which rule was published for two consecutive weeks in each of two newspapers, and copies thereof being sent to the respondent’s address in Wilmington, North Carolina, by registered letter, and proof was made of his having received the same by his proven signature to the receipt given to the post office authorities.
+The case stands simply, as that of residents who were married in Pennsylvania and removed to another jurisdiction where they became domiciled, and where the cause of divorce arose. After the separation the wife returned to her former domicile in Pennsylvania and instituted her proceeding for divorce. Our courts have jurisdiction of such a case by virtue of the Act of April 26, 1850, P. L. 590. But, it is not enough to allege willful and malicious desertion; the libelant must, in order to to be entitled to a divorce, exhibit facts from which the court may lawfully infer the breach of obligation, “ one cannot withhold the facts and prove the inference : ” Bishop v. Bishop, 30 Pa. 412. See also Reed v. Reed, 30 Pa. Superior Ct. 229. All the recent decisions of our appellate courts require full proof of a sufficient cause for divorce, and a careful examination by the courts of all the testimony. This duty is as imperative on the courts of last resort as it is in the common pleas: Rishel v. Rishel, 24 Pa. Superior Ct. 303. The attempt to make effective, as an equivalent or substituted personal service of a summons, a notice contained in a registered letter to the respondent while in a foreign jurisdiction, under a rule of court to show cause tvhy a divorce should not be granted, after there had been a failure to make an actual personal service on a nonresident, cannot avail.
+The Act of May 23,1887, P. L. 158, section 5, provides: “ Nor shall husband and wife be competent or permitted to testify against each other, excepting those proceedings for divorce in which personal service of the subpoena, or of a rule to take depositions has been made upon the opposite party, or in which the opposite party appears and defends, in which case either may testify fully against the other, except also that in proceedings for divorce either party may be called merely to prove the fact of marriage.”
+In Gilbert’s Appeal, 15 W. N. C. 466, the facts were quite similar to those presented by this record, and the opinion of the Supreme Court was as follows: “There was no personal service of the writ on the appellee. The wife was not a competent witness against her husband; without such evidence the case is barren of proof necessary to justify a decree of divorce.” As the only proof of desertion in New York is to be found in the testimony of the wife, who was not a competent witness under the facts, her case must fail for lack of proof. The testimony of her father is merely a restatement of the facts as narrated by her to him after her return to his home, and cannot be of any greater value than her own evidence. No modification applicable to the present case of the rule as to the competency of the wife has been made by the act of 1887, and the decree entered by the court below must be affirmed.
