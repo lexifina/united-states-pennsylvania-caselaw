@@ -1,0 +1,24 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1842-09"
+citations: ["4 Watts & Serg. 192"]
+reporter: "watts-serg"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Sprague against Woods."]
+source_url: "https://static.case.law/watts-serg/4/cases/0192-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1856416
+cites_cases: ["1 Watts 108", "1 Whart. 153", "14 Serg. & Rawle 364", "3 Dall. 486", "3 Serg. & Rawle 445", "4 Serg. & Rawle 133", "4 Watts 171", "4 Whart. 267", "5 Rawle 16"]
+---
+
+# Sprague v. Woods
+
+## Majority (Sergeant, J.)
+
+■ The opinion of the Court -was delivered by
+Sergeant, J.
+— The English learning on the subject of the conveyances on which a use may or may not be raised, has been, for the most part, inapplicable in Pennsylvania since the passage of the Act of Assembly of the 28 th of May 1715, if not for a prior period. By the 4th section of that Act, ail deeds and conveyancés, whatever be their forms, when they are duly recorded, have the same force and effect for giving seisin and possession as deeds of feoffment with livery of seisin or deeds enrolled in any of the courts of Westminster. By a feoffment with livery of seisin, a use may be raised in any one in whose favour it is expressly declared by the deed, without a consideration expressed; and therefore the same thing may be done here by a bargain and sale or any other form of conveyance duly recorded. It is in consequence of these principles established by our law in early times, that the complex and burthensome machinery of lease and release, feoffments with livery of seisin, and of fines and recoveries, adopted in England for the raising of uses, has been laid aside here, or rather has never been in common use, and the simple forms of our deeds containing words of bargain and sale, alienation, feoffment, release and confirmation, or something tantamount, have been employed to answer all the purposes to which the former were applied in England. See M’Kee v. Pfout, (3 Dall. 486); Dunwoodie v. Reed, (3 Serg. & Rawle 445); Serg. Land Law 230, 242.
+Had the deed in question been duly recorded at the trial, it would have been equivalent to a feoffment to Samuel Sprague, to the use of his children; their estate would have been a use executed in them. It is objected, however, that the verdict and judgment were rendered on the 2d of March 1842, and that the deed was not recorded till the day after, viz: the 3d of March. It does not appear by the record that this objection was taken in the court below, and the recording since might perhaps be considered as curing the error. But if it did not cure it, and the case stood on the simple deed unrecorded, the result would be the same, except that the estate of the children would be a trust instead of a use. For equity in enforcing trusts does not regard so much the mode of conveyance as the intent of the parties, and to effectuate that, will construe the instrument so as to give it effect, and will remedy defects in the forms employed. For that purpose, a deed of bargain and sale may be construed to be a covenant to stand seised, where there is both a money consideration and a relation by blood apparent in the deed. So on a feoffment without livery of seisin, equity will supply the defect of livery. 1 Fonb. Eq. 38; 2 lb. 43, 45; 1 Madd. Chan. 42. It is contended however that this will not be done in favour of a grandchild. But if this deed be taken to be a voluntary conveyance from Woods the grandfather, for the benefit of the grandchildren, the money consideration being in that case merely nominal, I do not perceive why it may not be construed as a covenant to stand seised to their use, the relationship of grandfather and grandchild being clearly sufficient for that purpose, and apparent in the deed. It would then be.a use executed in the children. There is no evidence, however, that this was the fact. On the contrary, both the deed and the receipt show a money consideration paid by Sprague and wife; so that it is in effect a purchase by them, for the benefit of their children, and equity will certainly supply all defects in order to carry into execution a settlement by parents on their children. It would supply the want of livery of seisin, and treat it as a valid feoffment at common law. However inartificial the conveyance may be, or if it were even but an article of agreement, the trust would be enforced in such case.
+Whether, then, it be a use executed or a trust, the only question is, what estate was conveyed by the deed of the 2d of February 1818 ? It is a conveyance to Samuel Sprague and wife, either to the use of, or else in trust for their two children then .living, in fee simple. Of course these children could convey their interests, whether legal or equitable, and the defendant, holding under deeds from them, had a good title.
+Judgment affirmed.
