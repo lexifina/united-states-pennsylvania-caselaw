@@ -1,0 +1,27 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1827-10-31"
+citations: ["16 Serg. & Rawle 422"]
+reporter: "serg-rawl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BOLLINGER against ECKERT."]
+source_url: "https://static.case.law/serg-rawl/16/cases/0422-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1816703
+cites_cases: ["14 Serg. & Rawle, 293", "5 Serg. & Rawle, 407"]
+---
+
+# Bollinger v. Eckert
+
+## Majority (Huston, J.)
+
+The opinion of the court was delivered by
+Huston, J.
+This was an action on a parol promise to guaranty the payments of certain judgments which had been transferred by Eckert to Bollinger in part payment for a house sold.
+There were articles of agreement drawn between Bollinger and E.ckert, respecting the sale of a house, &e., by James Todd, as the scrivener: Todd, by assignment of the judgment to him, as one of the executors of Mary Patterson, was become interested. The articles of agreement were supposed to have been lost. Bollinger was released from all responsibility, bythe plaintiffs in interest, who had used his name in this suit; and then his deposition had been taken in the cause, on notice, and a full cross-examination, saving exceptions to the competency of testimony.
+The plaintiffs gave in evidence two judgments in favour of Conrad Eckert, the defendant in this suit, against Jacob Fought. One of them. No. 90, of November ', =1814, on- the docket of Cumberland county, for four hundred and fifty-eight dollars and seventy-eight cents, with stay of execution till the 1st of December next. The other, No! 130, of January, 1815. Under each of these suits was written on the docket, “8th of April, 1816: the above judgment, except the interest till the 1st of April, 1816, is marked for the use of George Bollingerand signed Conrad Eckert, and witnessed by a clerk in the prothonotary’s office. Also, that the whole of the first judgment, and two hundred and forty-two dollars and seventy-five cents of the'second, .were assigned to J.Bitsel, who assigned them to the plaintiffs, and showed sundry executions, on which part of the debt was collected.
+Bollinger’s deposition, before mentioned, had been taken on the 2d of January, 1819; in which, among other things, he swore that Eckert had repeatedly told him the article of agreement was lost or destroyed. After showing that Bollinger was released, and that he. had accepted the release, his deposition was offered.
+Several objections were taken to it, which were all overruled, and properly. The defendant then produced and read the articles of agreement between him and Bollinger, dated the 5th of January, 1816, by which Bollinger “covenanted to convey to Eckert a house and lot in Carlisle, &c.: Eckert to pay Bollinger two thousand four hundred and sixty dollars and forty-three cents, as follows: one thousand dollars in hand, one bond dated the March 9th, 1815, for five hundred and fifty dollars,,on Jacob Faught, interest from date: one bond dated April 1st, 1815, for four hundred and one dollars sixty-eight cents, interest from the date; and two bonds he had on Bollinger himself: which money is to be paid on the first week in April, 1816; at which time Bollinger is to give peaceable possession,” &e.; and then objected to the deposition, as parol evidence, and contradicting the written agreement; and the court rejected the evidence, and exceptions were taken.
+In Browne v. Weir, 5 Serg. & Rawle, 407, this court decided, that the assignor of a chose in action, who has no interest, and who has been released from all responsibility, is a witness. Perhaps, in every case, he who assigns any chose in action is, in some way, responsible, unless the assignment is expressly without recource, and at the risk of the assignee, or unless he has a release from the assignee. But, when it appears he has no interest, he, like many other disinterested persons, is a legal witness. If there is reason to suspect concealed interest, or bias, it goes to his credit. The witness, however, does not appear to have been rejected on this ground, but expressly on the ground that his testimony varied from or contradicted a written instrument. This is a subject on which we have had many decisions. It has been much discussed, and many lawyers and Some judges seem to have been, at different times, of different opinions. If the rule is, that parol evidence is admissible to correct mistake or fraud, and if the real contract of the parties is not expressed in the writing, this must arise from mistake or fraud. We seem now to have settled down in this; whatever material to the contract was expressed and agreed to when the bargain was concluded, and the article drawing, may, if not expressed in the article, be proved by parol. One case says, not where it is expressly contrary to the writing. In the case before us, the testimony, which was, that the bargain was that Eckert was to make good the bonds, and that the scrivener, when drawing the article, asked, “ if Faught shall fail, what will be the consequence?” to which Eckert replied, “I will make them good,” did not contradict any thing in the article. In the last reported case, in this court, — Frederick v. Campbell, 14 Serg. & Rawle, 293,— a parol agreement to warrant the quantity of land sold was decided to be admissible, though the deed contained no such express covenant.
+Judgment reversed, and a venire .facias de novo awarded.
