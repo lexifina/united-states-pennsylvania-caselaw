@@ -1,0 +1,23 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1836-05"
+citations: ["5 Watts 108"]
+reporter: "watts"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Kinnard against Kinnard."]
+source_url: "https://static.case.law/watts/5/cases/0108-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1844025
+cites_cases: ["1 Watts 390", "17 Serg. & Rawle 293"]
+---
+
+# Kinnard v. Kinnard
+
+## Majority (Kennedy, J.)
+
+The opinion of the Court was delivered by
+Kennedy, J.
+It is evident, from the tenor of the will, that the testator intended his wife should have his personal estate specifically, because, after giving all his estate, which included his personal, as well as his real, to her for and during her natural life, he directs his executors, after her decease, to sell what shall be left of his personal estate at the time thereof, thus showing, plainly, that he wished her to have the use of it in hind, during her natural life, and that such part of'it as should not be consumed by the ordinary use thereof, but still remained, should, upon her death, be then sold, and not before. As regards that portion of the personal estate consisting of goods, thus specifically bequeathed, where there is, as here, an executory limitation thereof over, after the death of the legatee for life, to another or other persons, though it was the rule, at one time, in England, to require security of him, in all cases, that the goods should not be embezzled, Brackin v. Bently, 1 Ch. Rep. 110, yet it became the practice there afterwards, which prevailed for some time before our revolution, and has continued to do so ever since, I believe, for the first legatee to be required to do nothing more than to sign and deliver to the second, or to the executors for his use, an inventory of the goods or chattels so bequeathed, acknowledging that they are in his custody for life only, and that afterwards, so far as they should not be necessarily consumed by the use thereof, they are to be delivered, and to remain to the use and for the benefit of the second legatee. Slanning et al. v. Style et al., 3 P. Wms. 336; Leeke v. Bennet, 1 Atk. 471; Bill v. Kinaston, 2 Atk. 82; Foley v. Burnel, 1 Bro. Ch. 279. But if such circumstances be shown as would render it unsafe to trust the goods, which may be used without consumption or destruction, in the hands of the first legatee, he will be required, before he can receive them, to give security, so as to insure their future delivery to the second legatee. Rous v. Noble, 2 Vern. 249.
+With respect to those things, however, specifically bequeathed for life, qum ipso usu consumuntur, it may, perhaps, be considered a gift of the absolute property in them, and, therefore, doubtful, whether the limitation of them over in remainder, to another, be not void; see Randall v. Russell, 3 Mer. 194; except'where the quantity is so great as to make it necessary to convert them, by sale, into money, in order that the first legatee may have the full benefit of them during life; in which case it may be that the residuary bequest would be good, and the first legatee required to give security equal to their cash value, before he could receive them. But, so far as the legacy consists of money, or is to be converted into money, before paid over, it has been the invariable practice to require security of the first legatee, notwithstanding he may be perfectly responsible, and no cause shown to induce a belief that there is danger of his wasting it, and that his estate may not be sufficient to replace it. According to this rule, it was so ordered by this court, in Eichelberger v. Barnitz, 17 Serg. & Rawle 293. But it has been contended that this case does not come within the rule, because the testator did not so intend it. It is said that he designed his widow should have the right of using the principal, as well as the interest of the legacy, if she should find it necessary or convenient for her support and maintenance; and to show that he so intended it, that clause of the will by which he “directs that his personal property that may be left, at the decease of his wife, shall be sold,” &c. is relied on; but this direction cannot well be applied to any part of the personal estate, except the specific goods bequeathed, and would, therefore, more reasonably seem to mean, when taken in connection with the residue of the will, those things only which should not be worn out or consumed by use. We, therefore, think the judgment of the court below is right.
+Judgment affirmed.
