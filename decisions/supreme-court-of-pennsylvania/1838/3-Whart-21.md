@@ -1,0 +1,27 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1838-01-02"
+citations: ["3 Whart. 21"]
+reporter: "whart"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STOEVER against RICE."]
+source_url: "https://static.case.law/whart/3/cases/0021-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1833415
+cites_cases: ["1 Binn. 175", "1 Jones, 26", "1 Jones, 305", "10 Serg. & Rawle, 207", "10 Watts, 22", "12 Serg. & R. 240", "13 Serg. & R. 167", "16 Serg. & R. 299", "2 Penn. Rep. 223", "2 Wright, 52", "3 Serg. & R. 545", "4 Johns. Rep. 215", "5 Wharton, 181", "6 Wharton, 283", "7 Serg. & R. 197", "7 Watts, 438", "7 Wright, 164", "8 Johns. Rep. 550", "8 Watts, 274"]
+---
+
+# Stoever v. Rice
+
+## Majority (Gibson, C. J.)
+
+The opinion of the Court was delivered by
+Gibson, C. J.
+It is unnecessary to say whether the mortgagee could have defended his tenant’s possession on the mortgage alone; yet it may not be amiss to say it would be difficult to show that the judicial sale, at which the plaintiff purchased, as the law then stood, had not extinguished.it as an incumbrance merely. Nothing, however, is clearer, than that the mortgagee had acquired an inchoate right, which was superior to that of an incumbrancer, his purchase *under his own levari facias, and consequently an estate in the When this court decided, as it did in Scott v. Grenough, that the sheriff may sue on the contract for the purchase money, it virtually decided the question before us ; for it is impossible to conceive how a contract can be enforced without mutuality of remedy, not, perhaps, by mutuality of action, in a case like the present, but by an application on the part of the purchaser to the summary power of the court; and we must therefore take a sale by a sheriff, to be attended with the ordinary incidents of a sale by an individual. On payment or tender of the purchase-money, the vondee is invested with an equitable title, of which he cannot be divested, and which the law furnishes him with means to complete, by having the legal title added to it. Now there is nothing in the way of an agreement to exchange acquittances, as a substitute for circuitous payment, to authorize a subsequent judgment-creditor, who had not a right to touch a farthing of the money, to interfere with it. How far the plaintiff' was entitled to rule the money into court is not the question, as he attempted not to do so; yet it may be said, that a court, in the exercise of its legitimate discretion, would not be bound to expose a purchaser at his own sale, to the vexation, and perhaps loss, of raising money to gratify the malice or caprice of a. subsequent incumbrancer, who had not an interest in it, by a formal and circuitous payment back to himself. But whatever may have been the plaintiff’s powér in this respect, he did not, as I have said, attempt to exert it; and the arrangement of the sheriff with his vendee, was valid, at the return of the writ. What intervened to invalidate it ? Seven years had elapsed without interchange of acquittances, payment of costs, or acknowledgment of a conveyance, though one had been sealed, when the subsequent judgment-creditor proceeded to execution. But what had he to do with that ? It was not his business to provide for the costs of his competitor’s action, or force the parties to close the transaction, by a conveyance of the title. That was a matter betwixt .the vendee and the sheriff’s representatives, who would have been liable to the subsequent incumbrancers for the surplus, had there been any. I have known more than one case of retention for the sheriff’s security, while the title passed as to every one else. If the sale were regular, the plaintiff had ceased to have an interest in it; and if it were not, his course was an application to have it set aside. Abandonment of the contract to let in execution by other judgment-creditors, was out of the question.. The possession taken by the vendee, under his purchase, and his applications to the court to enforce a conveyance — inoperative, it must be admitted, in every other aspect — furnish a conclusive rebuttal of every adverse implication from lapse of time; They show that he considered his debt as paid, and his ownership as entire, in respect to everything but a formal transfer of the and not that be added still ? If the ties choose *to consider the purchase-money as received on the one hand, and the mortgage-debt as paid on the is own concern. a sequent judgment-creditor can interpose to overturn a judicial sale collaterally, because its consummation may have been unusually delayed; and it bas regard, not more to title in tbe defendant’s landlord, than to want of it in tbe plaintiff. By force of tbe sale, if not collusive in its origin, tbe property was in gremio legis ; and nothing was left for tbe action of a subsequent execution. Tbe question of fraud bas not been agitated bere, having been submitted to tbe proper tribunal; and it was properly said to be tbe only debateable ground in tbe cause.
+Judgment affirmed.
+Cited by Counsel, 5 Wharton, 181; 8 Watts, 274; 10 Id. 364; 1 Watts & Sergeant, 524; 5 Barr, 13 ; 1 Harris, 302; 2 Id. 340 ; 7 Casey, 417 ; 10 Id. 158 ; 2 Wright, 52.
+Cited by the Court below, 7 Wright, 164.
+Cited by the Court, 6 Wharton, 283 ; 10 Watts, 22; 1 Jones, 305, and followed 7 Watts, 438.
+See also, 1 Jones, 26.
+See 8 Watts & Sergeant, 187; 4 Casey, 170.
