@@ -1,0 +1,23 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1823-05-26"
+citations: ["10 Serg. & Rawle 27"]
+reporter: "serg-rawl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["REIGART and another, Terretenants, against ELLMAKER, President of the Orphans’ Court of Dauphin County, for the use of ALRICKS, now for the use of WILLIAMS."]
+source_url: "https://static.case.law/serg-rawl/10/cases/0027-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1811132
+cites_cases: ["1 Serg. & Rawle, 536", "5 Johns. 412"]
+---
+
+# Reigart v. Ellmaker
+
+## Majority (Duncan, J.,)
+
+The opinion of the court was delivered by
+Duncan, J.,
+after stating the facts. The objection is, that as this title was subsequent to the conveyance from Kean to Orth, no acts or declarations of Kean could affect a purchaser. It is to be observed, that Orth bought with full notice of this recognizance. The title to Kean could only be deduced through these proceedings in the Orphans’ Court.
+The decision of this court, when the cause was brought up on a former occasion, that no declaration of Kean, subsequent to his conveyance, could be given in evidence to affect a put chaser, has no relation to the question now raised. For one of the grounds of defence is, the disclaimer on record of Jllricks to any thing out of the Dauphin farm: and evidence of this was given by the plaintiffs in error, to raise a presumption that Jllricks had been paid all his claims on all the estate of John Hamilton taken by Kean. With no other view .could this evidence have been given. Now, it would be most unjust, to preclude Jllricks or his assignee from explaining this transaction, from showing why this release' had been given,- and why he disclaimed of record, and that so far from his receiving his wife’s share out of the whole estate of her father taken by Kean, he had not even received her portion of this tract, but relied on Kean’s declaration, that there was othér property sufficient to pay him. This would fully account for .the entry on the record, and show that it was quite consistent with his retaining his lien on the’ house. The plaintiffs in error gave evidence of a transaction subsequent to the conveyance to Orth, between Kean and Mricks* To deny to' Mricks all means of rebutting the presumption of payment from this circumstance, by evidence of the whole transaction, its origin, the leaving notice, and the consideration, would have been a perversion of justice, and every rule of evidence. It would be suffering one party to select one link in the chain of a transaction, while it was denied to the other to produce the whole chain,to show what the transaction really was. It was evidence direct, to do away all indirect inference which a partial statement might have raised, and which a full disclosure would dissipate. The assignment to Williams was proper evidence. It was -referred to in-the record of the action; a paper in- the cause. The jury was sworn-in a cause in which Williams had been substituted as the real party in interest, and the assignment became a part of his title. If it was attempted to be used for any other purpose, to give to Williams an additional equity, by means of this assignment, superior to what Mricks had, at the time of the assignment, the court should have been called on to instruct the jury, that Williams stood in the shoes of Mricks. The abuse of evidence, after it has been read, can be no objection to its admission. If it was evidence.for any thing it was properly admitted. And though afterwards, an attempt might be made, in argument, to use it to prove that for which it was not competent eyidence, this could not, by relation, affect the exception, nor by matter ex post facto, vitiate that which was properly received, though improperly used. It was notvery important evidence, but it was not impertinent. The evidence was properly received in both instances. The letter being important to the defendant in error, rendered necessary by the introduction of evidence relative to a transaction between Kean and Mricks, subsequent to the grant by Kean, which by garbling the circumstances, giving evidence of what was done, thus raise the presumption, that from the act so done, another act might reasonably be inferred, which a full disclosure would remove. The assignment, though not necessary to be given in evidence, to support the claim of Williams as the substitute of Mricks, yet was not so totally irrelevant, as to justify its rejection, referred to, as it was, in the record, and sworn as the jury were, in the cause.
+Judgment affirmed.
