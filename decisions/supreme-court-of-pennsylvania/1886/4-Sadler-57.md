@@ -1,0 +1,27 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1886-11-08"
+citations: ["4 Sadler 57"]
+reporter: "sadler"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Iron City Tool Works, Limited, Plff. in Err., v. Joseph B. Long et al., Trading as Long & Company."]
+source_url: "https://static.case.law/sadler/4/cases/0057-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 241476
+cites_cases: ["1 Grant, Cas. 361", "10 Johns. 361", "10 Johns. 404", "111 Pa. 440", "117 Mass. 488", "27 Me. 471", "28 Conn. 455", "3 Atl. 234", "3 Penr. & W. 112", "49 N. H. 310", "5 Serg. & R. 4", "66 Am. Dec. 617", "7 Pick. 296", "9 Met. 346", "9 Watts, 462", "97 Pa. 255"]
+---
+
+# Iron City Tool Works, Ltd. v. Long
+
+## Majority (Mr. Justice Sterbett :)
+
+Opinion by
+Mr. Justice Sterbett :
+As lessee of the Denny estate, plaintiff in error occupied one half of the lot, comer of Spruce alley and Thirty-Second street, Pittsburgh, and defendants as lessees of same estate occupied the other half of the lot. Under the terms of their respective leases, each tenant was bound to pay all the taxes assessed on his portion of the lot. No notice having been taken of the division of the lot by leasing portions thereof to different tenants, it was assessed as a whole, in connection with the adjoining lot, for city taxes of 1883, in the name of Park, Long & Company, predecessors of defendants in error.
+In March of that year both parties received statements of taxes then due by them respectively, and in the hands of the city treasurer for collection. The assessment remained unchanged, and defendants in error, supposing the tax was assessed only on their half of the corner lot, paid the same. When the mistake was afterwards discovered, they requested plaintiff in error to pay its portion thereof. Under these circumstances, and in view of the fact plaintiff in error had paid nothing on account of taxes on either of the lots, it would seem that a request so obviously just and reasonable might have been acceded to without any compromise of principle, legal or moral; but, notwithstanding plaintiff in error must have known that taxes which it was bound to pay had by mistake been paid by defendants in error, it refused to pay any part thereof, and the result was a suit in which the alderman gave judgment against plaintiff in error for its just proportion of the tax paid by mistake, as above stated. From that judgment plaintiff in error appealed to the common pleas; and, that tribunal having failed to appreciate the defense set up, the case has been brought into this court for review.
+The testimony adduced on trial in the court below tended to prove substantially the facts above stated. It was fairly submitted to the jury for their consideration, under instructions that appear to be entirely free from error. They were told that if the payment of the tax by plaintiffs below was a voluntary payment there could be no recovery; and the learned judge also explained what would and what would not constitute a voluntary payment. In reaching the conclusion they did, the jury must have found that plaintiffs below were not chargeable with negligence in regard to the taxes — that they paid plaintiff in error’s portion of the tax neither officiously nor knowingly, but by mistake. That being the case, they had a just claim on plaintiff in error for its proportion of the tax thus paid.
+The taxes having been assessed on property which included the premises occupied by each of the contending parties, their respective lots could be relieved therefrom only by payment of the charge that was common to both. In paying the tax, therefore, plaintiffs below did nothing more than was reasonably necessary to relieve their own portion of the lot from the common burden. Where one person, either by compulsion of law, or to relieve himself from liability, or to save himself from damage, has paid money, not officiously, which another person ought to have paid, the former may recover from the latter, in an action of assumpsit, the amount so paid. Ordinarily it is sufficient to show that the money has been paid for a reasonable cause, and not officiously. 2 Greenl. Ev. § 114; Bailey v. Bussing, 28 Conn. 455.
+The same principle is recognized in Hogg v. Longstreth, 97 Pa. 255, in which it is ruled that “although no assumpsit will be raised by the mere voluntary payment of the debt of another person; yet if one person, in order to protect his own interest, pay a debt for which another is legally and personally liable, the law will imply an assumpsit on the part of the latter to the former.” The fact that no legal proceedings had yet been commenced to enforce payment of the taxes is immaterial. It was not necessary for Long & Company, plaintiffs below, to wait until process was issued against them or their property. 2 Wharton, Contr. 138.
+It follows from what has been said that there was no error in refusing to charge as requested in defendant’s point. “That under all the evidence in the case the verdict should be for defendant.” The testimony was sufficient to warrant the jury finding such facts as were necessary to sustain a verdict in favor of plaintiffs below. Nor is there any merit in either of the remaining specifications. The charge was quite as favorable to plaintiff in error as it had any reason to expect.
+Judgment affirmed.
