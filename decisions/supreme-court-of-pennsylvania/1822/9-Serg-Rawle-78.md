@@ -1,7 +1,8 @@
 ---
 court: "Supreme Court of Pennsylvania"
 decided: "1822-10"
-citations: ["9 Serg. & Rawle 78", "9 Serg. & Rawle 81"]
+decided_precision: "month"
+citations: ["9 Serg. & Rawle 78"]
 reporter: "serg-rawl"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
