@@ -1,0 +1,30 @@
+---
+court: "Supreme Court of Pennsylvania"
+docket: "Appeals, Nos. 4 and 5"
+decided: "1888-10-22"
+citations: ["1 Monag. 710"]
+reporter: "monaghan"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Stone’s Appeals. [Neel’s Estate.]"]
+source_url: "https://static.case.law/monaghan/1/cases/0710-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 254807
+cites_cases: ["1 P. & W. 207", "10 W. N. C. 174", "10 W. N. C. 446", "103 Pa. 139", "104 Pa. 222", "105 Pa. 259", "105 Pa. 265", "122 Pa. 330", "13 W. N. C. 565", "14 W. N. C. 145", "18 Pa. 303", "19 Pa. 176", "2 Watts, 295", "20 W. N. C. 305", "21 Pa. 476", "22 Pa. 312", "4 Pa. 649", "4 W. & S. 557", "6 Pa. 294", "60 Pa. 290", "65 Pa. 265", "66 Pa. 304", "74 Pa. 116", "81 Pa. 100", "81 Pa. 278", "85 Pa. 387", "91 Pa. 265", "97 Pa. 493"]
+---
+
+# Stone's Appeals
+
+## Majority (Sterrett, J.,)
+
+Sterrett, J.,
+in No. 4, Oct. T. 1888.- — -The general rule of practice that an auditor’s findings of fact, approved by the court below, will not be disturbed in this court, except for manifest error, is too firmly settled to admit of any doubt.
+In this case, the learned auditor’s findings and conclusions of fact are clearly within the rule. So far as they have any bearing on the questions presented for our consideration, they were not only approved by the orphans’ court, but they appear to have been warranted by the evidence, and are, therefore, entitled to the same weight and conclusiveness as the verdict of a jury. It follows that, under any proper application of the rule, the second, third and sixth specifications of error cannot be sustained. The surchange complained of in the second, and the refusal to allow accountant credit for the judgment in favor of. Williams & Beppert, to use, etc., v. Nancy K. Neel et al., which is the subject of complaint in the third, as well as the finding that accountant was guilty of gross negligence in the management of his ward’s estate, complained of in the sixth, were all in accordance with the weight of the evidence. Indeed, it is difficult to see how the auditor, in view of the testimony before him, could have reached any other conclusion than he did in regard to either of the questions involved in these specifications.
+The first and only remaining specification of error is in holding that Mrs. Nancy K. Neel “was a competent witness to testify to matters that occurred prior to the appointment of J. H. Henry, as committee in lunacy of accountant.” Mrs. Neel is the mother of accountant’s wards, but she is not a party to the proceedings, nor does it appear that she had any disqualifying interest in any of the questions before the auditor. “ The true test of such interest is that the witness will either gain or lose by the direct legal operation of the judgment or decree, as the case may be, or that the record will be evidence for or against him in some other action.. It must be a present, certain, and vested interest, and not an interest uncertain, remote or contingent.” Greenl. Ev. sec. 390. The burden of proof is on the party who objects to the competency of a witness; and if the fact on which the objection rests be doubtful, the witness should be permitted to testify. Hartman v. Insurance Company, 21 Pa. 476.
+Moreover, the witness objected to in this case was clearly competent when she was called, examined, and cross-examined. That was all done before accountant was found a lunatic, and even before the commission in lunacy was issued. Nothing that transpired thereafter required the auditor to strike out her testimony. Hay’s Appeal, 91 Pa. 265. Nor was the witness incompetent under the provision of the Act of June 8, 1874, or on any other ground.
+It is alleged tbat since this appeal was taken, the sum with which accountant was surcharged has been collected from the bail of the former guardian. The record, of course, discloses nothing of the kind ; but, assuming the fact to be as alleged, it is no ground for either reversal or modification of the decree. It is our duty to review the action of the orphans’ court upon the facts of which its decree is predicated, and not upon what transpired subsequently to the decree. If the money has since been collected from the party primarily liable, or from 1ns surety, that fact may be brought to the attention of the court below, and, after hearing the parties interested, that court will determine what, if any, relief appellant is entitled to. Our jurisdiction in the premises is necessarily appellate, and hence the applicatiou for relief, in the nature of a credit on the decree, must be first made to the orphans’ court.
+Decree affirmed, and appeal dismissed at the cost of appellant.
+Sberrett, J., Oct. 22,1888, in No. 5, Oct. T. 1888. — The subject of complaint in the fourth specification of errors is the refusal of the auditor and court below to allow accountant credit for $505 and $335, alleged to have been paid by him to his wards as per receipts, dated respectively April 2, and June 10, 1880.
+The genuineness of these vouchers, offered in support of the payments, was denied, and upon the evidence before him the learned auditor came to the conclusion that the proof was insufficient to warrant him in finding the fact of payment. The evidence, upon which he acted in reaching that conclusion, was neither incompetent nor irrelevant, nor does it appear that he erred in not finding that the payments were made as claimed.
+The remaining specifications are the same as in No. 4, of this term, which was heard with this appeal from same decree. The questions, common to both cases, as well as the facts and circumstances out of which they arise, are substantially the same. It is, therefore, unnecessary to repeat what has been said in the opinion just filed in that case. For reasons there given, the specifications referred to are not sustained.
+Decree affirmed, and appeal dismissed at the cost of appellant.
