@@ -1,0 +1,28 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1838-09"
+citations: ["7 Watts 466"]
+reporter: "watts"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Colder against Weaver."]
+source_url: "https://static.case.law/watts/7/cases/0466-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1846896
+---
+
+# Colder v. Weaver
+
+## Majority (Huston, J.)
+
+The opinion of the Court was delivered by
+Huston, J.
+B. Weaver, the plaintiff below, in the year 1835 made proposals, or in the usual phrase bid for the contract to carry the mail from Harrisburg to Alexandria, and from Alexandria to Pittsburgh, and also thecontract between Washington and Pittsburgh. He offered to carry it at the lowest price or bid, and the contract was to have been given to him. When one person proposes for so large a contract, generally he has partners. Either Mr Weaver had made too low a bid, or thought he had, or his partners thought he had.
+Colder and others had bid for the same contract or contracts, but had asked a much higher price. They had carried the mail for some years from Harrisburg to Alexandria, and thence to Pittsburgh, and owned stages and horses. 'Weaver had also been concerned in a line of stages on the southern route to Pittsburgh, and owned two stages and several teams of horses.' Perhaps after Weaver had determined that he could not and would not comply with his bid, and before Colder & Co. knew of this determination, they entered into the contract No. 1, set out in this case, dated the 30th of November 1835.
+Afterwards, on the same day, they modified or altered this agreement by No. 2, called by the judge the “small paper.” On the first paper alone there might be some difficulty as to the meaning and intention of the parties. Perhaps in all cases where parties have made and signed an agreement, and on the same day, or before any act has been done by either party, a new paper on the same subject, explaining, modifying or altering the first, is drawn and executed, the two are to be taken as forming the contract of the parties ; at all events they are to be taken into view in deciding on any one of them. They were both given in evidence together by the plaintiff below in this case. Weaver did give up the contract; Colder & Co. carried the mail on a temporary contract until April 1836 ; and then, on a reletting, it was taken by other persons. Colder & Co. got the stages and teams of horses, and they paid the first and second payments of 1400 dollars. This suit was to recover the third sum of 1400 dollars.
+The dispute arose on that part, of the first agreement which was in these words: “in consideration whereof (and provided the arrangement is made with the postoffice department for the said Weaver to get exonerated from any liabilities for not complying with his proposition to carry the mail on the said northern route) the said Colder, Moore and Moorehead agree to pay to the said Weaver 1400 dollars at the time of delivery of the said stock, which shall be between the 8th of December and the 1st of January next, and 1400 dollars in six months from that time, and 1400 dollars in twelve months from the delivery of the said stock, in full consideration fot the same.”
+It was strongly contended that the words in the parenthesis formed a part of the consideration of the 4200 dollars; and provided the event contemplated did not occur the money was not, or not all, to become due. Now it.is easy to see how it might be very material to Weaver whether he was exonerated from his contract or sued for not complying with it, and why he might have stipulated that the whole contract should be void, and he keep his teams if compelled to carry the mail; but the words will not perhaps bear such construction. It is not however easy to see why the property sold would be worth more or less to Colder & Co. by reason of Weaver being exonerated or not.
+The second or small agreement, in these words, “it is agreed by us as parties to the contract, whereas B. Weaver has taken contracts from Pittsburgh to Washington, and the contracts from Harrisburg to Alexandria, and from Alexandria to Pittsburgh, and he agrees to give up the said contracts, and we indemnify and keep Weaver from damage he may be liable to in consequence of taking said contracts,” signed by the three defendants, seems to be inconsistent with the defendants’ construction of the proviso in the first paper; it is to induce Weaver to do the very thing which before was contingent, and to indemnify him in that course. It cannot be that in one hour they agree to indemnify him in doing a thing, and as soon as he had renounced the contract they intended to charge him 1400 dollars because he had renounced it.
+I suspect the parties either did not in making their contract stipulate for all contingencies, or if they did understand each other fully the writings are defectively drawn. If not so, and the parenthesis was intended as the defendants below contended, the second paper is an alteration of the contract, by which they are bound. Weaver did give up his contract, and from this paper did so at their instance. They got his property and must pay for it.
+After coming to this conclusion from the face of the papers, the court directed the jury that they might take into consideration the declarations and acts of the parties, in order to ascertain whether the true intent and meaning was as the court thought was to be gathered from the uniting alone; and the jury found for the plaintiff: and we see no error.
+Judgment affirmed.
