@@ -1,0 +1,23 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1839-04-08"
+citations: ["4 Whart. 369"]
+reporter: "whart"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SLAYMAKER and Another against IRWIN and Another."]
+source_url: "https://static.case.law/whart/4/cases/0369-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1834991
+cites_cases: ["1 Baldwin's Rep. 331", "1 Yeates, 37", "12 Johns. 190", "6 Wend. 103"]
+---
+
+# Slaymaker v. Irwin
+
+## Majority (Sergeant, J. —)
+
+The opinion of the Court was delivered by
+Sergeant, J. —
+It is incumbent on a party suing to recover damages *for breach of contract, to make out a clear case of some matter or thing mutually assented to, and agreed upon by the parties to the alleged contract. When the agreement is in writing, signed and executed by the parties, their assent to all that is contained in it, is no longer a matter of dispute; the questions which arise in such a case, are of a different character. But when it is epistolary, consisting of a series of letters, containing inquiries, propositions and answers, it is necessary that some point should be attained, at which the distinct proposition of the one party is unqualifiedly acceded to by the other, so that nothing further is wanting on either side, to manifest that aggregatio menlium, which constitutes an agreement, and that junction of wills in the same identical matter, offered on one side and concurred in by the other, bringing every thing to a conclusion, which in contemplation of law amounts to a contract. If a proposition be made by one man to another, to purchase an article from him at á certain price and on certain terms, which is accepted as offered, there is then an agreement or contract. But if, instead of accepting it, the party declines so doing, and then new .terms of purchase are offered, the assent is yet to be given by ^the others to the terms thus varied.- It is not a contract — it is the suggestion or proposal of a new subject of contract, on which the first party has again a right to pause, to consider, to accept, to reject, to suggest new terms; and all is in the meantime merely negotiation. Mr. Chitty, in his General Practice, in treating of the question, when the contract may be collected from several documents or letters, extracts this rule from the authorities. “ The whole terms of the contract when in writing need not be expressed on the same paper or documents, but may be collected from several letters containing proposals and alternate agreements between the parties; but then the last communication, must be a distinct and unqualified assent, to an equally clear proposal; and if the last letter suggest any new or further proposition, requiring the assent of the other party, or some communication from him to complete the -transaction, then no contract or agreement is constituted.” 1 Chitt. Gen. Prac. 118.
+In the case before us, the plaintiff, in a correspondence with the defendant, a manufacturer of iron, said, “ I will give you a certain price for one hundred tons, deliverable in the spring, and one hundred tons deliverable in the fall.” Had the defendant acceded to this, as offered, there would have been a bargain: but he replied, “ I cannot deliver according to your terms; I have iron deliverable only in the spring;” and then informs the plaintiff it would be necessary for him to say what quantity he would take in the spring. Is this a proposal to deliver to the plaintiff any quantity he might choose to name, from one ton to five thousand tons I This the plaintiff disclaims, but insists that it authorises him to name any amount not less than one hundred tons, nor more than two hundred tons, and that when he named one hundred and fifty, the contract for that amount was consummated. But no reason appears why the proposition is thus to be regulated. The defendant does not say so. The previous offer was declined, and therefore cannot be considered as continuing so as to be impliedly incorporated into the new one. The last letter of the 22nd of February, did not complete the transaction, it suggested a new proposál, and -required another communication from the defendant, to produce that effect. It might not suit the defendant to furnish one hundred and fifty tons in the spring, and no one but himself could say that it would. He has not said so — he has left the plaintiff’s letter unanswered, and the transaction unfinished. It is not such a bargain as the defendant could insist on the plaintiff’s performance of, without showing his own acceptance of it in a reasonable time, and the plaintiffs might have withdrawn it before acceptance.
+Judgment affirmed.
