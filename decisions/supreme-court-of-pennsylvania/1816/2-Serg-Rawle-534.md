@@ -1,0 +1,26 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1816-09-30"
+citations: ["2 Serg. & Rawle 534"]
+reporter: "serg-rawl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Gibson J. concurred."]
+parties: ["Taylor against Adams."]
+source_url: "https://static.case.law/serg-rawl/2/cases/0534-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1798218
+---
+
+# Taylor v. Adams
+
+## Majority (Tilghman C., J. Yeates J.)
+
+Tilghman C., J.
+The power to sell, being to all the executors, could not be executed by one. The plaintiff, therefore, could derive no title from the articles of agreement, considered by themselves; but connecting them with the other circumstances which he offered to prove, he would at least be entitled to the possession of the land, which would be sufficient for a recovery in this suit. The evidence rejected, in conjunction with that whicjh had been given, would prove, that both the executors had consented to the agreement ; one by writing, the. other by parol. Now this would certainly be as good as a parpl agreement by both. Supposing then a parol agreement by both, with payment of the whole purchase money and permission to take possession there can be no doubt but under repeated decisions of this Court, the purchaser would be entitled to. recover in.an ejectment. . Although the act of frauds declares, that no title shall pass greater than estate at will without a contract in writing, yet on a bill in equity filed against the vendors, if they confessed the agreement they would be decreed to execute a conveyance.. The present case is stronger. The vendors not only confess the contract, but the receipt of the whole purchase. money. The counsel for the defendants confess, that this would be title sufficient to recover against the vendors. But they take a distinction in favour- of the defendants who claim adversely to the vendors, for which I can perceive no reason. The defendant stands upon his own possession. What right then has he to say, that there is a defect in the conveyance from the executors of Woods to the plaintiff, when the executors say no such thing, but declare their consent, that the plaintiff should take possession of all the land which they had a right to sell ? Upon the strict words of the act of frauds an estate at zvill would pass, under which the plaintiff would be entitled to the possession against the defendant. I am, therefore, of opinion, that the evidence should have been received.
+There was other evidence offered .by the plaintiff and properly rejected by the Court: I mean the evidence of the plaintiff’s own declarations respecting his purchase of this land, and his having taken possession of it. Upon the whole, I am of opinion, that the judgment should be reversed, and a venire facias de novo be awarded.
+Yeates J.
+The declarations of the plaintiff in error, as to his having taken possession of the lands in controversy, or of his having purchased them, could not possibly be received in evidence. Nothing can be more clear, than that a person shall not be permitted to make testimony for himself, in his own cause. But I cannot see the propriety of over-ruling the testimony offered to shew, that Henry Woods agreed to the articles made by Dr. John Anderson, his co-executor, on the 15th December, 1809, previous to the execution thereof, and confirmed the sale of the land to Taylor; and further to prove, that George Woods the testator, in his lifa-time, had agreed with the said Taylor by parol for the same lands, on the terms mentioned in the said articles of agreement: although no money was paid to the said testator, nor possession was then delivered. It is admitted, that the said testator authorised his executors to sell his real estate by the terms of his will. A distinction has been attempted to be made by the defendant’s counsel, that such testimony would be admissible against persons claiming under the testator, but not against strangers holding under an adverse title. No sound reason can be given for this distinction. It has often been decided, that a parol contract for the sale of lands in part executed will take a case out of our act of frauds and perjuries, passed 21st March, 1772. Here the full consideration money was paid, and a receipt indorsed on the- agreement, which was fully assented to by the other executor, conformably to the terms agreed to verbally by the testator in his lifetime. There can be no doubt, that a court of equity would decree the specific performance of these articles of agreement : and it necessarily follows, that according to our uniform usage, the vendee must be considered as having such an equitable interest as would support an ejectment. If the sale would be available against the hares factus aut natus, it surely would operate against strangers nqt claiming under the testator, who would be put to impeach the title on othrár grounds.
+I-am, therefore, of opinion, that the evidence offered was improperly rejected; that the judgment below be reversed, and a new trial awarded.
+Gibson J. concurred.
+Judgment reversed, and a venir? facias de novo awarded..
