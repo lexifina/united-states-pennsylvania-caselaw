@@ -1,0 +1,25 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1863"
+citations: ["3 Grant 396"]
+reporter: "grant"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bennett et al. versus Keith et al. Mayer et al. versus Budd et al."]
+source_url: "https://static.case.law/grant/3/cases/0396-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 229108
+---
+
+# Bennett v. Keith
+
+## Majority (Read, J.)
+
+The opinion of the court was delivered by
+Read, J.
+It is not my intention to examine into the question of the jurisdiction of this court on the subject matter of these bills, nor to discuss the propriety of the present remedy, because I have a clear opinion that in no form of proceedings in any court have the plaintiffs anything to complain of. They style themselves manufacturers of clothing. B.y the twenty-ninth paragraph of the sixty-fourth section of the “ Act to provide internal revenue to support the government and to pay the interest on the public debt,” passed July 1, 1862, “manufacturers shall pay ten dollars for each license. Any person or persons, firms, companies or corporations, who shall manufacture, by hand or machinery, and offer for sale any goods, wares or merchandise, exceeding annually the sum of one thousand dollars, shall be regarded a manufacturer under this act.” By the sixty-sixth section it is enacted, “ that nothing contained in the preceding sections of this act, laying duties on licenses, ’ shall be construed to require a license for the sale of, goods, wares, and merchandise, made or produced, 'and sold by the manufacturer or producer, at the manufactory or place where the same is made or produced.”
+The seventy-fifth section then provides: “ That from and •after the first day of August, eighteen hundred and sikty-two, upon the articles, goods, wares,- and. merchandise, hereafter mentioned, which shall thereafter be produced and sold, or manufactured, or made, and sold, or removed for consumption, or for delivery to others than agents of the manufacturer or producer, within the United States or territories thereof, there shall be levied, collected and paid the following duties, to be paid-by the producer or manufacturer, that is to say,” and after enumerating a variety of articles on which various rates of duties are imposed, closes with a general provision, as follows : “On all manufactures of cotton, wool, worsted, flax, hemp, jute, India rubber, gutta-percha, wood, willows, glass, pottery ware, leather, paper, iron, steel, lead, tin, copper, zinc, brass, gold, silver, horn, ivory, bone, bristles, wholly or in part of other materials, not in this act otherwise provided for, a duty of three per centum ad valorem.”
+Does not this clause specifically include the manufacture of clothihg, of whatever materials it may be made ? Cloth itself, all textile or knitted or felted fabrics, of cotton, wool, or other •, materials, before the same has been dyed or bleached or prepared in any other manner, have a duty upon them of three per -centum ad valorem, and such cloths when dyed, printed, bleached, manufactured into other fabrics, or otherwise prepared, on which said duty or tax shall have been paid before the same were dyed, printed, bleached, manufactured or prepared, the duty or tax of three per centum shall be assessed •only upon the increased value thereof. The effect of this provision is simply a duty of three per cent, on the value of the ^eloth in its finished state. But, when the cloth by the process of manufacture becomes clothing, then it is subject in that form to a duty of three per centum ad valorem, which is to be paid by tbe manufacturers of clothing, 'which these plaintiffs allege themselves to be. The tariff act of the 4th of July, 1789, imposed a duty on clothing ready made of seven per centum ad valorem. In the act of the 30th of August, 1842, which imposed a duty of fifty per centum ad valorem, it is described as “ ready made clothing of whatever materials composedin the act of the 30th of July, 1846, where the duty was thirty per cent., it is.described as “clothing ready made, and wearing apparel of every description, of whatever materials composed,” and similar language is used in the act of the 2d of March, 1861.
+In the tariff acts the duty is imposed upon the manufactured article, and is paid by the importer; in - the internal revenue acts it is in the same way levied upon the manufactured article, as in this instance the clothing, and is paid by the manufacturer. It is laid upon the person providing the capital, and who styles himself the manufacturer, and not upon the poor operative who is employed by the capitalist, and is finally paid by the consumer, as it forms a part of the cost of the articles purchased by him.
+I see no difficulty in this simple and plain construction of the act. The commissioner of internal revenue, in his decision of the 1st of September last, appears to me to have exhausted the subject, and I do not feel disposed to repeat his reasoning.
+The motion for a special injunction in each case is refused.
