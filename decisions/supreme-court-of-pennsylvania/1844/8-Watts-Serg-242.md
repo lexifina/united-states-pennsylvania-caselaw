@@ -1,0 +1,24 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1844-12"
+citations: ["8 Watts & Serg. 242"]
+reporter: "watts-serg"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Girard Bank against The Schuylkill Bank."]
+source_url: "https://static.case.law/watts-serg/8/cases/0242-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 483287
+cites_cases: ["17 Serg. & Rawle 365", "5 Watts & Serg. 370"]
+---
+
+# Girard Bank v. Schuylkill Bank
+
+## Majority (Sergeant, J.)
+
+The opinion of the Court was delivered by
+Sergeant, J.
+This was an action brought by the Girard Bank against the Schuylkill Bank to recover $50,000, the amount of three promissory notes, dated in 1839, drawn by the Beaver Meadow Railroad Company in favour of the Schuylkill Bank, and endorsed by H. J. Levis, cashier. The suit was referred to arbitrators under the compulsory arbitration Act, who after a hearing awarded “ a nonsuit of the plaintiff in favour of the defendant.” The plaintiff appealed, and now asks leave of the court to enter a nonsuit under the proviso of the 25th section of the arbitration Act of 16th June 1836.
+The former arbitration Act of the 20th March 1810, laid no restriction on the right of a party appealing to withdraw his appeal whenever he saw fit. The exercise of this privilege was found to be attended with the inconveniences which are pointed out in Martin v. Ives, (17 Serg. & Rawle 365), and the 1st section of the Act of 28th March 1820, prohibited it without the written consent of the adverse party. On the representation of the commissioners to revise the civil cod.e, that hardships were experienced under this general provision, the 25th section of the Act of 16th June 1836, contained the enactment which is now in force, in favour of plaintiffs, that the court may, after appeal, allow the plaintiff to suffer a nonsuit with like effect as if the cause had not been referred, if the special circumstances of the case shall appear to require it. The right, therefore, can only be exercised by the permission of the court, and the court can grant that permission only where the special circumstances of the case appear to require it, and it is incumbent on the plaintiff to make out those circumstances, and to show that the justice of the case requires that such permission should be granted.
+It is said by the plaintiffs that the defendants being sued as endorsers, and the endorsements being in the name of H. J. Levis, cashier, and the notes and protests produced to the arbitrators, a prima facie case existed in favour of the plaintiffs, which threw on the defendants the burthen of showing that the cashier did an unauthorized act; whereas the referees, without requiring any such proof from the defendants, and mistaking the law, found the award which was reported. Admitting for the sake of the argument, that the referees erred in the law, yet the point may be adjudicated before the court on the appeal, and it is the most proper tribunal for such purpose. There does not seem to be the least reason for allowing the plaintiffs an opportunity to go before another set of referees for this purpose. It is further said that the plaintiff wishes to bring another suit and have another reference for the purpose of more conveniently examining a multitude of books and papers (if it should become necessary) which cannot be conveniently examined before a jury. This does not seem to me to be a legitimate reason for enabling the plaintiff to have another reference. However convenient an arbitration may be found in practice for the purposes of exploration, yet that was obviously not the design of the arbitration Act. A party would hardly take the oath that injustice was done him, merely because an award had deprived him of this advantage. The special circumstances mentioned in the Act must be something substantial; something by reason of which the plaintiff would sustain an injury, if the nonsuit were not permitted, and no injury be thereby done to the defendant. There may, I suppose, happen cases where the plaintiff is taken by surprise on a trial and where it might be just to allow him another chance of suing, and of that nature seems to be the case referred to in the Report of the Commissioners, although as is remarked in M’Kennan v. Henderson, (5 Watts & Serg. 370), there existed even there other modes of relief. But no such circumstance appears in the present case. There can be no surprise, for the trial is yet to come on. The whole object is avowed to be to obtain another reference, the result of which might even be to place the parties exactly in the predicament they are now in. I do not think such special circumstances have been exhibited as ought to exempt the plaintiff from the ordinary course of proceeding.
+Motion denied.
