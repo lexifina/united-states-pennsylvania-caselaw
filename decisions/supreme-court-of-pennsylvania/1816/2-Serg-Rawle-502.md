@@ -1,0 +1,25 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1816-09-14"
+citations: ["2 Serg. & Rawle 502"]
+reporter: "serg-rawl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Ye ates J. was sick and absent.", "Gibson J. concurred."]
+parties: ["Taylor and another against Glaser."]
+source_url: "https://static.case.law/serg-rawl/2/cases/0502-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1798257
+cites_cases: ["1 Munf. 487", "1 Wash. Rep. 1", "1 Wash. Rep. 170", "5 Johns. 239"]
+---
+
+# Taylor v. Glaser
+
+## Majority (Tilghm an C. J.)
+
+Tilghm an C. J.
+It has been heretofore decided, that any mark, made by the pen, in imitation of a seal, may be considered as a seal. The usual mode is, to make a circular, oval, or square mark, opposite to the name of the signer: but the shape is immaterial. Something, however, there must be, intended for a seal, and the writing must be delivered as a deed. Although in this, and many of our sister states, the law has been somewhat relaxed in favour of custom and convenience in doing business, yet this relaxation is confined to the manner of making a seal. Sealing and delivering is still the criterion of a specialty; and it is important that the distinction between specialties and writings not specialties, should be preserved in the Courts: because, in the payment of debts, due from the estates of deceased persons, and in Q^gj. cases, the law makes the distinction. If it should be thought that, in the present state of society, it would be best to put all writings on the same footing, the legislature alone has power to. accomplish it. Many, however, are of opinion that it is useful to allow greater efficacy to writings executed with greater solemnity: and it is certain that even the lower orders of the people, understand and feel the solemnity of delivering a writing as their act and deed, and of affixing only the resemblance of a seal, and having the execution attested by subscribing witnesses. In the present instance, the subscribing witnesses were not called, but the Court judged, as we must now judge, by inspection of the paper. I will premise that two principles are, in my opinion, well founded. One, that although in the body of the writing it is said, that the parties have set their hands and seals, yet it is not a specialty unless it be actually sealed, and delivered. Another, that if it be actually sealed and delivered, it is a specialty, although no mention be made of it in the body of the writing. The fact, and not the assertion, fixes the nature of the instrument. In the case of Austin’s administratrix v. Whitlock’s executors, cited by the counsel for the defendant in error, (1 Munf 487.) the writing concluded, witness my hand; and the Court held it not to be a specialty although there was a written scroll annexed to the signature. But it is to be observed that the subscribing witness was dead; so that there was no proof of sealing and delivery. Neither was the writing said to be sealed and delivered in presence of the witness. I agree that, under these circumstances, the writing could not be taken for a specialty, because there was neither mention of sealing and delivery, nor evidence of it. But I cannot agree that if the witness had been living, he might not have proved the sealing and delivery, as seems to be intimated in the opinion of Judge Tucker. What fell from that learned and respectable Judge, however, was only arguendo, and not necessary to the decision of the main point.
+Now to come to the case before us. Judging by inspection, I see nothing like a seal to this instrument. It has every appearance of the common signature of John L. Glaser. Nothing could satisfy me that it was intended for a seal but the oath of the subscribing witnesses, that he shewed it as his seal, and delivered it as his deed. It is no uncommon thing for writings to be drawn as if designed to be sealed and de- ’ livered, and yet executed without a seal. Ahd that this was the case, with the paper offered 'by the plaintiff, I cannot doubt. The CouYt ought not to be astute to destroy the plaintiffs’ action. If they had brought covenant, they might have been embarrassed by a plea óf non est factum. On the other hand, the defendant is not injured by considering the writing as not a specialty. The cause will be tried on its merits, in the same manner, and on the same evidence, as if the action was founded on a specialty. The forms of pleading will make no substantial difference on the trial. But if that were not the case, it could not alter our opinion on the point before us. Specialty or not, is the question. On the evidence before us, I am of opinion that the writing is not a specialty, and ought not to have been rejected. The judgment, therefore, should be reversed, and a venire facias de novo awarded.
+Ye ates J. was sick and absent.
+Gibson J. concurred.
+Judgment reversed, and a venire facias de novo awarded.
