@@ -1,0 +1,26 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1843-03"
+citations: ["5 Watts & Serg. 157"]
+reporter: "watts-serg"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Rinehart against Olwine."]
+source_url: "https://static.case.law/watts-serg/5/cases/0157-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 478903
+cites_cases: ["1 Watts 4", "15 Wend. 169", "2 Rawle 11", "2 Rawle 161", "2 Watts 41", "21 Pick. 367", "3 P. R. 501", "5 Serg. & Rawle 19", "6 Pick. 265", "6 Pick. 267", "6 Wend. 77", "6 Wend. 80", "7 Watts 379"]
+---
+
+# Rinehart v. Olwine
+
+## Majority (Rogers, J.)
+
+The opinion of the Court was delivered by
+Rogers, J.
+This was an action of assumpsit to recover damages for breach of a contract for a sale of certain goods and some wheat growing in the ground. The declaration contains a special count as well as the common counts. Judgment was rendered on the special count.
+John Olwine was the owner of a tract of land in Chester county, which he leased to his son William L. Olwine, the latter rendering as rent one half the grain raised on the premises, to be delivered in the bushel. During the existence of the lease and before any grain was grown or deliverable, the premises were sold by the sheriff by virtue of an execution against the lessor. The property was purchased for John Kimes by his son-in-law and agent, Charles Rinehart, the defendant. Afterwards, William L. Olwine, the plaintiff, sold the articles in question, including the field of wheat in the ground, and the defendant became the purchaser at a credit of nine months, he, the purchaser, agreeing to give his note with approved security. Part of the property was delivered to the purchaser at or about the time of sale, and the field of wheat was afterwards measured, went into the possession of the defendant, and was reaped and enjoyed by him. The defendant, however, refused to give his note according to contract, and for this breach the suit was brought before the expiration of the nine months’ credit.
+On the day of sale a dispute arose between the plaintiff and defendant as to the title to the grain in the ground and the manure lying in heaps on the premises, and it was agreed that the defendant would relinquish all right to the grain, in consideration that the tenant would waive his right to the manure, and in the further consideration that he would leave certain straw, &c. All this was faithfully performed on the part of the plaintiff, and in all things the defendant reaped the fruits of the contract.
+That the action can be sustained before the expiration of the credit for which the goods were sold, is ruled in Girard v. Taggart, (5 Serg. & Rawle 19, 543). In the same case it is decided, that the price of the goods is the measure of damages. The plaintiff has the right to be placed in the same situation he would have been in had the defendant complied with his contract. The rule, established in Girard v. Taggart has the recommendation, that it avoids the necessity of two actions, one for the breach of the contract, and the other for the price of the goods; for it seems to me that a recovery in the former would be pleadable in bar to an action to recover the price. Here I will remark, that there is nothing in the exception, that the value of the grain growing in the ground cannot be recovered in an action for goods sold and delivered. The point does not arise, as judgment is rendered on the special count only.
+Then, as to the title of a tenant to the grain in the ground, where by the terms of the lease the landlord is entitled to a share of it, deliverable in the bushel. The better opinion seems to be, that it is the property of the tenant, and until the grain is severed and delivered to the landlord, he has no interest in the thing itself. If he sells it, it goes to his vendee, and the landlord cannot pursue it in his hands. The only remedy for the landlord is by distress, as in the case of a money rent. Fry v. Jones, (2 Rawle 11). It is said, that by delivery of part of the articles the plaintiff waived his right to demand the note. But he could not demand the note until the quantity of wheat was ascertained, which was not until after the sale; and that accounts for the delay, of which the defendant seeks to take advantage. Whether there was a waiver, is a question of,intention, as appears by the case of Lupin v. Marie, (6 Wend. 80), and Smith v. Dennie, (6 Pick. 267). It would be a strained inference, to infer such an intention from the facts in this case, where the vendor acted in good faith by a full compliance with the contract on his part. The court was asked to charge the jury as a matter of law that there was a waiver, which they very properly refused to do. But the judgment was right on another ground; there was a compromise of a doubtful right; and without undertaking to decide the question, whether, where a farm is taken by a tenant for agricultural purposes, the manure made upon it belongs to the farm and not the tenant, yet we can safely say that a compromise made in respect to it is good, and cannot afterwards be gainsaid by the parties.
+Judgment affirmed.
