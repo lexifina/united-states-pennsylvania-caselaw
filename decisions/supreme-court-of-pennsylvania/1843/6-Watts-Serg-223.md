@@ -1,0 +1,23 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1843-12"
+citations: ["6 Watts & Serg. 223"]
+reporter: "watts-serg"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Murphy’s Appeal."]
+source_url: "https://static.case.law/watts-serg/6/cases/0223-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 480206
+cites_cases: ["1 Binn. 194", "15 Wend. 76", "2 Dall. 102", "4 Serg. & Rawle 116", "5 Cranch 313", "6 Paige 204", "6 Watts 67", "9 Serg. & Rawle 124", "9 Wheat. 738"]
+---
+
+# Murphy's Appeal
+
+## Majority (Sergeant, J.)
+
+The opinion of the Court was delivered by
+Sergeant, J.
+In the ordinary cases of bankrupt and insolvent estates, a chancellor, exercising his jurisdiction over the assets under provisions made by law, acts upon principles of equity, and may apply them to the distribution of the funds among creditors. He may in a proper case adopt the principle of equality, which is considered as equity in the highest degree; and may take from one class and appropriate to others, so as to effect this object, where he is not opposed by the strict and express provisions of the Legislature. But in construing a voluntary assignment, I think, a different rule prevails, and that we are to regard the meaning of the assignor as exhibited by the language of the instrument of assignment. The assignor possesses the power to prefer such creditors as he pleases, and to such extent as he thinks fit to prescribe; and he who seeks to establish a preference for himself, must bring his claim within the terms used; there is no equity that can enlarge his right beyond that. Had the assignor in the case before us used any word that could be considered as including interest as well as principal, such as claim, demand, or other equivalent term, then, as interest when by law payable follows the principal and composes a portion of the claim, there would be good reason for including it in the preference. As in Scott v. Morris, (9 Serg. & Rawle 124), where the trust in the deed of assignment was to pay to the creditors of the first class “ the amount of their respective demands in full.” “ The word ‘ demand,’ ” says C. J. Tilghman, “ is very comprehensive; it includes everything which the creditor would have been entitled to recover by suit; and there is no doubt but interest might have been recovered as well as principal.”
+The rule laid dowm there, and on which that case was decided, is, we think, the correct one in the case of voluntary assignments; namely, that it must depend on the words of the trust contained in the deed of assignment. Now here no words are used in any of these preferences which will admit of a latitude of construction so as to embrace interest. That of Placette Caze, for instance, (and in this respect they are all alike) is “ to pay and satisfy in full the sum, of #5178.32 to Placette Caze, a minor, to be paid to her or whosoever may be legally entitled to receive it for her.” The payment is confined to that particular sum for reasons unknown to us, but which we are to presume were sufficiently "weighty in the mind of the assignor; but there is no recognition of her debt or claim as such. It might well be that a debtor owing large sums to certain persons, and estimating a certain amount of assets, should prefer each of them for a portion of their debts, allowing them for the residue of their debt to take their chance amongst the mass of his creditors by coming in and releasing their claims; and such provision exists here for all other claims or debts beyond the sums mentioned, embracing, I conceive, as well any interest coming to these preferred creditors, as any surplus beyond the sums mentioned, as well as the debts of other creditors not preferred, by virtue of the eighth clause of the assignment. And this is the more probable in the present case, because the recent assets have come from a source probably little calculated on by the assignor as likely to be ever realized; and therefore not looked at in his arrangement of preferences, or, if contemplated at all, left open to time and chance. No argument, in construing this assignment, can, we think, be drawn from the character of the fund ultimately realized, even supposing we could ascertain what was principal and what interest in the money recovered under the treaty; since the question must depend on the words of the assignment, and the claimant must bring himself within them to establish his preference, whether the fund that yielded the assets ran on interest or not. For these reasons, we think the decree of the court below must be affirmed.
+Decree affirmed.
