@@ -1,0 +1,38 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1793-01"
+citations: ["1 Yeates 233"]
+reporter: "yeates"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Respublica against Catharine Keppele."]
+source_url: "https://static.case.law/yeates/1/cases/0232-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6773493
+cites_cases: ["1 Watts, 156", "2 Dall. 197"]
+---
+
+# Respublica v. Keppele
+
+## Majority (M’Kean, C. J. Shippen, J. Yeates, J. Bradford, J.)
+
+M’Kean, C. J.
+The original binding of servants by indenture seems to be founded- on immemorial practice, which it would be dangerous now to overturn. The stat. of 5 Eliz. c. 4, § 42, 43, clears up the doubt, that an infant may bind himself as an apprentice, which seems to shew that it might have been done at common law.
+\~Qu<zre, if this must not be understood of a compulsion by the means prescribed by the stat. of 5 Eliz. c. 4? for neither *2351 * common law nor by the words of this statute, J shall a covenant or obligation of an infant for his apprenticeship bind him. Vide-Cro. Car. 179. 1 Burn’s Just. Apprentices, 62.]
+Shippen, J.
+Though a parent may have a right to the personal service of his child, yet he cannot transfer it over to another, for money paid to himself. Such indentures have been often ruled bad. I know that negro and mulatto children have been often bound out as servants, but I have never heard of a guardian binding out his ward as such, nor do I take the present indenture to be good; and I am therefore of opinion, that the boy should be discharged.
+I fully agree, that parents -cannot sell their children; but certain cases, they may perhaps transfer their right to their service, and may possibly bind them as servants, where the covenants appear on the face of them to be beneficial to the child. Of this I am confident, that in many instances, the binding of a child as a servant would be more advantageous to him, and conduce more to his future welfare, than the bringing him up in idleness and vicious habits. But this is not the question before us, nor would I be thought to give a decided opinion on this point. I agree that the present indenture cannot be supported, on the custom and usage of the'governmeut. A guardian cannot have the power of putting his ward in the degrading situation of a servant, and therefore the lad must be dismissed.
+Yeates, J.
+Upon a habeas corpus returnable before me about 16 months ago, prosecuted by one Robert Steel, against his master, Robert Forsythe, I looked fully into the law, on the subject before us. I also made inquiries into the usage of Pennsylvania respecting the binding of servants. I find it has been resolved, that neither at the common law, nor by any words of the statute of 5 Eliz., a covenant or obligation of an infant for his apprenticeship shall bind him. Cro. Car. 179. Much less shall the covenant of an infant bind him as a servant, unless warranted by the custom which has prevailed. That custom in the case of minors, I found to be very generally confined to the cases of servants imported from Europe, and accordingly in the instance of an imported servant, I validated an indenture voluntarily executed by one, under twenty-one years of age.
+There may be a few exceptions of parents binding their minor children in this state as servants, but I never considered such indentures within the usage, or the power of the parent, or as good in law. A fortiori, the present indenture cannot be deemed valid; and I have no difficulty in declaring, that the * practice does not warrant a guardian to ¡-*236 bind out his ward as an indented servant until he is L sixteen years old; and therefore that the boy must be discharged from his mistress.
+Bradford, J.
+The commitment' of this infant is justified under the act of 1700, respecting servants; and if he be not a servant within the meaning of that act, he must be discharged, whatever the nature of his contract may be.
+It is clear, that this indenture of servitude cannot be supported upon principles of common law, or by the express words of any act of assembly. But it is said to be justified by the custom of the country; and as it is evident, that a custom respecting servants is referred to in our laws, I have en-deavoured to ascertain its original extent.
+This custom seems to have originated with the first adventurers to Virginia, and to have arose naturally from the circumstances of the country. Persons desirous of coming to America, and unable to pay for their passage in any other way, shipped themselves and their children as servants. U they were imported under indentures, they were to serve according to covenant; but if without, they were to serve according to custom, viz. five years, if of full age, or above seventeen; if under that age, till they were twenty-four years old.
+The early laws of Virginia and Maryland speak of these servants thus imported. They are called ‘1 servants accord-1 ‘ ing to custom, servants bound to serve the accustomary five ‘ ‘ years, and servants sold- for the custom. ’ ’
+These servants by various laws were reduced to a very degraded situation. They were a species of property, and held a middle rank between slaves and freemen.
+Cited in 1 Watts, 156.
+It appears by all the early regulations on this subject, that the custom extended to imported servants only; and it extended to all such as were imported, whether they were minors or not. It was founded in necessity, and was mutually beneficial to the colony and to the emigrant. But no such necessity existed as to the children already in the country; and a striking distinction is made by our laws between these two classes of minors. They' describe the time that minors imported shall serve; (Acts of 1682, ch. 1,) and they direct that all the children in the province shall at the age of twelve, be instructed in some useful trade or skill. (Ib. ch. 112.) This policy is carried into our poor laws, and those which relate to orphans. Overseers of the poor and the Orphans’ Court have no power to bind out minors as servants; even such as are the objects of public charity must be bound as apprentices. The children of free negroes and mulattoes *2371 * formerly be bound to service. (Act of 1725 § 4. -* New edit, of Raws 144.) But an express provision of this kind confirms the general rule.
+There have been, no doubt, some scattering instances of such binding as that before us; but this has not the characteristics of a good usage. It has not been generally used and approved. The courts of justice have always frowned on the attempt.
+It is not necessary to determine how far a parent may transfer the right which he has to the service of his children, in consideration of their being educated; nor whether the court would interfere to take the child out of the custody of the person with whom he places them. But it is right to be decisive, and say, that no parent can make his child the servant to another. The parent cannot transfer an authority he has not himself, an authority to commit the minor to prison if he deserts the service, or a right to be compensated by five days service for every days absence. Such a contract which would subject the infant to the severe penalties of our laws, and to be sold to any one that will buy his service, cannot be for his benefit; and the principles of the common law which will not suffer an infant to bind himself with a penalty even for necessaries, will apply in full force, to such a contract as this.
+I therefore concur with the rest of the court, that the boy must be discharged.
