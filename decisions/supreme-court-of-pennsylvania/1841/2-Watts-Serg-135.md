@@ -1,7 +1,8 @@
 ---
 court: "Supreme Court of Pennsylvania"
 decided: "1841-09"
-citations: ["2 Watts & Serg. 135", "2 Watts & Serg. 121"]
+decided_precision: "month"
+citations: ["2 Watts & Serg. 135"]
 reporter: "watts-serg"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["Hall and M’Kelvey against Law."]
 source_url: "https://static.case.law/watts-serg/2/cases/0135-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1853554
-cites_cases: ["10 Watts 396", "13 Serg. & Rawle 58", "17 Serg. & Rawle 116", "2 Binn. 145", "3 Penn. Rep. 70", "5 Watts 257", "5 Watts 308", "9 Watts 25"]
+cites_cases: ["13 Serg. & Rawle 58", "2 Binn. 145", "3 Penn. Rep. 70", "5 Watts 257", "5 Watts 308"]
 ---
 
 # Hall & M'Kelvey v. Law
