@@ -1,0 +1,24 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1833-10"
+citations: ["2 Watts 112"]
+reporter: "watts"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["M’Call against Barnheart."]
+source_url: "https://static.case.law/watts/2/cases/0112-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1840139
+---
+
+# M'Call v. Barnheart
+
+## Majority (Rogers, J.)
+
+The opinion of the Court was delivered by
+Rogers, J.
+The plaintiff gave in evidence, a patent for four hundred and thirty-nine acres and one hundred and five perches, and allowance, surveyed on a warrant dated the 3d of July 1794, in the name of William Nixon. The purchase money was paid by judge Wilson. His interest was vested in M’Call, under a judgment, and the proceedings thereon, and a deed to him as the purchaser, from John Smith, marshal of the United States court for the district of Pennsylvania. The plaintiff also gave in evidence, the draft of a survey on the warrant in the name of Nixon. The survey was made by George Ross, deputy surveyor, the 22d of November 1808, and was returned to the surveyor general’s office in 1809.
+The court charged the jury, that a presumption arose unfavourable to the plaintiff, because he rested his case on the return of survey, without calling the deputy surveyor to prove that a survey had been made. It has been repeatedly ruled, that the return of survey is prima facie evidence of a survey on the ground, and no legitimate inference can be drawn from the fact, that the plaintiff was satisfied with the establishment of a prima fade case. If the fact of survey was disputed, George Ross was a competent witness for the defendant as well as the plaintiff. No inference, unfavourable to either party, can be fairly drawn from the omission to call him. We cannot avoid seeing that the impression likely to be made on the jury, in this part of the charge, was prejudicial to the plaintiff.
+In addition to the evidence already stated, it was necessary to prove a settlement on the land ; and for this the plaintiff relied on the testimony of Nicholas Day. Day was the agent of a company, who contracted with M’Call for the sale of a large quantity of land in Butler and Armstrong counties ; and as such, for the purpose of fulfilling the contract, he procured proof of settlement on divers tracts, and with others, on the tract in question. Among those who proved the settlement on the property in dispute, were two of the Spanglers. The deponent believes, that George Spangler was one of them. The proof of settlement was forwarded to the land office, and patents were granted to M’Call. There is enough in the case to show, that the proceedings were had, with the knowledge and approbation of M’Call, or at any rate that he afterwards ratified them. Day, in his deposition, further states, that he believes he entered into articles with Spangler; but of this he is not certain. If any such contract was made, of which there is some proof, the presumption is, that the article of agreement is in the possession of Spangler, because it is for his benefit. These being the facts submitted to the jury, I cannot perceive how the court can be justified in the positive direction which they gave them—that Spangler had no obligation on the part of the plaintiff for any share or part of the land, and that he was thus without legal remedy. If it be true, that the proof of settlement was furnished by George Spangler, who made the settlement, after the date of the warrant, it is unlikely it would be done without some compensation, either in land, or in some other way. The proof is not clear, but enough appears to leave the facts to the jury, who would be warranted in believing, that some understanding or contract existed between the parties, which induced Spangler to furnish the proof required to enable M’Call to obtain a patent. The case is clear of the semblance of circumvention or imposition ; nor is there any evidence that Spangler has been misled by bad advice, as the judge seems to suppose; or that his fears have been excited either by Day or others. This may be imagined; it certainly has not been proved.
+The survey and settlement, if duly made, entitle the plaintiff to a patent. If there was a contract between the parties, Spangler was in possession under the contract. The improvements enure to the benefit of both. The reason of the delay in obtaining the patent has not been explained ; but that.circumstance gives no title to Spangler. Pie had no right to suppose that M’Call Jhad abandoned his interest in the land. There is no room for such a presumption as against M’Call, who had paid his money and taken all the steps preparatory to obtaining a patent.
+Judgment reversed, and venire cle no-vo awarded.
