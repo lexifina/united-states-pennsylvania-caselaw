@@ -1,7 +1,8 @@
 ---
 court: "Supreme Court of Pennsylvania"
 decided: "1836-10"
-citations: ["5 Watts 391", "5 Watts 551"]
+decided_precision: "month"
+citations: ["5 Watts 391"]
 reporter: "watts"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["Ross against Barker."]
 source_url: "https://static.case.law/watts/5/cases/0391-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1844095
-cites_cases: ["1 Binn. 231", "1 Binn. 460", "1 H. 6", "1 Serg. & Rawle 203", "1 Watts 110", "1 Watts 121", "1 Watts 78", "10 Johns. 368", "13 Serg. & Rawle 133", "15 R. 2", "2 Watts 112", "2 Watts 23", "2 Watts 459", "23 H. 8", "3 Cranch 1", "3 Watts 69", "3 Yeates 586", "37 H. 8", "4 Dall. 242", "4 Johns. 140", "4 Serg. & Rawle 402", "4 Serg. & Rawle 410", "4 Yeates 375", "4 Yeates 569", "5 Binn. 157", "5 Mass. 321", "5 Serg. & Rawle 240", "6 Binn. 333", "6 Johns. 316", "6 Serg. & Rawle 257", "7 Johns. 589", "7 Serg. & Rawle 129", "7 Serg. & Rawle 177"]
+cites_cases: ["1 Binn. 231", "1 Binn. 460", "1 H. 6", "1 Serg. & Rawle 203", "1 Watts 78", "15 R. 2", "23 H. 8", "3 Cranch 1", "3 Watts 69", "3 Yeates 586", "37 H. 8", "4 Dall. 242", "4 Serg. & Rawle 410", "4 Yeates 375", "5 Binn. 157", "6 Binn. 333"]
 ---
 
 # Ross v. Barker
