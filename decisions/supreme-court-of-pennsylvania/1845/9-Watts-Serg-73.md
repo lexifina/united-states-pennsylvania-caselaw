@@ -1,0 +1,22 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1845-05"
+citations: ["9 Watts & Serg. 73"]
+reporter: "watts-serg"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Cummin’s Appeal."]
+source_url: "https://static.case.law/watts-serg/9/cases/0073-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12168955
+cites_cases: ["1 Wash. C. C. Rep. 29", "12 Serg. & Rawle 37", "17 Serg. & Rawle, 436", "3 Rawle 401", "6 Watts 468"]
+---
+
+# Cummin's Appeal
+
+## Majority (Kennedy, J.)
+
+The opinion of the Court was delivered by
+Kennedy, J.
+The only question presented in this case is, whether a seizure by a constable of goods, by virtue of an execution issued by a Justice of the Peace upon a judgment obtained before him, which had been made a lien upon the real estate of the defendant by filing and entering a transcript thereof in the court of Common Pleas, be such a satisfaction of the judgment as to discharge the lien of it on the real estate, where the goods were of sufficient value to satisfy the judgment, but the constable did not take possession of them by removing them, but left them in the possession of the defendant in the execution, by whom they were used and disposed of. As between the plaintiff’ and the defendant in the judgment, it cannot be pretended for a moment that the judgment has been satisfied by the bare seizure of the goods, where the defendant has been left to use and convert them to his own purposes, in the same manner as if the execution had never been issued ujxon the judgment. The plaintiff has received no benefit or advantage whatever from the seizure, nor was the defendant deprived of any thing by it; so that the parties may be said, notwithstanding the suing out and placing of the execution in the hands of the constable, to have continued in statu quo. The natural, if not the inevitable consequence, would therefore seem to be, that the plaintiff had the same right afterwards that he had before, to proceed by an alias or new execution upon his judgment, to have the amount thereof levied out of the personal property of the defendant, if sufficient were to be had, and if not, then out of his real estate. But, it is alleged, although the judgment may still be good and valid as against the defendant in it, that yet it is not so as against subsequent lien creditors of the defendant; or at least that the payment of it out of the proceeds of the real estate of the defendant, must be postponed until all the subsequent liens are satisfied. If any act had been done by the plaintiff in the judgment in question, which could in any way have operated to the prejudice or injury of the subsequent lien creditors, there might be some ground for the position assumed on their behalf. All, however, that the plaintiff in the judgment did, was to issue his execution and place it in the hands of the constable, where it remained without any part of the defendant’s property having been removed or disturbed, in any way whatever, by virtue of it; so that any other judgment creditor of the same defendant, entitled to have an execution upon his judgment, could not be said to have been stopped, hindered, ox; delayed from doing so, if he had been so disposed: he, notwithstanding all that the constable did, would have had a right to have sued out an execution upon his judgment, and to have had the goods taken by virtue thereof and sold, and the proceeds arising therefrom applied to the discharge of his judgment, as the goods were not touched or removed under the execution of the administrator of Shem Ash, which is the one in question here. It is true, as has been said, that the constable, by his neglect, may have made himself liable to the plaintiff in the execution for the amount of it; but why should the plaintiff, who has done no act which can be said to have injured either the defendant in the judgment or the subsequent lien creditors, be compelled to give up a fund that is certain, upon which he has a lien, and pursue a remedy that may be doubtful, to say the best of it ? We think that his right to have his judgment, or the residue of it, which still remains unpaid, satisfied out of the money arising from the sale of the real estate of the defendant, is supported by reason, and no authority has been referred to or shown, tending even to prove the contrary.
+Decree affirmed.
