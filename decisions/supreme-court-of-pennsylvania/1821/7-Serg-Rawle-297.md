@@ -1,0 +1,24 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1821-09"
+citations: ["7 Serg. & Rawle 297"]
+reporter: "serg-rawl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Marlin against Willink and others."]
+source_url: "https://static.case.law/serg-rawl/7/cases/0297-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1808185
+cites_cases: ["2 Yeates. 344", "4 Binn, 177"]
+---
+
+# Marlin v. Willink
+
+## Majority (Duncan J.)
+
+Duncan J.
+Delivered the opinion of the Court.
+This is the. plainest of all cases. It is a case of ejectment, between vendor and vendee, the vendee covenanting to pay the purchase money at certain designated periods, all of which had long expired before the commencement of the action. The hand money had been paid on the execution of the articles. The residue was to be paid by five annual instalments, none of which had been paid, or were offered to be paid, or the money brought into Court on the.-trial of the cause. The legal title was in thé vendors. The plaintiffs below, defendants in error, in a Court of law, unquestionably could recover, and the remedy of the plaintiff in error would be by bill in equity. But equity would not grant relief, nor enjoin the vendors from proceeding on their judgment, but on payment of all the purchase money due. There being no Court of Chancery-here, our Courts- grant the same relief that Chancery would. The ejectment is in.the nature of bill for specific execution, but as the Courts of law cannot compel the execution of a conveyance, the vendee may retain the possession, provided he has complied with his contract, or offer to comply with it by a tender of the purchase money due on the trial of the cause. But if he declines to do' this, the vendor'can recover'the possession. He is not confined; to one remedy, he-may bring ejectment, or covenant or debt for the sum due on the articles. By the stipulation, in the articles,' the vendors do not covenant to convey on any .particular day, but on the payment-of the money. The payment of the money is a condition precedent, until it.is paid or tendered, the vendee cannot call for convey anee of the title. He could support no bill for specific execution, chancery would grant no injunction. ■ The equitable relief to which .the defendant is entitled, is not however extinguished by non payment of the instalments as they become due, the time is modal and not the essence of the contract. Chancery would relieve against even the lapse of time, when the delay) was not unreasonable, and; they would where a considerable part of the purchase money had been paid,, pos; session taken, improvements made, be less rigid in the consideration of the time, than where no money had been paid, improvements made, possession taken. The course of proceeding by ejectment* by vendor who has not parted with the legal title is not unusual. In some instances where there is no Court' of Chancery, it might be his only remedy. The ven-' dee might reside out bf the State, out of the United States, leaving atenan'tin possession; no judgment unless-by the circuitous and tedious course of foreign attachment' could be obtained, and in case of his death, even that remedy would not exist, as attachment would not lie against executors or administrators. What is the legal right of the defendant in error ? the land, because they hold the legal title. What is the equitable right of plaintiff in error ? A conveyance of the legal title according to his contract. That prescribes payment of the whole purchase money as a condition, and before he has done this, as he has had no legal title, so the time of payment having arrived, and having made default, he has no claim cither in law or equity to hold the possession of that for which he refuses payment. ' '
+The remedies of vendor and vendee, are mutual; for ejectment will lie against vendor by vendee on articles of agreement, after tender of the purchase money. 4 Binn, 177, 2 Yeates. 344. So vendor may maintain ejectment against vendee if purchase money be not paid. X leates. 12. How far plaintiff in error, may still have redress on tender of the purchase money, the Court are not called on to decide. They only decide that the plaintiffs below were entitled to the possession, defendant not having paid or offered' to pay the purchase money.
+The Court were requested to instruct the jury, that on the equity, disclosed by the plaintiff in error, viz, the articles for the conveyance of the land, and receipt.for payment of part of the purchase money, the defendants in error were not entitled to recover in ejectment, but that covenant was the only remedy. This the Court very properly refused, but instructed the jury, that ejectment1 would lie in such case. There was no error in this. The judgment is therefore affirmed.
+Judgment affirmed.
