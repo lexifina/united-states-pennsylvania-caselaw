@@ -1,0 +1,23 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1835-02-09"
+citations: ["5 Rawle 124"]
+reporter: "rawle"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DONAHUE against DOUGHERTY."]
+source_url: "https://static.case.law/rawle/5/cases/0124-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1824624
+cites_cases: ["1 Yeates, 408", "11 Serg. & Rawle, 193", "13 Serg. & Rawle, 44", "14 Serg. & Rawle, 288", "14 Serg. & Rawle, 289", "17 Serg. & Rawle, 116", "2 Rawle, 337", "2 Serg. & Rawle, 1", "2 Yeates, 352", "5 Binn. 53", "6 Binn. 405", "6 Serg. & Rawle, 542"]
+---
+
+# Donahue v. Dougherty
+
+## Majority (Gibson, C. J.)
+
+Gibson, C. J.
+A statement in an action like the present, being, unauthorized by the act of assembly, is a nullity; consequently the court could not prevent the plaintiff from declaring as he might have done originally, and as if no attempt at legal specification of the cause of action had been made. This not only relieves us from a consideration of the questions of amendment, but disposes also of the demurrer to the statement; for though the judgment of respondent ouster was unnecessary, it did not vitiate the subsequent proceedings. Nor is the verdict bad as being founded in part on the defective statement which was entirely superseded by the declaration, or if permitted to remain on the record, was a legal nonentity. The original plea of not guilty, which, when pleaded to an action of debt, is equivalent to what was formerly called a horse plea, might have been disregarded and the party ruled to plead as at first; which however was not done. But conceding it to be a nullity as it certainly was, it does not follow that the judgment after a trial on the merits, is to be treated as erroneous for the want of a plea, which was held to be cured by the verdict in Sauerman v. Wecherly, 17 Serg. & Rawle, 116. Nor is the allegation of variance between the, writ in debt qnd the prescribed remedy ‘ by bill, plaint, or information,’ better founded, the first and second of these terms, according to the English practice from which they are borrowed, indicating a remedy by action without specifying its form.
+The objections to the charge are-equally groundless. The penalty is given to the ‘ person or persons grieved;’ but the grievance to be redressed is not necessarily an actual and a specific damage, it being sufficient that the marriage is an unjustifiable interference with the relation existing between the parent and his offspring, and, in that aspect, a grievance in contemplation of law. To say nothing of education and nurture superseded by the obtrusion of a new relation into the family, the deprivation of the right gone by forever, to participate by counsel and advice in the formation of a connexion involving the happiness or misery of a child, may be numbered with the severest injuries that can be inflicted on a parent. Neither could the defendant insist on his own misconception of the son’s age. The law has furnished a guide for doubtful cases by which a minister or magistrate may proceed securely; and when he forsakes it for the guidance of his senses, he proceeds at his peril. Nothing but compliance with the injunctions of the statute, or fraudulent representations by the parent producing a departure from it, can protect him.
+The exception to the jurisdiction is founded on the act creating the District Court, which gives it power to hear and determine ‘ all civil pleas and actions;’ and it is affirmed that an action for a penalty such as this, is not a civil plea, but a criminal prosecution. It is however clearly within the letter of the second section, which directs “ all suits and causes” depending in the Common Pleas, to be transferred to this court, and which therefore qualifies the sense of the word ‘ civil’ wherever it occurs in the act. Now it is impossible to believe that the present is not only a suit but an action; and it is clearly within one of the terms used by the legislature who contemplated, without regard to technical subtleties, the removal of all causes which presented the appearance of a private claim prosecuted on the civil side of the court. But whatever may be the character of an action purely popular, yet where a penalty is given, as in this case, to the party injured, an action for it cannot be considered as a prosecution for a public wrong, but as a civil remedy for a private injury; and so it was held in Norris v. Pilmore, 1 Yeates, 408, cited by the counsel for the defendant in error. The authority of that case is unquestionable and conclusive; so that the exception to the jurisdiction is not sustained.
+Judgment affirmed.
