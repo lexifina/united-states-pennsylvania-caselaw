@@ -1,0 +1,28 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1811-06-13"
+citations: ["4 Binn. 73"]
+reporter: "binn"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Yeates J. and Brackenridge J. concurred."]
+parties: ["*Lessee of Magens against Smith."]
+source_url: "https://static.case.law/binn/4/cases/0067-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1792412
+cites_cases: ["2 W. 411"]
+---
+
+# Lessee of Magens v. Smith
+
+## Majority (Tilghman O. J.)
+
+This opinion is supported by the case of Reiley’s lessee v. Overmower, tried in Huntingdon. There the defendant had made an excellent improvement, had much land cleared and fenced, and good buildings; in short an excellent farm. He was driven off during the war. In 1784 Vickroy a deputy of Gf. Woods came there. The fences and improvements were all burnt. He took a warrant, surveyed and returned it, and sold it to the plaintiff Reiley who patented it. Over-mower being poor and distressed did not return until 1792. Reiley brought an ejectment, and Shippen justice held the plaintiff’s *tit!e fraudulent and void, and directed the jury to find for the defendant. That case differs from the present in this, Yickroy was a surveyor in the district, and Overmower had staid till the last, and had an excellent improvement.
+There is no title deduced from English to the defendant in this cause; but if there was an actual subsisting improvementi, protected by the law, in 1784, the plaintiff’s title is nothing, and he cannot recover. You will consider whether the improvement of English was abandoned at the revolution or on 1st July 1784. The fifth section of the act of limitations of the 25th March 1785 provides that an improver driven off by the enemy, might re-enter within five years from that date ; and he might enter after the five years if it still was vacant, either for want of a warrant, or if covered by a void one. Was this right abandoned on the 1st July 1784? If' it was, the plaintiff must recover. If an actual bona fide settlement subsisted at that time, not abandoned, the plaintiff cannot recover.
+To this opinion the plaintiff’s counsel excepted, and the question was now argued by Huston for the plaintiff, and by Norris and Watts for the defendant. The only point was whether the plaintiff’s warrant was void in consequence of calling for land to which an improvement right then existed, or whether it was merely voidable by the improver and those claiming under him, but good against a subsequent original settler.
+Tilghman O. J.
+The plaintiff claims under a warrant of 1st July 1784, a survey of 30th November 1784, and a patent of 13th June 1791.
+The defendant claims under an improvement, made by one English, in the year 1774, who went into the army of the United States in the year 1775, 1776 or 1777, but which of these years does not certainly appear. On his way to the army he sold his right to one Runiger. During the war, the land was deserted. The defendant entered on it in the year 1795, and made a settlement, but there was no evidence of his deriving any title under English or Runiger. The president of the Court of Common Pleas, in his charge to the jury, left it to their decision as a matter of fact, whether the improvement of English had been abandoned, or subsisted on the 1st July 1784. In this he was right, and it must be taken for granted, after the verdict, that the improvement right was in existence on the 1st July 1784. Hut the president further directed the jury, that if the said improvement right existed on the 1st July 1784, in that case, the warrant, survey and patent, under which the plaintiff derives title, were null and void, so that the entry of the defendant and his subsequent settlement in 1795 were good against the plaintiff, although the title of the defendant was no way connected with the improvement made by English. I agree that the warrant, &c., would have no effect against English or any person claiming under English, provided the improvement had not been abandoned ; but I can see no reason why they should not be good against the defendant, if he made an original entry and settlement in the year 1795. Improvement rights are protected for the sake of the improvers, but not for strangers. Suppose a man to have made a settlement in 1774 and continued on the land till 1776, and then gone into the army. The law would have protected his right, although he had not returned to the land, from the time he left it till the 1st of July 1784. But an improvement right is no more than a right of pre-emption, which may be abandoned at the pleasure of the improver. How could it be known then on the 1st July 1784, whether the improver would ever return,and claim the pre-emption? Is the commonwealth to be debarred of the right of making any contract for the land, without having any right .to call on the improver for payment? This would be against all reason. No injury can arise from giving a warrant for it at the risk of the warrantee, that is to say, if the improver or any person deriving title under him should appear, the warrant should be voidable by them. At the time this warrant issued, there was no act of assembly making it void, nor is there any reason why it should be void, whether we consider the rights of the commonwealth, or of actual settlers, whose just claims I shall always be disposed to protect. I am of opinion, that in this particular, the charge of the ^president went a little beyond the line of the law, and therefore that the judgment should be reversed and a Venire de novo awarded.
+Yeates J. and Brackenridge J. concurred.
+Judgment reversed.
+[Cited in 16 S. & R. 884; 2 W. 411.]
