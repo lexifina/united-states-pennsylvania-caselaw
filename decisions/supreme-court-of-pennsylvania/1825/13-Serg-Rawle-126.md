@@ -1,0 +1,22 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1825-06-20"
+citations: ["13 Serg. & Rawle 126"]
+reporter: "serg-rawl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THOMPSON against M‘KELVEY and another, Administrators of WILLETS, deceased."]
+source_url: "https://static.case.law/serg-rawl/13/cases/0126-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1813908
+---
+
+# Thompson v. M'Kelvey
+
+## Majority (Tilghman, C. J.)
+
+The opinion of the court was delivered by
+Tilghman, C. J.
+This is an action oü the case, brought by the administrators of Isaiah Willets, deceased, (the defendants in er-error,) against Isaac Thompson. The declaration contained several counts, — one for money had and received, &c. and another on an insimul computassent. The verdict and judgment in the Court of Common Pleas, were for the plaintiffs. It appears from the evidence, that the defendant was employed as an agent by Willets, for the sale of plaister of Paris, for which he was to be allowed a commission. The plaintiffs gave in evidence an account settled between Willets and the defendant, and signed by them both, in the year 1816. The defendant then offered in evidence, several unconnected pieces of paper, containing what he called his original entries of the sales of plaister of Paris. This evidence was rejected by the court, and certainly with great propriety. Nothing could be less like a book of original entries, than these scraps of paper. There was some scribbling, or figuring, on them, besides the account of the sales of plaister, and, on their very face, they were unworthy the name of an account regularly kept. This kind of evidence was admitted, in the early stages of the settlement of Pennsylvania, from necessity. Business was small, and people could not afford to keep clerks. But in the present state of society, a strict hand is to be kept over it. We must not extend it beyond its ancient limits.
+There was another exception taken by the defendants’ counsel to the court’s opinion, on the rejection of the evidence of James Watson, a witness for the defendant, by whom it was offered to be proved, that a certain quantity of plaister was left by Willets, and taken away by the defendant, to be sold on account of Willets. This evidence was rejected by the eoui’t, “ because the papers signed by the parties, and given in evidence, show, that a great part of the plaister was sold, not by Thompson, but by Willets himself and others, and therefore the evidence of Watson was nothing to the purpose.” I have examined the papers of settlement alluded to by the court, and cannot find that any plaister is said to he sold by Willets himself, or any other person, except Thompson and his sub-agents. But be that as it may, the rejected evidence, though not of much weight by itself, was a circumstance which might go for something. It would have shown, that a certain quantity of plaister was delivered to the defendant to be sold, on which, when sold, he would have been entitled to a commission. This, if connected with other evidence, might possibly have proved a mistake in the settled account. It was but a trifle, to be sure, per se, but still it was evidence. I am of opinion, therefore, that there was error in the rejection of it. This is one of the many cases in which we have to regret the pertinacity of counsel, in opposing evidence the admission of which would not have injured their client. The consequence is, the reversal of many judgments, and, of course, much delay and heavy costs. But this court has no right to relax the law of evidence, in order to prevent mischiefs which it is sorry to see. It may be remarked, also, that it is well worthy of the consideration of counsel who offer unimportant, though legal evidence, whether it be for the interest of their client, to reverse a judgment which must finally come on him, with accumulated costs. In the present case, for example, unless the defendant strengthens the rejected evidence, by something much more to the purpose, the second verdict will in all probability be as unfavourable to him as the first. That, however, is a matter for his consideration. He is entitled to receive the law from us, and we must give it to him. The judgment is to be reversed, and a venire de novo awarded.
+Judgment reversed, and a venire facias de novo awarded.
