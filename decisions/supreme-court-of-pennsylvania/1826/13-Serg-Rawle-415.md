@@ -1,0 +1,23 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1826-01-02"
+citations: ["13 Serg. & Rawle 415"]
+reporter: "serg-rawl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["NICHOLSON and others, Executors of DUNCAN, against ELTON, Administrator of ELTON."]
+source_url: "https://static.case.law/serg-rawl/13/cases/0415-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1813978
+cites_cases: ["6 Serg. & Rawle, 272"]
+---
+
+# Nicholson v. Elton
+
+## Majority (Tilghhan, C. J.)
+
+The opinion of the court was delivered by
+Tilghhan, C. J.
+This was an action of trespass vi et armis, &c., brought by Jlbner L. Duncan, deceased, against John Id. Elton, deceased, captain of the United States’ ship of war the Saranac, for a forcible seizure of the plaintiff’s ship and cargo, on the high seas. The seizure was made for a supposed breach of the laws of the United States, for which, the ship and cargo were libelled in the District Court of the United States, at Savanna, in Georgia, ax\á by the judgment of that court acquitted, and the property decreed to be restored to the owner. On an appeal to the Circuit Court, the judgment of the District Court was reversed, and the vessel and cargo condemned. But finally, the decree of the Circuit Court was reversed, and restitution again awarded to the owner, by the decree of the Supreme Court of the United States. Several questions, and some of importance, having arisen on the trial of this cause at nisi prius, it was agreed that a verdict should be taken for the plaintiff, subject to the opinion of the court in bank. One of the points made by the counsel for the defendant was, that the action was abated by the death of John H. Elton, the original defendant, and if the law be with the defendant on that point, it will be unnecessary to consider any other. Our act of assembly, (12th of April, 1791,) 3 Sm. L. 30, provides, that where either plaintiff or defendant shall die before final judgment, the suit shall not abate “ in case the cause of action doth by law survive.” The question is, therefore, whether this be a case, in which the cause of action survives. It is a maxim of the common law, that a personal action dies with the person. What is a personal action, within the meaning of this maxim, has been a matter of considerable dispute. But there are some cases concerning which, no difference of opinion ever existed; and one of those cases is, where the wrong, which was the cause of action was accompanied with actual force, where the declaration, alleged the injury to be done with force and arms, and the plea of the defendant was, not guilty. The common law was altered, by the statute of 4 Ed. 3, ch. 7, which gave an action to an executor, for an injury done to the personal property of his testator in his lifetime, and the remedy was extended by subsequent statutes, (25 Ed. 3, and 31 Ed. 3, ch. 11,) to executors of executors, and to administrators. But the common law remains unaltered, as to actions brought against executors or administrators, for wrongs done by the deceased. From these premises, it appears, that this action was not abated by the death of Abner L. Duncan, the original plaintiff; and the substitution of his executor, as plaintiff, was proper. But when the original defendant, John H. Elton died, there was no authority for making his administrators parties to the suit, because the cause of action did not survive. This is not a new case. We decided, in Hench and Wife against Metzer’s Executors (6 Serg. & Rawle, 272,) that if the defendant, in an action of trover, dies before judgment, his executors or administrators cannot be substituted in his place; and the same decision was made at Pittsburg, last September term, where the defendant, in an action for breach of a promise of marriage, died pending the suit. ( The Executors of Rogers, in error, v. Simmons, ante.) These cases, especially the last, ■were stronger than the one before us; because there is no force or violence, actual or constructive, in the breach of a promise of marriage. The same may be said of slander, where, without doubt, the cause of action does not survive. There is no ground, therefore, for an argument, that there is a survivor here, when the action is founded on a wrong committed with actual, palpable force; where the declaration asserts it to have been done with force and arms ; and issue was joined on the plea of not guilty.
+It is the opinion of the court, that the action was abated by the death of John H. Elton.
+Judgment for the defendant.
