@@ -1,0 +1,21 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1822-11"
+citations: ["1 Brightly 315"]
+reporter: "brightly"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth v. Foering et al."]
+source_url: "https://static.case.law/brightly/1/cases/0315-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4968255
+---
+
+# Commonwealth v. Foering
+
+## Majority
+
+This was a motion in arrest of judgment, the defendant having been convicted on April 30th, 1820.
+The indictment in the first count averred that the defendants, “falsely, unlawfully and wickedly did conspire, combine, confederate and agree together to defraud the bank of the Northern Liberties of its moneys, &c., and that in pursuance of, and according to the said conspiracy, combination, confederacy and agreement between them, the said defendants as aforesaid did wickedly devise and agree together that the said Frederick Foering would and should from time to time draw certain checks upon the said bank, without having any funds or moneys therein, and that the said Benjamin Williams then and there being the bookkeeper of the said bank, and having as such the care and custody of the ledger of the said bank, would falsely and deceitfully so arrange the entries in the said ledger, as to cause it to appear that the said Frederick Foering was a creditor of the said bank, and had a balance of moneys therein, and the said Frederick Foering in pursuance of, and according to the said conspiracy, combination, confederacy and agreement between them the said Frederick Foering and Benjamin Williams, had as aforesaid, did draw a check on the said bank for the sum of 300 dollars.” The count then proceeded specially to aver the drawing of divers other checks, at divers times, and then proceeded, “ and the said Frederick Foering, at divers other times, did draw divers other checks on the- said bank, and did cause and procure the same to be presented to the said bank for payment, and the same were respectively paid, he, the said Frederick Foering, well knowing that at such times respectively, he, the said Frederick Foering, had no adequate balance of moneys to meet the same, and that he was not a creditor of the said bank. And the said Benjamin Williams, in pursuance of and according to the said conspiracy, combination, confederacy and agreement between them the said defendants had as aforesaid, did falsely and fraudulently omit to post divers of the aforesaid checks, and did falsely add up the amount of such the aforesaid checks .as were posted in the aforesaid ledger of the said bank, and did thereby give to the account of the said Frederick Foering an appearance of having a balance of moneys to his the said Frederick Foering’s credit, he the said Benjamin Williams well knowing that the said Frederick Foering had not at such times a balance of moneys in the said bank, and did then and there retain in his own possession the said checks, and did fraudulently, deceitfully and knowingly omit to charge the said Frederick Foering with the same, whereby the said bank was then and there defrauded of a large sum of money, to wit, of the sum of $180,000, to the great damage of the said bank, ,&c.” The second count was substantially the same.
+It was urged, on behalf of the motion in arrest of judgment, first, that the offence specified was not indictable at common law, and secondly, that the conspiracy was not set forth with sufficient accuracy. The motion, however, was overruled by the court in banc, and judgment entered on the verdict.
+To constitute a conspiracy, the purpose to be effected by it must be unlawful, either in respect of its nature, or in respect of the means to be employed for its. accomplishment; and the intended act, where it has not a common law name to import its nature, must, in order to show its illegality, be set forth in an indictment for conspiracy, with as much certainty as would be necessary in an indictment for the perpetration of it; otherwise it would not be shown to be criminal, nor would the confederates be shown to be guilty. Hartmann v. Com. 5 Barr 60. But in an indictment for a conspiracy to cheat at common law, no overt act need be set out. Clary v. Com. 4 Barr 210; Twitchell v. Com. 9 Barr 211.
