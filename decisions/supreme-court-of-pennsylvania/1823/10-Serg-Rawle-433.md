@@ -1,0 +1,21 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1823-12-29"
+citations: ["10 Serg. & Rawle 433"]
+reporter: "serg-rawl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BEAUMONT against WOOD."]
+source_url: "https://static.case.law/serg-rawl/10/cases/0433-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1811096
+---
+
+# Beaumont v. Wood
+
+## Majority (Tilgilman, C. J.)
+
+The opinion of the court was delivered by
+Tilgilman, C. J.
+This is an action of replevin brought by George W. Beaumont against Joseph Wood. The defendant made cognizance, as bailiff of Thomas MKean, and acknowledged the taking of .the plaintiffs’ goods, on the lands and premises of the said M‘Kean, and averred “that one Benjamin Vogdes for one year next before the 25th March, 1820, held the lands as tenant, under a demise, at th.e yearly rent of 300 dollars, during which time, the rent for which he distrained, accrued.” The plaintiff replied, no rent in arrear, and non demisit, on which issues were joined. The first thing which strikes us on these pleadings, is, an uncertainty by whom the demise to Benjamin Vogdes was made. For it is ndt said, that it was made by Thomas MKean, and from the evidence in the cause, there is reason to suppose that a demise by other persons, viz. by Jesse Vogdes and John George, was intended. The evidence on the part of the defendant showed, that the lands on which the distress was made were formerly the property of Thomas M‘Kean, who sold and conveyed them to Jesse Vogdes and John George, and took from them a judgment bond, and mortgage, for part of the purchase money. M‘Kean entered a judgment on the bond, took out an execution, levied on the land which he had sold, and purchased it at the sheriff’s sale, about the month of August, 1819. At that time Benjamin Vogdes was in possession under a lease from John Vogdes and John George, and M Kean having demanded rent of him, he promised to pay it, Benjamin Vogdes left the land in March, 1820, so that it is difficult to conceive, how a year’s rent Could be due to MKean, unless he claimed it under the lease made by Jesse Vodges and John George to Benjamin Vogdes,on the supposition, that havingpurchased all the rightof Jesse Vogdes and John George, he became entitled to the rent to accrue on the lease made by them. The plaintiff having gone through his evidence, the defendant offered to prove, “ that the premises were demised by parol agreement, by Jesse Vogdes and John George to B. Vogdes, on the 25th March, 1818, for the term of two years from that day, and that he went into possession ánd continued iri possession, until the 25th March, Í820, and that .the whole rent was to be paid on the 25th of March, 18Í8, and was so paid accordingly, and that the said agreement Was the Same of which the defendant gave evidence, by which Benjamin Vogdes was to pay 400 dollars for the first year, and 300 dollars for the second.” To this evidence the plaintiff objected, principally because it was special matter, of which no notice had been giyen, and the court rejected it. If the evidence was proper, under the issues which had been joined, there was no need to give special notice of it. And that it was proper, under one or the oth.er of the issues, there is no doubt. If we are to understand the demise mentioned in the defendant’s plea, to be that which was made by Jessee Vogdes and John George to Benjamin Vogdes, then the evidence was directly to the issue of no rent in arrear, because it went to prove that the rent was all paid, and consequently nothing was in arrear. But supposing that a demise made by Thomas MKean was intended, the evidence would apply to the issue of non demisit, because it rebutted the unsatisfactory evidence which had been given on that point, by the defendant, and proved, that the demise was in fact, made, not by MKean, but by Jesse Vogdes and John George. There was error therefore in rejecting the evidence, and conse(psently the judgment must be reversed, and a venire de novo awarded. When the record goes down, the defendant’s counsel will have an opportunity of amending the pleadings, so as not to leave it iii doubt, by whom the demise was made.
+Judgment reversed, and a venire facias de novo awarded.
