@@ -1,0 +1,25 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1828-11-01"
+citations: ["2 Rawle 224"]
+reporter: "rawle"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Pennsylvania Agricultural and Manufacturing Bank against JOHN and JACOB CREVOR."]
+source_url: "https://static.case.law/rawle/2/cases/0224-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1820628
+---
+
+# Pennsylvania Agricultural & Manufacturing Bank v. Crevor
+
+## Majority (Huston, J.)
+
+The opinion of the court was delivered by
+Huston, J.
+— In this case the plaintiff, on the SÓth.of December, 1817, obtained a judgment. In February, 181-9, John Crevor died. In 1825, Jacob, the other defendant, died. On the 17th of January, 1826, his death was suggested, and & Scire Facias issued, but it did not appear against whose representatives.
+After the entry of the ábpve judgment against John, other ereditors had obtained judgments against him, which were duly revived by Scire' FcCcias against his representatives, within five years, and execution issued, on which, in January, 1827, his lands were sold. A motion was made in the Court of Common Pleas, to order this mo.ney to be appropriated to this judgment, as being the eldest. The court decided, it had lost its preference, as to this money, because, not revived for,'more than five years. This cause was argued on the-' ground, that the act of assembly of 1794, directing the order of paying the debts of a deceased person; and the act of assembly of 1797, directing, that debts of a deceased person, unless secured by mortgage, judgment, recognisance, &c., should not remain a lien longer than seven years,' unless an fiction for the recovery of the same be commenced and prosecuted, &c., or unless a copy, or particular written statement, &c., were not affected by the act,of assembly of 1798. Act of assembly of the 4th of April,-\197, section fourth. ' .
+' The act of assembly of 1794, directing the^rder of paying debts, has reference-principally to the payment of debts from the personal funds of the deceased. On these personal funds, the judgment was no lien in the life time of the deceased. So, a judgment in one county was no lien on lands in a different county. If the money in the hands of the executors or administrators, is raised from personal estate, or the sale of lands not bound by a judgment against the testator. the order prescribed in that act of assembly is followed; and judgments, in case of deficiency, are paid, pro rata,- without regard to their date.
+But judgments are a lien on lands within the county in which they are entered up, in the life time of the deceased, and entitled to payment during his life, according to priority of date. This priority is lost in five years, if no Scire Facias has issued, and the eldest and the next in order has'priority, &c. &c. When a man, having land bound -by judgments, dies, the- proceeds of thedand, if sold while the judgments are in full force, go to the judgments in succession, according to their date; and the judgments, in case of deficiency, and in ease t-he money is raised by the sale of lands bound by the judgments, are paid, not joro rata, but the first is paid in-full, and the next after, &c., till the fund is exhausted; and it may happen, that the last gets nothing. The act of assembly’of 1794, was intended to give a preference to judgment creditors, over bond and simple contract creditors, where the money was collected from a fund, or funds, not bound by-the judgments in the.Jife time of the debtor. But it was not intended, and has not'been held, to take away the right which he who obtained the first judgment, had to the proceeds of the lands bound by his judgment. It did not intend, that judgments should be paid jure rata, when the fund was raised from the sale of lands bound- by the judgments. The first judgment creditor had a right, of which he could not fairly be devested; and would not be, by any thing less than express legislative provision. But all'rights are subject to limitation, in point of continuance, and are limited, unless exercised in some way, in all civilized countries. No well regulated government is without statutes of limitations. Our legislature have enacted, that a judgment shall cease to be a lien, unless certain proceedings are had on it within five years. It also provides, that the Scire Facias, in such ■ease, shall be served on executors, administrators, &c. Its provisions are plain; its policy wise — it takes in this,case. The bank lost its preference to the first monies arising from the sale of the land bound by its judgment, by not proceeding, according to law, within -five years.
+Perhaps, if funds are collected from lands in other counties, not bound by, any of the judgments, it may still be entitled to payment in the rank of judgments, in preference to debts of lower grade. But, that is not before us, and I give no opinion about it.
+Judgment affirmed.
