@@ -1,0 +1,22 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1833-06"
+citations: ["2 Watts 9"]
+reporter: "watts"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Rodebaugh against Sanks."]
+source_url: "https://static.case.law/watts/2/cases/0009-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1840101
+cites_cases: ["2 Yeates 321"]
+---
+
+# Rodebaugh v. Sanks
+
+## Majority (Gibson, C. J.)
+
+The opinion of the Court was delivered by
+Gibson, C. J.
+1729, though doubtless wholesome when they were enacted, are ill adapted to the habits and customs of society as it now exists. It is not too much to say, that a rigid execution of them would bastardize a vast majority of the children which have been born within the state for half a century: for if the clause which requires that “ all marriages shall be solemnized by taking each other for husband and. wife before twelve sufficient witnesses” were taken, according to its natural import, for a declaration of what shall be a legal marriage, and what not; it would follow that a marriage contracted in any other form or way is void. To escape from a conclusion imputative of guilt to the parties, and destructive of the civil rights of their offspring, it is necessary to hold, not only this clause, but those which require a certificate of the marriage under the hands of the parties and the twelve witnesses to be registered in the proper office, as well as publication of bans by posting on the church or court house doors, with other matters fallen into disuse, to be but directory. The present action is brought on the second section of the act of 1729, for the penalty supposed to be incurred by having married the infant daughter of the plaintiff, in the county where he resided, without publication of bans, or a certificate of his consent had; and the proviso which immediately follows this section, is also liberally to be expounded. Restrained to its proper uses, the prohibition is a salutary one, which conduces essentially to the welfare of the infant, and affords a just protection to the rights of the parent or master; but it was never designed to be an instrument of fraud, or to give remedy to one whose actions evince that he did not consider himself injured. According to the letter of the act, a father actually present, consenting to the marriage, and wishing it God speed, might turn to the officiating minister or magistrate at the conclusion, and demand the penalty of him, because the bans had not been published or a license procured with his approbation certified in the body of it. Such a pretension would be monstrous; yet in the case of a marriage, not in the parent’s presence, but in pursuance of his verbal consent, the injustice of the forfeiture, though less glaring, would be equal in the degree. To inflict the penalty on one who may have been decoyed into the forfeiture of it, by the acts of him who claims it, would be intolerable; and I take it to be a sound construction of the statute, to hold the party irresponsible wherever the parent has actually given his consent, whether in the form of a certificate or verbal declaration. In the case under consideration, it was in evidence, that the plaintiff not only encouraged the addresses of him who has since married his daughter, by inviting him to the house, and leaving them together on proper occasions, but reproached her with want of alacrity in bringing the affair to the desired conclusion. If this were believed, it would have been an abuse of the statute to have made it the foundation of a recovery. Except that the ceremony was not performed in the plaintiff’s house, there was nothing in the transaction to distinguish it from others in the ordinary course; and even that can scarce be viewed as an exception, for it is still a common practice among country people in many parts of the state to send the wedding party to the village or town where the clergyman resides. As to the admitted fact that the plaintiff’s consent had not been expressed directly to the defendant, it is sufficient that the latter may have acted on the information of those in whom he could confide. But the main objection to the action is, that the statute was not designed for a money-getting means, and would be perverted by being turned to the plaintiffs assistance.
+Judgment affirmed.
