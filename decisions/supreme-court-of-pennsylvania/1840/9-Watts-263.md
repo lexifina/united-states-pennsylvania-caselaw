@@ -1,0 +1,23 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1840-05"
+citations: ["9 Watts 263"]
+reporter: "watts"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Reed against Reed."]
+source_url: "https://static.case.law/watts/9/cases/0263-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1850007
+cites_cases: ["17 Serg. & Rawle 171", "3 Penn. Rep. 384", "4 Watts 397", "4 Whart. 221", "8 Serg. & Rawle 279"]
+---
+
+# Reed v. Reed
+
+## Majority (Gibson, C. J.)
+
+The opinion of the court was delivered by
+Gibson, C. J.
+If this legacy is specific, as I take it to be, not being payable at all events, but out of a particular fund, and not by the executor, so also are the other bequests of gross sums out of the same fund; but as specific legacies abate as to each other, the question stands as if it were between general legatees.
+The expressions with which the opinion of the court was introduced in Duncan v. Alt, and which have been pressed into the argument here, were intended to mark the leading principles on which foreign courts of equity have proceeded betwixt those who stood in the same degree of consanguinity; for in that case the question lay between children, and no widow was involved in it, either as a purchaser or a beneficiary. In this, the widow is the principal party; and she stands on higher ground than she would stand, by the same terms of bequest, in England. Viewing the annuity merely as a gratuity, a chancellor might perhaps think the testator had sufficiently discharged his duty to provide for her by giving her the bank stock and a third of the personal estate; but what would he think, were the bequest of the whole coupled with a condition .that it be accepted as an equivalent for her dower, not only in the land on which it is charged, but in all his lands beside. In Burridge v. Bradyl, 1 P. Wms. 127, Lord Cowper preferred a widow’s legacy given expressly on that condition; and in Blower v. Morret, 2 Ves. 420, Lord Hardwicke did the same, as also did Lord Gifford, when master of the rolls, in Heath v. Dendy, 1 Russell 543. And in Davenhill v. Fletcher, Amb. 420, it-was very properly ruled that the preference may be enforced, though the legacy exceed the value of the dower, because, as a purchaser of it, the testator is the best judge of that. In these cases the court proceeded on the ground that the relinquishment of the widow’s right at law entitles her to the entire benefit of her legacy, in exclusion of every one else. Such is distinctly the English rule in cases of expressly conditional bequests. In Pennsylvania, every bequest to the wife is conditional by force of the statute, which declares that every legacy to her shall "be in lieu of dower, if the contrary be not expressed; and thus standing as if a surrender of her dower had been expressly prescribed by the testator, she is not a volunteer, but a purchaser—a feature which is decisive of the cause. As a general rule, it may be said that equality of distribution prevails among volunteers; but children, and a wife, though she may have relinquished nothing, are looked upon, in comparison with collaterals and strangers, rather as creditors, for whom a testator is bound to provide by the ties of parental and marital duty. They are called creditors in Uvedale v Halfpenny, 2 P. Wms. 152; Rigden v. Valier, 2 Ves. 258; and Scott v. Scott, 2 Eden 461; and so far was their right'to that character carried in Bells v. Bells, 2 Finch Ch. 88, that under a trust to raise portions and maintenance for children, and money to pay debts, the maintenance was decreed in preference to the debts. Thus we see that even children destitute of other provision, though they are volunteers as regards each other, are to be preferred to collaterals, because there is nothing in the case to rebut the presumption of a natural intent to provide for them in preference to the more remote kindred. But the duty of provision having been satisfied in the testator’s lifetime, a further provision by will is a gratuity; and a wife or child stands, in regard to that, on a level with any other legatee. Between a child and any one but a purchaser, therefore, the question of provision may be an important one; but a widow who relinquished her dower by claiming her husband’s testamentary gift, as he must if he was seised of an estate ■ of inheritance, stands on an equity which is superior even to that of a destitute child; and being entitled to preference over children, she is necessarily entitled to it over brothers and sisters.
+Judgment reversed, and a venire de novo awarded.
