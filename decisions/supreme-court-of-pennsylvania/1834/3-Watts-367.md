@@ -1,0 +1,23 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1834-11"
+citations: ["3 Watts 367"]
+reporter: "watts"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ley against Huber."]
+source_url: "https://static.case.law/watts/3/cases/0367-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1841309
+---
+
+# Ley v. Huber
+
+## Majority (Gibson, C. J.)
+
+The opinion of the Court was delivered by
+Gibson, C. J.
+Had there been fraud or failure of the principal inducement to the contract, the defendants might have disaffirmed it; and the defence on that ground was fairly put to the jury on the matter of fact, with direction, in case it should be found for the plaintiff, to give him the price of the land for which he was ready to make a title at the trial, subject to the recovery of costs by the defendants; and undoubtedly their previous tender and demand of the title gave them a right to no more.
+There is another point on which the direction might at first appear to be more questionable. As an objection to specific execution, they had insisted on a difference between the existence of an incumbrance at the sale, and an entire want of title in the vendor; and it must ■be admitted, that as a party can successfully come into equity for an ■execution of the contract but on the basis of strict propriety of conduct, a chancellor will not compel a vendee to take an estate of which the vendor was not the owner at the sale, or at least had not a legal or an equitable means to make himself so : and this, because one who speculates on what is not within his control, is not a bona Jide contractor. His contract wants the indispensable ingredient of mutuality, because it would be impossible to execute in favour of the vendee if the vendor should be unable to procure the title: but here he had a perfectly legal and an efficient means of becoming the absolute owner by redemption within the time prescribed by law. Land sold for taxes is in the predicament of land conveyed on mortgage. The legal title passes by the conveyance, with this difference, however, that the right of redemption in the case of the former is a legal, and not merely an equitable one; a difference by no means unfavourable to the original owner’s right of subsequent conveyance. The plaintiff therefore had a legal means of acquiring the title, and the objection to his recovery for want of it, is unfounded in fact: but independent of that, he stood before the court, not on an equitable, but on a legal title. He stood upon a bond; and it is certain that infinitely less equity is required to induce a chancellor to withhold his assistance from the execution of a contract, than to interpose against it. Now the cases in which want of ownership at the sale was deemed a material circumstance, are precisely those in which the vendor was calling for the assistance of a court of equity; and here he is calling for no more than to be left to his remedy at law. On both these grounds, therefore, the direction that the previous sale for taxes was not a bar to a recovery of the purchase money, was perfectly accurate.
+The refusal to permit a witness called to estimate the value of the tracts that were lost, to state what other land in the neighbourhood had been sold for, if an error at all, was certainly not a very important one. The comparison of quality on which the relation of value depended, was to be made but by the judgment of the same witness, and of that the defendants had the entire benefit. On the question of comparative value, the price, of the lands sold could reflect no light; nor could it assist to fix the value of the tracts to be estimated, till that question were first determined. If the comparison of the witness were inaccurate, his judgment of the particular tracts, from a knowledge of the price of those with which they were compared, would also be inaccurate; but if his comparison were accurate, his conclusion of value from the price of some of the tracts compared would necessarily be so too; so that it would not enlighten the jury to be t.old what that price was, as it would come to a matter of opinion at last ón a subject reducible to no particular standard. I would not say that the evidence would have been improper had it been admitted, as it could neither add to nor detract from the credibility of the witness; but it would be ungracious to reverse for a matter emphatically so small that the maxim de minimis might be properly applied to it. It might have been admissible coming from the other side; but except on cross examination, it would be immaterial if not irrelevant.
+Judgment affirmed.
