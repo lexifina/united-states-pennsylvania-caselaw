@@ -1,0 +1,30 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1792-09"
+citations: ["1 Yeates 183"]
+reporter: "yeates"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["*Mary White et al. executors against Charles Hamilton."]
+source_url: "https://static.case.law/yeates/1/cases/0182-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6772823
+cites_cases: ["2 Dall. 158", "34 Pa., 335", "71 Pa., 173"]
+---
+
+# White v. Hamilton
+
+## Majority
+
+A question arose, whether an execution could be served on the lands of the defendant, a bankrupt, on the following facts.
+The plaintiffs commenced a suit in the Common Pleas of Philadelphia county, against the defendant, and on the removal thereof into the Supreme Court, judgment was obtained 3d April 1785. The defendant for a valuable consideration, previous to his bankruptcy, but subsequent to the plaintiff’s judgment, sold and conveyed to Abel James certain lands in Lancaster county. The defendant was declared a bankrupt in 1789, but on an issue joined for this purpose between Robert Ralston and William Bell, it was found that he had committed acts of bankruptcy in the mouth of February 1788. The plaintiffs issued a testatum ft. fa. to Lancaster county, on which upon the 7th April 1788 the sheriff of that county levied on the lands, which the defendant had conveyed to James.
+Messrs. Lewis, Sergeant and Rawle had moved to set aside the execution, contending that it could not be served on the lands of a bankrupt, after an act of bankruptcy committed, and that the bankrupt laws controlled the judgment, no execution having been previously executed.
+They were opposed herein by Messrs. Ingersoll and Wil-cocks for the plaintiffs, and upon argument at the last term, the court were clearly of opinion, that Hamilton having conveyed the lands to. James, anterior to his bankruptcy, the bankrupt laws could not operate on his property. The lands could not vest in the commissioners, nor the monies arising therefrom be distributed among the general creditors of the defendant. The lien of the plaintiffs’ judgment therefore continued on the defendants’ lands, in the hands of purchasers. The cases of Orlebar v. Fletcher and the duke of Kent, 1 P. Willms. 737, 739; and Gibbs v. Gibbs, Dallas 374, were thought decisive as to this point. .
+Another objection was then made, that the judgment in the Supreme Court on the removal from Philadelphia county, did not bind lands in Lancaster county. On this head, it was said for the creditors of James, that a cause removed from the county court partook of 'its original nature. Judgments in the Supreme Court of Pennsylvania, differ from those in the *-,0.-, courts *at Westminster, because there several elegits J to different counties may be taken out together; but here the practice has uniformly been, to issue an execution to the original county, and then proceed by testatum.
+For the plaintiffs it was urged, that by the act 8 Geo. 1, for “establishing courts of judicature in this province,” (Old edit, of Laws, pa. 85) it is declared, that the justices of the Supreme Court shall exercise the jurisdictions and powers thereby granted, as fully and amply to all intents and purposes whatsoever, as the justices of the Courts of Kings’ Bench, Common Pleas and Exchequer at Westminster, or any of them, may or can do. In England the lien of judgments is commensurate to the jurisdiction of the several courts; so necessarily must it be here. There one may upon the judgment roll, immediately after the entry of the judgment, award as many elegits into as many several counties, as he pleases, and may execute all or any of them, as he thinks fit and where he pleases, i Lil. Abr. 689. Cro. Jac. 246. Imp. Pract. B. R. 348. Id. C. B. 391. Elegits can only issue where judgments bind lands. 'The origin of the practice of issuing testatums in the Supreme Court, arose from the exposition of the 24th section in the act of 8 Geo. 1, which perhaps in strictness, should have been confined to thS other courts.
+The Act of March 20, 1799, 3 Sm. D., 358, enacted that from and after the last day of Dec. 1, then next, no judgment rendered in the supreme court should be a lien on real estate excepting in the county in which such judgment shall be rendered.
+Cited in 34 Pa., 335 and 71 Pa., 173, in support of the proposition that prior to the Act of 1799, judgments in the supreme court were a lien throughout the commonwealth.
+They also suggested, that the universal idea entertained by courts and the professors of the law, has at all times been, that such judgments in the Supreme Court on removals from the proper county, bind the defendant’s lands generally, throughout the government.
+This was denied by the defendant’s counsel; whereupon the court thought proper to stay giving their opinion, until they could themselves have an opportunity of making the necessary inquiries thereupon.
+And now, Shippen J. delivered the unanimous opinion of the court, that such judgments in the Supreme Court upon removals from the proper county, bind the defendants’ lands throughout the whole state, and that this was the general (almost universal) idea of the gentlemen of the bar, as the several judges had discovered on the most minute inquiry. The act ‘ ‘ relating to the securities to be given by sheriffs and “coroners,” passed 5th March 1790, is a strongly implied legislative declaration to this point. That act declares, sect. 2, that “sheriffs shall enter into a recognizance before the “supreme executive council, or com *missioners by ‘ ‘ them appointed, which recognizance shall be in the L “ nature and effect of judgments obtained in the Supreme “Court, and shall bind the lands, tenements and heredita-“ments of the said sheriffs in the same manner as such judg“ments, to the amount of the security given; and to prevent “injury to purchasers, the same shall be filed with the pro- ‘ ‘ thonotary of the Supreme Court, who shall cause a docket “to be made of the same for the information of parties ap- ‘ ‘ plying. ’ ’
+Motion of defendant’s counsel refused.
