@@ -1,0 +1,23 @@
+---
+court: "Supreme Court of Pennsylvania"
+docket: "14"
+decided: "1881-05-02"
+citations: ["1 Pennyp. 74"]
+reporter: "pennyp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["McGettrick’s Appeal."]
+source_url: "https://static.case.law/pennyp/1/cases/0074-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 216905
+cites_cases: ["2 Grant, 157", "2 W. & S., 557", "5 W. N. C., 305", "6 W. & S., 315", "7 Watts, 387"]
+---
+
+# McGettrick's Appeal
+
+## Majority (Green, J.)
+
+The opinion of the Court was delivered by
+Green, J.
+In this case the proceeds of the sale, under an order of the Orphans’ Court, of the real estate of an intestate, were in the hands of the trustee for distribution. One of the claimants to the fund was a niece of the intestate. Her share of the proceeds was claimed by the appellee, Robert Taylor, by virtue of a deed to him from the appellant for her interest in the lands sold. This deed was attacked as having been obtained fraudulently from the appellant, and as being consequently void. The auditor held that he had no jurisdiction to inquire into the validity of the deed, and for that reason declined to consider the merits of the controversy and awarded the share of the appellant to her grantee. On exceptions taken to this action of the auditor an application was made to the Orphans’ Court for an issue to try the validity of the deed to Taylor; but the Court refused the issue, holding that the appellant was bound by the action of the auditor, and that the latter had decided adversely to her claim. We are of opinion that the auditor was mistaken in supposing he had no jurisdiction to inquire into the validity of the deed, and that the learned judge of the Orphans’ Court was in error in dismissing the appellant’s exceptions to the report of the auditor. It is, of course, undisputed that the Orphans’ Court has exclusive jurisdiction to distribute the estates of decedents among those entitled to them. Such distribution necessarily includes the power and the duty to ascertain the person to whom distribution must be made. When the share of one who is apparently entitled is claimed by another, such claim must be established in the proceeding for distribution, and as it must be there established, so it may be there impugned. There is no occasion to resort to any other court, or to any other proceeding, to determine the validity of the claim, as the Orphans’ Court has full power and adequate procedure to dispose of the controversy. If a deed or other instrument is set up as a muniment of title for the interest of a distributee, an attack upon its validity is in no respect an impeachment of it in a collateral proceeding. A deed is not a proceeding, nor the result of one. It is not a judgment of a court, nor a decree of any species of tribunal. It is but an instrument inter partes, and has no higher sanction than can be given to it by the act of the parties. As such it must abide the tests of all voluntary contracts. It is, therefore, as liable to impeachment as any other form of contractual relation, and is necessarily subject to be invalidated whenever it is proffered to a tribunal as the basis of a right. These considerations are fundamental, and the authorities which prove that the judgment of a court cannot be impeached collaterally, and is therefore obligatory upon an auditor, have no application.
+Decree reversed and record remitted, with directions to the Court below to re-commit the case to the auditor for further proceedings before him, and the cost of this appeal to be paid by the appellee.
