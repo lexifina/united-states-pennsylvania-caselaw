@@ -1,0 +1,22 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1838-05"
+citations: ["7 Watts 84"]
+reporter: "watts"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Shaeffer against Child."]
+source_url: "https://static.case.law/watts/7/cases/0084-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1846875
+cites_cases: ["1 Watts 301", "3 Rawle 199", "5 Watts 464", "5 Watts 68", "6 Binn. 391", "8 Wend. 426"]
+---
+
+# Shaeffer v. Child
+
+## Majority (Gibson, C. J.)
+
+The opinion of the Court was delivered by
+Gibson, C. J.
+Shaeffer and Schofield would not be debarred from the fruit of Muma’s judgment by the supposed inability of his surviving trustee to pass the ownership of it. The assignees of an insolvent debtor must not be restrained by any thing less than express enactment, from making the most of his effects ; and they may consequently dispose, at discretion, of a doubtful security, at a price supposed to be a fair one, though less than the nominal value. To preclude them from benefiting the fund by the temporary rise of a depressed article, for instance, in the stock market, would be a senseless deprivation of chances that might fall in their way. If, however, they are to be postponed for other reasons, the error in this respect cannot be material; and it is therefore necessary to advert to the question of priority at the time of the sale. When Rauch, the debtor, was discharged, the judgments against him still retained their liens ; and these are supposed to have been indefinitely prolonged by the twelfth section of the act of insolvency, passed in 1814, which provides that the land and goods shall remain subject to existing jiens by mortgage, judgment or execution ; and it is certain that when the land is instantly converted, incumbrances are to be first paid in the order of their priority. The clause however is not a creative, but a protective one. Its-purpose is not to enlarge, but to preserve. The conversion of an insolvent debtor’s land seldom follows the assignment with the rapidity of a sale, after seizure on execution ; and the same inconvenience is experienced from stale liens by purchasers and creditors, whether the title be vested in trustees or retained by the debtor. At the date of the act of 1827, then, the liens had expired, and the assignees held the land discharged and for the benefit of the general creditors ; and how can that act be suffered to impinge on an intermediate conveyance by the doctrine of relation ? Its object was avowedly to continue liens then in force, not to restore those that had lost their hold ; for it could not continue what did not exist. Then what was Child’s judgment when subsequently revived by scire facias ? It was awakened to a new existence, not to the continuance of an old one. With us, judgment on a scire facias post annum et diem is quod recuperet—not, as elsewhere, an award of execution ; and our scire facias to continue, was held, in the case of Mason’s Estate, 5 Watts 464, to partake of the same quality. An expired judgment, thus revived, then, binds as a new and an original one, and consequently only wbat the debtor had at the time. What had Rauch, the debtor'? He had parted with his land to trustees for the benefit of his general creditors, and had consequently disabled himself from affecting the title to it by a conveyance, or even an involuntary incumbrance, further than regards the resulting trust of the residue, if any, which the law implies for him, and which was considered, in Sommer v. Sommer, 1 Waits 304, to be such an interest as might be bound and sold. So much, and no more, was sold, if any thing was, on Child’s execution ; but not for the benefit of the general creditors. The money made was the produce, not of their estate, but of a contingent interest of the debtor; and that alone passed to the purchaser. According to the principle of Stauffer v. The Commissioners, 1 Watts 301, even the lien of the execution would give the seizing creditor the proceeds, as of a chattel not bound by a prior lien. But Child’s judgment of revival bound the insolvent debtor’s contingent trust estate; and he is entitled to the fruit of it. There is nothing in the material parts of the direction contrary to these principles; and the assignment of errors is not sustained.
+Judgment affirmed.
