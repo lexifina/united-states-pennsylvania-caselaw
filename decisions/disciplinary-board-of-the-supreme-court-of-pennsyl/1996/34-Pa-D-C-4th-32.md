@@ -1,0 +1,73 @@
+---
+court: "Disciplinary Board of the Supreme Court of Pennsylvania"
+docket: "Disciplinary Board Docket nos. 75 D.B. 94 and 7 D.B. 95"
+decided: "1996-03-22"
+citations: ["34 Pa. D. & C.4th 32"]
+reporter: "pa-d-c4th"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re Anonymous Nos. 75 D.B. 94 and 7 D.B. 95"]
+source_url: "https://static.case.law/pa-d-c4th/34/cases/0032-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2636695
+cites_cases: ["509 Pa. 573", "511 Pa. 177", "538 Pa. 41", "645 A.2d 830"]
+---
+
+# In re Anonymous Nos. 75 D.B. 94 & 7 D.B. 95
+
+## Majority (McGIVERN,)
+
+To the Honorable Chief Justice and Justices of the Supreme Court of Pennsylvania:
+McGIVERN,
+Member, Pursuant to Rule 208(d)(2)(iii) of the Pennsylvania Rules of Disciplinary Enforcement, the Disciplinary Board of the Supreme Court of Pennsylvania herewith submits its findings and recommendations to your honorable court with respect to the above-captioned petition for discipline.
+I. HISTORY OF PROCEEDINGS
+The Pennsylvania Supreme Court issued an order on August 10,1994, suspending respondent, [ ], from the practice of law pursuant to Rule 214(d)(1), Pa. R.D.E. This order was issued on the basis of respondent’s December 28, 1993 conviction in the [ ] County Court of Common Pleas for writing bad checks in violation of 18 Pa.C.S. §4105(a)(l). Respondent was sentenced to pay restitution and costs.
+. On August 31, 1994, Office of Disciplinary Counsel filed a petition for discipline against respondent on the basis of her conviction. A second petition for discipline was filed against respondent on January 27, 1995. Petitioner filed a motion to consolidate the petitions on February 21, 1995, as the allegations of misconduct arose from a continuation of the same facts. The Disciplinary Board granted this motion on March 23,1995. Respondent did not file an answer.
+A hearing on this matter was held on May 31, 1995, before Hearing Committee [ ] comprised of Chairperson [ ], Esquire, and Members [ ], Esquire, and [ ], Esquire. Respondent did not appear for the hearing nor did she have representation. Office of Disciplinary Counsel was represented by [ ], Esquire. The committee filed its report on November 14, 1995 and recommended disbarment. No briefs on exceptions were filed by either party.
+This matter was adjudicated by the Disciplinary Board at the meeting of February 1, 1996.
+II. FINDINGS OF FACT
+(1) Petitioner, whose principal office is located at Suite 3710, One Oxford Centre, Pittsburgh, Pennsylvania, is invested, pursuant to Rule 207 of the Pennsylvania Rules of Disciplinary Enforcement, with the power and the duty to investigate all matters involving alleged misconduct of an attorney admitted to practice law in the Commonwealth of Pennsylvania and to prosecute all disciplinary proceedings brought in accordance with the various provisions of the aforesaid rules.
+(2) Respondent, [ ], is an attorney admitted to practice law in the Commonwealth of Pennsylvania, having been admitted'to practice on or about December 10, 1986. Respondent formerly maintained an office in [ ], Pennsylvania. Her current registration address, as of March 4, 1994, is [ ].
+(3) The respondent did not appear, nor was she represented, at the hearing scheduled in this matter on May 31, 1995, despite adequate attempts to notify her of the scheduled hearing through her registered address. (See exhibit P-1, affidavit of [A], hearing planner for the Disciplinary Board, and exhibit P-2, affidavit of Detective [B] of the [ ] Police Department.)
+(4) Respondent received a criminal conviction on the charge of writing bad checks. Thereafter, the instant petition for discipline (no. 75 D.B. 94) was filed regarding the criminal conviction.
+(5) The Supreme Court of Pennsylvania entered an order dated August 10, 1994, ordering that the respondent be suspended from the practice of law unless she comply with Rule 217 of the Rules of Disciplinary Enforcement. (See exhibit P-3, order of the Supreme Court.)
+(6) A warrant for the arrest of the respondent was issued on the charge of writing bad checks. (See exhibit P-4.)
+(7) Respondent’s bail bond and release were issued on December 10, 1993. (See exhibit P-5.)
+(8) Respondent pled guilty to the charge of writing bad checks on December 28, 1993. (See exhibit P-6, respondent’s guilty plea.)
+(9) Respondent was convicted on the charge of writing bad checks by the Commonwealth of Pennsylvania on December 28, 1993. (See exhibit P-7, transcript of docket of Commonwealth v. [Respondent].)
+(10) In Commonwealth v. [Respondent], the respondent was ordered to pay $1,106.48 in restitution and costs by February 10, 1994, as part of her sentence. (See exhibit P-8, time payment order from Commonwealth v. [Respondent].)
+(11) A warrant for respondent’s arrest was issued by the district justice for the respondent’s failure to comply with the court’s December 28, 1993 order and failure to pay restitution as required by that order. (See exhibit P-9.)
+(12) On February 10, 1994, a criminal complaint and warrant for the arrest of the respondent was issued on charges of theft by unlawful talcing or disposition and receiving stolen property. (See exhibit P-10.)
+(13) The second petition for discipline (no. 7 D.B. 95) was filed regarding various allegations of professional misconduct on the part of the respondent.
+(14) Charge 1 of the second petition for discipline alleged that [C] had retained the respondent to represent him in a criminal matter and paid the respondent the requested advance fee. The respondent abandoned representation of [C] and failed to provide him with his file and an accounting or refund of the unearned portion of the advance fee he had paid. The respondent failed to expedite [C’s] litigation by not appearing at a sentencing hearing on his behalf and failed to communicate with [C], (See exhibit P-11, affidavit of [C].)
+(15) Charge 2 of the second petition for discipline alleges that [D] had retained the respondent on behalf of [E], [D] paid the respondent an advance fee on behalf of [E]. When the respondent was arrested and incarcerated, [D] paid the respondent’s bail in order to get her out of jail so that she could continue the representation of [E]. The respondent failed to appear or represent [E], and upon abandoning her representation of him, failed to return his file to him, failed to account for or refund the unearned portion of the advance fee, and failed to expedite the litigation. (See exhibit P-12, affidavit of [D], dated April 29, 1995.)
+(16) A rule to show cause was issued by Judge [F] of the [ ] County Court of Common Pleas, requiring the respondent to show cause why she should not be held in contempt for failure to appear on behalf of [E] at the call of the list. (See exhibit P-13.)
+(17) On February 3, 1994, a rule to show cause was issued by Judge [G] of the [ ] County Court of Common Pleas, requiring the respondent to show cause why she should not be held in contempt for failure to appear at a pretrial motion hearing on behalf of [E]. (See exhibit P-14.)
+(18) On March 1, 1994, Judge [F] entered an order finding the respondent in contempt and ordering that she pay a fine of $500 plus costs. (See exhibit P-15, docket for contempt citation for case [ ], exhibit P-16, Judge [F’s] March 1, 1994 order, and exhibit P-17, docket for contempt citation for case [ ].)
+(19) Charge 3 of the second petition for discipline alleges that [H] retained the respondent to represent her in a criminal matter and paid her the requested advance fee. The respondent failed to appear or represent [H] and upon abandoning her representation of her, failed to return her file, failed to account for or refund the unearned portion of the advance fee, and failed to expedite the litigation. (See exhibit P-18, affidavit of [H].)
+(20) On February 3, 1994, Judge [G] issued a rule to show cause why the respondent should not be found in contempt for failure to appear at a pretrial motion on behalf of [H]. (See exhibit P-19.)
+(21) On March 11, 1994, Judge [G] entered an order making the rule issued February 3, 1994 absolute, and ordering that the respondent be found in contempt for failure to appear, and fining the respondent $250 plus costs. (See exhibit P-20, Judge [G’s] March 11, 1994 order, and exhibit P-21, docket for contempt citation for case [ ].)
+(22) The respondent is currently wanted on a nationwide extradition charge in [ ] for assault with a deadly weapon and menacing. (See exhibit P-22, NCIC printout dated May 25, 1995.)
+III. CONCLUSIONS OF LAW
+Respondent’s conviction constitutes an independent. ground for discipline pursuant to Rule 203(b)(1), Pa.R.D.E.
+Respondent’s actions violated R.P.C. 1.3, which requires a lawyer to act with reasonable diligence and promptness in representing a client.
+Respondent’s actions violated R.P.C. 1..4(a), which requires a lawyer to keep a client informed about the status of a matter and promptly comply with reasonable requests for information.
+Respondent’s actions violated R.P.C. 1.4(b), which requires a lawyer to explain a matter to the extent reasonably necessary to permit the client to make informed decisions regarding the representation.
+Respondent’s actions violated R.RC. 1.16(d), which requires a lawyer, in part, upon termination of representation, to take steps to the extent reasonably practicable to protect the client’s interests, such as giving reasonable notice to the client, allowing time for employment of other counsel, surrendering papers or property to which the client is entitled and refunding any advance payment of fee that has not been earned.
+Respondent’s actions violated R.P.C. 3.2, which requires a lawyer to make reasonable efforts to expedite litigation consistent with the interests of the client.
+Respondent’s actions violated R.P.C. 8.4(b), which states that it is professional misconduct for a lawyer to commit a criminal act that reflects adversely on the lawyer’s honesty, trustworthiness or fitness as a lawyer in other respects.
+Respondent’s actions violated R.P.C. 8.4(d), which states that it is professional misconduct for a lawyer to engage in conduct that is prejudicial to the administration of justice.
+IV. DISCUSSION
+Respondent was charged by Office of Disciplinary Counsel with various rule violations arising from her handling of client cases. Respondent was also charged pursuant to Rule 203(b)(1) for her conviction for writing bad checks. Although proper service was effectuated to notify respondent of the disciplinary hearing, she did not appear or have representation.
+Petitioner introduced evidence that respondent was convicted of writing bad checks. Despite the opportunity to make restitution on the bad checks, respondent left Pennsylvania, resulting in a warrant for her arrest. Respondent abandoned her obligations to three clients who had pending criminal cases. She failed to appear for hearings and failed to return money these clients gave her in advance to represent them. One of the clients even paid respondent’s bail in order to get her out of jail so she could continue representation. Rules to show cause were issued by the court as to why respondent should not be held in contempt for her failure to appear on behalf of her clients. Respondent ignored the orders and was found in contempt. Petitioner presented evidence that respondent has since engaged in conduct in [ ] resulting in charges of assault with a deadly weapon. Respondent has avoided [ ] authorities and her whereabouts are unknown.
+Based on this uncontroverted evidence, the Hearing Committee found that respondent violated Rule 203(b)(1), Pa.R.D.E. and R.P.C. 1.3, 1.4(a) and (b), 1.16(d), 3.2, 8.4(b) and 8.4(d). The committee recommended disbarment.
+The correct disciplinary sanction will protect the interests of the public and maintain the integrity of the bar. Office of Disciplinary Counsel v. Zdrok, 538 Pa. 41, 645 A.2d 830 (1994). After examination of respondent’s misconduct, the board concludes that her actions render her unfit to practice law in this Commonwealth. Respondent’s conduct has had a devastatingly adverse impact on the public trust. Respondent’s clients counted on her to represent them in criminal proceedings and to ensure this representation, they paid her in advance. Respondent squandered this trust and abandoned her clients by fleeing the state. Her act of fleeing demonstrated her flagrant disregard for her clients and the courts of this Commonwealth. Her nonappearance at her disciplinary hearing demonstrates a lack of interest in retaining her license to practice law and a lack of respect for the disciplinary system. As an attorney, respondent is an officer of the court and has a duty to uphold the law, not subvert it. Respondent’s conduct discredits the legal profession and makes a mockery of the legal system. An attorney who demonstrates such disrespect for the law forfeits her privilege to serve
+as an attorney and is not competent to represent members of the public or appear before the courts. Office of Disciplinary Counsel v. Casety, 511 Pa. 177, 512 A.2d 607 (1986). In a similar case, an attorney who misappropriated client funds, used them for his personal benefit, forged his clients’ signatures and fled the justice system was disbarred. In re Anonymous No. 34 D.B. 91, 15 D.&C.4th 495 (1992).
+The only sanction that will protect the public and the integrity of the bar is disbarment. The board is cognizant that disbarment is an extreme measure to be used only in the most egregious cases. Office of Disciplinary Counsel v. Keller, 509 Pa. 573, 506 A.2d 872 (1986). The board in this case does not hesitate to recommend disbarring respondent, as we are convinced that her reprehensible behavior warrants such a response.
+V. RECOMMENDATION
+The Disciplinary Board of the Supreme Court of Pennsylvania recommends that the respondent, [ ], shall be disbarred.
+The expenses incurred in the investigation and prosecution of this matter are to be paid by the respondent.
+Board Member Lieber did not participate in the February 1, 1996 adjudication.
+ORDER
+And now, May 6, 1996, upon consideration of the report and recommendations of the Disciplinary Board dated March 22, 1996, it is hereby ordered that [respondent] be and she is disbarred from the bar of this Commonwealth, and she shall comply with all the provisions of Rule 217, Pa.R.D.E.
+It is further ordered that respondent shall pay costs to the Disciplinary Board pursuant to Rule 208(g), Pa.R.D.E.
