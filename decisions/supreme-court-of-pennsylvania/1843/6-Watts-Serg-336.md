@@ -1,0 +1,24 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1843-12"
+citations: ["6 Watts & Serg. 336"]
+reporter: "watts-serg"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Weinberger against Shelly."]
+source_url: "https://static.case.law/watts-serg/6/cases/0336-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 480074
+cites_cases: ["1 Binn. 174", "2 Johns. 203", "2 Wend. 424", "2 Yeates 475", "3 Wash. C. C. 31", "4 Dall. 108", "4 Munf. 59", "6 Binn. 28", "8 Cow. 142"]
+---
+
+# Weinberger v. Shelly
+
+## Majority (Kennedy, J.)
+
+The opinion of the Court was delivered by
+Kennedy, J.
+Action on the case, brought by the defendant in error against the plaintiff in error, for a malicious prosecution. First, it is alleged that the court below erred because they did not charge the jury that probable cause was shown, and that therefore they ought to find for the defendant. It appears to us that if the court had so charged the jury, they would have erred: for evidence was given on the part of the plaintiff, tending to show that the defendant had determined on prosecuting the plaintiff for stealing the cow, whether there was probable cause or not for so doing, and that the defendant, from his knowledge of the circumstances attending the taking of the cow, had no reason to believe that she was stolen or taken feloniously. Probable cause is a mixed question of law and fact; and as often as the facts in relation thereto are contested, they must be decided by the jury, and if found to exist, it remains for the court to instruct the jury whether or not, in law, they amount to probable cause. Munns v. Dupont, (3 Wash. C. C. 31). Whether the facts and circumstances showing the existence of probable cause, in this case, were true or not, was a matter seriously contested; so that the court did right in referring them to the jury, and, at the same time, instructing them, as they did, what was necessary to be found in order to establish probable cause, in law.
+Secondly, it is alleged that the declaration contains no averment that the prosecution was commenced and carried on without probable cause. This omission would doubtless have been fatal on demurrer, but is it not cured by the verdict ? Sergeant Williams, in his note to Stennel v. Hogg, (1 Saund. 296 a), lays down- the following rule, in support of which he there cites a great many authorities. “ Where there is any defect, imperfection or omission in any pleading, whether in substance or form, which would have been a fatal objection upon demurrer, yet if the issue joined be such as necessarily required on the trial proof of the facts so defectively or imperfectly stated or omitted, and without which it is not to be presumed that either the Judge would direct the jury to give or the jury would have given the verdict, such defect, imperfection or omission is cured by the verdict by the common law; or, in the phrase often used upon the occasion, such defect is not any jeofail after verdict.” And accordingly it was ruled by this court, in Carson v. Hood’s Ex’rs., (4 Dall. 108), that after verdict it will be presumed everything was done at the trial which was necessary to support the action, unless the contrary appears on the record. But in the case before us, the aid of such presumption can scarcely be said to be needed; for the bill of exception taken to the charge of the court, which was delivered to the jury, has made the same a part of the record, and from it if appears that evidence tending to prove a want of probable cause was given, and that the jury were expressly instructed by the court, that unless they should be of opinion from the evidence that the prosecution had not only been commenced and carried on maliciously, but likewise without probable cause, their verdict ought to be in favour of the defendant below. It therefore may be said to appear from the record itself of the cause, that the question whether there was reasonable and probable cause for the prosecution or not, was submitted to, and passed on by the jury, under the requisite instruction given in relation thereto by the court.
+Again, it has been alleged for error that it is not averred in the declaration that the prosecution was at an end. . It is alleged in the declaration that the grand jury ignored the bill of indictment, or returned thereon “ ignoramus.” But even admitting this to b.e insufficient to show that the prosecution was at an end, which is going further than would seem to be reasonable, the verdict being for the plaintiff below, the necessary inference is that it was proved on the trial that the original prosecution was at an end. Vide Sergeant Williams’s note (1) to Stennel v. Hogg, (1 Saund. Rep. 228 a).
+Judgment affirmed.
