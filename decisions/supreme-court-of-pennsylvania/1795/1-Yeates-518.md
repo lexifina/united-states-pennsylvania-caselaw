@@ -1,0 +1,37 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1795-05"
+citations: ["1 Yeates 518"]
+reporter: "yeates"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["*Lessee of William Lynn, Andrew Lynn, John Lynn, Ayres Lynn, Isaac Lynn and John Corbley, junior, and Anna his wife against Thomas Downes."]
+source_url: "https://static.case.law/yeates/1/cases/0518-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6777071
+cites_cases: ["10 Watts, 182", "3 Grant, 171", "78 Pa., 42"]
+---
+
+# Lessee of Lynn v. Downes
+
+## Majority (Per curiam.)
+
+Per curiam.
+The declaration states, that the plaintiff entered by virtue of the lease, which he could not do until the 24th July. The words of ouster on the same day are repugnant thereto, and may be considered as surplusage. The time of entry of the nominal plaintiff is not specified. We think the exception cannot be supported. Ejectments are the creatures of the court, and subject to their peculiar interposition for the advancement of justice. Great liberality is now used in these matters. (2 Burr. 1161. 1 Barnard. B. R. 54.) The defendants’ counsel may however, if he thinks proper, move the court in bank, on the point as reserved, saving to him every advantage to which he is now entitled.
+The case on evidence turned out as follows:
+The lessors of the plaintiff claimed as heirs at law of their father Andrew Eynn. The defendant claimed a child’s share, as son of Thomas Downes.
+Thomas Downes the father, filed an application in the land office for 300 acres in Redstone settlement, including his im-*5191 *Provement> 011 3^ April 1769. He made his will J on the 2d March 1778, and died leaving thirteen children, of whom nine are still living. His will run thus: “1 1 ‘ give and devise all my real and personal estate to my widow “Gulielma, except 61. which I bequeath to each of my chil“dren; and I allow the line between me and my son in law “John Jones to stand firm. I appoint my said widow and “my son Jeremiah my executors.” He then subjoins the following memorandum: “ It is my will, that my heirs or executors is to have the one half of the land which is 166 “acres and no more, and John Jones to have the other half, “according to our agreement.” He had before made a division of the land, with his son in law.
+On the 21st October 1788, the widow and executrix and three of the children convey their shares and interest to Benjamin Brashiers and his heirs in consideration of 20s. per acre; and on the 28th March 1789, Brashiers by an assignment indorsed on the former bill of sale, “sells and transfers all “his right, title, and interest in the within writings to An“drew Eynn” (the father) “for value received,” without using any words of inheritance therein.
+On the 24th September 1789, Jeremiah Downes the other executor conveys all his right and interest to the said Andrew Eynn, in consideration of 15I.
+On the 29th September 1783, a warrant issued to re-survey the lauds for the use of John Jones and the heirs of Thomas Downes according to his will, on which a resurvey was after-wards returned, containing 151]^ acres, and the usual allowance.
+The questions between the parties turned upon the construction of the deed from Brashiers to Eynn, and of the will of Thomas Downes.
+It was contended for.the defendant, that Brashiers’ deed, containing no words of inheritance, passed no more than an estate for life to Eynn, which was now spent; and therefore the plaintiff shewed no title to the lands. The rule of law was so clearly settled, that in deeds the word 11 heirs ’ ’ was indispensably necessary to vest an estate in fee simple, it could need no animadversion.
+Gulielma and Jeremiah Downes do not convey as executors; they merely transfer their own shares of the land. So of the three children who have executed the deed. And the opinion of the family as well as the grantee, is a good criterion to judge of the testator’s intention. The warrant of re-survey was taken out by joint consent, for the common benefit of all the issue. — The 61. legacy to each child is not made payable out of the * lands. The expressions in the conclusion r^Kon of the wil-1 are clear who shall have the lands; not his L widow, but his heirs or executors; the latter, if they shall find it necessary to sell for payment of debts; the former, if they shall discharge the debts themselves. This clause narrows and restrains the operation of the general words “real and per- ‘ ‘ sonal estate ’ ’ in the devise to his widow in the first sentence.
+Cited in 10 Watts, 182 ; 3 Grant, 171; 78 Pa., 42.
+But by the court. The operation of applications and surveys thereon is best explained by the usage of the state; and as that usage alters, so will the law. No such titles are known in England, and the strict rules of law there, are inapplicable to our system. An application is the mere inception of a title, on which no more is paid than 7s. 6d. the mere office fees of entering it. It vests a mere equitable interest in the party, the legal estate remaining in the commonwealth in trust. The right is eventually completed by obtaining a patent.
+We have often seen, that rights under applications and warrants also, have been assigned by blank indorsements, and that the sale of improvements has taken place by the payment of money, or the delivery of a specific article by way of consideration; and such transfers and sales have always been established. This point was resolved at Bedford, during our present circuit, in Paxton’s lessee v. Price.
+In the instance before us, the subject matter must be considered; and Brashiers’s assignment conveys to Andrew Eynn all his right, title, and interest in the within writings. It refers to the other conveyance on which it is indorsed.
+The intention of the parties is clear. The title passed for a valuable consideration, and the money paid raises an use, which chancery would carry into execution. It operates as a statute conveyance; and we apprehend that the vendor would be considered as a trustee for the vendee, and consequently that all his equitable interest passed to the ancestor of the lessors of the plaintiff.
+The will is obscurely penned; but the intention of the testator, extracted from the words of the will taken altogether, shall govern its construction, and not the opinion of his family. The first words are clear and explicit, and convey an estate in fee simple to the widow chargeable with 61. to each child. The thirteen children would then get 78I. clear of all deductions; which under the known circumstances of the country, labouring under an Indian war and the claims of Virginia to the soil, would not be an inadequate provision, when his widow’s mainte*nance is taken into view. -I It will be difficult to account for the principle on which he devised 61. to each of his children, if he intended, that beyond that amount, they should equally inherit all his lands.
+It is said, that the concluding clause of the will is repugnant to the first devise to his wife, and _ must restrict the meaning of the general words he had before used. But who under this construction, were then to take ? His issue or his executors? It is wholly uncertain; and if there had been no former devise of the lands, this devise would have been void on that account, and could not take effect. On both points therefore, the verdict should be for the plaintiff.
+Verdict pro quer.
