@@ -1,0 +1,22 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1821-06"
+citations: ["7 Serg. & Rawle 178"]
+reporter: "serg-rawl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Clymer and others against Thomas and another."]
+source_url: "https://static.case.law/serg-rawl/7/cases/0178-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1808199
+cites_cases: ["2 Binn. 80", "4 Cranch, 237", "4 Wheat. 74", "6 Cranch 217", "6 Cranch, 217", "7 Cranch, 152", "9 Cranch, 217"]
+---
+
+# Clymer v. Thomas
+
+## Majority (Tilghman. C. J.)
+
+The opinion of the Court was delivered by
+Tilghman. C. J.
+Where the Court has a discretion, to permit or refuse an amendment, no exception lies to its opinion. This is the case of all amendments at common law, and some of the amendments by statute. But the most extensive and efficacious of the British statutes do not admit of a question of this kind, because they give relief, not by ordering an amendment, but by providing that the judgment shall be good notwithstanding the defect in process or pleadings. It was decided by the Supreme Court of the United States, in Woods, &c. v. Young, 4 Cranch, 237, that the refusal of the Court to grant a continuance, could not be assigned for error, because it was a matter of discretion. The same Court decided, in the Marine Insurance Company of Alexandria, v. Hodgson, 6 Cranch, 217, that the refusal to receive an additional plea, or to amend one already filed, cannot be assigned as error. And the reason given for these decisions is satisfactory ; that amendments of this kind depend more on the particular circumstances of each case, than on any precise and known rule. Upon the same principle we decided in Burd v. Dansdale's Lessee, 2 Binn. 80, that the refusal to grant a new trial could not.be assigned as error ; and we have repeatedly held, that when' the Court below decides on motions, in which it is necessary to inquire into facts not on the record, and in which the decision must rest on the discretion of. the Court, as jn motions to open judgments, there can be no redress in a Court of error, however great the injury, which either party has sustained. ■ But the case before üs is not of an amendment at common -law,.or one in which the Court was at liberty to exercise its discretion. It was the right of the plaintiffs, under the Act of the 21st of March, 18Ó6. sect. 6, by which it is enacted, that “where it appears to the Court, that there is an informality in the declaration, ' or pleadings, which will affect the merits of the cause, the plaintiff 'shall - be permitted to . amend his declaration or statement, and the defendant may alter his plea or defence, on or before the trial of the cause ; and if by such alteration and amendment, the adverse party is taken by surprise, the trial shall be postponed to the next Court*’? Now •in the present case, the substance of the plaintiffs’ case, was trespass- committed by the defendants, by cutting timber growing on the plaintiffs’ land, in.the county, of Union. It was unnecessary to name the township, but being named, .tbe plaintiff was bound by it, and estopped from proving the truth of his cause. It could not but appear to the Court, that this error, in form, was fatal to the plaintiffs’cause, and therefore it is our opinion, that the Act of Assembly was imperative in favour of the amendment. We do not say, that -in. every instance, the amendment must be granted. ■ We have heretofore decided, that where a plea in abatement is kept back until after the swearing of the jury, it was not the intention of the Act, that the- defendant should be permitted to alter his .plea,, and thus defeat the plaintiffs’ action. when a plea is kept back, which ought to have been put in, puis darreiri continuance. And many other cases, may occur^ not. within the scope and intent of the Act. But the case before us, is-a simple informality, destructive of the merits- of the plaintiffs* cause, and never discovered till after the jury were sworn. It appears to us, therefore, to- fall directly within the provision of the Act, and consequently the amendment was not matter of favour or discretion,, but of right. It is our opinion that the judgment should be reversed, and .the record returned to the Court of.Common Pleas, in order that the amendment may be. made, and the cause tried again. . ' ' ■ - ■
+Judgment reversed.
