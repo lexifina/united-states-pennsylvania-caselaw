@@ -1,0 +1,23 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1828-10-28"
+citations: ["2 Rawle 159"]
+reporter: "rawle"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HERBAUGH, Assignee of ZENTMYER, against ZENTMYER."]
+source_url: "https://static.case.law/rawle/2/cases/0159-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1820582
+cites_cases: ["1 Dall. 210"]
+---
+
+# Herbaugh v. Zentmyer
+
+## Majority (Rogers, J.)
+
+The opinion of the court was delivered by
+Rogers, J.
+— This is a clear case. Christopher Zentmyer, by articles of agreement, agreed to c.onvey to his son, Daniel, a tract of land, for the sum of six thousand dollars, with certain reserva-. tions, and among others the following: — “The said DanielZentmyer engages to give to his father, Christopher Zentmyer, yearly, and every year during his natural life, and the life of his wife, Barbara, twenty bushels of wheat, twenty bushels of rye, and twenty bushels of corn; also, two good loads of hay, &c.” The article of agreement, which covenants for Daniel and his assigns, was carried into effect, and possession delivered by deed, in which there is a reference to the article. Where a covenant refers to a preceding instrument on which it is founded, that instrument shall determine the covenant. George v. Bucher, 2 Vent. 140. The plaintiff in error was the purchaser of Daniel’s interest, at a sheriff’s sale, and the question is, whether, as the legal assignee of the land, he is bound by the covenant in the article. When we ascertain the nature of the covenant, the question becomes one without difficulty. I look upon it as a covenant to pay a rent in kind. Rent is defined by Lord Chief Baron Gilbert, to be an annual return, made by the tenant, either in labour, money, or provisions, in retribution for the land that passes. Gilb. on Rents, 9. 2 Cruise on Real Property, sect. 2, title Rents, p. 307. And the rent may well be reserved on a conveyance of the fee simple. 2 Cruise, 310. It is a rent which issues out of the thing granted, and not a part of the thing itself. It is part of the annual profits. If this, then, be a rent, it is a covenant running with the land, and the defendant is clearly liable; for upon such, covenants, which concern real property, or the estate therein, the assignee of the lessee is liable to an action for a breach of covenant, after the assignment of the estate to him. 1 Chitty, 36. 3 Wilson, 25, 29. There is the privity of estate, which is sufficient to maintain the suit. Covenants against assignees are of three kinds. Where the covenant relates to, and is to operate on a thing in being, parcel of the demise, the thing to be done, by force of the covenant, is $ quodammodo, annexed to the thing demised, and shall go with the land, and bind the assignee to the performance, though not named. As, if the covenant is to repair a house then demised, and I may add, to pay rent, this shall bind the assignee, though not named. But it is otherwise, where the covenant relates to a thing not in being at the time of the demise; as, if it had been to build a brick wall on the land demised, this not being in esse when the covenant was made, it shall not extend to the assignee, if not named. But if the covenant mentions the assignee, as, if the lessee covenants for himself and his assigns, then the assignee shall be bound by every covenant, for any thing to be done in the thing demised; as, to build a wall on the thing demised; but to any thing which is merely collateral, as, to build a house on some other land, then the assignee shall not be bound, though he is named. So, when the contract is for the benefit of the estate, or to support it, it shall not bind the assignee, though net named. Spencer’s Case, 5 Rep. 16. Bally v. Wells, 3 Wilson, 26. Cockson v. Cock, Cro. Jac. 135. Dean v. Chapter of Windsor's Case, 5 Co. 24. Pollard v. Shaaffer, 1 Dall. 210.
+George Herbaugh is the legal assignee of Daniel Zentmyer,, and as such, he is bound to pay the rent, which is a covenant running with the land, upon the principles above-stated. It would be a matter of regret if the law were not so, as otherwise, a father would be prevented from securing a provision for himself, and at the same time advancing his children. There is no pretence, but that this was a fair family arrangement, to which the parties interested made no objection, as is manifest, by the substitution of the judgments against Daniel Zentmyer, in lieu of those which had been rendered against the father, Christopher Zentmyer.
+Judgment affirmed.
