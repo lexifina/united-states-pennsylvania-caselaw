@@ -1,0 +1,31 @@
+---
+court: "Supreme Court of Pennsylvania"
+docket: "Appeal, No. 99"
+decided: "1889-03-25"
+citations: ["1 Monag. 329"]
+reporter: "monaghan"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Luburg’s Appeal. [Luburg v. Miller et al.]"]
+source_url: "https://static.case.law/monaghan/1/cases/0329-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 254669
+cites_cases: ["109 Pa. 254", "109 Pa. 554", "112 Pa. 368", "112 Pa. 369", "114 Pa. 435", "31 Pa. 395", "34 Pa. 261", "50 Pa. 91", "58 Pa. 156", "62 Pa. 218", "66 Pa. 490", "85 Pa. 414", "85 Pa. 418", "91 Pa. 273", "91 Pa. 275", "91 Pa. 398", "91 Pa. 403", "94 Pa. 238"]
+---
+
+# Luburg v. Miller
+
+## Majority (Sterrett, J.,)
+
+Sterrett, J.,
+While the averments of the bill, supported by the injunction affidavit, were quite sufficient to warrant the awarding of the preliminary injunction, there is nothing in the answers to justify the decree dissolving it.
+In substance, the main averment is that the School Directors of Hamburg School district have contracted for the erection of a schoolhouse, etc., at a cost of more than $20,000, which will increase the indebtedness of said district nearly four per centum of the aggregate assessed valuation of the taxable property in the district, contrary to the provisions of section 8, article ix of the constitution, wíúch ordains, inter alia, that no school district shall “incur any new debt or increase its indebtedness to an amount exceeding two per centum upon such assessed valuation of property, without the assent of the electors thereof,.at a public election, in such manner as may be provided by law.”
+The appellees, in their answers, virtually admit all the material averments of the bill, as to the aggregate amount of the assessed valuation of the taxable property in the district, cost of erecting schoolhouse, etc., contracted for, but they deny that their action in the premises will have the effect of increasing the indebtedness of the district beyond the constitutional limit, because they say the school district wras authorized by decree of court, August 18, 1888, “ to borrow the sum of $25,000.00, for the purpose of erecting a schoolhouse, a portion of which it is proposed to expend and appropriate to the purposes set forth in paragraph 4 of the plaintiff’s bill, that being the purpose for wdfich the said loan was authorized.” The object of this averment, by way of confession and avoidance, is to show that the school district has in its possession and control, and subject to its disposal for building purposes, sufficient funds to meet the contract obligations for the erection of the schoolhouse, etc. But it is conceded by the learned judge of the court below that the order authorizing the alleged loan was contrary to law and void. In his opinion he says; “Although the loan was made contrary to the provisions of said section 8, it does not follow that the holders of the securities are prejudiced or that the school district may not lawfully expend, in a lawful way, the proceeds of the loan thus obtained.” In that conclusion he is clearly mistaken. The loan being admittedly illegal, there is nothing to prevent the holders of such bonds or certificates of indebtedness, as have been issued, from demanding their money, and, in equity and good conscience, it ought to be returned. Restitution of money thus illegally obtained, is always in order.
+Assuming, therefore, for the sake of argument, that the unauthorized loan of $25,000 has been placed, and the money actually in the treasury of the school district, it cannot be regarded as a fund properly and certainly applicable to the cost of erecting the proposed new scnool building under the contract complained of. But, it is not distinctly averred, in the answer, or in any manner shown, that said loan, or any considerable portion thereof, has been actually placed. If such was the fact, it should have been unequivocally averred. It cannot be inferred from an evasively worded answer, such as we have in this case. Nor, can it be assumed that the securities, representing the proposed loan, are susceptible of negotiation. It is in the highest degree improbable that capitalists can be found who are willing to advance money on bonds or certificates of indebtedness issued in violation of law. Such bonds are worthless. Millerstown Borough v. Frederick, 114 Pa. 435; Pike County v. Rowland, 94 Pa. 238; Ackerman v. Buchman, 109 Pa. 254; Wilkes Barre’s Appeal, Id. 554.
+In any view that can be properly taken of the case, the contention of appellees that they are provided with funds necessary to defray the cost of the new school building, etc., is very far from being sustained by any competent proof.
+It is also contended that appellant is estopped because he “ had knowledge that the contract was being entered into,” and did not protest.
+The averment that he had such knowledge is new matter in confession and avoidance, and therefore not responsive to the bill. In motions to dissolve preliminary injunctions, the well settled rule is, that the answer cannot be considered except in so far as it is responsive to the allegations of the bill on which the writ issued; High on Injunctions, §§ 883, 895.
+But, aside from that, the averment is merely of appellees’ belief “from information received.” Such an averment is not evidence, even if responsive. It is pleading merely, and puts in issue the fact in dispute.
+There was no lack of vigilance on the part of appellant in asserting his right as a taxpayer of the district. He had a right to assume that the appellees, in the discharge of their duties as school directors, ■would proceed according to law. When he ascertained they were not doing so, he promptly availed himself of his right to restrain their illegal action.
+There appears to be nothing in the record to justify the court below in dissolving the preliminary injunction.
+It is adjudged and decreed that the order of court dissolving the preliminary injunction be reversed and set aside, and it is hereby ordered that said injunction be reinstated and continued in full force until final hearing, and that the appellees individually pay the costs.
