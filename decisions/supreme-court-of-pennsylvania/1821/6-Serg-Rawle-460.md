@@ -1,0 +1,22 @@
+---
+court: "Supreme Court of Pennsylvania"
+decided: "1821-04-16"
+citations: ["6 Serg. & Rawle 460"]
+reporter: "serg-rawl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mifflin against Neal administrator of Mifflin."]
+source_url: "https://static.case.law/serg-rawl/6/cases/0460-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1805929
+---
+
+# Mifflin v. Neal
+
+## Majority (Tilghman, C. J.)
+
+The opinion of the Court was delivered by
+Tilghman, C. J.
+It appears by the will of Ann Mifflin, mother of the intestate Samuel E. Mifflin, and of the plaintiff, Lemuel Mifflin, that she bequeathed the residue of her personal estate to her said two sons, “ and in case either of them died -without will or lawful issue, then the property of such, descending from, and given in the life time by the testatrix, was to descend to the survivor, his heirs and assigns, for ever.” The dying without lawful issue, is to be understood, dying without lawful issue living at the time of such son’s decease, because the property of the son tso- dying was to go to his surviving brother; which.shews that the testatrix did not look forward to a failure of issue indefinitely. The property was to go to the surviving brother upon two contingencies, viz: that the deceased should have died without a will, and without lawful issue living at the time of his death. If he had made a will, or had left lawful issue, the property would not have gone over to the surviving brother. As these contingencies were of such a nature, that the time of their happening, if they should ever happen, must necessarily be at the death of the son who died first, and could not be protracted beyond that period, the executory devise to the surviving brother was good, being within the time allowed by law for such devises to take effect. But the next question is, what property passed to the-survivor; the .principal which had been given to the first taker, or the principal with the profits or interest which had accrued during the life of the first taker ? I think there can be no doubt that the principal only \vent over to the survivor—There is nothing in the will which • looks like an intent to deprive the first taker, in any event, of the profits during his lifetime ; and to strain the words of the will in order to come at a construction^ that kind would be unjust and unnatural. The expressions in the will, are : “ the property descending from, and given in life time, by me, shall descend to the survivor but the.profits of the personal property given by the testatrix, which accrued after her death, were not the property which descended from her, or were given by her in her life time, but a different property which did not exist till after her decease. Besides, these profits might have been necessary for the comfortable support of each of the sons, as long as they lived, and, therefore, should not be kept in suspense, and thus rendered in a great measure useless. I am clearly of opinion, therefore, that nothing more than the principal passed to the survivor by the execulory devise. This principal belongs to the plaintiff solely, because he takes it by his mother’s will. But the case is different as to the savings or accumulation arising from the profits of the principal. That is to be considered as the estate of Samuel E. Mifflin, and distributable according to our intestate laws, in the same manner as any other personal property acquired by him. In that distribution, the brother and sisters of the half blood, and their representatives, come in equally with the plaintiff. It is the exact case provided for by the act of 4th April, 1797, sect. 7. “Where the intestate dies possessed of personal estate, leaving neither widow nor lawful issue, father or mother, but brothers and sisters of the whole and half blood, or their representatives, it shall be distributed equally between the brothers and sisters, both of the whole and half blood, or their representatives.” Upon the whole, then, I am of opinion,
+1st. That, under the circumstances stated in this case, and the will of Ann Mfflin, the plaintiff is entitled to the whole of the capital or principal of the personal property bequeathed to his deceased brother, Samuel E. Mfflin, by the will of the said Ann Mfflin.
+2d. That the plaintiff is not entitled to the whole of the accumulation or savings of the income, but only to his distributive share.
